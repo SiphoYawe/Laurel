@@ -32,8 +32,7 @@ Laurel is an AI-powered personal development assistant that helps users achieve 
 | **Duration** | January 13 - February 2026 |
 | **Prize Pool** | $30,000 USD |
 
-### Target Categories
-- Productivity & Work Habits
+### Target Category
 - Personal Growth & Learning
 
 ## Features
@@ -76,30 +75,6 @@ Key capabilities:
 - **Opik** - LLM observability, tracing, and evaluation
 - **LLM Integration** - AI coaching with machine-readable frameworks
 
-## Project Structure
-
-```
-├── atomic-habits-framework/     # James Clear's habit formation system
-│   ├── 01-core-philosophy/      # Compound growth, identity, systems vs goals
-│   ├── 02-four-laws/            # Complete behavior change framework
-│   ├── 03-habit-mechanics/      # Habit loops, stacking, environment design
-│   ├── 04-psychology/           # Dopamine, motivation, identity change
-│   ├── 05-advanced-strategies/  # Temptation bundling, commitment devices
-│   ├── 06-implementation-guide/ # Step-by-step practical guides
-│   └── 07-llm-integration/      # Data models, prompts, decision trees
-│
-├── learning-framework/          # Evidence-based learning techniques
-│   ├── 01-core-philosophy/      # Pareto principle, active vs passive
-│   ├── 02-evidence-based-techniques/ # Active recall, spaced repetition
-│   ├── 03-common-mistakes/      # Cramming, pretty notes, passive studying
-│   ├── 04-productivity-systems/ # Pomodoro, time blocking, deep work
-│   ├── 05-memory-science/       # Encoding, retrieval, forgetting curves
-│   ├── 06-implementation-guides/# Study systems, exam prep protocols
-│   └── 07-llm-integration/      # Data models, prompts, coaching dialogues
-│
-└── laurel.svg                   # Project logo
-```
-
 ## Core Principles
 
 ### The 1% Rule
@@ -118,13 +93,6 @@ Focus on the process, not the outcome. Goals set direction; systems make progres
 
 ### The Pareto Principle
 Focus on the 20% that yields 80% of results—in learning, habits, and life.
-
-## Documentation
-
-- **80+ structured files** covering habit formation and learning science
-- **Decision trees** for navigating user scenarios
-- **Prompt templates** for AI coaching conversations
-- **Data models** for tracking and analytics
 
 ## License
 
