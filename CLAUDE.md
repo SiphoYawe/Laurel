@@ -8,6 +8,11 @@ An AI-powered habit coaching and learning optimization app that helps users achi
 - **Duration**: January 13 - February 2026
 - **Prize Category**: Personal Growth & Learning
 
+## Key Frameworks
+
+- `atomic-habits-framework/` - James Clear's habit formation system
+- `learning-framework/` - Evidence-based learning techniques (active recall, spaced repetition)
+
 ## Tech Stack
 
 - Opik for LLM observability and evaluation
