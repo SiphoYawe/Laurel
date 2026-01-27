@@ -2,8 +2,6 @@
   <img src="laurel.svg" alt="Laurel Logo" width="200"/>
 </p>
 
-<h1 align="center">Laurel</h1>
-
 <p align="center">
   <strong>AI-powered habit coaching and learning optimization</strong>
 </p>
