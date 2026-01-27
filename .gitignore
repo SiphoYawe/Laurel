@@ -1,0 +1,17 @@
+# BMAD folders
+_bmad/
+_bmad-output/
+
+# Opik docs
+opik-docs/
+opik.md
+
+# Framework folders (keeping as embedded knowledge, not in repo)
+atomic-habits-framework/
+learning-framework/
+
+# Brainstorm folder
+brainstorm/
+
+# Hackathon info
+hackathon-info.md
