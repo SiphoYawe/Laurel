@@ -15,6 +15,7 @@
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "@laurel/opik": "workspace:*",
+    "@supabase/supabase-js": "^2.47.21",
     "@trpc/server": "^11.9.0",
     "superjson": "^2.2.6",
     "zod": "^3.22.4"
