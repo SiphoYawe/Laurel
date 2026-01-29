@@ -118,8 +118,8 @@ export function LoginForm() {
         if (next && next.startsWith("/")) {
           router.push(next);
         } else {
-          // Default redirect - onboarding check will be implemented when profile is available
-          router.push("/onboarding");
+          // Default redirect to dashboard
+          router.push("/dashboard");
         }
       }
     } catch (error) {
