@@ -1,12 +1,13 @@
 "use client";
 
-import { CheckCircle, Home, MessageCircle, User, Users } from "lucide-react";
+import { BookOpen, CheckCircle, Home, MessageCircle, User, Users } from "lucide-react";
 
 import { TabBarItem } from "./TabBarItem";
 
 interface TabBadges {
   chat?: boolean;
   habits?: number;
+  learn?: number;
   pods?: boolean;
   profile?: boolean;
 }
@@ -45,6 +46,13 @@ export function BottomTabBar({ badges = {} }: BottomTabBarProps) {
           href="/habits"
           icon={CheckCircle}
           label="Habits"
+          onScrollToTop={scrollToTop}
+        />
+        <TabBarItem
+          badge={badges.learn}
+          href="/learn"
+          icon={BookOpen}
+          label="Learn"
           onScrollToTop={scrollToTop}
         />
         <TabBarItem

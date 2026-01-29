@@ -5,6 +5,7 @@ import { healthRouter } from "./routers/health";
 import { notificationsRouter } from "./routers/notifications";
 import { podsRouter } from "./routers/pods";
 import { progressRouter } from "./routers/progress";
+import { srsRouter } from "./routers/srs";
 import { router } from "./trpc";
 
 /**
@@ -19,9 +20,7 @@ export const appRouter = router({
   notifications: notificationsRouter,
   gamification: gamificationRouter,
   pods: podsRouter,
-  // Future routers:
-  // auth: authRouter,
-  // srs: srsRouter,
+  srs: srsRouter,
 });
 
 export type AppRouter = typeof appRouter;

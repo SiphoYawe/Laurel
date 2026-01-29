@@ -1,6 +1,6 @@
 "use client";
 
-import { CheckCircle, Home, MessageCircle, User, Users } from "lucide-react";
+import { BookOpen, CheckCircle, Home, MessageCircle, User, Users } from "lucide-react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
@@ -53,6 +53,7 @@ interface SidebarProps {
   badges?: {
     chat?: boolean;
     habits?: number;
+    learn?: number;
     pods?: boolean;
     profile?: boolean;
   };
@@ -83,6 +84,7 @@ export function Sidebar({ badges = {} }: SidebarProps) {
           <NavItem href="/dashboard" icon={Home} label="Home" />
           <NavItem badge={badges.chat} href="/chat" icon={MessageCircle} label="Chat" />
           <NavItem badge={badges.habits} href="/habits" icon={CheckCircle} label="Habits" />
+          <NavItem badge={badges.learn} href="/learn" icon={BookOpen} label="Learn" />
           <NavItem badge={badges.pods} href="/pods" icon={Users} label="Pods" />
           <NavItem badge={badges.profile} href="/profile" icon={User} label="Profile" />
         </nav>
