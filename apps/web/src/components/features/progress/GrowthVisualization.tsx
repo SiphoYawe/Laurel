@@ -22,7 +22,6 @@ import { GrowthMessage } from "./GrowthMessage";
 
 import { Button } from "@/components/ui/button";
 import {
-  calculateExpectationY,
   calculateRealityY,
   generateExpectationData,
   generateRealityData,
