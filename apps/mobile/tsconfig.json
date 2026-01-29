@@ -1,0 +1,15 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"],
+      "@api/*": ["../../packages/api/src/*"],
+      "@db/*": ["../../packages/db/src/*"],
+      "@shared/*": ["../../packages/shared/src/*"],
+      "@opik/*": ["../../packages/opik/src/*"]
+    }
+  },
+  "include": ["**/*.ts", "**/*.tsx", ".expo/types/**/*.ts", "expo-env.d.ts"]
+}
