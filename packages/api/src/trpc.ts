@@ -1,4 +1,4 @@
-import { initTRPC } from "@trpc/server";
+import { initTRPC, TRPCError } from "@trpc/server";
 import superjson from "superjson";
 
 /**
@@ -24,3 +24,20 @@ const t = initTRPC.context<Context>().create({
 export const router = t.router;
 export const publicProcedure = t.procedure;
 export const createCallerFactory = t.createCallerFactory;
+
+/**
+ * Protected procedure - requires authenticated user
+ */
+export const protectedProcedure = t.procedure.use(({ ctx, next }) => {
+  if (!ctx.userId) {
+    throw new TRPCError({ code: "UNAUTHORIZED" });
+  }
+  return next({
+    ctx: {
+      ...ctx,
+      userId: ctx.userId, // Narrowed type
+    },
+  });
+});
+
+export { TRPCError };

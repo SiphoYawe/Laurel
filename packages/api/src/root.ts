@@ -1,3 +1,4 @@
+import { coachingRouter } from "./routers/coaching";
 import { healthRouter } from "./routers/health";
 import { router } from "./trpc";
 
@@ -7,10 +8,10 @@ import { router } from "./trpc";
  */
 export const appRouter = router({
   health: healthRouter,
+  coaching: coachingRouter,
   // Future routers:
   // auth: authRouter,
   // habits: habitsRouter,
-  // coaching: coachingRouter,
   // gamification: gamificationRouter,
   // pods: podsRouter,
   // srs: srsRouter,
