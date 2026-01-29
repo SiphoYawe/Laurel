@@ -1,18 +1,49 @@
-import { Plus, Users } from "lucide-react";
+"use client";
 
-import type { Metadata } from "next";
+import { Plus, Users, UserPlus } from "lucide-react";
+import { useRouter } from "next/navigation";
+import { useState } from "react";
 
-export const metadata: Metadata = {
-  title: "Pods - Laurel",
-  description: "Join accountability pods with friends.",
-};
+import {
+  PodCard,
+  PodCardSkeleton,
+  EmptyPodState,
+  CreatePodModal,
+  JoinPodModal,
+} from "@/components/features/pods";
+import { usePods } from "@/hooks/usePods";
+import { useAuth } from "@/lib/supabase/auth-context";
 
 /**
  * Pods Page
- * Accountability pods for group motivation
- * Full implementation in Epic 5
+ * Story 5-2, 5-3: Create and join accountability pods
  */
 export default function PodsPage() {
+  const router = useRouter();
+  const { user } = useAuth();
+  const { pods, isLoadingPods, createPod, joinPod, isCreating, isJoining } = usePods();
+
+  const [showCreateModal, setShowCreateModal] = useState(false);
+  const [showJoinModal, setShowJoinModal] = useState(false);
+
+  const handleCreatePod = async (name: string, description?: string, maxMembers?: number) => {
+    const newPod = await createPod(name, description, maxMembers);
+    if (newPod?.id) {
+      router.push(`/pods/${newPod.id}`);
+    }
+  };
+
+  const handleJoinPod = async (inviteCode: string) => {
+    const pod = await joinPod(inviteCode);
+    if (pod?.podId) {
+      router.push(`/pods/${pod.podId}`);
+    }
+  };
+
+  const handlePodClick = (podId: string) => {
+    router.push(`/pods/${podId}`);
+  };
+
   return (
     <div className="space-y-6">
       {/* Page Header */}
@@ -27,48 +58,68 @@ export default function PodsPage() {
           </div>
         </div>
 
-        <button
-          disabled
-          className="bg-laurel-forest inline-flex items-center gap-2 rounded-lg px-4 py-2 text-sm font-medium text-white opacity-50"
-          type="button"
-        >
-          <Plus className="h-4 w-4" />
-          Create Pod
-        </button>
-      </div>
-
-      {/* Empty State */}
-      <div className="border-border bg-card flex flex-col items-center justify-center rounded-xl border border-dashed py-16">
-        <div className="bg-laurel-sage/20 mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full">
-          <Users className="text-laurel-sage h-8 w-8" />
-        </div>
-        <h3 className="text-foreground font-semibold">No pods yet</h3>
-        <p className="text-muted-foreground mt-1 max-w-sm text-center text-sm">
-          Create or join an accountability pod to stay motivated with friends and track progress
-          together.
-        </p>
-        <div className="mt-4 flex gap-3">
+        <div className="flex gap-2">
           <button
-            disabled
-            className="bg-laurel-forest inline-flex items-center justify-center rounded-lg px-4 py-2 text-sm font-medium text-white opacity-50"
+            className="border-laurel-forest text-laurel-forest hover:bg-laurel-forest/10 inline-flex items-center gap-2 rounded-lg border px-4 py-2 text-sm font-medium transition-colors"
             type="button"
+            onClick={() => setShowJoinModal(true)}
           >
-            Create a Pod
+            <UserPlus className="h-4 w-4" />
+            Join Pod
           </button>
           <button
-            disabled
-            className="border-laurel-forest text-laurel-forest inline-flex items-center justify-center rounded-lg border px-4 py-2 text-sm font-medium opacity-50"
+            className="bg-laurel-forest hover:bg-laurel-forest/90 inline-flex items-center gap-2 rounded-lg px-4 py-2 text-sm font-medium text-white transition-colors"
             type="button"
+            onClick={() => setShowCreateModal(true)}
           >
-            Join with Code
+            <Plus className="h-4 w-4" />
+            Create Pod
           </button>
         </div>
       </div>
 
-      {/* Placeholder for future pod list */}
-      <div className="text-muted-foreground text-center text-sm">
-        Accountability pods will be available in Epic 5
-      </div>
+      {/* Content */}
+      {isLoadingPods ? (
+        <div className="space-y-4">
+          {[0, 1, 2].map((idx) => (
+            <PodCardSkeleton key={idx} />
+          ))}
+        </div>
+      ) : pods.length === 0 ? (
+        <EmptyPodState
+          onCreatePod={() => setShowCreateModal(true)}
+          onJoinPod={() => setShowJoinModal(true)}
+        />
+      ) : (
+        <div className="space-y-4">
+          {pods.map((pod) => (
+            <PodCard
+              key={pod.id}
+              isOwner={pod.isOwner}
+              pod={{
+                ...pod,
+                createdBy: "", // Not available in list, but isOwner is
+                isActive: true, // Only active pods are returned
+              }}
+              onClick={() => handlePodClick(pod.id)}
+            />
+          ))}
+        </div>
+      )}
+
+      {/* Modals */}
+      <CreatePodModal
+        isCreating={isCreating}
+        isOpen={showCreateModal}
+        onClose={() => setShowCreateModal(false)}
+        onCreatePod={handleCreatePod}
+      />
+      <JoinPodModal
+        isJoining={isJoining}
+        isOpen={showJoinModal}
+        onClose={() => setShowJoinModal(false)}
+        onJoinPod={handleJoinPod}
+      />
     </div>
   );
 }
