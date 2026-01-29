@@ -686,6 +686,91 @@ export const habitsRouter = router({
     }),
 
   /**
+   * Get streak data for a specific habit
+   * Story 3-2: Streak Tracking and Display
+   */
+  getStreak: protectedProcedure
+    .input(z.object({ habitId: z.string().uuid() }))
+    .query(async ({ ctx, input }) => {
+      const { userId } = ctx;
+      const supabase = getSupabaseClient();
+
+      // Verify the habit belongs to the user
+      const { data: habit, error: habitError } = await supabase
+        .from("habits")
+        .select("id")
+        .eq("id", input.habitId)
+        .eq("user_id", userId)
+        .single();
+
+      if (habitError || !habit) {
+        throw new Error("Habit not found");
+      }
+
+      // Get streak data
+      const { data: streak } = await supabase
+        .from("habit_streaks")
+        .select("*")
+        .eq("habit_id", input.habitId)
+        .single();
+
+      // Check if completed today
+      const today = new Date().toISOString().split("T")[0];
+      const { data: todayCompletion } = await supabase
+        .from("habit_completions")
+        .select("id")
+        .eq("habit_id", input.habitId)
+        .gte("completed_at", `${today}T00:00:00Z`)
+        .lte("completed_at", `${today}T23:59:59Z`)
+        .single();
+
+      const completedToday = !!todayCompletion;
+
+      // Calculate if at risk
+      const currentStreak = streak?.current_streak || 0;
+      const lastCompletedDate = streak?.last_completed_date;
+      let isAtRisk = false;
+
+      if (currentStreak > 0 && !completedToday && lastCompletedDate) {
+        const lastDate = new Date(lastCompletedDate);
+        const yesterday = new Date();
+        yesterday.setDate(yesterday.getDate() - 1);
+
+        // At risk if last completion was yesterday
+        isAtRisk = lastDate.toISOString().split("T")[0] === yesterday.toISOString().split("T")[0];
+      }
+
+      // Calculate next milestone
+      const MILESTONES = [7, 14, 30, 66, 100, 180, 365];
+      let nextMilestone = MILESTONES.find((m) => currentStreak < m) || 365;
+      if (currentStreak >= 365) {
+        nextMilestone = Math.ceil((currentStreak + 1) / 365) * 365;
+      }
+      const daysToMilestone = nextMilestone - currentStreak;
+
+      // Calculate progress
+      let prevMilestone = 0;
+      for (const m of MILESTONES) {
+        if (currentStreak < m) break;
+        prevMilestone = m;
+      }
+      const range = nextMilestone - prevMilestone;
+      const progress = range > 0 ? (currentStreak - prevMilestone) / range : 1;
+
+      return {
+        currentStreak,
+        longestStreak: streak?.longest_streak || 0,
+        lastCompletedDate: streak?.last_completed_date || null,
+        completedToday,
+        isAtRisk,
+        nextMilestone,
+        daysToMilestone,
+        progress,
+        isMilestone: MILESTONES.includes(currentStreak),
+      };
+    }),
+
+  /**
    * Save a two-minute version to an existing habit
    */
   saveTwoMinuteVersion: protectedProcedure

@@ -13,6 +13,7 @@ interface StreakRingProps {
   currentStreak: number;
   size?: "sm" | "md" | "lg";
   showFireEmoji?: boolean;
+  isAtRisk?: boolean;
   className?: string;
 }
 
@@ -49,6 +50,7 @@ export function StreakRing({
   currentStreak,
   size = "md",
   showFireEmoji = true,
+  isAtRisk = false,
   className,
 }: StreakRingProps) {
   const shouldReduceMotion = useReducedMotion();
@@ -66,13 +68,15 @@ export function StreakRing({
   // Calculate stroke dash offset for the progress arc
   const strokeDashoffset = circumference * (1 - progress);
 
-  // Determine ring color based on streak
+  // Determine ring color based on streak and at-risk status
   const ringColor =
     currentStreak === 0
       ? "stroke-muted-foreground/30"
-      : currentStreak >= 7
-        ? "stroke-forest-green"
-        : "stroke-warm-amber";
+      : isAtRisk
+        ? "stroke-warm-amber"
+        : currentStreak >= 7
+          ? "stroke-forest-green"
+          : "stroke-sage";
 
   return (
     <div className={cn("relative inline-flex items-center justify-center", className)}>
