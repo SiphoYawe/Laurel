@@ -8,6 +8,12 @@ import { z } from "zod";
 // Re-export auth validations
 export * from "./auth";
 
+// Re-export habit validations (Epic 2)
+export * from "./habits";
+
+// Re-export coaching validations (Epic 2)
+export * from "./coaching";
+
 // User validation schemas
 export const userSchema = z.object({
   email: z.string().email("Invalid email address"),

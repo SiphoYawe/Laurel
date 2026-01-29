@@ -6,6 +6,12 @@
 // User types - export from dedicated user types file
 export * from "./user";
 
+// Habit types (Epic 2)
+export * from "./habits";
+
+// Coaching types (Epic 2)
+export * from "./coaching";
+
 // Legacy User type alias for backwards compatibility
 export type { Profile as User } from "./user";
 
