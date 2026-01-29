@@ -1,22 +1,20 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./App.{js,jsx,ts,tsx}", "./src/**/*.{js,jsx,ts,tsx}"],
+  content: ["./App.{js,jsx,ts,tsx}", "./app/**/*.{js,jsx,ts,tsx}", "./src/**/*.{js,jsx,ts,tsx}"],
   presets: [require("nativewind/preset")],
   theme: {
     extend: {
       colors: {
+        // Laurel brand colors - Design System (matches web app)
         laurel: {
-          50: "#f0fdf4",
-          100: "#dcfce7",
-          200: "#bbf7d0",
-          300: "#86efac",
-          400: "#4ade80",
-          500: "#22c55e",
-          600: "#16a34a",
-          700: "#15803d",
-          800: "#166534",
-          900: "#14532d",
-          950: "#052e16",
+          forest: "#2D5A3D", // Primary - Forest Green
+          sage: "#7CB07F", // Secondary - Sage
+          amber: "#E8A54B", // Accent - Warm Amber
+          white: "#FAFAF8", // Background - Warm White
+          charcoal: "#1A1A1A", // Text - Near Black
+          surface: "#F5F5F3", // Surface color
+          "forest-dark": "#1A3D26", // Darker forest
+          "forest-light": "#3D7A4D", // Lighter forest for hover
         },
       },
     },
