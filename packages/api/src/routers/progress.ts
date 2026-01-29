@@ -160,4 +160,48 @@ export const progressRouter = router({
       longestEverStreak,
     };
   }),
+
+  /**
+   * Get user's day count since first habit
+   * Story 3-4: Plateau of Latent Potential Visualization
+   */
+  getUserDayCount: protectedProcedure.query(async ({ ctx }) => {
+    const { userId } = ctx;
+    const supabase = getSupabaseClient();
+
+    // Find the earliest habit created by this user
+    const { data: firstHabit } = await supabase
+      .from("habits")
+      .select("created_at")
+      .eq("user_id", userId)
+      .order("created_at", { ascending: true })
+      .limit(1)
+      .single();
+
+    if (!firstHabit) {
+      return {
+        dayCount: 0,
+        firstHabitDate: null,
+      };
+    }
+
+    // Calculate days since first habit
+    const firstHabitDate = new Date(firstHabit.created_at);
+    const today = new Date();
+
+    // Reset time to start of day for accurate day calculation
+    firstHabitDate.setHours(0, 0, 0, 0);
+    today.setHours(0, 0, 0, 0);
+
+    const diffTime = today.getTime() - firstHabitDate.getTime();
+    const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+
+    // Day 1 is the first day, not day 0
+    const dayCount = Math.max(1, diffDays + 1);
+
+    return {
+      dayCount,
+      firstHabitDate: firstHabit.created_at,
+    };
+  }),
 });
