@@ -29,12 +29,15 @@ export type SessionType =
  */
 export interface UserContext {
   userId: string;
+  sessionId?: string; // Coaching session ID for Opik tracing
   displayName?: string;
   currentStreak?: number;
   longestStreak?: number;
   mainHabitTitle?: string;
   recentCompletions?: number;
   totalHabits?: number;
+  habitsCount?: number; // Alias for totalHabits, used by Opik
+  streakDays?: number; // Alias for currentStreak, used by Opik
   daysSinceJoined?: number;
 }
 

@@ -1,76 +1,102 @@
+import {
+  traceCoachingCall,
+  traceIntentClassification,
+  evaluateCoachingQualityAsync,
+  isOpikEnabled,
+} from "@laurel/opik";
+
 import { buildCoachingPrompt, INTENT_CLASSIFICATION_PROMPT } from "./prompts";
 import { getGeminiClient, COACHING_MODEL_CONFIG } from "../../lib/gemini";
 
 import type {
   ChatHistoryMessage,
-  CoachingMode,
   CoachingRequest,
   CoachingResponse,
   IntentClassification,
+  SessionType,
 } from "./types";
 
 /**
  * AI Coaching Service
  * Handles all AI-powered coaching interactions using Google Gemini
+ * Integrates with Opik for tracing and evaluation
  */
 export class AICoachingService {
   /**
    * Classify user intent to determine coaching mode
    */
-  async classifyIntent(userMessage: string): Promise<IntentClassification> {
-    const startTime = Date.now();
+  async classifyIntent(
+    userMessage: string,
+    options?: { userId?: string; sessionId?: string }
+  ): Promise<IntentClassification> {
+    const classify = async (): Promise<IntentClassification> => {
+      try {
+        const genAI = getGeminiClient();
+        const model = genAI.getGenerativeModel({
+          model: "gemini-1.5-flash",
+          generationConfig: {
+            temperature: 0.3,
+            maxOutputTokens: 200,
+          },
+        });
 
-    try {
-      const genAI = getGeminiClient();
-      const model = genAI.getGenerativeModel({
-        model: "gemini-1.5-flash",
-        generationConfig: {
-          temperature: 0.3,
-          maxOutputTokens: 200,
-        },
-      });
+        const prompt = INTENT_CLASSIFICATION_PROMPT + userMessage;
+        const result = await model.generateContent(prompt);
+        const response = result.response.text();
 
-      const prompt = INTENT_CLASSIFICATION_PROMPT + userMessage;
-      const result = await model.generateContent(prompt);
-      const response = result.response.text();
+        // Parse JSON response
+        const jsonMatch = response.match(/\{[\s\S]*\}/);
+        if (jsonMatch) {
+          const parsed = JSON.parse(jsonMatch[0]) as IntentClassification;
+          return {
+            mode: parsed.mode || "warm_mentor",
+            confidence: parsed.confidence || 0.5,
+            signals: parsed.signals || [],
+          };
+        }
 
-      // Parse JSON response
-      const jsonMatch = response.match(/\{[\s\S]*\}/);
-      if (jsonMatch) {
-        const parsed = JSON.parse(jsonMatch[0]) as IntentClassification;
+        // Fallback to warm mentor if parsing fails
         return {
-          mode: parsed.mode || "warm_mentor",
-          confidence: parsed.confidence || 0.5,
-          signals: parsed.signals || [],
+          mode: "warm_mentor",
+          confidence: 0.5,
+          signals: ["parsing_fallback"],
+        };
+      } catch (error) {
+        console.error("Intent classification failed:", error);
+        // Default to warm mentor on error
+        return {
+          mode: "warm_mentor",
+          confidence: 0.3,
+          signals: ["error_fallback"],
         };
       }
+    };
 
-      // Fallback to warm mentor if parsing fails
-      return {
-        mode: "warm_mentor",
-        confidence: 0.5,
-        signals: ["parsing_fallback"],
-      };
-    } catch (error) {
-      console.error("Intent classification failed:", error);
-      // Default to warm mentor on error
-      return {
-        mode: "warm_mentor",
-        confidence: 0.3,
-        signals: ["error_fallback"],
-      };
+    // Wrap with Opik tracing if enabled and options provided
+    if (isOpikEnabled() && options?.userId && options?.sessionId) {
+      const traced = await traceIntentClassification(classify, userMessage, {
+        userId: options.userId,
+        sessionId: options.sessionId,
+      });
+      return traced.result;
     }
+
+    return classify();
   }
 
   /**
    * Generate a coaching response using Gemini
+   * Traced with Opik for observability
    */
   async generateResponse(request: CoachingRequest): Promise<CoachingResponse> {
     const startTime = Date.now();
 
-    try {
+    const generate = async (): Promise<CoachingResponse> => {
       // First, classify the user's intent
-      const intent = await this.classifyIntent(request.userMessage);
+      const intent = await this.classifyIntent(request.userMessage, {
+        userId: request.context?.userId,
+        sessionId: request.context?.sessionId,
+      });
 
       // Build the system prompt
       const systemPrompt = buildCoachingPrompt(request.sessionType, intent.mode, request.context);
@@ -98,7 +124,7 @@ export class AICoachingService {
       // Check for suggested habit in response
       const suggestedHabit = this.extractSuggestedHabit(responseText);
 
-      return {
+      const response: CoachingResponse = {
         content: responseText,
         detectedMode: intent.mode,
         suggestedHabit,
@@ -107,10 +133,87 @@ export class AICoachingService {
           latencyMs,
         },
       };
-    } catch (error) {
-      console.error("Coaching response generation failed:", error);
-      throw error;
+
+      // Run async evaluation (non-blocking)
+      this.runAsyncEvaluation(request, response);
+
+      return response;
+    };
+
+    // Wrap with Opik tracing if enabled
+    if (isOpikEnabled() && request.context?.userId && request.context?.sessionId) {
+      const traced = await traceCoachingCall(generate, {
+        userId: request.context.userId,
+        sessionId: request.context.sessionId,
+        sessionType: this.mapSessionType(request.sessionType),
+        coachingMode: "warm_mentor", // Will be updated after intent classification
+        model: COACHING_MODEL_CONFIG.model,
+      });
+      return traced.result;
     }
+
+    return generate();
+  }
+
+  /**
+   * Run LLM-as-judge evaluation asynchronously
+   * Does not block the response to the user
+   */
+  private runAsyncEvaluation(request: CoachingRequest, response: CoachingResponse): void {
+    if (!isOpikEnabled()) {
+      return;
+    }
+
+    evaluateCoachingQualityAsync(
+      {
+        userMessage: request.userMessage,
+        aiResponse: response.content,
+        sessionType: request.sessionType,
+        coachingMode: response.detectedMode,
+        userContext: {
+          userId: request.context?.userId,
+          streakDays: request.context?.streakDays,
+          habitsCount: request.context?.habitsCount,
+        },
+      },
+      (evaluation) => {
+        console.log("[Opik] Coaching evaluation completed:", {
+          overall: evaluation.overall,
+          motivationScore: evaluation.motivationScore,
+          techniqueAccuracy: evaluation.techniqueAccuracy,
+          personalization: evaluation.personalization,
+          actionability: evaluation.actionability,
+          feedback: evaluation.feedback,
+        });
+      }
+    );
+  }
+
+  /**
+   * Map session type to Opik trace metadata type
+   */
+  private mapSessionType(
+    sessionType: SessionType
+  ):
+    | "onboarding"
+    | "check_in"
+    | "habit_creation"
+    | "habit_review"
+    | "motivation"
+    | "technique_learning"
+    | "streak_recovery"
+    | "general_chat" {
+    const mapping: Record<SessionType, ReturnType<typeof this.mapSessionType>> = {
+      onboarding: "onboarding",
+      check_in: "check_in",
+      habit_creation: "habit_creation",
+      habit_review: "habit_review",
+      motivation: "motivation",
+      technique_learning: "technique_learning",
+      streak_recovery: "streak_recovery",
+      general_chat: "general_chat",
+    };
+    return mapping[sessionType] || "general_chat";
   }
 
   /**
@@ -122,7 +225,10 @@ export class AICoachingService {
     const startTime = Date.now();
 
     // Classify intent first
-    const intent = await this.classifyIntent(request.userMessage);
+    const intent = await this.classifyIntent(request.userMessage, {
+      userId: request.context?.userId,
+      sessionId: request.context?.sessionId,
+    });
 
     // Build the system prompt
     const systemPrompt = buildCoachingPrompt(request.sessionType, intent.mode, request.context);
@@ -155,8 +261,7 @@ export class AICoachingService {
 
     const latencyMs = Date.now() - startTime;
 
-    // Return final response
-    return {
+    const response: CoachingResponse = {
       content: fullContent,
       detectedMode: intent.mode,
       suggestedHabit: this.extractSuggestedHabit(fullContent),
@@ -165,6 +270,12 @@ export class AICoachingService {
         latencyMs,
       },
     };
+
+    // Run async evaluation (non-blocking)
+    this.runAsyncEvaluation(request, response);
+
+    // Return final response
+    return response;
   }
 
   /**

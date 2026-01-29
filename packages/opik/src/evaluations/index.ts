@@ -4,12 +4,28 @@
  * LLM-as-judge evaluation metrics for AI coaching quality
  */
 
+// Export coaching quality evaluation
+export {
+  evaluateCoachingQuality,
+  evaluateCoachingQualityAsync,
+  calculateAverageScore,
+  passesQualityThreshold,
+  type CoachingEvaluation,
+  type EvaluationInput,
+} from "./coaching-quality";
+
+/**
+ * Generic evaluation result interface
+ */
 export interface EvaluationResult {
   score: number;
   passed: boolean;
   feedback?: string;
 }
 
+/**
+ * Coaching evaluation criteria (legacy interface)
+ */
 export interface CoachingEvaluationCriteria {
   // Does the response follow Atomic Habits principles?
   atomicHabitsAlignment: boolean;
@@ -24,28 +40,85 @@ export interface CoachingEvaluationCriteria {
 }
 
 /**
- * Evaluate coaching response quality
- * This will use LLM-as-judge pattern via Opik
+ * Simple heuristic evaluation for coaching responses
+ * Used as a fallback when LLM evaluation is not available
  */
 export async function evaluateCoachingResponse(
   userMessage: string,
   coachResponse: string,
   _context?: Record<string, unknown>
 ): Promise<EvaluationResult> {
-  // Placeholder implementation
-  // Will be integrated with Opik's evaluation system
+  const lowerResponse = coachResponse.toLowerCase();
+  const lowerMessage = userMessage.toLowerCase();
 
-  const hasActionableAdvice = coachResponse.length > 50;
-  const mentionsHabits =
-    coachResponse.toLowerCase().includes("habit") ||
-    coachResponse.toLowerCase().includes("routine");
+  // Check for Atomic Habits keywords
+  const atomicHabitsKeywords = [
+    "habit",
+    "routine",
+    "stack",
+    "two-minute",
+    "2-minute",
+    "cue",
+    "craving",
+    "reward",
+    "identity",
+    "1%",
+    "compound",
+    "plateau",
+    "streak",
+  ];
 
-  const score = (hasActionableAdvice ? 0.5 : 0) + (mentionsHabits ? 0.5 : 0);
+  const hasHabitKeywords = atomicHabitsKeywords.some((keyword) => lowerResponse.includes(keyword));
+
+  // Check for actionable language
+  const actionKeywords = [
+    "try",
+    "start",
+    "begin",
+    "first",
+    "next",
+    "today",
+    "now",
+    "specific",
+    "when",
+    "after",
+  ];
+  const hasActionableAdvice = actionKeywords.some((keyword) => lowerResponse.includes(keyword));
+
+  // Check for supportive tone
+  const supportiveKeywords = [
+    "great",
+    "well done",
+    "good",
+    "excellent",
+    "proud",
+    "progress",
+    "amazing",
+    "fantastic",
+    "believe",
+    "can",
+  ];
+  const hasSupportiveTone = supportiveKeywords.some((keyword) => lowerResponse.includes(keyword));
+
+  // Check response length (should be substantial but not overwhelming)
+  const hasGoodLength = coachResponse.length >= 100 && coachResponse.length <= 2000;
+
+  // Check if response addresses user's message
+  const messageKeywords = lowerMessage.split(" ").filter((word) => word.length > 3);
+  const addressesMessage = messageKeywords.some((keyword) => lowerResponse.includes(keyword));
+
+  // Calculate score
+  let score = 0;
+  if (hasHabitKeywords) score += 0.25;
+  if (hasActionableAdvice) score += 0.25;
+  if (hasSupportiveTone) score += 0.2;
+  if (hasGoodLength) score += 0.15;
+  if (addressesMessage) score += 0.15;
 
   return {
     score,
     passed: score >= 0.6,
-    feedback: `Evaluated response to: "${userMessage.slice(0, 50)}..."`,
+    feedback: `Heuristic evaluation: ${(score * 100).toFixed(0)}% quality score`,
   };
 }
 
@@ -56,19 +129,43 @@ export async function evaluateHabitSuggestion(
   suggestedHabit: string,
   userGoal: string
 ): Promise<EvaluationResult> {
-  // Placeholder implementation
-  // Will be integrated with Opik's evaluation system
+  const lowerHabit = suggestedHabit.toLowerCase();
+  const lowerGoal = userGoal.toLowerCase();
 
+  // Check for specificity
   const isSpecific = suggestedHabit.split(" ").length >= 3;
-  const isRelevant =
-    suggestedHabit.toLowerCase().includes("every") ||
-    suggestedHabit.toLowerCase().includes("daily");
 
-  const score = (isSpecific ? 0.5 : 0) + (isRelevant ? 0.5 : 0);
+  // Check for timing/frequency
+  const hasTiming =
+    lowerHabit.includes("every") ||
+    lowerHabit.includes("daily") ||
+    lowerHabit.includes("morning") ||
+    lowerHabit.includes("evening") ||
+    lowerHabit.includes("after") ||
+    lowerHabit.includes("before");
+
+  // Check relevance to goal
+  const goalKeywords = lowerGoal.split(" ").filter((word) => word.length > 3);
+  const isRelevant = goalKeywords.some((keyword) => lowerHabit.includes(keyword));
+
+  // Check for two-minute rule compliance
+  const isTwoMinute =
+    lowerHabit.includes("2 minute") ||
+    lowerHabit.includes("two minute") ||
+    lowerHabit.includes("just") ||
+    lowerHabit.includes("simple") ||
+    lowerHabit.includes("quick");
+
+  // Calculate score
+  let score = 0;
+  if (isSpecific) score += 0.3;
+  if (hasTiming) score += 0.25;
+  if (isRelevant) score += 0.25;
+  if (isTwoMinute) score += 0.2;
 
   return {
     score,
     passed: score >= 0.6,
-    feedback: `Habit suggestion for goal: "${userGoal}"`,
+    feedback: `Habit suggestion evaluation for goal: "${userGoal.slice(0, 50)}"`,
   };
 }
