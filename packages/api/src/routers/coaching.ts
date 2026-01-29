@@ -1,6 +1,9 @@
 import { z } from "zod";
 
+import { getAICoachingService } from "../services/ai";
 import { protectedProcedure, router } from "../trpc";
+
+import type { SessionType } from "../services/ai/types";
 
 /**
  * Message type for chat history
@@ -27,6 +30,31 @@ export interface CoachingSession {
   createdAt: Date;
 }
 
+// In-memory session storage (will be replaced with database in future)
+const sessions = new Map<string, CoachingSession>();
+const messageHistory = new Map<string, ChatMessage[]>();
+
+/**
+ * Session types enum
+ */
+const SESSION_TYPES = [
+  "habit_creation",
+  "habit_review",
+  "motivation",
+  "technique_learning",
+  "streak_recovery",
+  "general_chat",
+  "onboarding",
+  "check_in",
+] as const;
+
+/**
+ * Check if Gemini API is available
+ */
+function isGeminiAvailable(): boolean {
+  return !!(process.env.GOOGLE_AI_API_KEY || process.env.GEMINI_API_KEY);
+}
+
 /**
  * Coaching router for AI chat functionality
  */
@@ -34,10 +62,14 @@ export const coachingRouter = router({
   /**
    * Get current active session or null
    */
-  getSession: protectedProcedure.query(async ({ ctx: _ctx }) => {
-    // TODO: Implement with Drizzle once Story 2.3 is complete
-    // For now, return mock session for UI development
-    return null as CoachingSession | null;
+  getSession: protectedProcedure.query(async ({ ctx }) => {
+    // Find the user's most recent session
+    for (const [_id, session] of sessions) {
+      if (session.userId === ctx.userId && !session.endedAt) {
+        return session;
+      }
+    }
+    return null;
   }),
 
   /**
@@ -50,10 +82,12 @@ export const coachingRouter = router({
         limit: z.number().min(1).max(100).default(50),
       })
     )
-    .query(async ({ ctx: _ctx, input: _input }) => {
-      // TODO: Implement with Drizzle once Story 2.3 is complete
-      // For now, return empty array for UI development
-      return [] as ChatMessage[];
+    .query(async ({ ctx: _ctx, input }) => {
+      if (!input.sessionId) {
+        return [];
+      }
+      const history = messageHistory.get(input.sessionId) || [];
+      return history.slice(-input.limit);
     }),
 
   /**
@@ -62,22 +96,11 @@ export const coachingRouter = router({
   startSession: protectedProcedure
     .input(
       z.object({
-        sessionType: z
-          .enum([
-            "habit_creation",
-            "habit_review",
-            "motivation",
-            "technique_learning",
-            "streak_recovery",
-            "general_chat",
-          ])
-          .default("general_chat"),
+        sessionType: z.enum(SESSION_TYPES).default("general_chat"),
         context: z.record(z.unknown()).optional().default({}),
       })
     )
     .mutation(async ({ ctx, input }) => {
-      // TODO: Implement with Drizzle once Story 2.3 is complete
-      // For now, return mock session
       const session: CoachingSession = {
         id: crypto.randomUUID(),
         userId: ctx.userId,
@@ -87,23 +110,34 @@ export const coachingRouter = router({
         endedAt: null,
         createdAt: new Date(),
       };
+
+      // Store session
+      sessions.set(session.id, session);
+      messageHistory.set(session.id, []);
+
       return session;
     }),
 
   /**
    * Send a message and get AI response
-   * This will be connected to Gemini AI in Story 2.3
    */
   sendMessage: protectedProcedure
     .input(
       z.object({
         sessionId: z.string().uuid(),
         content: z.string().min(1).max(5000),
+        chatHistory: z
+          .array(
+            z.object({
+              role: z.enum(["user", "assistant"]),
+              content: z.string(),
+            })
+          )
+          .optional(),
       })
     )
-    .mutation(async ({ ctx: _ctx, input }) => {
-      // TODO: Implement with Gemini AI in Story 2.3
-      // For now, return a mock response for UI development
+    .mutation(async ({ ctx, input }) => {
+      const session = sessions.get(input.sessionId);
 
       // Create user message
       const userMessage: ChatMessage = {
@@ -115,18 +149,73 @@ export const coachingRouter = router({
         createdAt: new Date(),
       };
 
-      // Create mock AI response
+      // Store user message in history
+      const history = messageHistory.get(input.sessionId) || [];
+      history.push(userMessage);
+
+      let aiContent: string;
+      let metadata: Record<string, unknown> = {};
+
+      // Use Gemini AI if available, otherwise use mock
+      if (isGeminiAvailable()) {
+        try {
+          const aiService = getAICoachingService();
+
+          // Build chat history from stored messages
+          const chatHistory = history
+            .filter((m) => m.role !== "system")
+            .map((m) => ({
+              role: m.role as "user" | "assistant",
+              content: m.content,
+            }));
+
+          const response = await aiService.generateResponse({
+            userMessage: input.content,
+            sessionType: (session?.sessionType || "general_chat") as SessionType,
+            context: {
+              userId: ctx.userId,
+              // Add more context as available from database
+            },
+            chatHistory: chatHistory.slice(0, -1), // Exclude the current message
+          });
+
+          aiContent = response.content;
+          metadata = {
+            modelUsed: response.metadata.modelUsed,
+            latencyMs: response.metadata.latencyMs,
+            detectedMode: response.detectedMode,
+            suggestedHabit: response.suggestedHabit,
+          };
+        } catch (error) {
+          console.error("Gemini AI error, falling back to mock:", error);
+          aiContent = getMockResponse(input.content);
+          metadata = {
+            modelUsed: "mock-fallback",
+            error: error instanceof Error ? error.message : "Unknown error",
+          };
+        }
+      } else {
+        // Use mock response when API key not available
+        aiContent = getMockResponse(input.content);
+        metadata = {
+          modelUsed: "mock-model",
+          reason: "GEMINI_API_KEY not configured",
+        };
+      }
+
+      // Create AI message
       const aiMessage: ChatMessage = {
         id: crypto.randomUUID(),
         sessionId: input.sessionId,
         role: "assistant",
-        content: getMockResponse(input.content),
-        metadata: {
-          modelUsed: "mock-model",
-          latencyMs: 500,
-        },
+        content: aiContent,
+        metadata,
         createdAt: new Date(),
       };
+
+      // Store AI message in history
+      history.push(aiMessage);
+      messageHistory.set(input.sessionId, history);
 
       return {
         userMessage,
@@ -139,15 +228,18 @@ export const coachingRouter = router({
    */
   endSession: protectedProcedure
     .input(z.object({ sessionId: z.string().uuid() }))
-    .mutation(async ({ ctx: _ctx, input: _input }) => {
-      // TODO: Implement with Drizzle once Story 2.3 is complete
+    .mutation(async ({ ctx: _ctx, input }) => {
+      const session = sessions.get(input.sessionId);
+      if (session) {
+        session.endedAt = new Date();
+        sessions.set(input.sessionId, session);
+      }
       return { success: true };
     }),
 });
 
 /**
- * Mock response generator for UI development
- * Will be replaced with Gemini AI in Story 2.3
+ * Mock response generator for development/fallback
  */
 function getMockResponse(userMessage: string): string {
   const lowerMessage = userMessage.toLowerCase();
