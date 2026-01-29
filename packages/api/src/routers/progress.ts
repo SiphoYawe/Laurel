@@ -162,6 +162,86 @@ export const progressRouter = router({
   }),
 
   /**
+   * Get habits with completions for calendar view
+   * Story 3-6: Calendar View for Habits
+   */
+  getHabitsForCalendar: protectedProcedure
+    .input(
+      z.object({
+        startDate: z.string(), // ISO date string
+        endDate: z.string(), // ISO date string
+      })
+    )
+    .query(async ({ ctx, input }) => {
+      const { userId } = ctx;
+      const supabase = getSupabaseClient();
+
+      // Fetch all active habits for the user
+      const { data: habits, error: habitsError } = await supabase
+        .from("habits")
+        .select(
+          `
+          id,
+          title,
+          description,
+          category,
+          target_time,
+          duration_minutes,
+          frequency,
+          frequency_days,
+          is_active
+        `
+        )
+        .eq("user_id", userId)
+        .eq("is_active", true);
+
+      if (habitsError) {
+        console.error("Error fetching habits:", habitsError);
+        throw new Error("Failed to fetch habits");
+      }
+
+      // Fetch completions in the date range
+      const { data: completions, error: completionsError } = await supabase
+        .from("habit_completions")
+        .select("id, habit_id, completed_at")
+        .eq("user_id", userId)
+        .gte("completed_at", input.startDate)
+        .lte("completed_at", `${input.endDate}T23:59:59Z`);
+
+      if (completionsError) {
+        console.error("Error fetching completions:", completionsError);
+        throw new Error("Failed to fetch completions");
+      }
+
+      // Create a set of completed habit+date combos
+      const completedMap = new Map<string, string>();
+      for (const c of completions || []) {
+        const dateKey = c.completed_at.split("T")[0];
+        const key = `${c.habit_id}-${dateKey}`;
+        completedMap.set(key, c.id);
+      }
+
+      // Transform habits for calendar display
+      const calendarHabits = (habits || []).map((h) => ({
+        id: h.id,
+        title: h.title,
+        description: h.description,
+        category: h.category || "other",
+        targetTime: h.target_time || "09:00",
+        durationMinutes: h.duration_minutes || 30,
+        frequency: h.frequency || "daily",
+        frequencyDays: h.frequency_days,
+      }));
+
+      return {
+        habits: calendarHabits,
+        completedMap: Object.fromEntries(completedMap),
+        startDate: input.startDate,
+        endDate: input.endDate,
+      };
+    }),
+
+  /**
    * Get user's day count since first habit
    * Story 3-4: Plateau of Latent Potential Visualization
    */

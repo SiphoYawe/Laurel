@@ -173,6 +173,165 @@ export interface CalendarWeek {
 }
 
 /**
+ * Category colors for habit blocks
+ */
+export const CATEGORY_COLORS: Record<string, string> = {
+  study: "#2D5A3D", // Forest Green
+  reading: "#7CB07F", // Sage
+  exercise: "#E8A54B", // Warm Amber
+  health: "#E8A54B",
+  mindfulness: "#7CB07F",
+  other: "#6B6B6B", // Gray
+} as const;
+
+/**
+ * Get color for a category
+ */
+export function getCategoryColor(category?: string): string {
+  if (!category) return CATEGORY_COLORS.other;
+  return CATEGORY_COLORS[category.toLowerCase()] || CATEGORY_COLORS.other;
+}
+
+/**
+ * Time slot configuration
+ */
+export const TIME_CONFIG = {
+  startHour: 6, // 6 AM
+  endHour: 23, // 11 PM
+  slotMinutes: 30,
+  pixelsPerHour: 60,
+  pixelsPerMinute: 1,
+} as const;
+
+/**
+ * Generate time slots for calendar
+ */
+export function generateTimeSlots(): Array<{ hour: number; minute: number; label: string }> {
+  const slots: Array<{ hour: number; minute: number; label: string }> = [];
+  const startHour: number = TIME_CONFIG.startHour;
+  const endHour: number = TIME_CONFIG.endHour;
+  const slotMinutes: number = TIME_CONFIG.slotMinutes;
+
+  for (let hour = startHour; hour <= endHour; hour++) {
+    for (let minute = 0; minute < 60; minute += slotMinutes) {
+      const isPM = hour >= 12;
+      // For 12-hour format: 0 -> 12, 13 -> 1, etc.
+      const displayHour = hour > 12 ? hour - 12 : hour;
+      const label = minute === 0 ? `${displayHour} ${isPM ? "PM" : "AM"}` : "";
+      slots.push({ hour, minute, label });
+    }
+  }
+
+  return slots;
+}
+
+/**
+ * Calculate position and height for a habit block
+ */
+export function calculateBlockPosition(
+  targetTime: string,
+  durationMinutes: number = 30
+): { top: number; height: number } {
+  const [hours, minutes] = targetTime.split(":").map(Number);
+  const startOffset = (hours - TIME_CONFIG.startHour) * 60 + minutes;
+  const minHeight = 24; // Minimum height for visibility
+
+  return {
+    top: startOffset * TIME_CONFIG.pixelsPerMinute,
+    height: Math.max(durationMinutes * TIME_CONFIG.pixelsPerMinute, minHeight),
+  };
+}
+
+/**
+ * Get current time position for indicator line
+ */
+export function getCurrentTimePosition(): number | null {
+  const now = new Date();
+  const hours = now.getHours();
+  const minutes = now.getMinutes();
+
+  if (hours < TIME_CONFIG.startHour || hours > TIME_CONFIG.endHour) {
+    return null;
+  }
+
+  return (hours - TIME_CONFIG.startHour) * 60 + minutes;
+}
+
+/**
+ * Format time for display (HH:MM to 12-hour format)
+ */
+export function formatTime(time: string): string {
+  const [hours, minutes] = time.split(":").map(Number);
+  const isPM = hours >= 12;
+  const displayHour = hours > 12 ? hours - 12 : hours === 0 ? 12 : hours;
+  return `${displayHour}:${minutes.toString().padStart(2, "0")} ${isPM ? "PM" : "AM"}`;
+}
+
+/**
+ * Get month calendar grid (6 weeks x 7 days)
+ */
+export function getMonthGrid(year: number, month: number): Date[][] {
+  const firstDay = new Date(year, month, 1);
+  const lastDay = new Date(year, month + 1, 0);
+
+  // Get the Monday before or on the first day
+  const startDate = getStartOfWeek(firstDay);
+
+  const weeks: Date[][] = [];
+  // eslint-disable-next-line prefer-const -- currentDate is mutated via setDate
+  let currentDate = new Date(startDate);
+
+  // Generate 6 weeks
+  for (let week = 0; week < 6; week++) {
+    const weekDates: Date[] = [];
+    for (let day = 0; day < 7; day++) {
+      weekDates.push(new Date(currentDate));
+      currentDate.setDate(currentDate.getDate() + 1);
+    }
+    weeks.push(weekDates);
+
+    // Stop if we've passed the last day and it's a full week
+    if (currentDate > lastDay && currentDate.getDay() === 1) {
+      break;
+    }
+  }
+
+  return weeks;
+}
+
+/**
+ * Check if date is in given month
+ */
+export function isInMonth(date: Date, month: number): boolean {
+  return date.getMonth() === month;
+}
+
+/**
+ * Get formatted month/year header
+ */
+export function getMonthYearHeader(date: Date): string {
+  return date.toLocaleDateString("en-US", { month: "long", year: "numeric" });
+}
+
+/**
+ * Add days to a date
+ */
+export function addDays(date: Date, days: number): Date {
+  const result = new Date(date);
+  result.setDate(result.getDate() + days);
+  return result;
+}
+
+/**
+ * Add months to a date
+ */
+export function addMonths(date: Date, months: number): Date {
+  const result = new Date(date);
+  result.setMonth(result.getMonth() + months);
+  return result;
+}
+
+/**
  * Build calendar data structure from completions
  */
 export function buildCalendarData(
