@@ -1,10 +1,10 @@
 "use client";
 
 import { motion, useReducedMotion } from "framer-motion";
-import { Check, Clock } from "lucide-react";
-import { useCallback, useState } from "react";
+import { Clock } from "lucide-react";
 
 import { CategoryIndicator, type HabitCategory } from "./CategoryIndicator";
+import { HabitCompletionButton } from "./HabitCompletionButton";
 import { StreakRing } from "./StreakRing";
 
 import { Card, CardContent } from "@/components/ui/card";
@@ -13,6 +13,13 @@ import { cn } from "@/lib/utils";
 /**
  * HabitCard - Visual card component for displaying habits
  * Implements Story 2-6: Visual Habit Card Component
+ * Updated for Story 3-1: One-Tap Habit Completion
+ *
+ * Features:
+ * - Large touch target (min 64px height)
+ * - Optimistic UI with completion button
+ * - Success state styling with green tint
+ * - Disabled state with "Already completed today!" tooltip
  */
 
 interface HabitCardProps {
@@ -24,6 +31,7 @@ interface HabitCardProps {
     category: HabitCategory;
     is_active: boolean;
     routine?: string;
+    two_minute_version?: string | null;
   };
   streak: {
     current_streak: number;
@@ -44,21 +52,6 @@ export function HabitCard({
   onPress,
 }: HabitCardProps) {
   const shouldReduceMotion = useReducedMotion();
-  const [isCompletionAnimating, setIsCompletionAnimating] = useState(false);
-
-  const handleComplete = useCallback(
-    (e: React.MouseEvent) => {
-      e.stopPropagation();
-      if (isCompletedToday || isLoading) return;
-
-      setIsCompletionAnimating(true);
-      onComplete();
-
-      // Reset animation state after animation completes
-      setTimeout(() => setIsCompletionAnimating(false), 300);
-    },
-    [isCompletedToday, isLoading, onComplete]
-  );
 
   return (
     <motion.div
@@ -69,6 +62,8 @@ export function HabitCard({
       <Card
         className={cn(
           "cursor-pointer transition-colors duration-200",
+          // Minimum 64px height for touch target
+          "min-h-[64px]",
           isCompletedToday
             ? "border-green-200 bg-green-50/50 dark:border-green-900 dark:bg-green-950/20"
             : "border-border hover:border-muted-foreground/30"
@@ -76,41 +71,16 @@ export function HabitCard({
         onClick={onPress}
       >
         <CardContent className="flex items-center gap-4 p-4">
-          {/* Completion Button */}
-          <button
-            aria-checked={isCompletedToday}
-            aria-label={`Mark ${habit.title} as ${isCompletedToday ? "incomplete" : "complete"}`}
-            className={cn(
-              "relative flex h-11 w-11 shrink-0 items-center justify-center rounded-full transition-all duration-200",
-              "focus-visible:ring-ring focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2",
-              isCompletedToday
-                ? "bg-green-500 text-white"
-                : "border-forest-green text-forest-green hover:bg-forest-green/10 dark:bg-background border-2 bg-white",
-              isLoading && "cursor-not-allowed opacity-50"
-            )}
-            disabled={isCompletedToday || isLoading}
-            role="checkbox"
-            type="button"
-            onClick={handleComplete}
-          >
-            {isLoading ? (
-              <motion.div
-                animate={{ rotate: 360 }}
-                className="h-5 w-5 rounded-full border-2 border-current border-t-transparent"
-                transition={{ duration: 1, repeat: Infinity, ease: "linear" }}
-              />
-            ) : isCompletedToday ? (
-              <motion.div
-                animate={{ scale: 1 }}
-                initial={isCompletionAnimating ? { scale: 0 } : false}
-                transition={{ duration: 0.3, ease: "easeOut" }}
-              >
-                <Check className="h-6 w-6" strokeWidth={3} />
-              </motion.div>
-            ) : (
-              <span className="sr-only">Complete</span>
-            )}
-          </button>
+          {/* Completion Button - Using new HabitCompletionButton */}
+          <HabitCompletionButton
+            disabled={isCompletedToday}
+            disabledReason={isCompletedToday ? "Already completed today!" : undefined}
+            habitTitle={habit.title}
+            isCompleted={isCompletedToday}
+            isLoading={isLoading}
+            size="md"
+            onComplete={onComplete}
+          />
 
           {/* Habit Info */}
           <div className="min-w-0 flex-1">
@@ -135,15 +105,101 @@ export function HabitCard({
                   {habit.duration_minutes} min
                 </span>
               )}
+              {habit.two_minute_version && !isCompletedToday && (
+                <span className="text-forest-green shrink-0 text-xs font-medium">
+                  2-min version
+                </span>
+              )}
             </div>
           </div>
 
-          {/* Streak Ring */}
+          {/* Streak Ring with animation on completion */}
           <div className="shrink-0">
             <StreakRing currentStreak={streak.current_streak} size="sm" />
           </div>
         </CardContent>
       </Card>
     </motion.div>
+  );
+}
+
+/**
+ * HabitCardSkeleton - Loading placeholder for habit card
+ */
+export function HabitCardSkeleton() {
+  return (
+    <Card className="min-h-[64px]">
+      <CardContent className="flex items-center gap-4 p-4">
+        {/* Completion button skeleton */}
+        <div className="h-12 w-12 animate-pulse rounded-full bg-gray-200" />
+
+        {/* Content skeleton */}
+        <div className="flex-1 space-y-2">
+          <div className="h-4 w-3/4 animate-pulse rounded bg-gray-200" />
+          <div className="h-3 w-1/2 animate-pulse rounded bg-gray-200" />
+        </div>
+
+        {/* Streak ring skeleton */}
+        <div className="h-10 w-10 animate-pulse rounded-full bg-gray-200" />
+      </CardContent>
+    </Card>
+  );
+}
+
+/**
+ * CompactHabitCard - Smaller version for list views
+ */
+interface CompactHabitCardProps {
+  habit: {
+    id: string;
+    title: string;
+    category: HabitCategory;
+  };
+  currentStreak: number;
+  isCompletedToday: boolean;
+  isLoading?: boolean;
+  onComplete: () => void;
+}
+
+export function CompactHabitCard({
+  habit,
+  currentStreak,
+  isCompletedToday,
+  isLoading = false,
+  onComplete,
+}: CompactHabitCardProps) {
+  return (
+    <div
+      className={cn(
+        "flex items-center gap-3 rounded-lg border p-3 transition-colors",
+        isCompletedToday ? "border-green-200 bg-green-50/50" : "border-gray-200 hover:bg-gray-50"
+      )}
+    >
+      <HabitCompletionButton
+        disabled={isCompletedToday}
+        disabledReason={isCompletedToday ? "Already completed today!" : undefined}
+        habitTitle={habit.title}
+        isCompleted={isCompletedToday}
+        isLoading={isLoading}
+        size="sm"
+        onComplete={onComplete}
+      />
+
+      <div className="min-w-0 flex-1">
+        <div className="flex items-center gap-2">
+          <CategoryIndicator category={habit.category} size="xs" />
+          <span
+            className={cn(
+              "truncate text-sm font-medium",
+              isCompletedToday && "text-muted-foreground line-through"
+            )}
+          >
+            {habit.title}
+          </span>
+        </div>
+      </div>
+
+      {currentStreak > 0 && <span className="text-xs text-gray-500">🔥 {currentStreak}</span>}
+    </div>
   );
 }

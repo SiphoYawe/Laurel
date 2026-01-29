@@ -22,12 +22,13 @@ export type HabitCategory = keyof typeof CATEGORY_COLORS;
 
 interface CategoryIndicatorProps {
   category: HabitCategory;
-  size?: "sm" | "md" | "lg";
+  size?: "xs" | "sm" | "md" | "lg";
   showLabel?: boolean;
   className?: string;
 }
 
 const SIZE_CONFIG = {
+  xs: { dot: "w-1.5 h-1.5", text: "text-[10px]" },
   sm: { dot: "w-2 h-2", text: "text-xs" },
   md: { dot: "w-3 h-3", text: "text-sm" },
   lg: { dot: "w-4 h-4", text: "text-base" },
