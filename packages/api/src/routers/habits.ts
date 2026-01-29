@@ -1,6 +1,10 @@
 import { createClient } from "@supabase/supabase-js";
 import { z } from "zod";
 
+import {
+  generateTwoMinuteVersion,
+  getQuickTwoMinuteVersion,
+} from "../services/ai/twoMinuteGenerator";
 import { protectedProcedure, router } from "../trpc";
 
 import type { SupabaseClient } from "@supabase/supabase-js";
@@ -495,5 +499,222 @@ export const habitsRouter = router({
       }
 
       return { success: true };
+    }),
+
+  /**
+   * Complete a habit with the two-minute version
+   * Story 2-8: Two-Minute Rule Generator
+   */
+  completeTwoMinute: protectedProcedure
+    .input(
+      z.object({
+        habitId: z.string().uuid(),
+        notes: z.string().max(500).optional(),
+      })
+    )
+    .mutation(async ({ ctx, input }) => {
+      const { userId } = ctx;
+      const supabase = getSupabaseClient();
+
+      // Verify the habit belongs to the user
+      const { data: habit, error: habitError } = await supabase
+        .from("habits")
+        .select("id, two_minute_version")
+        .eq("id", input.habitId)
+        .eq("user_id", userId)
+        .single();
+
+      if (habitError || !habit) {
+        throw new Error("Habit not found");
+      }
+
+      // Check if already completed today
+      const today = new Date().toISOString().split("T")[0];
+      const { data: existingCompletion } = await supabase
+        .from("habit_completions")
+        .select("id")
+        .eq("habit_id", input.habitId)
+        .gte("completed_at", `${today}T00:00:00Z`)
+        .lte("completed_at", `${today}T23:59:59Z`)
+        .single();
+
+      if (existingCompletion) {
+        throw new Error("Habit already completed today");
+      }
+
+      // Create completion record marked as two-minute
+      const { data: completion, error: completionError } = await supabase
+        .from("habit_completions")
+        .insert({
+          habit_id: input.habitId,
+          user_id: userId,
+          completed_at: new Date().toISOString(),
+          duration_minutes: 2, // Two-minute version
+          notes: input.notes || "Completed 2-minute version",
+          is_two_minute: true,
+        })
+        .select()
+        .single();
+
+      if (completionError || !completion) {
+        console.error("Error creating two-minute completion:", completionError);
+        throw new Error("Failed to complete habit");
+      }
+
+      // Update streak (two-minute completions still count!)
+      const { data: streak } = await supabase
+        .from("habit_streaks")
+        .select("*")
+        .eq("habit_id", input.habitId)
+        .single();
+
+      const currentStreak = (streak?.current_streak || 0) + 1;
+      const longestStreak = Math.max(streak?.longest_streak || 0, currentStreak);
+
+      await supabase
+        .from("habit_streaks")
+        .upsert({
+          habit_id: input.habitId,
+          current_streak: currentStreak,
+          longest_streak: longestStreak,
+          last_completed_date: today,
+          updated_at: new Date().toISOString(),
+        })
+        .eq("habit_id", input.habitId);
+
+      return {
+        completion,
+        streak: {
+          current_streak: currentStreak,
+          longest_streak: longestStreak,
+          last_completed_date: today,
+        },
+        message: "Great start! Want to keep going?",
+      };
+    }),
+
+  /**
+   * Upgrade a two-minute completion to full completion
+   * Called when user continues after two-minute version
+   */
+  upgradeToFull: protectedProcedure
+    .input(
+      z.object({
+        completionId: z.string().uuid(),
+        continuedDurationMinutes: z.number().int().min(1).max(480),
+      })
+    )
+    .mutation(async ({ ctx, input }) => {
+      const { userId } = ctx;
+      const supabase = getSupabaseClient();
+
+      // Update the completion record
+      const { data: completion, error } = await supabase
+        .from("habit_completions")
+        .update({
+          is_two_minute: false,
+          duration_minutes: input.continuedDurationMinutes + 2, // Total time
+          continued_duration: input.continuedDurationMinutes,
+          notes: "Started with 2-minute version, then continued",
+          updated_at: new Date().toISOString(),
+        })
+        .eq("id", input.completionId)
+        .eq("user_id", userId)
+        .select()
+        .single();
+
+      if (error || !completion) {
+        console.error("Error upgrading completion:", error);
+        throw new Error("Failed to upgrade completion");
+      }
+
+      return {
+        completion,
+        message: "Amazing dedication! You went beyond the 2-minute start!",
+      };
+    }),
+
+  /**
+   * Generate a two-minute version for a habit
+   * Story 2-8: AI-powered two-minute rule generation
+   */
+  generateTwoMinute: protectedProcedure
+    .input(
+      z.object({
+        habitId: z.string().uuid().optional(),
+        title: z.string().min(1).max(100),
+        routine: z.string().max(500).optional(),
+        duration: z.number().int().min(1).max(480).optional(),
+        category: z
+          .enum([
+            "study",
+            "exercise",
+            "health",
+            "productivity",
+            "mindfulness",
+            "social",
+            "creative",
+            "other",
+          ])
+          .optional(),
+        useAI: z.boolean().default(true),
+      })
+    )
+    .mutation(async ({ input }) => {
+      if (input.useAI) {
+        const result = await generateTwoMinuteVersion({
+          habitTitle: input.title,
+          habitRoutine: input.routine || input.title,
+          duration: input.duration,
+          category: input.category,
+        });
+
+        return {
+          twoMinuteVersion: result.twoMinuteVersion,
+          isAIGenerated: result.isAIGenerated,
+          confidence: result.confidence,
+        };
+      }
+
+      // Use quick fallback
+      const twoMinuteVersion = getQuickTwoMinuteVersion(input.title, input.category);
+      return {
+        twoMinuteVersion,
+        isAIGenerated: false,
+        confidence: 0.5,
+      };
+    }),
+
+  /**
+   * Save a two-minute version to an existing habit
+   */
+  saveTwoMinuteVersion: protectedProcedure
+    .input(
+      z.object({
+        habitId: z.string().uuid(),
+        twoMinuteVersion: z.string().min(5).max(200),
+      })
+    )
+    .mutation(async ({ ctx, input }) => {
+      const { userId } = ctx;
+      const supabase = getSupabaseClient();
+
+      const { data: habit, error } = await supabase
+        .from("habits")
+        .update({
+          two_minute_version: input.twoMinuteVersion,
+          updated_at: new Date().toISOString(),
+        })
+        .eq("id", input.habitId)
+        .eq("user_id", userId)
+        .select()
+        .single();
+
+      if (error || !habit) {
+        console.error("Error saving two-minute version:", error);
+        throw new Error("Failed to save two-minute version");
+      }
+
+      return habit;
     }),
 });
