@@ -8,9 +8,6 @@ import { useRouter, useSearchParams } from "next/navigation";
 import { useCallback, useEffect, useState } from "react";
 import { useForm } from "react-hook-form";
 
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-import { Label } from "@/components/ui/label";
 import { signInWithEmail } from "@/lib/supabase/auth";
 
 const MAX_ATTEMPTS = 5;
@@ -139,14 +136,17 @@ export function LoginForm() {
   if (isRateLimited) {
     return (
       <div className="space-y-4">
-        <div className="rounded-md bg-amber-50 p-4 text-center">
-          <p className="text-sm font-medium text-amber-800">Too many login attempts</p>
-          <p className="mt-1 text-sm text-amber-600">
+        <div className="bg-laurel-amber/10 border-laurel-amber/20 rounded-xl border p-4 text-center">
+          <p className="text-laurel-amber text-sm font-medium">Too many login attempts</p>
+          <p className="text-laurel-cream/60 mt-1 text-sm">
             Please try again in {lockoutRemaining} minute{lockoutRemaining !== 1 ? "s" : ""}.
           </p>
         </div>
-        <p className="text-center text-sm text-gray-600">
-          <Link className="text-[#2D5A3D] hover:underline" href="/forgot-password">
+        <p className="text-laurel-cream/50 text-center text-sm">
+          <Link
+            className="text-laurel-sage hover:text-laurel-glow transition-colors"
+            href="/forgot-password"
+          >
             Forgot your password?
           </Link>
         </p>
@@ -155,35 +155,42 @@ export function LoginForm() {
   }
 
   return (
-    <form className="space-y-4" onSubmit={handleSubmit(onSubmit)}>
+    <form className="space-y-5" onSubmit={handleSubmit(onSubmit)}>
       {/* Server Error */}
       {serverError && (
-        <div className="rounded-md bg-red-50 p-3 text-sm text-red-600">{serverError}</div>
+        <div className="rounded-xl border border-red-500/20 bg-red-500/10 p-3 text-sm text-red-400">
+          {serverError}
+        </div>
       )}
 
       {/* Success message from password reset */}
       {searchParams.get("reset") === "success" && (
-        <div className="rounded-md bg-green-50 p-3 text-sm text-green-600">
+        <div className="bg-laurel-glow/10 border-laurel-glow/20 text-laurel-glow rounded-xl border p-3 text-sm">
           Password reset successful! Please log in with your new password.
         </div>
       )}
 
       {/* Email */}
       <div className="space-y-2">
-        <Label error={!!errors.email} htmlFor="email">
+        <label
+          className={`text-sm font-medium ${errors.email ? "text-red-400" : "text-laurel-cream/70"}`}
+          htmlFor="email"
+        >
           Email
-        </Label>
-        <Input
+        </label>
+        <input
           aria-describedby={errors.email ? "email-error" : undefined}
           autoComplete="email"
-          error={!!errors.email}
+          className={`bg-laurel-cream/5 w-full rounded-xl border px-4 py-3 ${
+            errors.email ? "border-red-500/50" : "border-laurel-sage/20"
+          } text-laurel-cream placeholder:text-laurel-cream/30 focus:border-laurel-sage/50 focus:ring-laurel-sage/50 transition-all duration-300 focus:outline-none focus:ring-1`}
           id="email"
           placeholder="you@example.com"
           type="email"
           {...register("email")}
         />
         {errors.email && (
-          <p className="text-sm text-red-500" id="email-error">
+          <p className="text-sm text-red-400" id="email-error">
             {errors.email.message}
           </p>
         )}
@@ -192,11 +199,14 @@ export function LoginForm() {
       {/* Password */}
       <div className="space-y-2">
         <div className="flex items-center justify-between">
-          <Label error={!!errors.password} htmlFor="password">
+          <label
+            className={`text-sm font-medium ${errors.password ? "text-red-400" : "text-laurel-cream/70"}`}
+            htmlFor="password"
+          >
             Password
-          </Label>
+          </label>
           <Link
-            className="text-sm text-[#2D5A3D] hover:underline"
+            className="text-laurel-sage hover:text-laurel-glow text-sm transition-colors"
             href="/forgot-password"
             tabIndex={-1}
           >
@@ -204,11 +214,12 @@ export function LoginForm() {
           </Link>
         </div>
         <div className="relative">
-          <Input
+          <input
             aria-describedby={errors.password ? "password-error" : undefined}
             autoComplete="current-password"
-            className="pr-10"
-            error={!!errors.password}
+            className={`bg-laurel-cream/5 w-full rounded-xl border px-4 py-3 pr-12 ${
+              errors.password ? "border-red-500/50" : "border-laurel-sage/20"
+            } text-laurel-cream placeholder:text-laurel-cream/30 focus:border-laurel-sage/50 focus:ring-laurel-sage/50 transition-all duration-300 focus:outline-none focus:ring-1`}
             id="password"
             placeholder="Enter your password"
             type={showPassword ? "text" : "password"}
@@ -216,7 +227,7 @@ export function LoginForm() {
           />
           <button
             aria-label={showPassword ? "Hide password" : "Show password"}
-            className="absolute right-3 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600"
+            className="text-laurel-cream/40 hover:text-laurel-cream/70 absolute right-3 top-1/2 -translate-y-1/2 transition-colors"
             type="button"
             onClick={() => setShowPassword(!showPassword)}
           >
@@ -224,21 +235,39 @@ export function LoginForm() {
           </button>
         </div>
         {errors.password && (
-          <p className="text-sm text-red-500" id="password-error">
+          <p className="text-sm text-red-400" id="password-error">
             {errors.password.message}
           </p>
         )}
       </div>
 
       {/* Submit */}
-      <Button className="w-full" isLoading={isSubmitting} type="submit">
-        Log In
-      </Button>
+      <button
+        className="group relative w-full overflow-hidden rounded-full py-3 disabled:cursor-not-allowed disabled:opacity-50"
+        disabled={isSubmitting}
+        type="submit"
+      >
+        <div className="from-laurel-glow to-laurel-sage absolute inset-0 bg-gradient-to-r" />
+        <div className="from-laurel-sage to-laurel-glow absolute inset-0 bg-gradient-to-r opacity-0 transition-opacity duration-500 group-hover:opacity-100" />
+        <span className="text-laurel-midnight relative flex items-center justify-center gap-2 font-semibold">
+          {isSubmitting ? (
+            <>
+              <div className="border-laurel-midnight/30 border-t-laurel-midnight h-5 w-5 animate-spin rounded-full border-2" />
+              Logging in...
+            </>
+          ) : (
+            "Log In"
+          )}
+        </span>
+      </button>
 
       {/* Signup Link */}
-      <p className="text-center text-sm text-gray-600">
+      <p className="text-laurel-cream/50 text-center text-sm">
         Don&apos;t have an account?{" "}
-        <Link className="text-[#2D5A3D] hover:underline" href="/signup">
+        <Link
+          className="text-laurel-sage hover:text-laurel-glow font-medium transition-colors"
+          href="/signup"
+        >
           Sign up
         </Link>
       </p>

@@ -2,7 +2,7 @@
 
 import { createContext, useContext, useEffect, useState, type ReactNode } from "react";
 
-import { createClient } from "./client";
+import { createClient, isSupabaseConfigured } from "./client";
 
 import type { Session, User } from "@supabase/supabase-js";
 
@@ -10,20 +10,29 @@ interface AuthContextType {
   user: User | null;
   session: Session | null;
   isLoading: boolean;
+  isConfigured: boolean;
 }
 
 const AuthContext = createContext<AuthContextType>({
   user: null,
   session: null,
   isLoading: true,
+  isConfigured: false,
 });
 
 export function AuthProvider({ children }: { children: ReactNode }) {
   const [user, setUser] = useState<User | null>(null);
   const [session, setSession] = useState<Session | null>(null);
   const [isLoading, setIsLoading] = useState(true);
+  const configured = isSupabaseConfigured();
 
   useEffect(() => {
+    // If Supabase is not configured, skip auth initialization
+    if (!configured) {
+      setIsLoading(false);
+      return;
+    }
+
     const supabase = createClient();
 
     // Get initial session
@@ -43,10 +52,12 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     });
 
     return () => subscription.unsubscribe();
-  }, []);
+  }, [configured]);
 
   return (
-    <AuthContext.Provider value={{ user, session, isLoading }}>{children}</AuthContext.Provider>
+    <AuthContext.Provider value={{ user, session, isLoading, isConfigured: configured }}>
+      {children}
+    </AuthContext.Provider>
   );
 }
 
