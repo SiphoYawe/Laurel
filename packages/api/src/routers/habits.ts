@@ -802,4 +802,62 @@ export const habitsRouter = router({
 
       return habit;
     }),
+
+  /**
+   * Get habit statistics for the user
+   * Story 4-2: XP Earning System (profile stats)
+   */
+  getStats: protectedProcedure.query(async ({ ctx }) => {
+    const { userId } = ctx;
+    const supabase = getSupabaseClient();
+
+    // Get total habits count
+    const { count: totalHabits } = await supabase
+      .from("habits")
+      .select("*", { count: "exact", head: true })
+      .eq("user_id", userId)
+      .eq("is_active", true);
+
+    // Get total completions count
+    const { count: totalCompletions } = await supabase
+      .from("habit_completions")
+      .select("*", { count: "exact", head: true })
+      .eq("user_id", userId);
+
+    // Get user's habit IDs first
+    const { data: userHabits } = await supabase.from("habits").select("id").eq("user_id", userId);
+
+    const habitIds = userHabits?.map((h) => h.id) || [];
+
+    // Get longest streak across all habits
+    let longestStreak = 0;
+    let currentActiveStreaks = 0;
+
+    if (habitIds.length > 0) {
+      const { data: streaks } = await supabase
+        .from("habit_streaks")
+        .select("longest_streak, current_streak, habit_id")
+        .in("habit_id", habitIds);
+
+      longestStreak = streaks?.reduce((max, s) => Math.max(max, s.longest_streak || 0), 0) || 0;
+      currentActiveStreaks = streaks?.filter((s) => (s.current_streak || 0) > 0).length || 0;
+    }
+
+    // Get completions this week
+    const weekAgo = new Date();
+    weekAgo.setDate(weekAgo.getDate() - 7);
+    const { count: completionsThisWeek } = await supabase
+      .from("habit_completions")
+      .select("*", { count: "exact", head: true })
+      .eq("user_id", userId)
+      .gte("completed_at", weekAgo.toISOString());
+
+    return {
+      totalHabits: totalHabits || 0,
+      totalCompletions: totalCompletions || 0,
+      longestStreak,
+      currentActiveStreaks,
+      completionsThisWeek: completionsThisWeek || 0,
+    };
+  }),
 });
