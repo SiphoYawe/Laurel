@@ -5,26 +5,14 @@ import { z } from "zod";
  * Zod schemas for input validation
  */
 
+// Re-export auth validations
+export * from "./auth";
+
 // User validation schemas
 export const userSchema = z.object({
   email: z.string().email("Invalid email address"),
   displayName: z.string().min(2, "Display name must be at least 2 characters").max(50).optional(),
 });
-
-export const loginSchema = z.object({
-  email: z.string().email("Invalid email address"),
-  password: z.string().min(8, "Password must be at least 8 characters"),
-});
-
-export const signupSchema = loginSchema
-  .extend({
-    displayName: z.string().min(2, "Display name must be at least 2 characters").max(50),
-    confirmPassword: z.string(),
-  })
-  .refine((data) => data.password === data.confirmPassword, {
-    message: "Passwords do not match",
-    path: ["confirmPassword"],
-  });
 
 // Pagination validation
 export const paginationSchema = z.object({
