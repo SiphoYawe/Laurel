@@ -1,16 +1,17 @@
 "use client";
 
-import { Bell, Clock, Moon } from "lucide-react";
+import { AlertTriangle, Bell, Clock, Mail, Moon, Users, Sparkles } from "lucide-react";
 import { useState } from "react";
 
 import { NotificationPermissionPrompt } from "./NotificationPermissionPrompt";
 
+import { Button } from "@/components/ui/button";
 import { useNotifications } from "@/hooks/useNotifications";
 import { cn } from "@/lib/utils";
 
 /**
  * NotificationSettings - Notification preferences UI
- * Story 3-7: Habit Reminder Notifications
+ * Story 3-7 & 3-8: Habit Reminder Notifications & Quiet Hours
  */
 
 interface NotificationSettingsProps {
@@ -30,6 +31,10 @@ export function NotificationSettings({ className }: NotificationSettingsProps) {
   } = useNotifications();
 
   const [showPermissionPrompt, setShowPermissionPrompt] = useState(false);
+
+  // Check if all notifications are disabled
+  const allNotificationsDisabled =
+    !preferences.remindersEnabled && !preferences.streakWarningsEnabled;
 
   const handleToggleReminders = async (enabled: boolean) => {
     if (enabled && needsPermission) {
@@ -85,6 +90,30 @@ export function NotificationSettings({ className }: NotificationSettingsProps) {
           </div>
         )}
 
+        {/* All notifications disabled warning */}
+        {allNotificationsDisabled && !isPermissionDenied && (
+          <div className="flex items-start gap-3 rounded-lg bg-amber-50 p-4">
+            <AlertTriangle className="mt-0.5 h-5 w-5 shrink-0 text-amber-600" />
+            <div className="flex-1">
+              <p className="text-sm font-medium text-amber-800">Notifications are off</p>
+              <p className="text-sm text-amber-700">
+                You might miss habit reminders and streak warnings.
+              </p>
+              <Button
+                className="mt-2"
+                size="sm"
+                variant="outline"
+                onClick={() => {
+                  toggleReminders(true);
+                  toggleStreakWarnings(true);
+                }}
+              >
+                Turn on notifications
+              </Button>
+            </div>
+          </div>
+        )}
+
         {/* Settings list */}
         <div className="divide-y rounded-lg border">
           {/* Habit reminders */}
@@ -107,13 +136,76 @@ export function NotificationSettings({ className }: NotificationSettingsProps) {
 
           {/* Quiet hours */}
           <SettingRow
-            description={`No notifications from ${preferences.quietHoursStart} to ${preferences.quietHoursEnd}`}
+            description={`No notifications from ${formatTime(preferences.quietHoursStart)} to ${formatTime(preferences.quietHoursEnd)}`}
             enabled={preferences.quietHoursEnabled}
             icon={<Moon className="h-5 w-5" />}
             title="Quiet Hours"
             onToggle={(enabled) => updatePreference("quietHoursEnabled", enabled)}
           />
+
+          {/* Daily summary (optional) */}
+          <SettingRow
+            description="Get a daily summary of your progress"
+            enabled={preferences.dailySummaryEnabled}
+            icon={<Mail className="h-5 w-5" />}
+            title="Daily Summary"
+            onToggle={(enabled) => updatePreference("dailySummaryEnabled", enabled)}
+          />
         </div>
+
+        {/* Quiet hours time configuration */}
+        {preferences.quietHoursEnabled && (
+          <div className="rounded-lg border p-4">
+            <div className="mb-4 flex items-center gap-2">
+              <Moon className="text-muted-foreground h-4 w-4" />
+              <span className="text-sm font-medium">Quiet Hours Schedule</span>
+            </div>
+
+            <div className="grid grid-cols-2 gap-4">
+              <div>
+                <label className="text-muted-foreground mb-1 block text-xs" htmlFor="quiet-start">
+                  Start time
+                </label>
+                <select
+                  className="border-input bg-background w-full rounded-md border px-3 py-2 text-sm"
+                  id="quiet-start"
+                  value={preferences.quietHoursStart}
+                  onChange={(e) => updatePreference("quietHoursStart", e.target.value)}
+                >
+                  {generateTimeOptions().map((time) => (
+                    <option key={`start-${time.value}`} value={time.value}>
+                      {time.label}
+                    </option>
+                  ))}
+                </select>
+              </div>
+
+              <div>
+                <label className="text-muted-foreground mb-1 block text-xs" htmlFor="quiet-end">
+                  End time
+                </label>
+                <select
+                  className="border-input bg-background w-full rounded-md border px-3 py-2 text-sm"
+                  id="quiet-end"
+                  value={preferences.quietHoursEnd}
+                  onChange={(e) => updatePreference("quietHoursEnd", e.target.value)}
+                >
+                  {generateTimeOptions().map((time) => (
+                    <option key={`end-${time.value}`} value={time.value}>
+                      {time.label}
+                    </option>
+                  ))}
+                </select>
+              </div>
+            </div>
+
+            {/* Visual timeline */}
+            <QuietHoursPreview
+              end={preferences.quietHoursEnd}
+              start={preferences.quietHoursStart}
+            />
+          </div>
+        )}
 
         {/* Advanced settings */}
         {preferences.streakWarningsEnabled && (
@@ -192,4 +284,82 @@ function SettingRow({
       </button>
     </div>
   );
+}
+
+/**
+ * Visual preview of quiet hours
+ */
+function QuietHoursPreview({ start, end }: { start: string; end: string }) {
+  const startHour = parseInt(start.split(":")[0], 10);
+  const endHour = parseInt(end.split(":")[0], 10);
+
+  // Calculate percentage positions (24-hour scale)
+  const startPercent = (startHour / 24) * 100;
+  const endPercent = (endHour / 24) * 100;
+
+  // Handle overnight spans
+  const isOvernight = startHour > endHour;
+
+  return (
+    <div className="mt-4">
+      <div className="text-muted-foreground mb-2 text-xs">Quiet period</div>
+      <div className="relative h-4 w-full overflow-hidden rounded-full bg-gray-100">
+        {isOvernight ? (
+          <>
+            {/* Start to midnight */}
+            <div
+              className="absolute left-0 h-full bg-indigo-200"
+              style={{ left: `${startPercent}%`, width: `${100 - startPercent}%` }}
+            />
+            {/* Midnight to end */}
+            <div
+              className="absolute left-0 h-full bg-indigo-200"
+              style={{ width: `${endPercent}%` }}
+            />
+          </>
+        ) : (
+          <div
+            className="absolute h-full bg-indigo-200"
+            style={{ left: `${startPercent}%`, width: `${endPercent - startPercent}%` }}
+          />
+        )}
+      </div>
+      <div className="text-muted-foreground mt-1 flex justify-between text-xs">
+        <span>12 AM</span>
+        <span>6 AM</span>
+        <span>12 PM</span>
+        <span>6 PM</span>
+        <span>12 AM</span>
+      </div>
+    </div>
+  );
+}
+
+/**
+ * Generate time options for dropdown (30-minute intervals)
+ */
+function generateTimeOptions(): Array<{ value: string; label: string }> {
+  const options: Array<{ value: string; label: string }> = [];
+
+  for (let hour = 0; hour < 24; hour++) {
+    for (const minute of [0, 30]) {
+      const value = `${hour.toString().padStart(2, "0")}:${minute.toString().padStart(2, "0")}`;
+      const displayHour = hour % 12 || 12;
+      const ampm = hour < 12 ? "AM" : "PM";
+      const label = `${displayHour}:${minute.toString().padStart(2, "0")} ${ampm}`;
+      options.push({ value, label });
+    }
+  }
+
+  return options;
+}
+
+/**
+ * Format time string to 12-hour format
+ */
+function formatTime(time: string): string {
+  const [hour, minute] = time.split(":").map(Number);
+  const displayHour = hour % 12 || 12;
+  const ampm = hour < 12 ? "AM" : "PM";
+  return `${displayHour}:${minute.toString().padStart(2, "0")} ${ampm}`;
 }
