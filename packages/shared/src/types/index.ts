@@ -3,15 +3,11 @@
  * Common type definitions used across the application
  */
 
-// User types
-export interface User {
-  id: string;
-  email: string;
-  displayName?: string;
-  avatarUrl?: string;
-  createdAt: Date;
-  updatedAt: Date;
-}
+// User types - export from dedicated user types file
+export * from "./user";
+
+// Legacy User type alias for backwards compatibility
+export type { Profile as User } from "./user";
 
 // Common API response types
 export interface ApiResponse<T> {
