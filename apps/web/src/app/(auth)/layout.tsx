@@ -1,48 +1,7 @@
+import Image from "next/image";
 import Link from "next/link";
 
 import type { ReactNode } from "react";
-
-// Laurel wreath SVG for the logo
-function LaurelWreath({ className = "" }: { className?: string }) {
-  return (
-    <svg className={className} fill="none" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
-      <g transform="translate(10, 20)">
-        <path
-          d="M40 80C35 70 30 50 35 30C25 35 15 50 20 70C25 85 40 80 40 80Z"
-          fill="currentColor"
-          fillOpacity="0.8"
-        />
-        <path
-          d="M35 65C30 55 28 40 32 25C24 30 18 42 22 58C25 70 35 65 35 65Z"
-          fill="currentColor"
-          fillOpacity="0.6"
-        />
-        <path
-          d="M30 50C27 42 26 30 29 18C23 22 18 32 21 44C23 54 30 50 30 50Z"
-          fill="currentColor"
-          fillOpacity="0.4"
-        />
-      </g>
-      <g transform="translate(70, 20) scale(-1, 1)">
-        <path
-          d="M40 80C35 70 30 50 35 30C25 35 15 50 20 70C25 85 40 80 40 80Z"
-          fill="currentColor"
-          fillOpacity="0.8"
-        />
-        <path
-          d="M35 65C30 55 28 40 32 25C24 30 18 42 22 58C25 70 35 65 35 65Z"
-          fill="currentColor"
-          fillOpacity="0.6"
-        />
-        <path
-          d="M30 50C27 42 26 30 29 18C23 22 18 32 21 44C23 54 30 50 30 50Z"
-          fill="currentColor"
-          fillOpacity="0.4"
-        />
-      </g>
-    </svg>
-  );
-}
 
 /**
  * Auth Layout
@@ -65,9 +24,15 @@ export default function AuthLayout({ children }: { children: ReactNode }) {
         <div className="w-full max-w-md">
           {/* Logo */}
           <Link className="group mb-8 flex flex-col items-center" href="/">
-            <LaurelWreath className="text-laurel-glow h-16 w-16 transition-transform duration-300 group-hover:scale-105" />
-            <span className="font-display text-laurel-cream mt-2 text-3xl">Laurel</span>
-            <span className="text-laurel-cream/40 mt-1 text-sm">
+            <Image
+              priority
+              alt="Laurel"
+              className="h-16 w-auto transition-transform duration-300 group-hover:scale-105"
+              height={64}
+              src="/laurel-logo-white.svg"
+              width={230}
+            />
+            <span className="text-laurel-cream/40 mt-3 text-sm">
               Cultivate habits that flourish
             </span>
           </Link>

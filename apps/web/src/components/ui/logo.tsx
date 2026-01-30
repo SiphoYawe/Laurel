@@ -14,10 +14,16 @@ const sizes = {
 
 /**
  * Laurel Logo Component
- * Uses the official laurel.svg from the project root
+ * Uses the official Laurel logo SVG
  */
-export function Logo({ size = "md", showText = false, className = "" }: LogoProps) {
+export function Logo({
+  size = "md",
+  showText = false,
+  variant = "color",
+  className = "",
+}: LogoProps & { variant?: "color" | "white" }) {
   const { logo } = sizes[size];
+  const src = variant === "white" ? "/laurel-logo-white.svg" : "/laurel-logo.svg";
 
   return (
     <div className={`flex flex-col items-center ${className}`}>
@@ -25,7 +31,7 @@ export function Logo({ size = "md", showText = false, className = "" }: LogoProp
         priority
         alt="Laurel Logo"
         height={logo}
-        src="/laurel.svg"
+        src={src}
         width={Math.round(logo * 3.6)} // Maintain aspect ratio (1260:350)
       />
       {showText && <p className="mt-2 text-sm text-gray-500">Build habits that stick</p>}

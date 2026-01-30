@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 
@@ -18,50 +19,6 @@ function BotanicalLeaf({ className = "" }: { className?: string }) {
         strokeOpacity="0.3"
         strokeWidth="1"
       />
-    </svg>
-  );
-}
-
-// Laurel wreath SVG for the logo
-function LaurelWreath({ className = "" }: { className?: string }) {
-  return (
-    <svg className={className} fill="none" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
-      {/* Left branch */}
-      <g transform="translate(10, 20)">
-        <path
-          d="M40 80C35 70 30 50 35 30C25 35 15 50 20 70C25 85 40 80 40 80Z"
-          fill="currentColor"
-          fillOpacity="0.8"
-        />
-        <path
-          d="M35 65C30 55 28 40 32 25C24 30 18 42 22 58C25 70 35 65 35 65Z"
-          fill="currentColor"
-          fillOpacity="0.6"
-        />
-        <path
-          d="M30 50C27 42 26 30 29 18C23 22 18 32 21 44C23 54 30 50 30 50Z"
-          fill="currentColor"
-          fillOpacity="0.4"
-        />
-      </g>
-      {/* Right branch (mirrored) */}
-      <g transform="translate(70, 20) scale(-1, 1)">
-        <path
-          d="M40 80C35 70 30 50 35 30C25 35 15 50 20 70C25 85 40 80 40 80Z"
-          fill="currentColor"
-          fillOpacity="0.8"
-        />
-        <path
-          d="M35 65C30 55 28 40 32 25C24 30 18 42 22 58C25 70 35 65 35 65Z"
-          fill="currentColor"
-          fillOpacity="0.6"
-        />
-        <path
-          d="M30 50C27 42 26 30 29 18C23 22 18 32 21 44C23 54 30 50 30 50Z"
-          fill="currentColor"
-          fillOpacity="0.4"
-        />
-      </g>
     </svg>
   );
 }
@@ -142,11 +99,17 @@ export default function Home() {
         <div className="mx-auto flex max-w-7xl items-center justify-between">
           {/* Logo */}
           <div
-            className="animate-fade-in flex items-center gap-3 opacity-0"
+            className="animate-fade-in flex items-center opacity-0"
             style={{ animationDelay: "100ms", animationFillMode: "forwards" }}
           >
-            <LaurelWreath className="text-laurel-glow h-10 w-10" />
-            <span className="font-display text-laurel-cream text-2xl">Laurel</span>
+            <Image
+              priority
+              alt="Laurel"
+              className="h-10 w-auto"
+              height={40}
+              src="/laurel-logo-white.svg"
+              width={144}
+            />
           </div>
 
           {/* Nav links */}
@@ -372,7 +335,13 @@ export default function Home() {
           <div className="from-laurel-moss/60 to-laurel-fern/40 border-laurel-sage/20 relative overflow-hidden rounded-3xl border bg-gradient-to-br p-12 md:p-16">
             {/* Background decoration */}
             <div className="bg-laurel-glow/5 absolute right-0 top-0 h-64 w-64 rounded-full blur-[80px]" />
-            <LaurelWreath className="text-laurel-sage/10 absolute -bottom-10 -right-10 h-48 w-48" />
+            <Image
+              alt=""
+              className="absolute -bottom-10 -right-10 h-48 w-auto opacity-10"
+              height={192}
+              src="/laurel-logo-white.svg"
+              width={691}
+            />
 
             <div className="relative text-center">
               <h2 className="font-display text-laurel-cream mb-4 text-3xl md:text-4xl">
@@ -416,7 +385,13 @@ export default function Home() {
       {/* Final CTA Section */}
       <section className="relative px-6 py-32">
         <div className="mx-auto max-w-3xl text-center">
-          <LaurelWreath className="text-laurel-sage/40 mx-auto mb-8 h-20 w-20" />
+          <Image
+            alt="Laurel"
+            className="mx-auto mb-8 h-20 w-auto opacity-40"
+            height={80}
+            src="/laurel-logo-white.svg"
+            width={288}
+          />
 
           <h2 className="font-display text-laurel-cream mb-6 text-4xl md:text-5xl">
             Begin your transformation
@@ -455,9 +430,14 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-laurel-sage/10 relative border-t px-6 py-12">
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-6 md:flex-row">
-          <div className="flex items-center gap-3">
-            <LaurelWreath className="text-laurel-sage/60 h-8 w-8" />
-            <span className="font-display text-laurel-cream/60 text-xl">Laurel</span>
+          <div className="flex items-center">
+            <Image
+              alt="Laurel"
+              className="h-8 w-auto opacity-60"
+              height={32}
+              src="/laurel-logo-white.svg"
+              width={115}
+            />
           </div>
 
           <div className="text-laurel-cream/40 flex items-center gap-8 text-sm">
