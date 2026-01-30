@@ -3,6 +3,23 @@ import { createClient } from "./client";
 import type { Provider } from "@supabase/supabase-js";
 
 /**
+ * Get the site URL for auth redirects
+ * Uses NEXT_PUBLIC_SITE_URL env var, falling back to window.location.origin
+ */
+function getSiteUrl(): string {
+  // Use environment variable if set (for production)
+  if (process.env.NEXT_PUBLIC_SITE_URL) {
+    return process.env.NEXT_PUBLIC_SITE_URL;
+  }
+  // Fallback to window.location.origin for local development
+  if (typeof window !== "undefined") {
+    return window.location.origin;
+  }
+  // Default fallback
+  return "http://localhost:3000";
+}
+
+/**
  * Auth error message mapping
  */
 const AUTH_ERROR_MESSAGES: Record<string, string> = {
@@ -47,7 +64,7 @@ export async function signUpWithEmail(email: string, password: string) {
     email,
     password,
     options: {
-      emailRedirectTo: `${window.location.origin}/auth/callback`,
+      emailRedirectTo: `${getSiteUrl()}/auth/callback`,
     },
   });
 
@@ -85,7 +102,7 @@ export async function signInWithOAuth(provider: Provider) {
   const { data, error } = await supabase.auth.signInWithOAuth({
     provider,
     options: {
-      redirectTo: `${window.location.origin}/auth/callback`,
+      redirectTo: `${getSiteUrl()}/auth/callback`,
     },
   });
 
@@ -123,7 +140,7 @@ export async function resendVerificationEmail(email: string) {
     type: "signup",
     email,
     options: {
-      emailRedirectTo: `${window.location.origin}/auth/callback`,
+      emailRedirectTo: `${getSiteUrl()}/auth/callback`,
     },
   });
 
@@ -139,7 +156,7 @@ export async function sendPasswordResetEmail(email: string) {
   const supabase = createClient();
 
   const { error } = await supabase.auth.resetPasswordForEmail(email, {
-    redirectTo: `${window.location.origin}/auth/callback?type=recovery`,
+    redirectTo: `${getSiteUrl()}/auth/callback?type=recovery`,
   });
 
   if (error) {
