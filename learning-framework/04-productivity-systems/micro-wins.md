@@ -397,7 +397,7 @@ Many students don't believe they can achieve their goals. Not because they lack 
 
 Write it down:
 
-- "I need to ****\*\*****\_\_\_****\*\*****"
+- "I need to \***\*\*\*\*\***\_\_\_\***\*\*\*\*\***"
 
 Examples:
 
@@ -418,7 +418,7 @@ Examples:
 
 **Your micro-goal:**
 
-- "I will ****\*\*****\_\_\_****\*\*****"
+- "I will \***\*\*\*\*\***\_\_\_\***\*\*\*\*\***"
 
 Examples:
 
