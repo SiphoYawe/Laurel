@@ -1,0 +1,30 @@
+name: PR Preview Build
+
+on:
+  pull_request:
+    paths:
+      - "apps/mobile/**"
+
+jobs:
+  build_android:
+    name: Build Android Preview
+    type: build
+    params:
+      platform: android
+      profile: preview
+      message: "PR #${{ github.event.pull_request.number }}: ${{ github.event.pull_request.title }}"
+
+  build_ios:
+    name: Build iOS Preview
+    type: build
+    params:
+      platform: ios
+      profile: preview
+      message: "PR #${{ github.event.pull_request.number }}: ${{ github.event.pull_request.title }}"
+
+  comment_on_pr:
+    name: Post Build Links to PR
+    after: [build_android, build_ios]
+    type: github-comment
+    params:
+      message: "Preview builds are ready for testing! Scan the QR codes below to install on your device."

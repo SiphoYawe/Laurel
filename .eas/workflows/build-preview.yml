@@ -3,9 +3,8 @@ name: Build Preview
 on:
   push:
     branches: ["develop", "staging"]
-
-defaults:
-  working_directory: apps/mobile
+    paths:
+      - "apps/mobile/**"
 
 jobs:
   build_android:

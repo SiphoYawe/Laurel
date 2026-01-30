@@ -1,0 +1,42 @@
+name: Manual Build
+
+on:
+  workflow_dispatch:
+    inputs:
+      platform:
+        description: "Platform to build"
+        required: true
+        type: choice
+        options:
+          - all
+          - android
+          - ios
+        default: all
+      profile:
+        description: "Build profile"
+        required: true
+        type: choice
+        options:
+          - development
+          - preview
+          - production
+        default: preview
+
+jobs:
+  build_android:
+    name: Build Android
+    if: ${{ inputs.platform == 'all' || inputs.platform == 'android' }}
+    type: build
+    params:
+      platform: android
+      profile: ${{ inputs.profile }}
+      message: "Manual build - Profile: ${{ inputs.profile }}"
+
+  build_ios:
+    name: Build iOS
+    if: ${{ inputs.platform == 'all' || inputs.platform == 'ios' }}
+    type: build
+    params:
+      platform: ios
+      profile: ${{ inputs.profile }}
+      message: "Manual build - Profile: ${{ inputs.profile }}"

@@ -1,0 +1,38 @@
+name: Build for TestFlight
+
+on:
+  push:
+    branches: ["release/*"]
+    paths:
+      - "apps/mobile/**"
+
+jobs:
+  build_ios:
+    name: Build iOS for TestFlight
+    type: build
+    params:
+      platform: ios
+      profile: production
+      message: "TestFlight build from ${{ github.ref_name }}"
+
+  notify_build:
+    name: Build Ready for TestFlight
+    needs: [build_ios]
+    type: doc
+    params:
+      md: |
+        # iOS Build Ready for TestFlight
+
+        The iOS production build is complete and ready for manual upload to TestFlight.
+
+        ## Build Details
+        - **Build ID**: ${{ needs.build_ios.outputs.build_id }}
+        - **Version**: ${{ needs.build_ios.outputs.app_version }}
+        - **Build Number**: ${{ needs.build_ios.outputs.app_build_version }}
+        - **Branch**: ${{ github.ref_name }}
+
+        ## Manual Upload
+        You can upload this build to TestFlight from the EAS dashboard or by running:
+        ```
+        eas submit --platform ios --id ${{ needs.build_ios.outputs.build_id }}
+        ```
