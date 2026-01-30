@@ -1,6 +1,7 @@
 # Prompt Templates - Coaching Prompt Library
 
 ## Purpose
+
 This document provides ready-to-use prompt templates for common coaching scenarios. Fill in the placeholders with student-specific information to generate personalized coaching responses.
 
 ---
@@ -8,6 +9,7 @@ This document provides ready-to-use prompt templates for common coaching scenari
 ## Template 1: Initial Study Habits Assessment
 
 ### Purpose
+
 First interaction with student to understand current methods and challenges
 
 ### Template
@@ -65,6 +67,7 @@ Would you like me to create a detailed study plan for [SUBJECT]?
 ## Template 2: Course-Specific Study Plan Creation
 
 ### Purpose
+
 Generate customized study plan for a specific course
 
 ### Template
@@ -165,6 +168,7 @@ Start with Week 1, Monday's first session. Let me know how it goes!
 ## Template 3: Active Recall Question Generation
 
 ### Purpose
+
 Create practice questions from source material
 
 ### Template
@@ -257,6 +261,7 @@ After completing all questions, rate your mastery:
 ## Template 4: Spaced Repetition Schedule Creation
 
 ### Purpose
+
 Build a review schedule for exam preparation
 
 ### Template
@@ -347,12 +352,14 @@ I'll create a schedule that ensures you review each topic multiple times before 
 
 Track each review:
 ```
+
 Topic: [X]
 Date: [Y]
 Recall success: [%]
 Difficult items: [List]
 Confidence: [1-10]
 Next review: [Date]
+
 ```
 
 ## Expected Outcome
@@ -366,6 +373,7 @@ Start with today's scheduled reviews. Set calendar reminders for all future revi
 ## Template 5: Practice Test Design
 
 ### Purpose
+
 Create a practice exam for self-assessment
 
 ### Template
@@ -516,6 +524,7 @@ I'll create a practice test that simulates the real exam as closely as possible.
 ## Template 6: Weekly Planning
 
 ### Purpose
+
 Create a structured weekly study plan
 
 ### Template
@@ -690,6 +699,7 @@ Print this schedule, put it somewhere visible. Set reminders for study blocks. T
 ## Template 7: Troubleshooting Poor Results
 
 ### Purpose
+
 Diagnose why student isn't getting desired results
 
 ### Template
@@ -827,11 +837,13 @@ I'll analyze this and identify what's likely causing the poor results, plus give
 
 **Track weekly:**
 ```
+
 Week | Recall % | Problems Correct | Confidence | Test Score
-1    | ____%    | ____/____        | ___/10     | ____
-2    | ____%    | ____/____        | ___/10     | ____
-3    | ____%    | ____/____        | ___/10     | ____
-4    | ____%    | ____/____        | ___/10     | ____
+1 | \_**\_% | \_\_**/\_**_ | _**/10 | \_**\_
+2 | \_\_**% | \_**\_/\_\_** | **\_/10 | \_\_**
+3 | \_**\_% | \_\_**/\_**_ | _**/10 | \_**\_
+4 | \_\_**% | \_**\_/\_\_** | **\_/10 | \_\_**
+
 ```
 
 ## If This Plan Doesn't Work
@@ -870,6 +882,7 @@ Start with Day 1 action items. Track your progress. Check in after one week.
 ## Template 8: Motivation and Accountability
 
 ### Purpose
+
 Build motivation through structure and tracking
 
 ### Template
@@ -926,7 +939,8 @@ I'll create a motivation system with built-in accountability and progress visibi
 **Daily Win Log**
 Each study day, check off:
 ```
-Date: ______
+
+Date: **\_\_**
 
 Today's Wins:
 □ Showed up (studied at all, even if short)
@@ -936,11 +950,12 @@ Today's Wins:
 □ Improved on something
 □ Stayed focused for planned time
 □ Asked for help when needed
-□ Other: __________
+□ Other: \***\*\_\_\*\***
 
-Biggest win today: __________
-Challenge overcome: __________
-Tomorrow's goal: __________
+Biggest win today: \***\*\_\_\*\***
+Challenge overcome: \***\*\_\_\*\***
+Tomorrow's goal: \***\*\_\_\*\***
+
 ```
 
 **Why this works:** Seeing daily progress combats demotivation. You're building evidence that you CAN do this.
@@ -949,10 +964,12 @@ Tomorrow's goal: __________
 
 **Study Streak Calendar**
 ```
-Week 1:  □ □ □ □ □ □ □  (Days studied: ___/7)
-Week 2:  □ □ □ □ □ □ □  (Days studied: ___/7)
-Week 3:  □ □ □ □ □ □ □  (Days studied: ___/7)
-Week 4:  □ □ □ □ □ □ □  (Days studied: ___/7)
+
+Week 1: □ □ □ □ □ □ □ (Days studied: **_/7)
+Week 2: □ □ □ □ □ □ □ (Days studied: _**/7)
+Week 3: □ □ □ □ □ □ □ (Days studied: **_/7)
+Week 4: □ □ □ □ □ □ □ (Days studied: _**/7)
+
 ```
 
 **Rule:** Check box for any day you studied (even 15 minutes counts)
@@ -992,11 +1009,13 @@ Week 4:  □ □ □ □ □ □ □  (Days studied: ___/7)
 
 **Track these numbers weekly:**
 ```
+
 Week | Study Hours | Recall % | Problems Solved | Confidence (1-10) | Overall Feeling
-1    | ____        | ____     | ____            | ____              | ____________
-2    | ____        | ____     | ____            | ____              | ____________
-3    | ____        | ____     | ____            | ____              | ____________
-4    | ____        | ____     | ____            | ____              | ____________
+1 | \_**\_ | \_\_** | \_**\_ | \_\_** | \***\*\_\_\_\_\*\***
+2 | \_**\_ | \_\_** | \_**\_ | \_\_** | \***\*\_\_\_\_\*\***
+3 | \_**\_ | \_\_** | \_**\_ | \_\_** | \***\*\_\_\_\_\*\***
+4 | \_**\_ | \_\_** | \_**\_ | \_\_** | \***\*\_\_\_\_\*\***
+
 ```
 
 **Why this works:** Data shows progress even when you don't "feel" it.
@@ -1090,6 +1109,7 @@ You've got a system now. Trust the process. Track the data. Stay accountable. Th
 ### Variables to Customize
 
 **Student Context:**
+
 - `[SUBJECT]` - Specific course or subject
 - `[TOPIC]` - Specific topic within course
 - `[DATE]` - Current date or deadline date
@@ -1098,12 +1118,14 @@ You've got a system now. Trust the process. Track the data. Stay accountable. Th
 - `[GOAL]` - Student's specific goal
 
 **Learning Profile:**
+
 - `[LEARNING_STYLE]` - Visual, auditory, kinesthetic, reading/writing
 - `[ENERGY_PATTERN]` - Morning person, night owl, consistent
 - `[CURRENT_METHODS]` - What student is currently doing
 - `[MAIN_CHALLENGE]` - Primary obstacle student faces
 
 **Assessment Context:**
+
 - `[EXAM_FORMAT]` - Multiple choice, essays, problems, etc.
 - `[TIME_UNTIL_EXAM]` - Days/weeks until assessment
 - `[TOPICS_COVERED]` - List of relevant topics
@@ -1112,21 +1134,25 @@ You've got a system now. Trust the process. Track the data. Stay accountable. Th
 ### Tone Adjustments
 
 **For discouraged students:**
+
 - More encouragement and validation
 - Emphasize quick wins
 - Smaller initial commitments
 
 **For confident students:**
+
 - Challenge them appropriately
 - Offer advanced optimization
 - Higher expectations
 
 **For overwhelmed students:**
+
 - Break down into smallest possible steps
 - Heavy focus on prioritization
 - Permission to not do everything
 
 **For analytical students:**
+
 - Include more data and research
 - Explain mechanisms thoroughly
 - Provide metrics and tracking

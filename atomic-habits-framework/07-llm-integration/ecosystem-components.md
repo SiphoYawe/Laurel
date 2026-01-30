@@ -70,11 +70,13 @@ This document outlines the components needed to build a comprehensive habit-form
 ## Component 1: Habit Tracker App
 
 ### Purpose
+
 Core tracking interface for logging habit completions, managing streaks, and providing immediate feedback.
 
 ### Key Features
 
 #### 1. Daily Habit Dashboard
+
 - List of all active habits for today
 - Quick check-in (tap to mark complete)
 - Current streak display
@@ -82,6 +84,7 @@ Core tracking interface for logging habit completions, managing streaks, and pro
 - Time-of-day organization
 
 #### 2. Habit Entry/Logging
+
 - One-tap completion
 - Skip with reason
 - Add notes to entry
@@ -90,6 +93,7 @@ Core tracking interface for logging habit completions, managing streaks, and pro
 - Location tagging (automatic)
 
 #### 3. Streak Management
+
 - Current streak counter
 - Longest streak record
 - Streak recovery guidance (Never Miss Twice)
@@ -97,6 +101,7 @@ Core tracking interface for logging habit completions, managing streaks, and pro
 - Milestone celebrations
 
 #### 4. Reminder System
+
 - Time-based reminders
 - Location-based reminders
 - Habit stack reminders (after anchor habit)
@@ -104,6 +109,7 @@ Core tracking interface for logging habit completions, managing streaks, and pro
 - Escalating reminders (if missed)
 
 ### Data Requirements
+
 - User ID
 - Habit definitions
 - Entry logs (timestamps, completion status)
@@ -111,6 +117,7 @@ Core tracking interface for logging habit completions, managing streaks, and pro
 - Notification history
 
 ### Integration Points
+
 - **Progress Visualization**: Sends data for visualization
 - **Review System**: Provides data for weekly/monthly reviews
 - **Analytics Engine**: Feeds completion data
@@ -146,6 +153,7 @@ interface HabitTrackerApp {
 ```
 
 ### UI/UX Considerations
+
 - **Minimize friction**: One tap to log completion
 - **Immediate feedback**: Celebrate completions instantly
 - **Visual clarity**: Today's habits should be unmistakable
@@ -157,11 +165,13 @@ interface HabitTrackerApp {
 ## Component 2: Environment Design Tool
 
 ### Purpose
+
 Helps users audit and redesign their physical and digital environments to support good habits and discourage bad ones.
 
 ### Key Features
 
 #### 1. Environment Audit
+
 - Room-by-room analysis
 - Digital space audit (phone, computer)
 - Cue identification (what triggers what)
@@ -169,6 +179,7 @@ Helps users audit and redesign their physical and digital environments to suppor
 - Photo documentation
 
 #### 2. Cue Design
+
 - Visual cue recommendations
 - Placement suggestions
 - Cue intensity (how obvious)
@@ -176,6 +187,7 @@ Helps users audit and redesign their physical and digital environments to suppor
 - Before/after comparisons
 
 #### 3. Friction Engineering
+
 - Add friction to bad habits
 - Remove friction from good habits
 - Step-by-step analysis
@@ -183,12 +195,14 @@ Helps users audit and redesign their physical and digital environments to suppor
 - Effectiveness tracking
 
 #### 4. Context Separation
+
 - "One space, one use" planning
 - Dedicated zones for habits
 - Digital workspace organization
 - Context-switching minimization
 
 ### Data Requirements
+
 - User spaces/rooms
 - Habit-environment mappings
 - Cue inventory per space
@@ -197,6 +211,7 @@ Helps users audit and redesign their physical and digital environments to suppor
 - Effectiveness metrics
 
 ### Integration Points
+
 - **Habit Tracker**: Links habits to environmental changes
 - **LLM Service**: Uses AI for personalized environment recommendations
 - **Photo storage**: Stores before/after environment photos
@@ -214,7 +229,7 @@ interface EnvironmentDesignTool {
 
   // Design methods
   generateCueRecommendations(habit: Habit, space: Space): CueRecommendation[];
-  generateFrictionChanges(habit: Habit, goal: 'increase' | 'decrease'): FrictionChange[];
+  generateFrictionChanges(habit: Habit, goal: "increase" | "decrease"): FrictionChange[];
   createDedicatedZone(activity: string, space: Space): ZoneDesign;
 
   // Implementation tracking
@@ -228,6 +243,7 @@ interface EnvironmentDesignTool {
 ```
 
 ### UI/UX Considerations
+
 - **Visual heavy**: Show photos, diagrams, layouts
 - **Step-by-step**: Implementation instructions should be actionable
 - **Progress tracking**: Show which changes are implemented
@@ -238,35 +254,41 @@ interface EnvironmentDesignTool {
 ## Component 3: Identity Journal
 
 ### Purpose
+
 Helps users develop identity-based habits by reframing actions as evidence of their desired identity.
 
 ### Key Features
 
 #### 1. Identity Definition
+
 - Current identity exploration
 - Desired identity articulation
 - Gap analysis
 - Bridge step planning
 
 #### 2. Evidence Collection
+
 - Daily habit completions as "votes"
 - Identity reinforcement statements
 - Progress toward identity
 - Identity level tracking
 
 #### 3. Reframing Tools
+
 - Obligation → Opportunity reframes
 - "Have to" → "Get to" converter
 - Identity affirmations generator
 - Motivation scripts
 
 #### 4. Reflection Prompts
+
 - Daily identity check-ins
 - Weekly identity reviews
 - Milestone identity shifts
 - Future self visualization
 
 ### Data Requirements
+
 - Current identity statements
 - Desired identity statements
 - Daily evidence logs
@@ -275,6 +297,7 @@ Helps users develop identity-based habits by reframing actions as evidence of th
 - Identity milestones
 
 ### Integration Points
+
 - **Habit Tracker**: Habits feed into identity evidence
 - **LLM Service**: Generates personalized identity scripts
 - **Progress Visualization**: Shows identity progression
@@ -308,6 +331,7 @@ interface IdentityJournal {
 ```
 
 ### UI/UX Considerations
+
 - **Journaling interface**: Clean, distraction-free writing
 - **Identity statements prominent**: Show "I am..." statements frequently
 - **Evidence counter**: Visual tally of identity votes
@@ -318,17 +342,20 @@ interface IdentityJournal {
 ## Component 4: Habit Stack Planner
 
 ### Purpose
+
 Designs and manages habit stacks (chains of habits) to leverage existing routines as triggers for new habits.
 
 ### Key Features
 
 #### 1. Routine Discovery
+
 - Daily routine mapping
 - Consistency analysis (which habits are most stable)
 - Timing documentation
 - Context capture
 
 #### 2. Stack Design
+
 - Anchor habit selection
 - New habit attachment
 - Stack formula generation
@@ -336,18 +363,21 @@ Designs and manages habit stacks (chains of habits) to leverage existing routine
 - Morning/Evening/Work stacks
 
 #### 3. Stack Testing
+
 - Trial period tracking
 - Weak link identification
 - Stack optimization
 - Reordering suggestions
 
 #### 4. Stack Management
+
 - Active stacks list
 - Stack performance metrics
 - Stack modification
 - Stack archiving
 
 ### Data Requirements
+
 - User routines (existing habits)
 - Stability scores for routines
 - Stack definitions
@@ -356,6 +386,7 @@ Designs and manages habit stacks (chains of habits) to leverage existing routine
 - Success rates per stack
 
 ### Integration Points
+
 - **Habit Tracker**: Monitors stack completion
 - **LLM Service**: Suggests optimal stacks
 - **Analytics**: Identifies best anchor habits
@@ -392,6 +423,7 @@ interface HabitStackPlanner {
 ```
 
 ### UI/UX Considerations
+
 - **Visual stacking**: Show habits connected in sequence
 - **Drag-and-drop**: Easy stack creation and reordering
 - **Performance charts**: Success rate per stack
@@ -402,11 +434,13 @@ interface HabitStackPlanner {
 ## Component 5: Commitment Device Manager
 
 ### Purpose
+
 Creates and enforces commitment devices and habit contracts to add immediate consequences for failure.
 
 ### Key Features
 
 #### 1. Contract Creation
+
 - Habit contract generator
 - Consequence designer (low/medium/high)
 - Accountability partner assignment
@@ -414,6 +448,7 @@ Creates and enforces commitment devices and habit contracts to add immediate con
 - Legal formatting
 
 #### 2. Commitment Devices
+
 - Website blockers setup
 - App limitations
 - Physical barriers documentation
@@ -421,6 +456,7 @@ Creates and enforces commitment devices and habit contracts to add immediate con
 - Financial commitments
 
 #### 3. Enforcement
+
 - Automatic detection of failures
 - Consequence triggering
 - Partner notifications
@@ -428,6 +464,7 @@ Creates and enforces commitment devices and habit contracts to add immediate con
 - Escalation rules
 
 #### 4. Contract Management
+
 - Active contracts list
 - Contract performance
 - Modification requests
@@ -435,6 +472,7 @@ Creates and enforces commitment devices and habit contracts to add immediate con
 - Success celebrations
 
 ### Data Requirements
+
 - Contract documents
 - Commitment devices list
 - Consequence rules
@@ -444,6 +482,7 @@ Creates and enforces commitment devices and habit contracts to add immediate con
 - Financial transaction records (if applicable)
 
 ### Integration Points
+
 - **Habit Tracker**: Detects failures automatically
 - **Accountability Partner**: Notifies partners
 - **Notification Service**: Sends enforcement reminders
@@ -465,7 +504,11 @@ interface CommitmentDeviceManager {
   configureAppLimits(apps: string[], dailyLimit: number): AppLimit;
   documentPhysicalBarrier(description: string, photos: Photo[]): Barrier;
   setupTimeLock(item: string, unlockTime: Date): TimeLock;
-  createFinancialCommitment(amount: number, recipient: string, trigger: Trigger): FinancialCommitment;
+  createFinancialCommitment(
+    amount: number,
+    recipient: string,
+    trigger: Trigger
+  ): FinancialCommitment;
 
   // Enforcement
   detectFailure(contractId: string): Failure | null;
@@ -486,6 +529,7 @@ interface CommitmentDeviceManager {
 ```
 
 ### UI/UX Considerations
+
 - **Serious tone**: Contracts should feel official
 - **Clear consequences**: No ambiguity about what happens if fail
 - **Easy monitoring**: Show contract status at a glance
@@ -497,11 +541,13 @@ interface CommitmentDeviceManager {
 ## Component 6: Accountability Partner Connector
 
 ### Purpose
+
 Connects users with accountability partners and facilitates communication, check-ins, and mutual support.
 
 ### Key Features
 
 #### 1. Partner Matching
+
 - Find partners with similar goals
 - Partner skill/experience levels
 - Availability matching
@@ -509,6 +555,7 @@ Connects users with accountability partners and facilitates communication, check
 - Compatibility scoring
 
 #### 2. Partnership Management
+
 - Partnership requests
 - Partner profiles
 - Partnership agreements
@@ -516,6 +563,7 @@ Connects users with accountability partners and facilitates communication, check
 - Partnership ratings
 
 #### 3. Communication Tools
+
 - Check-in system
 - Progress sharing
 - Encouragement sending
@@ -523,6 +571,7 @@ Connects users with accountability partners and facilitates communication, check
 - Video/voice calls
 
 #### 4. Accountability Features
+
 - Daily check-ins
 - Verification requests
 - Failure reporting
@@ -530,6 +579,7 @@ Connects users with accountability partners and facilitates communication, check
 - Mutual goal setting
 
 ### Data Requirements
+
 - User profiles
 - Partner matchmaking criteria
 - Partnership records
@@ -539,6 +589,7 @@ Connects users with accountability partners and facilitates communication, check
 - Rating/feedback data
 
 ### Integration Points
+
 - **Habit Tracker**: Shares progress with partner
 - **Commitment Device Manager**: Partners enforce contracts
 - **Notification Service**: Alerts partners of check-ins
@@ -581,6 +632,7 @@ interface AccountabilityPartnerConnector {
 ```
 
 ### UI/UX Considerations
+
 - **Social features**: Profiles, messaging, likes/encouragement
 - **Privacy controls**: What to share, what to keep private
 - **Notification management**: Don't overwhelm with partner updates
@@ -592,11 +644,13 @@ interface AccountabilityPartnerConnector {
 ## Component 7: Progress Visualization Dashboard
 
 ### Purpose
+
 Provides comprehensive visual representations of habit progress, trends, and achievements to deliver immediate satisfaction and insight.
 
 ### Key Features
 
 #### 1. Dashboard Views
+
 - Overview dashboard (all habits)
 - Individual habit dashboards
 - Comparison views (habit vs habit)
@@ -604,6 +658,7 @@ Provides comprehensive visual representations of habit progress, trends, and ach
 - Goal progress views
 
 #### 2. Visualization Types
+
 - Calendar heatmaps (GitHub-style)
 - Streak graphs
 - Success rate trends
@@ -613,6 +668,7 @@ Provides comprehensive visual representations of habit progress, trends, and ach
 - Weekly rhythm charts
 
 #### 3. Insights Generation
+
 - Automated insights from data
 - Best/worst performing habits
 - Optimal times for habits
@@ -621,6 +677,7 @@ Provides comprehensive visual representations of habit progress, trends, and ach
 - Predictive analytics
 
 #### 4. Achievements & Milestones
+
 - Milestone badges
 - Streak celebrations
 - Personal records
@@ -629,6 +686,7 @@ Provides comprehensive visual representations of habit progress, trends, and ach
 - Challenge completions
 
 ### Data Requirements
+
 - All habit entry data
 - Historical trends
 - Milestone definitions
@@ -637,6 +695,7 @@ Provides comprehensive visual representations of habit progress, trends, and ach
 - Comparative data (optional: anonymized community data)
 
 ### Integration Points
+
 - **Habit Tracker**: Receives all completion data
 - **Analytics Engine**: Processes data for insights
 - **Notification Service**: Alerts about milestones
@@ -672,12 +731,13 @@ interface ProgressVisualizationDashboard {
   getPersonalRecords(userId: string): Record[];
 
   // Export
-  exportData(userId: string, format: 'csv' | 'json' | 'pdf'): File;
+  exportData(userId: string, format: "csv" | "json" | "pdf"): File;
   generateReport(userId: string, timeframe: string): Report;
 }
 ```
 
 ### UI/UX Considerations
+
 - **Visual appeal**: Beautiful, engaging charts
 - **Interactivity**: Click to explore, zoom, filter
 - **Responsive**: Works on all devices
@@ -689,11 +749,13 @@ interface ProgressVisualizationDashboard {
 ## Component 8: Habit Scorecard Tool
 
 ### Purpose
+
 Helps users conduct a comprehensive audit of current habits to build awareness (the first step of behavior change).
 
 ### Key Features
 
 #### 1. Habit Discovery
+
 - Prompt-guided discovery
 - Daily routine mapping
 - Habit categorization
@@ -701,6 +763,7 @@ Helps users conduct a comprehensive audit of current habits to build awareness (
 - Context documentation
 
 #### 2. Habit Evaluation
+
 - Positive/negative/neutral scoring
 - Identity alignment check
 - Goal alignment check
@@ -708,6 +771,7 @@ Helps users conduct a comprehensive audit of current habits to build awareness (
 - Trade-off analysis
 
 #### 3. Scorecard Creation
+
 - Comprehensive habit list
 - Scoring system (+/-/=)
 - Notes and context
@@ -715,6 +779,7 @@ Helps users conduct a comprehensive audit of current habits to build awareness (
 - Change candidates
 
 #### 4. Scorecard Analysis
+
 - Pattern identification
 - Problem areas
 - Opportunities for improvement
@@ -722,6 +787,7 @@ Helps users conduct a comprehensive audit of current habits to build awareness (
 - Quick wins
 
 ### Data Requirements
+
 - User's habit inventory
 - Habit scores (+/-/=)
 - Habit contexts (when, where, why)
@@ -730,6 +796,7 @@ Helps users conduct a comprehensive audit of current habits to build awareness (
 - Change history
 
 ### Integration Points
+
 - **Habit Tracker**: Converts scorecard items to tracked habits
 - **LLM Service**: Suggests habits user might have missed
 - **Identity Journal**: Links habits to identity
@@ -745,7 +812,7 @@ interface HabitScorecardTool {
   addHabitToScorecard(sessionId: string, habit: string, context: Context): ScorecardEntry;
 
   // Habit evaluation
-  scoreHabit(entryId: string, score: '+' | '-' | '='): void;
+  scoreHabit(entryId: string, score: "+" | "-" | "="): void;
   assessIdentityAlignment(entryId: string, desiredIdentity: string): AlignmentScore;
   assessGoalAlignment(entryId: string, goals: Goal[]): AlignmentScore;
   assessLongTermImpact(entryId: string): ImpactAssessment;
@@ -764,11 +831,12 @@ interface HabitScorecardTool {
   findQuickWins(scorecardId: string): QuickWin[];
 
   // Export
-  exportScorecard(scorecardId: string, format: 'pdf' | 'csv'): File;
+  exportScorecard(scorecardId: string, format: "pdf" | "csv"): File;
 }
 ```
 
 ### UI/UX Considerations
+
 - **Guided process**: Step-by-step habit discovery
 - **Non-judgmental**: Neutral tone, not shaming
 - **Educational**: Explain why habits matter
@@ -780,11 +848,13 @@ interface HabitScorecardTool {
 ## Component 9: Review System
 
 ### Purpose
+
 Facilitates regular reflection and adjustment through daily, weekly, monthly, and annual reviews.
 
 ### Key Features
 
 #### 1. Review Scheduling
+
 - Daily reviews (end of day)
 - Weekly reviews (Sunday evening)
 - Monthly reviews (last day of month)
@@ -793,6 +863,7 @@ Facilitates regular reflection and adjustment through daily, weekly, monthly, an
 - Custom review schedules
 
 #### 2. Review Templates
+
 - Structured review questions
 - Habit-specific questions
 - Identity reflection prompts
@@ -801,6 +872,7 @@ Facilitates regular reflection and adjustment through daily, weekly, monthly, an
 - Celebration prompts
 
 #### 3. Review Insights
+
 - Trend analysis
 - Success factors identification
 - Failure pattern recognition
@@ -809,6 +881,7 @@ Facilitates regular reflection and adjustment through daily, weekly, monthly, an
 - Identity progression
 
 #### 4. Review Actions
+
 - Habit modifications (make easier/harder)
 - New habit planning
 - Habit retirement
@@ -817,6 +890,7 @@ Facilitates regular reflection and adjustment through daily, weekly, monthly, an
 - Goal adjustment
 
 ### Data Requirements
+
 - Review schedules
 - Review templates
 - Review entries (user responses)
@@ -825,6 +899,7 @@ Facilitates regular reflection and adjustment through daily, weekly, monthly, an
 - Review completion status
 
 ### Integration Points
+
 - **Habit Tracker**: Provides data for review
 - **Progress Visualization**: Shows trends during review
 - **LLM Service**: Generates personalized review questions
@@ -865,6 +940,7 @@ interface ReviewSystem {
 ```
 
 ### UI/UX Considerations
+
 - **Reflective atmosphere**: Calm, focused interface
 - **Time-bound**: Reviews should have recommended duration
 - **Save progress**: Allow pausing and resuming
@@ -876,11 +952,13 @@ interface ReviewSystem {
 ## Component 10: Reward Scheduler
 
 ### Purpose
+
 Manages immediate and variable rewards to make habits satisfying and maintain motivation.
 
 ### Key Features
 
 #### 1. Reward Design
+
 - Immediate reward setup
 - Variable reward configuration
 - Milestone reward planning
@@ -888,6 +966,7 @@ Manages immediate and variable rewards to make habits satisfying and maintain mo
 - Reward inventory
 
 #### 2. Reward Triggering
+
 - Automatic reward delivery
 - Manual reward claiming
 - Surprise rewards
@@ -895,6 +974,7 @@ Manages immediate and variable rewards to make habits satisfying and maintain mo
 - Comeback rewards (after recovery)
 
 #### 3. Reward Types
+
 - Digital rewards (unlocks, badges, animations)
 - Physical rewards (suggestions)
 - Social rewards (share achievements)
@@ -902,6 +982,7 @@ Manages immediate and variable rewards to make habits satisfying and maintain mo
 - Financial rewards (allowances from commitment devices)
 
 #### 4. Reward Psychology
+
 - Variable ratio scheduling
 - Reward timing optimization
 - Reward value calibration
@@ -909,6 +990,7 @@ Manages immediate and variable rewards to make habits satisfying and maintain mo
 - Deprivation strategies
 
 ### Data Requirements
+
 - Reward definitions
 - Reward rules (triggers)
 - Reward inventory
@@ -917,6 +999,7 @@ Manages immediate and variable rewards to make habits satisfying and maintain mo
 - Reward effectiveness metrics
 
 ### Integration Points
+
 - **Habit Tracker**: Triggers rewards on completion
 - **Progress Visualization**: Unlocks new visualizations as rewards
 - **Commitment Device Manager**: Redirects "recovered" funds as rewards
@@ -957,6 +1040,7 @@ interface RewardScheduler {
 ```
 
 ### UI/UX Considerations
+
 - **Delightful**: Rewards should feel special
 - **Immediate**: No delay between completion and reward
 - **Varied**: Don't let rewards become boring
@@ -997,8 +1081,8 @@ interface UserProfile {
   priorities: Priority[];
 
   // Relationships
-  accountabilityPartners: string[];  // User IDs
-  activeContracts: string[];         // Contract IDs
+  accountabilityPartners: string[]; // User IDs
+  activeContracts: string[]; // Contract IDs
 
   // Metrics
   totalHabits: number;
@@ -1023,24 +1107,24 @@ interface Habit {
   description: string;
 
   // Classification
-  category: string;              // health, productivity, social, etc.
-  type: 'good' | 'bad' | 'neutral';
+  category: string; // health, productivity, social, etc.
+  type: "good" | "bad" | "neutral";
   keystoneHabit: boolean;
 
   // Identity
-  linkedIdentity: string;        // Which identity does this support?
-  identityStatement: string;     // "I am the type of person who..."
+  linkedIdentity: string; // Which identity does this support?
+  identityStatement: string; // "I am the type of person who..."
 
   // Scheduling
-  frequency: string;             // "daily", "3x per week", etc.
-  targetFrequency: number;       // numeric representation
-  timeOfDay: string;             // "morning", "evening", "flexible"
-  specificTime?: Date;           // if scheduled at specific time
+  frequency: string; // "daily", "3x per week", etc.
+  targetFrequency: number; // numeric representation
+  timeOfDay: string; // "morning", "evening", "flexible"
+  specificTime?: Date; // if scheduled at specific time
 
   // Triggers
-  triggerType: 'time' | 'location' | 'action' | 'emotion';
-  triggerDetails: object;        // specific trigger info
-  implementationIntention?: string;  // "I will [X] at [Y] in [Z]"
+  triggerType: "time" | "location" | "action" | "emotion";
+  triggerDetails: object; // specific trigger info
+  implementationIntention?: string; // "I will [X] at [Y] in [Z]"
   habitStack?: {
     anchorHabit: string;
     stackPosition: number;
@@ -1048,28 +1132,28 @@ interface Habit {
   };
 
   // Difficulty
-  difficulty: number;            // 1-10
-  twoMinuteVersion: string;      // Gateway version
-  currentVersion: string;        // Current difficulty level
-  targetVersion: string;         // Ultimate goal
+  difficulty: number; // 1-10
+  twoMinuteVersion: string; // Gateway version
+  currentVersion: string; // Current difficulty level
+  targetVersion: string; // Ultimate goal
 
   // Environment
   location: string;
   environmentCues: string[];
-  frictionLevel: number;         // 0-1
+  frictionLevel: number; // 0-1
 
   // Motivation
-  attractiveness: number;        // 0-1
+  attractiveness: number; // 0-1
   temptationBundle?: {
-    need: string;                // This habit
-    want: string;                // Paired enjoyable activity
+    need: string; // This habit
+    want: string; // Paired enjoyable activity
   };
-  motivation: string;            // Why this habit matters
+  motivation: string; // Why this habit matters
 
   // Tracking
   trackingMethod: string;
-  trackingUnit: string;          // "minutes", "count", "boolean"
-  minimumThreshold?: number;     // Minimum to count as complete
+  trackingUnit: string; // "minutes", "count", "boolean"
+  minimumThreshold?: number; // Minimum to count as complete
 
   // Rewards
   immediateReward: string;
@@ -1084,11 +1168,11 @@ interface Habit {
   currentStreak: number;
   longestStreak: number;
   totalCompletions: number;
-  successRate: number;           // 0-100
+  successRate: number; // 0-100
   averageCompletionTime?: Date;
 
   // Status
-  status: 'active' | 'paused' | 'archived';
+  status: "active" | "paused" | "archived";
   startDate: Date;
   endDate?: Date;
 
@@ -1114,23 +1198,23 @@ interface Entry {
   skipReason?: string;
 
   // Details
-  duration?: number;            // minutes
-  quantity?: number;            // if tracking quantity
-  quality?: number;             // 1-10 self-rating
+  duration?: number; // minutes
+  quantity?: number; // if tracking quantity
+  quality?: number; // 1-10 self-rating
 
   // Context
   timestamp: Date;
   location?: string;
   mood?: string;
-  energy?: number;              // 1-10
+  energy?: number; // 1-10
 
   // Notes
   notes?: string;
   tags?: string[];
-  photos?: string[];            // Photo URLs
+  photos?: string[]; // Photo URLs
 
   // Tracking
-  manualEntry: boolean;         // vs automatic
+  manualEntry: boolean; // vs automatic
   editHistory?: Edit[];
 
   // Metadata
@@ -1145,7 +1229,7 @@ interface Entry {
 interface Environment {
   id: string;
   userId: string;
-  spaceType: string;            // bedroom, office, kitchen, etc.
+  spaceType: string; // bedroom, office, kitchen, etc.
   name: string;
 
   // Physical space
@@ -1156,11 +1240,11 @@ interface Environment {
   // Cues
   cues: {
     habitId: string;
-    cueType: 'visual' | 'auditory' | 'tactile';
+    cueType: "visual" | "auditory" | "tactile";
     cueDescription: string;
     placement: string;
-    visibility: number;         // 0-1
-    effectiveness: number;      // 0-1
+    visibility: number; // 0-1
+    effectiveness: number; // 0-1
   }[];
 
   // Friction
@@ -1168,7 +1252,7 @@ interface Environment {
     habitId: string;
     frictionType: string;
     description: string;
-    frictionLevel: number;      // 0-1
+    frictionLevel: number; // 0-1
   }[];
 
   // Changes
@@ -1176,9 +1260,9 @@ interface Environment {
   implementedChanges: EnvironmentChange[];
 
   // Effectiveness
-  overallScore: number;         // 0-1
-  supportedHabits: string[];    // Habit IDs
-  problemHabits: string[];      // Habit IDs
+  overallScore: number; // 0-1
+  supportedHabits: string[]; // Habit IDs
+  problemHabits: string[]; // Habit IDs
 
   // Metadata
   lastAuditDate: Date;
@@ -1193,12 +1277,12 @@ interface Environment {
 interface Review {
   id: string;
   userId: string;
-  type: 'daily' | 'weekly' | 'monthly' | 'quarterly' | 'annual';
+  type: "daily" | "weekly" | "monthly" | "quarterly" | "annual";
 
   // Timing
   scheduledDate: Date;
   completedDate?: Date;
-  status: 'pending' | 'in_progress' | 'completed' | 'skipped';
+  status: "pending" | "in_progress" | "completed" | "skipped";
 
   // Content
   questions: ReviewQuestion[];
@@ -1213,7 +1297,7 @@ interface Review {
   actionItems: ActionItem[];
   habitModifications: HabitModification[];
   newHabits: Habit[];
-  retiredHabits: string[];      // Habit IDs
+  retiredHabits: string[]; // Habit IDs
 
   // Metrics (snapshot at time of review)
   snapshotMetrics: {
@@ -1225,7 +1309,7 @@ interface Review {
   };
 
   // Metadata
-  duration: number;             // minutes to complete
+  duration: number; // minutes to complete
   createdAt: Date;
   updatedAt: Date;
 }
@@ -1319,41 +1403,32 @@ Components communicate via an event bus for real-time updates:
 ```typescript
 // Event types
 type HabitEvent =
-  | 'habit.created'
-  | 'habit.completed'
-  | 'habit.skipped'
-  | 'habit.modified'
-  | 'habit.archived'
-  | 'streak.milestone'
-  | 'streak.broken'
-  | 'streak.recovered';
+  | "habit.created"
+  | "habit.completed"
+  | "habit.skipped"
+  | "habit.modified"
+  | "habit.archived"
+  | "streak.milestone"
+  | "streak.broken"
+  | "streak.recovered";
 
 type EnvironmentEvent =
-  | 'environment.audited'
-  | 'environment.changed'
-  | 'cue.added'
-  | 'friction.modified';
+  | "environment.audited"
+  | "environment.changed"
+  | "cue.added"
+  | "friction.modified";
 
-type IdentityEvent =
-  | 'identity.defined'
-  | 'identity.evidence'
-  | 'identity.milestone';
+type IdentityEvent = "identity.defined" | "identity.evidence" | "identity.milestone";
 
-type ReviewEvent =
-  | 'review.scheduled'
-  | 'review.due'
-  | 'review.completed';
+type ReviewEvent = "review.scheduled" | "review.due" | "review.completed";
 
 type AccountabilityEvent =
-  | 'partner.matched'
-  | 'checkin.sent'
-  | 'verification.requested'
-  | 'consequence.triggered';
+  | "partner.matched"
+  | "checkin.sent"
+  | "verification.requested"
+  | "consequence.triggered";
 
-type RewardEvent =
-  | 'reward.earned'
-  | 'reward.claimed'
-  | 'milestone.reached';
+type RewardEvent = "reward.earned" | "reward.claimed" | "milestone.reached";
 
 // Event handlers
 interface EventBus {
@@ -1377,21 +1452,25 @@ interface EventBus {
 ## Implementation Recommendations
 
 ### Phase 1: Core (MVP)
+
 1. **Habit Tracker App** - Essential for any habit system
 2. **Progress Visualization** - Provides immediate satisfaction
 3. **Basic LLM integration** - For intelligent recommendations
 
 ### Phase 2: Enhancement
+
 4. **Environment Design Tool** - Optimize for success
 5. **Identity Journal** - Deeper motivation
 6. **Habit Stack Planner** - Leverage existing routines
 
 ### Phase 3: Social & Accountability
+
 7. **Accountability Partner Connector** - Social support
 8. **Commitment Device Manager** - Add consequences
 9. **Reward Scheduler** - Enhanced gamification
 
 ### Phase 4: Reflection & Optimization
+
 10. **Habit Scorecard Tool** - Initial awareness
 11. **Review System** - Continuous improvement
 12. **Advanced Analytics** - Pattern recognition and prediction
@@ -1503,12 +1582,14 @@ Infrastructure:
 This ecosystem provides a comprehensive, interconnected system for building and maintaining habits based on the Atomic Habits framework. Each component serves a specific purpose while integrating seamlessly with others to create a powerful habit-forming environment.
 
 The modular design allows for:
+
 - **Incremental development**: Build components in phases
 - **Flexibility**: Mix and match components based on user needs
 - **Scalability**: Each component can scale independently
 - **Extensibility**: New components can be added without disrupting existing ones
 
 The LLM integration throughout the system enables:
+
 - **Personalization**: Tailored recommendations for each user
 - **Intelligence**: Pattern recognition and predictive insights
 - **Conversation**: Natural language interaction

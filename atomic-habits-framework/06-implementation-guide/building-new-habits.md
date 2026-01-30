@@ -13,18 +13,21 @@ This guide provides a comprehensive, step-by-step process for building new habit
 **Purpose**: Align the habit with your desired identity to create intrinsic motivation.
 
 **Process**:
+
 1. Define who you want to become (not what you want to achieve)
 2. Complete the sentence: "I am the type of person who..."
 3. Ask: "What would a [desired identity] person do?"
 4. Use this identity as your North Star for habit selection
 
 **Examples**:
+
 - NOT: "I want to run a marathon" → YES: "I am the type of person who doesn't miss workouts"
 - NOT: "I want to lose 20 pounds" → YES: "I am the type of person who moves their body daily"
 - NOT: "I want to write a book" → YES: "I am the type of person who writes every day"
 - NOT: "I want to be less stressed" → YES: "I am the type of person who prioritizes mental clarity"
 
 **Identity Statements Template**:
+
 ```
 Goal: [What you want to achieve]
 Identity: I am the type of person who [characteristic/behavior]
@@ -32,6 +35,7 @@ Evidence: Each time I [small action], I cast a vote for this identity
 ```
 
 **Common Mistakes**:
+
 - Focusing on outcomes instead of identity
 - Choosing identities that don't resonate emotionally
 - Being too vague ("I am healthy" vs "I am someone who exercises daily")
@@ -44,6 +48,7 @@ Evidence: Each time I [small action], I cast a vote for this identity
 **Purpose**: Gain awareness of your current behaviors and identify patterns.
 
 **Process**:
+
 1. List every behavior you perform daily from waking to sleeping
 2. Don't judge or filter—just observe and record
 3. Rate each behavior: + (positive), - (negative), = (neutral)
@@ -53,6 +58,7 @@ Evidence: Each time I [small action], I cast a vote for this identity
 **Time Required**: 15-20 minutes initial setup, 5 minutes weekly review
 
 **What to Look For**:
+
 - Clusters of negative behaviors (opportunity areas)
 - Existing positive habits that can be stacked upon
 - Time gaps where habits could fit
@@ -67,6 +73,7 @@ Evidence: Each time I [small action], I cast a vote for this identity
 **Purpose**: Prevent overwhelm and maximize success probability.
 
 **Selection Criteria**:
+
 1. **High Impact**: Will this create cascading improvements?
 2. **Identity Aligned**: Does it reinforce your desired identity?
 3. **Reasonable Difficulty**: On a 1-10 scale, aim for 3-5 difficulty
@@ -77,6 +84,7 @@ Evidence: Each time I [small action], I cast a vote for this identity
 Focus on ONE new habit at a time. Only after 30 consecutive days of consistency should you consider adding another.
 
 **Keystone Habit Indicators**:
+
 - Exercise (often improves sleep, eating, productivity)
 - Sleep routine (affects energy, mood, decision-making)
 - Morning routine (sets tone for entire day)
@@ -84,6 +92,7 @@ Focus on ONE new habit at a time. Only after 30 consecutive days of consistency 
 - Reading (often triggers learning in multiple areas)
 
 **Selection Exercise**:
+
 ```
 Habit Option: ________________
 Identity Alignment (1-10): ___
@@ -94,6 +103,7 @@ Total Score: ___/40
 ```
 
 **Examples of Good Starting Habits**:
+
 - 2 minutes of meditation after morning coffee
 - 1 push-up after brushing teeth
 - Reading 1 page before bed
@@ -109,6 +119,7 @@ Total Score: ___/40
 **Formula**: "I will [BEHAVIOR] at [TIME] in [LOCATION]"
 
 **Why It Works**:
+
 - Eliminates the "when should I do this?" question
 - Removes decision fatigue
 - Creates automatic triggering
@@ -129,6 +140,7 @@ Total Score: ___/40
 **Strong**: "I will eat a piece of fruit at 3:00 PM at my desk"
 
 **Implementation Intention Template**:
+
 ```
 HABIT: ________________
 I will [BEHAVIOR] ________________
@@ -137,12 +149,14 @@ in [LOCATION] ________________
 ```
 
 **Time Selection Tips**:
+
 - Choose times you're already awake and alert
 - Avoid times with high variability (lunch can vary, waking time is consistent)
 - Consider your chronotype (morning person vs night owl)
 - Pick times with built-in accountability (before work, before bed)
 
 **Location Selection Tips**:
+
 - Choose locations you control
 - Make it specific (not "at home" but "in the kitchen")
 - Ensure the location is already associated with the behavior
@@ -157,12 +171,14 @@ in [LOCATION] ________________
 **Formula**: "After [CURRENT HABIT], I will [NEW HABIT]"
 
 **Why It Works**:
+
 - Uses existing neural pathways
 - No need to remember a specific time
 - Creates a natural flow of behaviors
 - Builds routines rather than isolated habits
 
 **Selecting the Right Current Habit**:
+
 1. It must happen every day at the same time
 2. It must be highly automatic (you never skip it)
 3. It must have a clear endpoint that can trigger the new habit
@@ -171,26 +187,31 @@ in [LOCATION] ________________
 **Examples**:
 
 **Exercise Stack**:
+
 - "After I pour my morning coffee, I will do 10 push-ups"
 - "After I take off my work shoes, I will change into workout clothes"
 - "After I brush my teeth at night, I will do 20 squats"
 
 **Mindfulness Stack**:
+
 - "After I sit down at my desk, I will take three deep breaths"
 - "After I close my laptop for lunch, I will do a 1-minute body scan"
 - "After I park my car, I will take 30 seconds to set an intention"
 
 **Learning Stack**:
+
 - "After I pour my morning coffee, I will read one page"
 - "After I eat lunch, I will review my flashcards for 2 minutes"
 - "After I finish dinner, I will write one sentence in my journal"
 
 **Nutrition Stack**:
+
 - "After I wake up, I will drink a glass of water"
 - "After I pour coffee, I will prepare a healthy breakfast"
 - "After I finish a meal, I will take my vitamins"
 
 **Productivity Stack**:
+
 - "After I shut down my computer, I will write tomorrow's top 3 priorities"
 - "After I start my car, I will listen to an educational podcast"
 - "After I sit at my desk, I will review my daily plan"
@@ -200,6 +221,7 @@ in [LOCATION] ________________
 You can chain multiple habits together:
 
 **Morning Stack Example**:
+
 ```
 1. After I turn off my alarm, I will sit up immediately
 2. After I sit up, I will drink the water on my nightstand
@@ -210,6 +232,7 @@ You can chain multiple habits together:
 ```
 
 **Evening Stack Example**:
+
 ```
 1. After I finish dinner, I will put my dishes directly in the dishwasher
 2. After loading dishes, I will wipe down the kitchen counter
@@ -220,6 +243,7 @@ You can chain multiple habits together:
 ```
 
 **Common Stacking Mistakes**:
+
 - Choosing an unreliable current habit as trigger
 - Making the new habit too difficult
 - Stacking too many habits at once
@@ -238,6 +262,7 @@ You can chain multiple habits together:
 Place objects associated with the habit in high-visibility locations.
 
 **Examples**:
+
 - **Exercise**: Lay out workout clothes the night before, place them on your pillow
 - **Reading**: Keep book on pillow or nightstand with bookmark
 - **Hydration**: Place water bottles in every room
@@ -250,6 +275,7 @@ Place objects associated with the habit in high-visibility locations.
 Eliminate steps between you and the desired behavior.
 
 **Examples**:
+
 - **Exercise**: Sleep in workout clothes, or keep gym bag by door
 - **Healthy eating**: Pre-cut vegetables on Sundays, store at eye level
 - **Writing**: Keep journal and pen on desk, opened to next blank page
@@ -261,6 +287,7 @@ Eliminate steps between you and the desired behavior.
 Designate specific spaces for specific activities.
 
 **One Space, One Use Principle**:
+
 - Bed = sleep only (not work, not TV)
 - Desk = work only (not entertainment)
 - Couch = relaxation only (not work)
@@ -268,12 +295,14 @@ Designate specific spaces for specific activities.
 
 **Creating Dedicated Spaces**:
 Even in small apartments, you can create contexts:
+
 - Corner of room = meditation spot
 - Specific chair = reading chair
 - Kitchen counter section = meal prep zone
 - Desk area = creative work only
 
 **Environment Design Checklist**:
+
 ```
 □ Visual cues for desired habit are obvious
 □ All friction points identified and reduced
@@ -295,6 +324,7 @@ Even in small apartments, you can create contexts:
 **Advanced Formula**: "I will only [THING I WANT] while doing [THING I NEED]"
 
 **The Psychology**:
+
 - Immediate gratification overcomes delayed gratification
 - Creates positive association with difficult behaviors
 - Uses dopamine to reinforce habit loop
@@ -303,42 +333,49 @@ Even in small apartments, you can create contexts:
 **Examples**:
 
 **Exercise + Entertainment**:
+
 - "I will only watch Netflix while on the treadmill"
 - "I will only listen to my favorite podcast while walking"
 - "I will only watch YouTube while cycling on stationary bike"
 - "I will only listen to audiobooks while running"
 
 **Work + Pleasure**:
+
 - "I will only drink my favorite coffee while doing deep work"
 - "I will only light my favorite candle while writing"
 - "I will only use my special pen while journaling"
 - "I will only sit in the comfortable chair while studying"
 
 **Chores + Entertainment**:
+
 - "I will only listen to music while cleaning"
 - "I will only call friends while doing dishes"
 - "I will only watch cooking shows while meal prepping"
 
 **Difficult Tasks + Treats**:
+
 - "After 25 minutes of focused work, I will have a piece of chocolate"
 - "After completing my workout, I will have a smoothie"
 - "After meditation, I will enjoy my coffee"
 - "After journaling, I will check social media for 5 minutes"
 
 **Creating Your Temptation Bundle**:
-1. List habits you NEED to do: ________________
-2. List activities you WANT to do: ________________
-3. Match them logically: ________________
+
+1. List habits you NEED to do: **\*\***\_\_\_\_**\*\***
+2. List activities you WANT to do: **\*\***\_\_\_\_**\*\***
+3. Match them logically: **\*\***\_\_\_\_**\*\***
 4. Test the combination for 7 days
 5. Adjust if the "want" becomes too distracting
 
 **Rules for Effective Bundles**:
+
 - The "want" must be genuinely desirable
 - The "want" shouldn't completely distract from the "need"
 - The "want" should only be available during the "need"
 - The bundle should feel like a reward, not a compromise
 
 **Common Bundles That Work**:
+
 - Podcasts + Commute
 - Audiobooks + Housework
 - Favorite music + Morning routine
@@ -355,6 +392,7 @@ Even in small apartments, you can create contexts:
 **The Rule**: "When you start a new habit, it should take less than two minutes to do."
 
 **The Philosophy**:
+
 - Focus on showing up, not performing
 - Build the identity first, optimize later
 - Consistency matters more than intensity
@@ -379,6 +417,7 @@ Even in small apartments, you can create contexts:
 The two-minute version is a gateway to the full behavior.
 
 **The Transition**:
+
 ```
 Phase 1 (Days 1-14): Master the two-minute version
 - Just put on running shoes daily
@@ -402,6 +441,7 @@ Phase 3 (Day 31+): Full habit established
 The two-minute version becomes a ritual that initiates the larger behavior.
 
 **Examples of Rituals**:
+
 - Coffee brewing ritual → Morning work session
 - Lighting candle ritual → Evening journaling
 - Putting on headphones ritual → Deep focus work
@@ -410,12 +450,14 @@ The two-minute version becomes a ritual that initiates the larger behavior.
 
 **The Two-Minute Ceiling**:
 Some habits should STAY at two minutes:
+
 - Gratitude practice: Write 3 things you're grateful for (2 minutes)
 - Morning intention: Set your focus for the day (2 minutes)
 - Evening review: Reflect on the day (2 minutes)
 - Meditation: Focus on breath (2 minutes can be the full habit)
 
 **Common Mistakes**:
+
 - Jumping to the full version too quickly
 - Feeling guilty about "only" doing two minutes
 - Skipping the two-minute version once you can do more
@@ -423,6 +465,7 @@ Some habits should STAY at two minutes:
 - Making the two-minute version too complex
 
 **Two-Minute Success Indicators**:
+
 - You've done it 14 days in a row
 - It feels easier than when you started
 - You sometimes naturally continue past two minutes
@@ -436,6 +479,7 @@ Some habits should STAY at two minutes:
 **Purpose**: Measure progress, maintain accountability, and create visual evidence of your identity.
 
 **Why Tracking Works**:
+
 - Provides immediate satisfaction
 - Creates visual proof of progress
 - Maintains awareness of the behavior
@@ -447,18 +491,21 @@ Some habits should STAY at two minutes:
 **1. Habit Tracker (Physical)**
 
 **Paper Calendar Method**:
+
 - Print or draw monthly calendar
 - Place in high-visibility location
 - Mark X for each day completed
 - Visual chains create motivation ("Don't break the chain")
 
 **Journal Method**:
+
 - Dedicated habit tracking journal
 - Daily checkbox system
 - Space for notes and reflections
 - Track multiple habits on one page
 
 **Wall Chart Method**:
+
 - Large visible chart on wall
 - Colored stickers or markers
 - Family members can see (accountability)
@@ -467,12 +514,14 @@ Some habits should STAY at two minutes:
 **2. Digital Tracking**:
 
 **App-Based**:
+
 - Habit tracking apps (Habitica, Streaks, Done)
 - Built-in reminders
 - Statistics and analytics
 - Streak counters
 
 **Spreadsheet Method**:
+
 - Google Sheets or Excel
 - Custom formulas for streak counting
 - Graphs and charts for visualization
@@ -481,6 +530,7 @@ Some habits should STAY at two minutes:
 **3. Automatic Tracking**:
 
 **Device-Based**:
+
 - Fitness tracker for steps/exercise
 - Sleep tracker for sleep habits
 - App timers for screen time reduction
@@ -489,24 +539,28 @@ Some habits should STAY at two minutes:
 **What to Track**:
 
 **Binary Habits (Yes/No)**:
+
 - Did meditation: Yes/No
 - Worked out: Yes/No
 - Read: Yes/No
 - Journaled: Yes/No
 
 **Quantity Habits**:
-- Pages read: ___
-- Minutes exercised: ___
-- Words written: ___
-- Glasses of water: ___
+
+- Pages read: \_\_\_
+- Minutes exercised: \_\_\_
+- Words written: \_\_\_
+- Glasses of water: \_\_\_
 
 **Quality Habits**:
-- Energy level (1-10): ___
-- Mood (1-10): ___
-- Sleep quality (1-10): ___
-- Focus level (1-10): ___
+
+- Energy level (1-10): \_\_\_
+- Mood (1-10): \_\_\_
+- Sleep quality (1-10): \_\_\_
+- Focus level (1-10): \_\_\_
 
 **The Tracking Template**:
+
 ```
 HABIT: ________________
 TRACKING METHOD: ________________
@@ -519,12 +573,14 @@ WEEKLY REVIEW: [Day] at [Time]
 
 **1. Immediacy**:
 Record the habit immediately after completion.
+
 - After workout, mark the X
 - After reading, check the box
 - After meditation, update the tracker
 
 **2. Visibility**:
 Keep tracker where you'll see it daily.
+
 - On bathroom mirror
 - On refrigerator
 - On desk
@@ -532,6 +588,7 @@ Keep tracker where you'll see it daily.
 
 **3. Simplicity**:
 Make tracking take less than 30 seconds.
+
 - One checkbox
 - Single X mark
 - Quick app tap
@@ -539,6 +596,7 @@ Make tracking take less than 30 seconds.
 
 **4. Accuracy**:
 Never skip recording, even if you missed the habit.
+
 - Record the miss
 - No judgment, just data
 - Patterns emerge from honesty
@@ -568,11 +626,13 @@ NOTES: Perfect week! Usually read 5+ pages once started.
 **Recovery from Breaks**:
 
 **Never Miss Twice Rule**:
+
 - Missing once is an accident
 - Missing twice is the start of a new pattern
 - Prioritize recovery over streak preservation
 
 **Break Recovery Protocol**:
+
 1. Record the miss honestly
 2. Analyze what caused it (travel, illness, schedule change)
 3. Perform the habit the next day, no matter how small
@@ -586,6 +646,7 @@ NOTES: Perfect week! Usually read 5+ pages once started.
 **Purpose**: Create external motivation and social reinforcement for consistency.
 
 **When to Add Accountability**:
+
 - After mastering solo habit for 30+ days
 - When motivation wanes despite good system
 - For habits with high social benefit (relationship building)
@@ -597,12 +658,14 @@ NOTES: Perfect week! Usually read 5+ pages once started.
 **1. Accountability Partner**:
 
 **Structure**:
+
 - Weekly check-ins (same day, same time)
 - Share specific metrics (not just "how's it going?")
 - Mutual accountability (both partners track habits)
 - Consequence for missed check-in
 
 **Example Setup**:
+
 ```
 PARTNERS: You + Friend
 HABIT: Daily writing
@@ -614,6 +677,7 @@ CONSEQUENCE: If miss check-in, $10 to partner's chosen charity
 **2. Public Commitment**:
 
 **Social Media Declaration**:
+
 - Announce habit goal publicly
 - Post daily/weekly updates
 - Use specific hashtags for tracking
@@ -623,6 +687,7 @@ CONSEQUENCE: If miss check-in, $10 to partner's chosen charity
 "Starting tomorrow: 100 days of meditation. Will post daily check-in. #100DaysOfMeditation"
 
 **Blog or Newsletter**:
+
 - Document journey publicly
 - Share lessons and struggles
 - Build audience invested in your success
@@ -631,12 +696,14 @@ CONSEQUENCE: If miss check-in, $10 to partner's chosen charity
 **3. Habit Contract**:
 
 **The Structure** (from Atomic Habits):
+
 - Written agreement with yourself
 - Specific habit and measurement
 - Two witnesses who sign
 - Clear consequences for failure
 
 **Example Habit Contract**:
+
 ```
 HABIT CONTRACT
 
@@ -667,6 +734,7 @@ Witness 2: ___________
 **4. Financial Stakes**:
 
 **Commitment Devices**:
+
 - StickK.com (commit money that goes to anti-charity if you fail)
 - Beeminder (pay money if you don't hit goals)
 - Bet with friend (loser pays specific amount)
@@ -677,12 +745,14 @@ Witness 2: ___________
 **5. Group/Community Accountability**:
 
 **Join Existing Groups**:
+
 - Running clubs for exercise habits
 - Writing groups for creative habits
 - Book clubs for reading habits
 - Online communities (Reddit, Discord) for specific habits
 
 **Create Your Own**:
+
 - Start a group chat with friends pursuing similar goals
 - Weekly group check-ins
 - Shared tracking document
@@ -691,12 +761,14 @@ Witness 2: ___________
 **6. Professional Accountability**:
 
 **Coach or Trainer**:
+
 - Paid professional relationship
 - Regular scheduled sessions
 - Expert guidance plus accountability
 - Financial investment increases commitment
 
 **Therapist or Counselor**:
+
 - For habits related to mental health
 - Professional support for deeper issues
 - Accountability through scheduled sessions
@@ -730,6 +802,7 @@ VERY HIGH ACCOUNTABILITY (Professional)
 ```
 
 **Accountability Best Practices**:
+
 - Start with low accountability, increase only if needed
 - Make consequences meaningful but not punishing
 - Choose partners who are reliable and supportive
@@ -744,24 +817,28 @@ VERY HIGH ACCOUNTABILITY (Professional)
 ### Week 1-2: The Honeymoon Phase
 
 **What to Expect**:
+
 - High motivation and excitement
 - Behavior feels novel and interesting
 - Easy to maintain consistency
 - Lots of mental energy required
 
 **Focus**:
+
 - Don't increase difficulty yet
 - Stick to the two-minute version
 - Track every single day
 - Build the streak
 
 **Common Mistakes**:
+
 - Doing too much too soon
 - Adding complexity before establishing base habit
 - Skipping tracking because "I'll remember"
 - Adding more habits because "this is easy"
 
 **Signs of Success**:
+
 - 14-day streak
 - Habit is performed at same time/place daily
 - You've identified and removed friction points
@@ -772,24 +849,28 @@ VERY HIGH ACCOUNTABILITY (Professional)
 ### Week 3-4: The Dip
 
 **What to Expect**:
+
 - Novelty wears off
 - Motivation decreases
 - Behavior feels like effort
 - First real tests of commitment
 
 **Focus**:
+
 - Never miss twice
 - Stick to systems, not motivation
 - Review your "why" (identity)
 - Simplify if needed (back to two minutes)
 
 **Common Mistakes**:
+
 - Giving up during the dip
 - Thinking something is wrong because it's hard
 - Breaking the streak and not recovering
 - Abandoning the habit instead of adjusting it
 
 **Signs of Success**:
+
 - You do the habit even when you don't feel like it
 - Recovery from a single miss is immediate
 - The habit happens at the scheduled time automatically
@@ -800,24 +881,28 @@ VERY HIGH ACCOUNTABILITY (Professional)
 ### Week 5-8: Stabilization
 
 **What to Expect**:
+
 - Behavior becomes more automatic
 - Less mental energy required
 - Cue-response connection strengthening
 - Natural desire to extend duration/intensity
 
 **Focus**:
+
 - Maintain consistency above all else
 - Begin gradual increases if desired
 - Optimize the system (better tracking, clearer cues)
 - Celebrate the streak
 
 **Common Mistakes**:
+
 - Increasing too quickly
 - Getting overconfident and skipping days
 - Comparing yourself to others
 - Forgetting the identity foundation
 
 **Signs of Success**:
+
 - 30+ day streak
 - Habit feels easier than week 1
 - Environmental cues automatically trigger behavior
@@ -828,24 +913,28 @@ VERY HIGH ACCOUNTABILITY (Professional)
 ### Month 3-6: Integration
 
 **What to Expect**:
+
 - Habit is integrated into identity
 - Behavior is largely automatic
 - Can maintain even during disruptions
 - Ready to optimize or add complexity
 
 **Focus**:
+
 - Fine-tune for effectiveness
 - Add accountability if needed
 - Consider adding related habits
 - Reflect on identity shifts
 
 **Common Mistakes**:
+
 - Taking the habit for granted
 - Stopping tracking too soon
 - Adding too many new habits at once
 - Not celebrating how far you've come
 
 **Signs of Success**:
+
 - 90+ day streak
 - Habit survives travel, illness, schedule changes
 - You identify with the behavior ("I'm a meditator")
@@ -856,24 +945,28 @@ VERY HIGH ACCOUNTABILITY (Professional)
 ### Month 6-12: Mastery and Evolution
 
 **What to Expect**:
+
 - Habit is deeply ingrained
 - Can perform while distracted or stressed
 - May need to add challenge to maintain engagement
 - Behavior has cascaded to other life areas
 
 **Focus**:
+
 - Prevent boredom through variation
 - Stack new related habits
 - Mentor others in the habit
 - Reflect on cumulative progress
 
 **Common Mistakes**:
+
 - Stopping the behavior because "it's automatic now"
 - Not appreciating the compound effects
 - Failing to adjust as life changes
 - Taking the habit for granted
 
 **Signs of Success**:
+
 - 6-12 month streak
 - Habit persists through major life changes
 - Identity has shifted significantly
@@ -888,12 +981,14 @@ VERY HIGH ACCOUNTABILITY (Professional)
 **The Error**: "I'm going to exercise for an hour every day!"
 
 **Why It Fails**:
+
 - Too much change too fast
 - Requires too much motivation
 - First miss leads to discouragement
 - Not sustainable with current life
 
 **The Fix**:
+
 - Use the two-minute rule
 - Focus on consistency, not intensity
 - Make it almost impossible to fail
@@ -906,12 +1001,14 @@ VERY HIGH ACCOUNTABILITY (Professional)
 **The Error**: Researching the perfect meditation technique before establishing a daily practice.
 
 **Why It Fails**:
+
 - Analysis paralysis
 - Perfection prevents starting
 - Optimization is irrelevant without consistency
 - Energy goes to research, not practice
 
 **The Fix**:
+
 - Start with "good enough"
 - Establish 30-day streak first
 - Then optimize based on experience
@@ -924,12 +1021,14 @@ VERY HIGH ACCOUNTABILITY (Professional)
 **The Error**: Missing one day, feeling discouraged, missing another, giving up.
 
 **Why It Fails**:
+
 - One miss becomes pattern
 - Shame prevents return
 - All-or-nothing thinking
 - Losing identity ("I'm not that person anymore")
 
 **The Fix**:
+
 - Never miss twice (most important rule)
 - Missing once is accident, twice is pattern
 - Return immediately with compassion
@@ -942,18 +1041,21 @@ VERY HIGH ACCOUNTABILITY (Professional)
 **The Error**: Relying on willpower without changing environment.
 
 **Why It Fails**:
+
 - Willpower is finite
 - Cues trigger old habits
 - Environment wins over intention
 - Too much friction for new habit
 
 **The Fix**:
+
 - Make good habits obvious (visible cues)
 - Make bad habits invisible (remove cues)
 - Reduce friction for desired behavior
 - Increase friction for undesired behavior
 
 **Example**:
+
 - Want to read more? Put book on pillow.
 - Want to stop phone scrolling? Keep phone in other room.
 
@@ -964,12 +1066,14 @@ VERY HIGH ACCOUNTABILITY (Professional)
 **The Error**: "I don't need to track, I'll remember if I did it."
 
 **Why It Fails**:
+
 - Memory is unreliable
 - Can't improve what you don't measure
 - Easy to deceive yourself
 - No visual progress
 
 **The Fix**:
+
 - Track immediately after completing habit
 - Use visible tracker (paper calendar on wall)
 - Make tracking take less than 30 seconds
@@ -982,12 +1086,14 @@ VERY HIGH ACCOUNTABILITY (Professional)
 **The Error**: Building habits to impress others or meet external expectations.
 
 **Why It Fails**:
+
 - No intrinsic motivation
 - Unsustainable without external validation
 - Identity not aligned
 - Resentment builds over time
 
 **The Fix**:
+
 - Start with identity: "Who do I want to become?"
 - Ensure habit aligns with personal values
 - Don't share publicly until habit is established
@@ -1000,12 +1106,14 @@ VERY HIGH ACCOUNTABILITY (Professional)
 **The Error**: "New year, new me! I'll exercise, meditate, eat healthy, read, journal, and wake up early!"
 
 **Why It Fails**:
+
 - Cognitive overload
 - Not enough willpower for all changes
 - One failure triggers cascade
 - Can't identify what's working/not working
 
 **The Fix**:
+
 - Focus on ONE habit at a time
 - Only add second after 30+ days of first
 - Stack habits naturally, don't force multiple
@@ -1018,18 +1126,21 @@ VERY HIGH ACCOUNTABILITY (Professional)
 **The Error**: Focusing purely on outcomes without identity shift.
 
 **Why It Fails**:
+
 - Behavior doesn't stick after goal reached
 - No intrinsic motivation
 - Temporary change, not lasting transformation
 - Identity doesn't support habit
 
 **The Fix**:
+
 - Start every habit with identity statement
 - "I am the type of person who..."
 - Collect evidence of identity with each rep
 - Focus on becoming, not achieving
 
 **Example**:
+
 - Not: "I want to run a marathon"
 - Yes: "I am a runner" (identity that continues after marathon)
 
@@ -1040,12 +1151,14 @@ VERY HIGH ACCOUNTABILITY (Professional)
 **The Error**: Feeling guilty, shaming yourself, doing double the next day.
 
 **Why It Fails**:
+
 - Creates negative association with habit
 - Punishment doesn't work for voluntary behavior
 - Shame spiral leads to avoidance
 - Doubles increase likelihood of next miss
 
 **The Fix**:
+
 - Treat misses as data, not failure
 - Analyze: what caused the miss?
 - Adjust system to prevent future misses
@@ -1060,12 +1173,14 @@ VERY HIGH ACCOUNTABILITY (Professional)
 **The Error**: "It's automatic now, I don't need to track."
 
 **Why It Fails**:
+
 - Habits can decay without awareness
 - Easy to drift without measurement
 - Lose visual record of progress
 - Can't identify when/why habit weakens
 
 **The Fix**:
+
 - Continue tracking indefinitely (takes 30 seconds)
 - Tracking IS part of the habit loop
 - Provides ongoing satisfaction and proof
@@ -1078,6 +1193,7 @@ VERY HIGH ACCOUNTABILITY (Professional)
 ### Early Signs (Days 1-30)
 
 **Behavioral Indicators**:
+
 - ✓ Consistent 7+ day streak
 - ✓ Performing at same time/place daily
 - ✓ Less mental debate about doing it
@@ -1085,12 +1201,14 @@ VERY HIGH ACCOUNTABILITY (Professional)
 - ✓ Recovery is immediate after a miss
 
 **Psychological Indicators**:
+
 - ✓ Slight discomfort when you can't do it
 - ✓ Defending the habit time in your schedule
 - ✓ Noticing when others don't have this habit
 - ✓ Beginning to identify with the behavior
 
 **System Indicators**:
+
 - ✓ Tracking is consistent
 - ✓ Friction points identified and removed
 - ✓ Implementation intention is precise
@@ -1101,6 +1219,7 @@ VERY HIGH ACCOUNTABILITY (Professional)
 ### Medium-Term Signs (Days 31-90)
 
 **Behavioral Indicators**:
+
 - ✓ 30+ day streak
 - ✓ Habit survives moderate disruptions (travel, guests)
 - ✓ Natural extension beyond two minutes
@@ -1108,6 +1227,7 @@ VERY HIGH ACCOUNTABILITY (Professional)
 - ✓ Other people notice the pattern
 
 **Psychological Indicators**:
+
 - ✓ Strong identification with behavior
 - ✓ "I am a person who [habit]"
 - ✓ Protecting the habit time from intrusions
@@ -1115,6 +1235,7 @@ VERY HIGH ACCOUNTABILITY (Professional)
 - ✓ Beginning to see cascading effects
 
 **System Indicators**:
+
 - ✓ Less need to consciously think about system
 - ✓ Tracking is reflexive
 - ✓ Environment naturally supports behavior
@@ -1125,6 +1246,7 @@ VERY HIGH ACCOUNTABILITY (Professional)
 ### Long-Term Signs (Days 90+)
 
 **Behavioral Indicators**:
+
 - ✓ 90+ day streak
 - ✓ Habit survives major disruptions (illness, moving, job change)
 - ✓ Can perform while distracted or stressed
@@ -1132,6 +1254,7 @@ VERY HIGH ACCOUNTABILITY (Professional)
 - ✓ Others associate you with this behavior
 
 **Psychological Indicators**:
+
 - ✓ Deep identity alignment
 - ✓ Would feel like violating yourself to skip
 - ✓ The behavior has become part of your story
@@ -1139,6 +1262,7 @@ VERY HIGH ACCOUNTABILITY (Professional)
 - ✓ Significant life changes from this habit
 
 **System Indicators**:
+
 - ✓ System is fully internalized
 - ✓ Can teach others the habit
 - ✓ Environment is permanently optimized
@@ -1155,6 +1279,7 @@ Someone asks: "How did you become [identity]?"
 And you answer: "This is just who I am."
 
 **Examples**:
+
 - "How did you become a runner?" → "I just am. I run."
 - "How did you become a writer?" → "I write every day. It's what I do."
 - "How are you so consistent with meditation?" → "It's just part of my day now."
@@ -1203,6 +1328,7 @@ Goal: Growth and Variation
 ### Adding Duration/Intensity
 
 **When to Increase**:
+
 - ✓ 30+ consecutive days at current level
 - ✓ Current version feels almost effortless
 - ✓ You naturally extend beyond minimum sometimes
@@ -1214,6 +1340,7 @@ Goal: Growth and Variation
 Increase by no more than 10% per week.
 
 **Examples**:
+
 - 2-minute meditation → 2.5 minutes (week 5) → 3 minutes (week 6)
 - 5 push-ups → 6 push-ups (week 5) → 7 push-ups (week 6)
 - 1 page reading → 2 pages (week 5) → 3 pages (week 6)
@@ -1223,6 +1350,7 @@ Always preserve the two-minute version as the minimum acceptable.
 
 **Bad Day Protocol**:
 On difficult days, you can ALWAYS do the two-minute version.
+
 - Stressed? Do 2-minute meditation (not 20)
 - Tired? Do 1 push-up (not 50)
 - Busy? Read 1 page (not 1 chapter)
@@ -1232,6 +1360,7 @@ On difficult days, you can ALWAYS do the two-minute version.
 ### Adding Variations
 
 **When to Vary**:
+
 - ✓ 60+ days of base habit
 - ✓ Behavior is fully automatic
 - ✓ Boredom or plateau emerging
@@ -1240,16 +1369,19 @@ On difficult days, you can ALWAYS do the two-minute version.
 **Examples**:
 
 **Exercise Variations**:
+
 - Base: 10 push-ups daily
 - Variations: Different styles (wide, narrow, diamond), different times, different tempos
 - Schedule: Monday (standard), Wednesday (slow tempo), Friday (max reps)
 
 **Meditation Variations**:
+
 - Base: 5 minutes breath focus
 - Variations: Body scan, loving-kindness, visualization, walking meditation
 - Schedule: Alternate weekly or monthly
 
 **Reading Variations**:
+
 - Base: Read 10 pages fiction
 - Variations: Alternate fiction/non-fiction, different genres, audiobooks
 - Schedule: Change monthly
@@ -1261,6 +1393,7 @@ On difficult days, you can ALWAYS do the two-minute version.
 ### Stacking Related Habits
 
 **When to Stack**:
+
 - ✓ 60+ days of base habit
 - ✓ Behavior is automatic
 - ✓ Life has capacity for addition
@@ -1281,6 +1414,7 @@ On difficult days, you can ALWAYS do the two-minute version.
 **Result**: Reading + learning integration system
 
 **Stacking Rules**:
+
 1. Master base habit first (60+ days)
 2. Add only ONE habit to the stack at a time
 3. Wait 30+ days before adding next
@@ -1292,6 +1426,7 @@ On difficult days, you can ALWAYS do the two-minute version.
 ### Increasing Social Complexity
 
 **When to Add Social Elements**:
+
 - ✓ 90+ days of private habit
 - ✓ Deep identity alignment
 - ✓ Desire to help others or deepen practice
@@ -1300,16 +1435,19 @@ On difficult days, you can ALWAYS do the two-minute version.
 **Social Additions**:
 
 **Sharing Publicly**:
+
 - Document journey on social media
 - Start blog or newsletter
 - Create content teaching others
 
 **Teaching**:
+
 - Mentor someone starting the same habit
 - Create accountability group
 - Lead community challenge
 
 **Competing**:
+
 - Join challenges or competitions
 - Track against others (strava, goodreads)
 - Gamify with leaderboards
@@ -1323,6 +1461,7 @@ On difficult days, you can ALWAYS do the two-minute version.
 ### Example 1: Building an Exercise Habit
 
 #### Target Identity
+
 "I am the type of person who doesn't miss workouts."
 
 #### Step-by-Step Process
@@ -1336,6 +1475,7 @@ On difficult days, you can ALWAYS do the two-minute version.
 "After I turn off my alarm, I will immediately put on workout clothes."
 
 **Environment Design**:
+
 - Lay workout clothes on chair next to bed every night
 - Put phone alarm across room (must get up to turn off)
 - Remove all other clothes from chair (only workout option)
@@ -1350,6 +1490,7 @@ Paper calendar on bathroom mirror, mark X after putting on clothes
 "After I put on workout clothes, I will have my favorite coffee"
 
 **Days 1-14 Reality**:
+
 - Just put on clothes
 - Some days, naturally went for walk after
 - Other days, wore clothes all day (that's okay!)
@@ -1363,6 +1504,7 @@ Paper calendar on bathroom mirror, mark X after putting on clothes
 "After I put on workout clothes, I will step outside my front door."
 
 **Days 15-28**:
+
 - Put on clothes (still the minimum)
 - Step outside (new minimum)
 - Often walked around block
@@ -1377,6 +1519,7 @@ Paper calendar on bathroom mirror, mark X after putting on clothes
 "After I step outside, I will walk for 5 minutes."
 
 **Days 29-56**:
+
 - Clothes → Outside → 5-minute walk (new minimum)
 - Often walked 10-15 minutes
 - Bad days: still did clothes + outside + 5 minutes
@@ -1387,6 +1530,7 @@ Paper calendar on bathroom mirror, mark X after putting on clothes
 **Month 3-6: Build Intensity**
 
 **Progressive Additions**:
+
 - Month 3: Add 10 minutes of walking
 - Month 4: Add light jogging intervals
 - Month 5: Join running group (social element)
@@ -1400,6 +1544,7 @@ Even during flu, injury, or travel: put on workout clothes at 6:30 AM
 ---
 
 **Month 6+ Results**:
+
 - Identity shift: "I'm a runner"
 - 180+ day streak
 - Ran first 5K
@@ -1409,6 +1554,7 @@ Even during flu, injury, or travel: put on workout clothes at 6:30 AM
 - Helping friend start running habit
 
 **Key Success Factors**:
+
 - Started tiny (just put on clothes)
 - Maintained streak through flexibility
 - Never missed twice
@@ -1420,6 +1566,7 @@ Even during flu, injury, or travel: put on workout clothes at 6:30 AM
 ### Example 2: Building a Reading Habit
 
 #### Target Identity
+
 "I am the type of person who reads every day."
 
 #### Step-by-Step Process
@@ -1433,6 +1580,7 @@ Even during flu, injury, or travel: put on workout clothes at 6:30 AM
 "After I plug in my phone (in bathroom), I will read in bed."
 
 **Environment Design**:
+
 - Keep current book on pillow during day
 - When making bed, place book on pillow
 - Remove TV from bedroom
@@ -1449,6 +1597,7 @@ Checkmark in book itself (date at top of each day's page)
 "I will only use my special cozy blanket while reading"
 
 **Days 1-14 Reality**:
+
 - Plugged phone in bathroom at 9 PM
 - Saw book on pillow (impossible to miss)
 - Read minimum 1 page
@@ -1460,12 +1609,14 @@ Checkmark in book itself (date at top of each day's page)
 **Week 3-4: Stabilize**
 
 **Maintenance**:
+
 - Same routine
 - No increase in minimum (still 1 page)
 - Naturally reading more (10-20 pages)
 - But still celebrating the single page
 
 **Days 15-28**:
+
 - One day only read 1 page (super tired)
 - Felt proud, not guilty
 - Next day back to 10+ pages
@@ -1476,12 +1627,14 @@ Checkmark in book itself (date at top of each day's page)
 **Week 5-8: Natural Extension**
 
 **Allowing Growth**:
+
 - Minimum still 1 page
 - Average now 15-20 pages
 - Some nights 30+ pages
 - Finishing 1-2 books per week
 
 **New Addition**:
+
 - Started keeping reading journal
 - After reading, write 1 sentence about what I read
 - 2-minute addition to habit stack
@@ -1491,20 +1644,24 @@ Checkmark in book itself (date at top of each day's page)
 **Month 3-6: Optimization**
 
 **Month 3**:
+
 - Joined book club (social element)
 - Added "1 page at lunch" habit (separate habit, separately established)
 
 **Month 4**:
+
 - Started Goodreads tracking
 - Set goal: 52 books/year
 - On pace for 60+
 
 **Month 5**:
+
 - Added audiobooks during commute
 - Stacked with "driving to work" habit
 - Separate from nighttime reading habit
 
 **Month 6**:
+
 - Reading 40+ pages per night
 - But minimum still 1 page
 - Identity fully integrated: "I'm a reader"
@@ -1512,6 +1669,7 @@ Checkmark in book itself (date at top of each day's page)
 ---
 
 **Month 6+ Results**:
+
 - 180+ consecutive days of reading
 - Read 30 books in 6 months
 - Nighttime screen time reduced naturally
@@ -1521,6 +1679,7 @@ Checkmark in book itself (date at top of each day's page)
 - Identity: "I'm a reader" (not "I'm trying to read more")
 
 **Key Success Factors**:
+
 - Made it stupid simple (1 page)
 - Environmental design made it obvious (book on pillow)
 - Phone removal eliminated competing habit
@@ -1532,6 +1691,7 @@ Checkmark in book itself (date at top of each day's page)
 ### Example 3: Building a Meditation Habit
 
 #### Target Identity
+
 "I am the type of person who practices mindfulness daily."
 
 #### Step-by-Step Process
@@ -1545,6 +1705,7 @@ Checkmark in book itself (date at top of each day's page)
 "After I start my coffee maker, I will sit in meditation chair."
 
 **Environment Design**:
+
 - Designated chair = meditation only
 - Meditation cushion always on chair
 - Chair faces blank wall (minimal distraction)
@@ -1555,6 +1716,7 @@ Checkmark in book itself (date at top of each day's page)
 "Sit in chair and take 3 deep breaths" (literally 30 seconds, but called "2 minutes")
 
 **Tracking**:
+
 - Insight Timer app (tracks sessions automatically)
 - Also physical calendar on bathroom mirror
 
@@ -1563,6 +1725,7 @@ Checkmark in book itself (date at top of each day's page)
 (Coffee is brewing during meditation, reward is waiting)
 
 **Days 1-14 Reality**:
+
 - Started coffee → Sat in chair → 3 breaths → Got coffee
 - Some days naturally sat for 2-5 minutes
 - Other days literally 3 breaths (that counted!)
@@ -1574,18 +1737,21 @@ Checkmark in book itself (date at top of each day's page)
 **Week 3-4: Stabilize**
 
 **Slight Extension**:
+
 - Minimum: Sit in chair, 3 breaths
 - Average: 2-3 minutes of breath focus
 - Using Insight Timer guided meditations (beginner)
 - Still getting coffee after as reward
 
 **Challenge Day**:
+
 - Day 22: Woke up late, wanted to skip
 - Did 3 breaths while coffee brewed
 - 45 seconds, but streak maintained
 - Felt good about keeping commitment
 
 **Days 15-28**:
+
 - 28/28 days = success
 - Meditation spot is established
 - Beginning to crave the stillness
@@ -1596,17 +1762,20 @@ Checkmark in book itself (date at top of each day's page)
 **Week 5-8: Natural Extension**
 
 **Organic Growth**:
+
 - Minimum: Still 3 breaths in chair
 - Average: 5-7 minutes
 - Trying different techniques (body scan, loving-kindness)
 - Missing coffee reward (started meditating longer than brew time)
 
 **Adjustment**:
+
 - Set coffee on timer to brew later
 - Or make coffee after meditation
 - Meditation became its own reward
 
 **Days 29-56**:
+
 - 53/56 days = success
 - Missed 3 days during family visit (guest in meditation space)
 - Recovered by doing 3 breaths in bathroom
@@ -1617,24 +1786,28 @@ Checkmark in book itself (date at top of each day's page)
 **Month 3-6: Build Practice**
 
 **Month 3**:
+
 - Average session: 10 minutes
 - Minimum: Still 3 breaths (used on super busy days)
 - Tried morning and evening meditation (evening became separate habit)
 - Joined online meditation community
 
 **Month 4**:
+
 - Took meditation course
 - Deepened practice with instruction
 - 15-minute sessions becoming normal
 - Habit survived work trip (meditated in hotel)
 
 **Month 5**:
+
 - Added walking meditation practice
 - Used during lunch breaks
 - Mindfulness extending beyond sitting practice
 - Noticed being more present throughout day
 
 **Month 6**:
+
 - 20-minute sessions most days
 - But still honored 3-breath minimum when needed
 - Meditation space is sacred
@@ -1643,6 +1816,7 @@ Checkmark in book itself (date at top of each day's page)
 ---
 
 **Month 6+ Results**:
+
 - 180+ consecutive days of practice
 - Deep identity shift: "I'm a meditator"
 - Lower anxiety and reactivity
@@ -1652,6 +1826,7 @@ Checkmark in book itself (date at top of each day's page)
 - The practice has transformed my life
 
 **Key Success Factors**:
+
 - Started absurdly small (3 breaths)
 - Made environment dedicated and inviting
 - Used powerful temptation bundle (coffee)
@@ -1723,6 +1898,7 @@ When an LLM is helping a user build a new habit, follow this decision tree:
 **When user says: "I want to start [habit]"**
 
 LLM Response Structure:
+
 ```
 1. Identity Reframe:
 "Rather than 'I want to [goal]', let's reframe this as: 'I am the type of person who [behavior].' Who do you want to become?"
@@ -1746,6 +1922,7 @@ LLM Response Structure:
 **When user says: "I keep failing at [habit]"**
 
 LLM Diagnostic Questions:
+
 ```
 1. "What exactly is the habit you're trying to build?"
    → Check if it's too big
@@ -1907,6 +2084,7 @@ PHASE 6: SUPPORT (Ongoing)
 When user wants to build [category], provide these specific recommendations:
 
 **Exercise Habit**:
+
 - Two-minute version: Put on workout clothes
 - Habit stack: After morning coffee, change into workout clothes
 - Environment: Lay clothes out night before on chair
@@ -1914,6 +2092,7 @@ When user wants to build [category], provide these specific recommendations:
 - Temptation bundle: Favorite podcast only during walks
 
 **Meditation Habit**:
+
 - Two-minute version: Sit in chair, take 3 deep breaths
 - Habit stack: After starting coffee, sit in meditation chair
 - Environment: Dedicated chair, cushion always on it
@@ -1921,6 +2100,7 @@ When user wants to build [category], provide these specific recommendations:
 - Temptation bundle: Enjoy coffee after meditation
 
 **Reading Habit**:
+
 - Two-minute version: Read 1 page
 - Habit stack: After plugging in phone (in other room), read in bed
 - Environment: Book on pillow during day
@@ -1928,6 +2108,7 @@ When user wants to build [category], provide these specific recommendations:
 - Temptation bundle: Special cozy blanket only while reading
 
 **Writing Habit**:
+
 - Two-minute version: Write 1 sentence
 - Habit stack: After sitting at desk, open journal and write 1 sentence
 - Environment: Journal and pen already open on desk
@@ -1935,6 +2116,7 @@ When user wants to build [category], provide these specific recommendations:
 - Temptation bundle: Favorite coffee only during writing
 
 **Healthy Eating Habit**:
+
 - Two-minute version: Eat 1 piece of fruit
 - Habit stack: After lunch, eat piece of fruit
 - Environment: Fruit bowl on counter at eye level
@@ -1942,6 +2124,7 @@ When user wants to build [category], provide these specific recommendations:
 - Temptation bundle: Favorite plate for healthy foods
 
 **Morning Routine Habit**:
+
 - Two-minute version: Make bed immediately upon waking
 - Habit stack: After alarm, sit up and immediately make bed
 - Environment: Minimalist bed (easy to make)

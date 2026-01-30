@@ -9,9 +9,11 @@ This directory contains comprehensive documentation for building an LLM-powered 
 ## File Structure
 
 ### 1. **key-concepts-summary.md** (411 lines)
+
 **Purpose:** Quick-reference summary of ALL core Atomic Habits concepts
 
 **Contents:**
+
 - Core philosophy in bullet points
 - Four Laws with inversions in table format
 - All strategies in compact form
@@ -24,10 +26,12 @@ This directory contains comprehensive documentation for building an LLM-powered 
 ---
 
 ### 2. **decision-trees.md** (1,304 lines)
+
 **Purpose:** Systematic decision-making flows for habit-related scenarios
 
 **Contents:**
 9 comprehensive decision trees for:
+
 - User wants to build a new habit
 - User wants to break a bad habit
 - User's habit isn't sticking
@@ -43,10 +47,12 @@ This directory contains comprehensive documentation for building an LLM-powered 
 ---
 
 ### 3. **implementation-patterns.md** (2,726 lines)
+
 **Purpose:** Reusable code-like patterns for building habit features
 
 **Contents:**
 9 patterns with full pseudocode:
+
 1. Habit Stack Builder (chaining habits)
 2. Environment Audit (room-by-room cue analysis)
 3. Identity Script Generator
@@ -62,10 +68,12 @@ This directory contains comprehensive documentation for building an LLM-powered 
 ---
 
 ### 4. **ecosystem-components.md** (1,516 lines)
+
 **Purpose:** Complete architecture for a habit ecosystem
 
 **Contents:**
 10 suggested app components:
+
 - Habit Tracker App
 - Environment Design Tool
 - Identity Journal
@@ -78,6 +86,7 @@ This directory contains comprehensive documentation for building an LLM-powered 
 - Reward Scheduler
 
 Plus:
+
 - System architecture diagrams
 - Component integration points
 - API endpoint structure
@@ -89,10 +98,12 @@ Plus:
 ---
 
 ### 5. **prompt-templates.md** (280 lines)
+
 **Purpose:** Conversation templates for LLM interactions
 
 **Contents:**
 10 prompt templates for:
+
 - Discovering new habits to build
 - Identifying bad habits to break
 - Creating implementation intentions
@@ -105,6 +116,7 @@ Plus:
 - Troubleshooting failing habits
 
 Plus:
+
 - Sample dialogues for common scenarios
 - Best practices for LLM conversations
 - Red flags to watch for
@@ -114,10 +126,12 @@ Plus:
 ---
 
 ### 6. **data-models.md** (1,325 lines)
+
 **Purpose:** Complete data structures for habit ecosystem
 
 **Contents:**
 10 core data models:
+
 - User (profile, identity, goals, preferences)
 - Habit (all attributes a habit needs)
 - Entry (tracking records)
@@ -130,6 +144,7 @@ Plus:
 - Badge/Achievement (gamification)
 
 Plus:
+
 - Supporting data structures
 - Calculated/derived fields
 - API endpoint suggestions
@@ -218,14 +233,14 @@ const approach = decisionTrees.buildNewHabit(conversation.responses);
 const habitPlan = implementationPatterns.habitStackBuilder({
   newHabit: "exercise for 30 minutes",
   userRoutines: conversation.routines,
-  timing: "morning"
+  timing: "morning",
 });
 
 // 5. LLM structures data using data-models.md
 const habit = createHabit({
   name: habitPlan.newHabit,
   trigger: habitPlan.formula,
-  twoMinuteVersion: implementationPatterns.twoMinuteVersion(habitPlan.newHabit)
+  twoMinuteVersion: implementationPatterns.twoMinuteVersion(habitPlan.newHabit),
 });
 
 // 6. System stores and displays via ecosystem-components.md
@@ -250,6 +265,7 @@ progressDashboard.display(habit);
 ## Maintenance
 
 This documentation should be updated when:
+
 - New research emerges on habit formation
 - User feedback reveals gaps in the system
 - New technologies enable better implementations
@@ -260,6 +276,7 @@ This documentation should be updated when:
 ## Credits
 
 Based on **"Atomic Habits"** by James Clear
+
 - Website: https://jamesclear.com
 - Book: https://atomichabits.com
 

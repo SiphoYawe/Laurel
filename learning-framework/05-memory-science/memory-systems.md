@@ -9,18 +9,21 @@ Memory is not a single system but a coordinated pipeline of processes that trans
 ### Stage 1: Sensory Input → Sensory Memory (Milliseconds)
 
 **What happens:**
+
 - Every sensory experience (visual, auditory, tactile) briefly registers in sensory memory
 - **Duration**: 200-500 milliseconds (visual), 3-4 seconds (auditory)
 - **Capacity**: High-fidelity representation of the entire sensory field
 - **Function**: Allows brain to sample environment and decide what deserves attention
 
 **Practical implications:**
+
 - Most information never makes it past this stage
 - Your brain constantly filters out irrelevant stimuli
 - Why quick glances at material don't create learning
 - Explains why you can "replay" what someone just said if asked to repeat
 
 **Student application:**
+
 - First exposure to material is just sensory registration
 - You need to actively attend to move information forward
 - Brief exposure (like scrolling through slides) creates no learning
@@ -29,18 +32,21 @@ Memory is not a single system but a coordinated pipeline of processes that trans
 ### Stage 2: Attention → Working Memory (Seconds to Minutes)
 
 **What happens:**
+
 - Attention acts as the gatekeeper, selecting what enters working memory
 - **Duration**: 15-30 seconds without active rehearsal
 - **Capacity**: Severely limited (see below)
 - **Function**: Conscious processing, manipulation, and initial encoding
 
 **The attention filter:**
+
 - You can only attend to one complex task at a time
 - Attention determines what gets encoded to long-term memory
 - **No attention = no learning** (absolute requirement)
 - Divided attention during encoding creates weak, fragmented memories
 
 **Practical implications:**
+
 - Studying with divided attention (phone notifications, TV) prevents encoding
 - You must consciously focus on material for it to enter working memory
 - Attention lapses create gaps in understanding
@@ -49,12 +55,14 @@ Memory is not a single system but a coordinated pipeline of processes that trans
 ### Stage 3: Encoding → Long-Term Memory (Hours to Years)
 
 **What happens:**
+
 - Working memory content is transformed into durable neural representations
 - **Duration**: Potentially permanent (with periodic retrieval)
 - **Capacity**: Essentially unlimited
 - **Function**: Storage of knowledge, experiences, procedures
 
 **The encoding process:**
+
 - Information must be meaningfully processed in working memory
 - Quality of encoding determines retrieval success later
 - Deep, elaborative processing creates stronger encoding
@@ -73,6 +81,7 @@ Memory is not a single system but a coordinated pipeline of processes that trans
    - Conditioning: Learned associations
 
 **Student relevance:**
+
 - Most academic learning targets declarative memory
 - Procedural memory for problem-solving skills
 - Different types require different study strategies
@@ -80,11 +89,13 @@ Memory is not a single system but a coordinated pipeline of processes that trans
 ### Stage 4: Retrieval → Back to Working Memory
 
 **What happens:**
+
 - Stored information is accessed and brought back to conscious awareness
 - **Success depends on**: Encoding quality, retrieval cues, interference, time since encoding
 - **Function**: Using learned information, reconsolidation (strengthening)
 
 **The retrieval process:**
+
 - Not simply playback - it's reconstruction
 - Each retrieval modifies the memory (reconsolidation)
 - Successful retrieval strengthens the memory trace
@@ -92,6 +103,7 @@ Memory is not a single system but a coordinated pipeline of processes that trans
 - Retrieval is easier when context matches encoding context
 
 **Critical insight:**
+
 - **Retrieval is not just assessment - it's the most powerful learning event**
 - Every time you successfully retrieve, you strengthen that pathway
 - This is why testing yourself works better than re-reading
@@ -104,12 +116,14 @@ Memory is not a single system but a coordinated pipeline of processes that trans
 **Modern research**: 4 ± 1 items for complex information
 
 **What this means:**
+
 - You can only hold and manipulate 4-7 discrete pieces of information simultaneously
 - This is THE fundamental bottleneck in learning
 - Overloading working memory causes cognitive collapse
 - Information is lost when capacity is exceeded
 
 **Practical examples:**
+
 - Following complex instructions: 3-4 steps max
 - Reading dense text: can only process a few concepts at once
 - Problem-solving: can track 4-5 variables simultaneously
@@ -118,10 +132,12 @@ Memory is not a single system but a coordinated pipeline of processes that trans
 ### Duration Without Rehearsal
 
 **Decay timeline:**
+
 - 15-30 seconds without active maintenance
 - Information simply fades if not rehearsed or encoded
 
 **Maintenance strategies:**
+
 - Rehearsal: Repeating information (shallow)
 - Elaboration: Connecting to existing knowledge (deep)
 - Visualization: Creating mental images
@@ -130,15 +146,18 @@ Memory is not a single system but a coordinated pipeline of processes that trans
 ### Chunking: Expanding Effective Capacity
 
 **The strategy:**
+
 - Group individual items into meaningful units
 - Example: Remembering phone number as three chunks (555-123-4567) instead of 10 digits
 
 **How it works:**
+
 - Each chunk counts as one item in working memory
 - Expert knowledge is highly chunked (chess masters see patterns, not pieces)
 - Domain knowledge increases effective working memory capacity
 
 **Student application:**
+
 - Learn frameworks before details
 - Create acronyms for lists
 - Group related concepts together
@@ -147,11 +166,13 @@ Memory is not a single system but a coordinated pipeline of processes that trans
 ## Long-Term Memory: Essentially Unlimited Capacity
 
 ### The good news:
+
 - No evidence of storage capacity limits
 - You don't "run out of room" for new learning
 - Forgetting is about retrieval failure, not storage loss
 
 ### The challenge:
+
 - Getting information IN (encoding)
 - Getting information OUT (retrieval)
 - Organizing information for efficient access
@@ -203,12 +224,14 @@ The process of transforming working memory representations into durable long-ter
 ### Retrieval as Reconstruction
 
 **Key insight**: Memory retrieval is not like playing back a recording. You reconstruct the information based on:
+
 - Core memory traces
 - Current context
 - Expectations and schemas
 - Related memories
 
 **Implications:**
+
 - Memories can be distorted during retrieval
 - Context affects what you can access
 - Retrieval strengthens some aspects while potentially weakening others
@@ -243,6 +266,7 @@ The process of transforming working memory representations into durable long-ter
 **Definition**: Triggers that help access stored information
 
 **Types:**
+
 - **External**: Physical environment, sensory cues
 - **Internal**: Mood, physiological state
 - **Semantic**: Related concepts and associations
@@ -251,6 +275,7 @@ The process of transforming working memory representations into durable long-ter
 **Encoding specificity principle**: Retrieval is best when retrieval context matches encoding context
 
 **Student application:**
+
 - Study in varied contexts to reduce context-dependency
 - Create multiple retrieval cues for important information
 - Use mnemonic devices as deliberate retrieval cues
@@ -263,6 +288,7 @@ The process of transforming working memory representations into durable long-ter
 Mental frameworks that organize related information and guide understanding.
 
 **Examples:**
+
 - Restaurant schema: expectations about ordering, eating, paying
 - Scientific method schema: hypothesis → experiment → analysis → conclusion
 - Cell biology schema: organelles, functions, relationships
@@ -277,6 +303,7 @@ Mental frameworks that organize related information and guide understanding.
 ### Building effective schemas:
 
 **For students:**
+
 - Learn the structure before the details
 - Create concept maps showing relationships
 - Identify organizing principles in each domain
@@ -284,6 +311,7 @@ Mental frameworks that organize related information and guide understanding.
 - Look for recurring patterns across topics
 
 **For LLMs assisting students:**
+
 - Present framework/overview before details
 - Explicitly highlight how new information fits into schemas
 - Use analogies to familiar schemas
@@ -296,6 +324,7 @@ Mental frameworks that organize related information and guide understanding.
 - Resistance to schema-inconsistent information
 
 **Mitigation:**
+
 - Be aware of your assumptions
 - Actively look for contradictory information
 - Update schemas when evidence demands it
@@ -305,6 +334,7 @@ Mental frameworks that organize related information and guide understanding.
 ### Myth 1: "I have a bad memory"
 
 **Reality**: Memory is a skill that improves with proper techniques. Most "bad memory" is actually:
+
 - Poor encoding (not paying attention, shallow processing)
 - Lack of retrieval practice
 - Ineffective study strategies
@@ -313,6 +343,7 @@ Mental frameworks that organize related information and guide understanding.
 ### Myth 2: "Cramming works for me"
 
 **Reality**: Cramming creates temporary accessibility, not durable learning
+
 - Information enters working memory but poor encoding to long-term
 - May work for recognition tests immediately after
 - Rapid forgetting within days
@@ -321,6 +352,7 @@ Mental frameworks that organize related information and guide understanding.
 ### Myth 3: "Re-reading is studying"
 
 **Reality**: Re-reading is passive, creates illusion of fluency
+
 - Information feels familiar (sensory memory, working memory)
 - Familiarity ≠ retrievability later
 - No retrieval practice = weak encoding
@@ -329,6 +361,7 @@ Mental frameworks that organize related information and guide understanding.
 ### Myth 4: "I learn better under pressure"
 
 **Reality**: Stress impairs encoding and retrieval
+
 - Acute stress narrows attention
 - Cortisol interferes with hippocampal function
 - Working memory capacity decreases under stress
@@ -337,6 +370,7 @@ Mental frameworks that organize related information and guide understanding.
 ### Myth 5: "Highlighting helps me remember"
 
 **Reality**: Passive highlighting is minimally effective
+
 - No deep processing required
 - Creates illusion of productivity
 - Time better spent generating questions or summaries
@@ -347,6 +381,7 @@ Mental frameworks that organize related information and guide understanding.
 ### For LLMs Supporting Student Learning:
 
 #### 1. Respect Working Memory Limits
+
 ```
 WHEN: Presenting new information
 DO:
@@ -364,6 +399,7 @@ DON'T:
 ```
 
 #### 2. Facilitate Deep Encoding
+
 ```
 WHEN: Explaining concepts
 DO:
@@ -380,6 +416,7 @@ DON'T:
 ```
 
 #### 3. Design Retrieval Opportunities
+
 ```
 WHEN: Reviewing or reinforcing material
 DO:
@@ -397,6 +434,7 @@ DON'T:
 ```
 
 #### 4. Support Schema Building
+
 ```
 WHEN: Introducing new topics or domains
 DO:
@@ -413,6 +451,7 @@ DON'T:
 ```
 
 #### 5. Leverage Multiple Encoding Pathways
+
 ```
 WHEN: Teaching important concepts
 DO:
@@ -428,6 +467,7 @@ DON'T:
 ```
 
 #### 6. Optimize Retrieval Cue Diversity
+
 ```
 WHEN: Creating practice materials
 DO:
@@ -444,6 +484,7 @@ DON'T:
 ```
 
 #### 7. Make Metacognition Visible
+
 ```
 WHEN: Throughout learning interactions
 DO:
@@ -459,6 +500,7 @@ DON'T:
 ```
 
 #### 8. Respect the Pipeline
+
 ```
 WHEN: Planning learning sequences
 DO:
@@ -478,6 +520,7 @@ DON'T:
 ### Sample Interaction Pattern:
 
 **INSTEAD OF:**
+
 ```
 Here's how photosynthesis works: [long explanation of light reactions,
 Calvin cycle, ATP synthesis, electron transport chain, carbon fixation, etc.]
@@ -485,6 +528,7 @@ Do you understand?
 ```
 
 **DO THIS:**
+
 ```
 Let's build understanding of photosynthesis step by step.
 
@@ -509,6 +553,7 @@ What's the main job of the light reactions?
 ```
 
 This approach:
+
 - Chunks information (working memory)
 - Activates prior knowledge (schema, encoding)
 - Provides framework first (schema)

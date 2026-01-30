@@ -17,6 +17,7 @@ The before-class routine is one of the most counterintuitive yet powerful compon
 ### Why Testing Before Learning Works
 
 **Traditional approach** (passive):
+
 1. Attend lecture with blank mind
 2. Try to absorb information
 3. Take notes
@@ -25,6 +26,7 @@ The before-class routine is one of the most counterintuitive yet powerful compon
 Result: Shallow encoding, poor retention, everything feels equally important
 
 **Pretesting approach** (active):
+
 1. Attempt questions before lecture
 2. Get many answers wrong (expected)
 3. Brain notes the gaps and errors
@@ -38,6 +40,7 @@ Result: Deep encoding, strong retention, automatic prioritization of important c
 **Key finding**: The more confident you are in a WRONG answer, the more strongly you'll remember the RIGHT answer when corrected.
 
 **Example**:
+
 - Question: "What is the powerhouse of the cell?"
 - Your confident (wrong) answer: "The nucleus!"
 - Lecture correction: "Actually, it's the mitochondria"
@@ -48,6 +51,7 @@ Result: Deep encoding, strong retention, automatic prioritization of important c
 ### Priming Your Brain
 
 When you pretest:
+
 - Your brain identifies knowledge gaps
 - These gaps become "active questions" during lecture
 - You unconsciously listen for answers to your questions
@@ -63,17 +67,20 @@ When you pretest:
 ### Step 1: Review Syllabus (2 minutes)
 
 **What to do**:
+
 1. Open course syllabus
 2. Identify today's lecture topic
 3. Check if there are specific learning objectives listed
 4. Note any assigned readings for today
 
 **What you're looking for**:
+
 - Topic name (e.g., "Photosynthesis," "Supply and Demand," "Newton's Second Law")
 - Subtopics if listed (e.g., "Light-dependent reactions," "Price elasticity," "Force diagrams")
 - Keywords in learning objectives
 
 **Example**:
+
 ```
 Syllabus Week 5, Lecture 2:
 Topic: Cellular Respiration
@@ -89,6 +96,7 @@ Reading: Chapter 9, pages 162-185
 ### Step 2: Look at Textbook Headings (3 minutes)
 
 **What to do**:
+
 1. Open textbook to today's chapter
 2. Read ONLY the headings and subheadings (not the content)
 3. Look at any diagrams/figures (don't read captions yet)
@@ -97,12 +105,14 @@ Reading: Chapter 9, pages 162-185
 **Important**: DO NOT read the actual content. This defeats the purpose.
 
 **Why just headings**:
+
 - Headings give you topic structure
 - You get a preview of what's covered
 - You see relationships between concepts
 - But you DON'T know the answers yet (maintaining the pretest effect)
 
 **Example** (from Chapter 9: Cellular Respiration):
+
 ```
 Headings you see:
 - 9.1 Overview of Cellular Respiration
@@ -124,6 +134,7 @@ Diagrams you see:
 ### Step 3: Find 3-5 Practice Problems (2 minutes)
 
 **What to do**:
+
 1. Look for practice problems related to today's topic:
    - End of textbook chapter
    - Problem sets from syllabus
@@ -136,18 +147,21 @@ Diagrams you see:
 3. Don't look at solutions yet
 
 **Where to find problems**:
+
 - **Textbook**: End-of-chapter problems (usually labeled by section)
 - **Online**: Khan Academy, Paul's Online Math Notes, Chemistry LibreTexts
 - **Professor**: Often posts practice problems on course website
 - **Past exams**: Many libraries/student organizations keep exam files
 
 **How to select**:
+
 - Start with problems labeled "conceptual" or "application"
 - Avoid pure memorization questions
 - Choose problems that would appear on an exam
 - Mix difficulty levels (medium to hard)
 
 **Example** (Cellular Respiration):
+
 ```
 Problems selected:
 1. Explain the role of oxygen in cellular respiration
@@ -166,6 +180,7 @@ Problems selected:
 This is the core of pretesting. **Your goal is to get questions WRONG.**
 
 **What to do**:
+
 1. Set timer for 8-10 minutes
 2. Attempt each problem in order
 3. Write down SOMETHING for each (even if you know it's wrong)
@@ -174,12 +189,14 @@ This is the core of pretesting. **Your goal is to get questions WRONG.**
 6. If you're completely stuck, write "I don't know" and move on
 
 **How to attempt**:
+
 - Use intuition and prior knowledge (even if irrelevant)
 - Make educated guesses
 - Draw diagrams if helpful
 - Think out loud (or write your reasoning)
 
 **What NOT to do**:
+
 - Don't look up answers (ruins the pretest effect)
 - Don't skip problems (even failed attempts help)
 - Don't spend too long on one problem (time-box it)
@@ -223,6 +240,7 @@ Confidence: Low (25% sure)
 ### Step 5: Note What You Couldn't Do (2 minutes)
 
 **What to do**:
+
 1. Review your attempts quickly
 2. Identify specific gaps:
    - Concepts you've never heard of
@@ -232,6 +250,7 @@ Confidence: Low (25% sure)
 3. Write 2-3 "priority questions" to answer during lecture
 
 **Example** (from attempts above):
+
 ```
 Gaps identified:
 - HOW exactly is oxygen used chemically?
@@ -253,16 +272,19 @@ Priority questions for lecture:
 ### Step 6: Create Mental Curiosity (1 minute)
 
 **What to do**:
+
 1. Take 60 seconds to think: "What do I WANT to know about this topic?"
 2. Generate 1-2 curiosity questions beyond the practice problems
 3. Think about real-world applications or connections
 
 **Why this matters**:
+
 - Curiosity enhances encoding
 - Personal questions increase engagement
 - You'll subconsciously listen for answers
 
 **Example**:
+
 ```
 Curiosity questions:
 - Why do we need such a complex process just to make energy?
@@ -280,12 +302,14 @@ Curiosity questions:
 ### STEM Subjects (Math, Physics, Chemistry, Engineering)
 
 **Best practice**:
+
 - Focus on problem-solving pretests
 - Attempt quantitative problems (even if you can't solve them)
 - Look at equations in textbook headings (don't derive them yet)
 - Try to remember relevant formulas from previous topics
 
 **Example** (Physics - Newton's Laws):
+
 ```
 Pretest problems:
 1. A 10kg block on a frictionless surface... [attempt to solve]
@@ -299,12 +323,14 @@ Pretest problems:
 ### Social Sciences (Psychology, Economics, Sociology)
 
 **Best practice**:
+
 - Focus on application and analysis
 - Read case studies without reading analysis
 - Attempt to predict outcomes or explanations
 - Connect to current events or personal experience
 
 **Example** (Economics - Supply and Demand):
+
 ```
 Pretest problems:
 1. Predict what happens to price if supply increases...
@@ -318,12 +344,14 @@ Pretest problems:
 ### Humanities (Literature, History, Philosophy)
 
 **Best practice**:
+
 - Read primary source excerpts WITHOUT commentary
 - Form initial interpretations
 - Predict historical causes/effects
 - Compare to previously studied works
 
 **Example** (Literature - Modernism):
+
 ```
 Pretest activities:
 1. Read opening paragraph of Joyce's "Ulysses" - what do you notice?
@@ -337,12 +365,14 @@ Pretest activities:
 ### Laboratory Sciences (Biology, Chemistry)
 
 **Best practice**:
+
 - Look at lab protocol before class
 - Predict what will happen in experiments
 - Attempt to explain mechanisms before learning them
 - Try to draw biological/chemical structures from memory
 
 **Example** (Biology Lab - Enzyme Activity):
+
 ```
 Pretest activities:
 1. Read lab title: "Effect of Temperature on Enzyme Activity"
@@ -357,12 +387,14 @@ Pretest activities:
 ### Language Learning
 
 **Best practice**:
+
 - Read text in target language before learning grammar
 - Attempt to translate without dictionary
 - Listen to audio and note what you don't understand
 - Try to use new grammar structures before formal instruction
 
 **Example** (Spanish - Subjunctive Mood):
+
 ```
 Pretest activities:
 1. Read sentences with subjunctive (without translation)
@@ -380,6 +412,7 @@ Pretest activities:
 ### Challenge 1: "I can't find practice problems for this topic"
 
 **Solutions**:
+
 1. **Convert headings to questions**:
    - Heading: "The Role of Mitochondria"
    - Question: "What is the role of mitochondria?"
@@ -405,6 +438,7 @@ Pretest activities:
 **This is actually ideal for pretesting.**
 
 **Solutions**:
+
 1. **Attempt anyway**: Even writing "I have no idea" is valuable
 2. **Use pure intuition**: Make wild guesses based on the topic name
 3. **Connect to what you DO know**: "This seems related to X we learned before..."
@@ -412,6 +446,7 @@ Pretest activities:
 5. **Ask questions instead of answering**: "What even IS photosynthesis?"
 
 **Example** (knowing nothing about quantum mechanics):
+
 ```
 Question: Explain wave-particle duality
 My attempt: "I think this means things can be both waves and particles?
@@ -425,6 +460,7 @@ primed your brain to listen for the explanation.
 ### Challenge 3: "This takes too much time in the morning"
 
 **Solutions**:
+
 1. **Do it the night before**: Pretest the evening before works too
 2. **Reduce to 10 minutes**: 3 problems instead of 5
 3. **Do it during transit**: If you commute, pretest on the bus
@@ -432,6 +468,7 @@ primed your brain to listen for the explanation.
 5. **Minimum viable**: Even 5 minutes of attempting 1-2 problems > nothing
 
 **Time-saving template**:
+
 - 2 min: Check syllabus, skim headings
 - 6 min: Attempt 3 problems (2 min each)
 - 2 min: Note gaps
@@ -440,11 +477,13 @@ primed your brain to listen for the explanation.
 ### Challenge 4: "I feel stupid getting everything wrong"
 
 **Reframe this**:
+
 - **Wrong = success in pretesting** (you're creating hypercorrection setup)
 - **Right = you already knew it** (less value from lecture)
 - **Goal is NOT to get answers right** (goal is to identify gaps)
 
 **Mindset shift**:
+
 ```
 Old mindset: "I got 4/5 wrong, I'm unprepared"
 New mindset: "I got 4/5 wrong, perfect! I just created 4 strong
@@ -456,12 +495,14 @@ learning opportunities for today's lecture"
 ### Challenge 5: "My class doesn't follow the textbook"
 
 **Solutions**:
+
 1. **Use previous lecture slides**: If professor posts them, pretest on next topic
 2. **Use learning objectives**: Attempt to address each objective
 3. **Use generic problems**: Search "[topic] practice problems" online
 4. **Create questions from topic name**: Just the title gives you something to work with
 
 **Example**:
+
 ```
 Next lecture: "Theories of Motivation" (no textbook chapter)
 Pretest approach:
@@ -478,12 +519,14 @@ You've now created a pretest from just the lecture title.
 **This is the point**: Low confidence → wrong answers → hypercorrection effect → strong learning
 
 **Strategies**:
+
 1. **Give yourself permission to be wrong**: This is practice, not performance
 2. **Use "I think" statements**: "I think the answer is X because..."
 3. **Rate your confidence**: "10% sure" is fine (expected, even)
 4. **Focus on process, not product**: Goal is to attempt, not to succeed
 
 **Helpful mantras**:
+
 - "Wrong answers now = right answers later"
 - "Confusion is the first step to understanding"
 - "If I knew this already, I wouldn't need the lecture"
@@ -497,6 +540,7 @@ You've now created a pretest from just the lecture title.
 **What**: Combine pretesting with spaced repetition
 
 **How**:
+
 1. Pretest on today's NEW topic (standard pretest)
 2. ALSO re-attempt problems from 3 lectures ago (without looking at your old answers)
 3. Compare new attempt to old attempt
@@ -511,6 +555,7 @@ You've now created a pretest from just the lecture title.
 **What**: Predict what the professor will emphasize
 
 **How**:
+
 1. After attempting practice problems, predict: "Which of these will the professor spend most time on?"
 2. Rank problems by predicted importance
 3. During lecture, check your predictions
@@ -523,6 +568,7 @@ You've now created a pretest from just the lecture title.
 **What**: Force connections to previous topics
 
 **How**:
+
 1. Standard pretest on new topic
 2. Add question: "How might this relate to [previous topic]?"
 3. Attempt to draw connections (even if speculative)
@@ -531,6 +577,7 @@ You've now created a pretest from just the lecture title.
 **Why**: Builds integrated knowledge networks, not isolated facts
 
 **Example**:
+
 ```
 New topic: Covalent bonding
 Previous topic: Ionic bonding
@@ -543,6 +590,7 @@ from ionic bonding? Do they happen in different situations?"
 **What**: Predict what mistakes you'll make
 
 **How**:
+
 1. After attempting problems, write: "I probably got X wrong because..."
 2. Predict your own errors and misconceptions
 3. During lecture, specifically listen for corrections to those predicted errors
@@ -550,6 +598,7 @@ from ionic bonding? Do they happen in different situations?"
 **Why**: Metacognitive awareness + targeted attention during lecture
 
 **Example**:
+
 ```
 Problem: Calculate pH of a solution
 My attempt: pH = 7.5
@@ -566,6 +615,7 @@ pH scale and calculations]
 **What**: Use different modalities for pretesting
 
 **How**:
+
 - **Visual**: Draw diagrams/graphs before learning them
 - **Verbal**: Explain concepts out loud to yourself
 - **Kinesthetic**: Act out processes physically
@@ -574,6 +624,7 @@ pH scale and calculations]
 **Why**: Engages different encoding pathways
 
 **Example** (Cellular Respiration):
+
 ```
 Visual: Draw what you think the mitochondrion looks like
 Verbal: Record yourself explaining cellular respiration
@@ -590,6 +641,7 @@ All BEFORE lecture, all probably wrong, all priming your brain.
 ### Short-term indicators (same day)
 
 After lecture, ask yourself:
+
 - [ ] Did I notice when the professor answered my pretest questions?
 - [ ] Did I have "aha!" moments when confusions were resolved?
 - [ ] Did I feel more engaged than in lectures where I didn't pretest?
@@ -600,6 +652,7 @@ After lecture, ask yourself:
 ### Medium-term indicators (1 week later)
 
 During spaced review:
+
 - [ ] Can I now answer the pretest questions I got wrong?
 - [ ] Do I remember the corrections to my wrong answers?
 - [ ] Do the pretest topics feel more familiar than non-pretested topics?
@@ -609,6 +662,7 @@ During spaced review:
 ### Long-term indicators (exam time)
 
 When studying for exams:
+
 - [ ] Do pretested topics require less re-study time?
 - [ ] Do I have fewer "purple" (can't answer) questions on pretested topics?
 - [ ] Do I feel more confident on pretested material?
@@ -623,12 +677,14 @@ When studying for exams:
 ### Pretesting Implementation Checklist
 
 #### One-Time Setup
+
 - [ ] Create "Pretest Template" document with standard questions
 - [ ] Bookmark problem sources for each course (textbook page, online sites)
 - [ ] Set calendar reminders (20 min before each class)
 - [ ] Prepare "Pretest Kit": notebook, timer, syllabus access
 
 #### Daily Pretest Routine
+
 - [ ] (2 min) Check syllabus for today's topic
 - [ ] (3 min) Skim textbook headings/figures
 - [ ] (2 min) Find/select 3-5 practice problems
@@ -639,6 +695,7 @@ When studying for exams:
 **Total time: 15-20 minutes per class**
 
 #### Weekly Optimization
+
 - [ ] Sunday: Review next week's topics, prepare pretests in advance
 - [ ] Friday: Reflect—which pretests led to best lecture engagement?
 - [ ] Adjust: Modify problem selection based on what works
@@ -791,6 +848,7 @@ Use this to track pretesting effectiveness:
 **Time spent**: [Minutes]
 
 ### Pretest Questions Attempted:
+
 1. [Question 1]
    - My attempt: [Your answer]
    - Confidence: [Low/Med/High]
@@ -802,22 +860,26 @@ Use this to track pretesting effectiveness:
 [Continue for all questions]
 
 ### Gaps Identified:
+
 - [Gap 1]
 - [Gap 2]
 - [Gap 3]
 
 ### Priority Questions for Lecture:
+
 1. [Question to focus on]
 2. [Question to focus on]
 3. [Question to focus on]
 
 ### Post-Lecture Reflection:
+
 - [ ] Were my priority questions answered?
 - [ ] Did I notice corrections to my wrong answers?
 - [ ] Engagement level: [1-10]
 - [ ] Can I now answer pretest questions?: [Yes/Partially/No]
 
 ### Adjustment for Next Time:
+
 [What worked, what to change]
 ```
 
@@ -829,26 +891,31 @@ Every Sunday, review the week:
 ## Weekly Pretest Review: [Week of Date]
 
 ### Pretesting Consistency:
+
 - Classes with pretest: [X/Y]
 - Average time per pretest: [Minutes]
 - Adherence to protocol: [%]
 
 ### Effectiveness Indicators:
+
 - Lectures where I felt engaged: [X/Y]
 - Topics where I had "aha moments": [List]
 - Improvement from pretest to post-lecture: [%]
 
 ### Best Practices This Week:
+
 - [What worked well]
 - [Effective question types]
 - [Good problem sources]
 
 ### Challenges This Week:
+
 - [What didn't work]
 - [Time constraints]
 - [Topics where pretesting was difficult]
 
 ### Adjustments for Next Week:
+
 - [ ] [Specific change 1]
 - [ ] [Specific change 2]
 - [ ] [Specific change 3]
@@ -861,21 +928,25 @@ Every Sunday, review the week:
 ### Start Small
 
 **Week 1**: Pretest for one class only (your hardest class)
+
 - Get comfortable with the routine
 - Prove to yourself it works
 - Build the habit
 
 **Week 2**: Add a second class
+
 - Expand successful routine
 - Notice difference between pretested vs. non-pretested lectures
 
 **Week 3**: Pretest for all classes
+
 - Full implementation
 - Fine-tune timing and question selection
 
 ### Expect Discomfort
 
 **First few times**:
+
 - Will feel awkward and pointless
 - You'll get almost everything wrong
 - You'll feel unprepared
@@ -885,6 +956,7 @@ Every Sunday, review the week:
 ### Trust the Process
 
 The hypercorrection effect is counterintuitive but scientifically robust. Getting confident wrong answers creates stronger memory than:
+
 - Passively listening
 - Reading before lecture
 - Taking perfect notes
@@ -895,11 +967,13 @@ The hypercorrection effect is counterintuitive but scientifically robust. Gettin
 ### Measure and Adjust
 
 After 3 weeks, ask:
+
 - Am I more engaged in lectures? (If yes, keep doing it)
 - Do I remember material better? (If yes, keep doing it)
 - Am I spending less time studying later? (If yes, keep doing it)
 
 If answer is "no" to all three, adjust your approach:
+
 - Different types of questions
 - Different confidence in wrong answers
 - Different sources of problems

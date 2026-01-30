@@ -17,6 +17,7 @@ The Habit Scorecard is the foundational awareness exercise from James Clear's At
 ### The Awareness Gap
 
 Most people operate on autopilot for 40-50% of their day. You perform hundreds of behaviors without conscious thought:
+
 - Checking phone upon waking
 - Coffee preparation ritual
 - Commute patterns
@@ -31,10 +32,12 @@ Most people operate on autopilot for 40-50% of their day. You perform hundreds o
 ### The Non-Judgmental Observation
 
 The scorecard works because it separates:
+
 1. **Observation** (listing behaviors) from
 2. **Evaluation** (rating behaviors)
 
 This prevents the common mistake of:
+
 - Denying behaviors you're ashamed of
 - Inflating behaviors you're proud of
 - Skipping "insignificant" behaviors that actually matter
@@ -54,6 +57,7 @@ Start from the moment you wake up and list every single behavior you perform in 
 Be specific enough to capture the behavior, but not so granular that it becomes overwhelming.
 
 **Good Level of Detail**:
+
 - "Check phone for notifications"
 - "Brew coffee"
 - "Scroll social media"
@@ -61,12 +65,14 @@ Be specific enough to capture the behavior, but not so granular that it becomes 
 - "Brush teeth"
 
 **Too Granular** (avoid):
+
 - "Open eyes"
 - "Stretch left arm"
 - "Put left foot on floor"
 - "Stand up from bed"
 
 **Too Vague** (avoid):
+
 - "Morning routine"
 - "Get ready for work"
 - "Evening activities"
@@ -76,6 +82,7 @@ Be specific enough to capture the behavior, but not so granular that it becomes 
 **Critical Rule**: During the initial listing phase, do not evaluate whether behaviors are good or bad. Just observe and record.
 
 **Why This Matters**:
+
 - Judgment creates blind spots
 - Shame causes omission of important behaviors
 - Pride causes inflation of positive behaviors
@@ -99,6 +106,7 @@ After completing your full list, rate each behavior using this system:
 The same behavior might be rated differently based on context and goals.
 
 Examples:
+
 - Scrolling social media for 10 minutes during lunch break = (neutral, needed rest)
 - Scrolling social media for 2 hours before bed = - (negative, prevents sleep/reading)
 - Drinking coffee at 7 AM = + (positive, part of productive morning)
@@ -109,11 +117,13 @@ Rate each behavior against YOUR desired identity, not universal standards.
 
 Example:
 If your identity is "I am someone who prioritizes deep work":
+
 - Checking email first thing = - (reactive, not proactive)
 - Checking email at scheduled time = + (controlled, intentional)
 
 **Neutral Is Valid**:
 Many behaviors are simply necessary maintenance:
+
 - Brushing teeth
 - Commuting
 - Basic hygiene
@@ -132,24 +142,28 @@ Verbally acknowledge behaviors as you perform them.
 **Examples**:
 
 **Morning Phone Check**:
+
 - Point at phone
 - Say aloud: "I am about to check my phone"
 - This creates a consciousness gap where you can decide
 - "Do I really want to do this right now?"
 
 **Eating Decision**:
+
 - Point at food
 - Say aloud: "I am about to eat [food]"
 - This prevents mindless eating
 - Creates moment of choice
 
 **Social Media**:
+
 - Point at app
 - Say aloud: "I am about to open Instagram"
 - Breaks automatic pattern
 - Allows conscious choice
 
 **Why This Works**:
+
 - Verbal acknowledgment requires conscious attention
 - Breaks automatic behavior loop
 - Creates decision point
@@ -157,6 +171,7 @@ Verbally acknowledge behaviors as you perform them.
 
 **Implementation**:
 You don't need to do this for every behavior forever. Use it for:
+
 - Behaviors you want to change
 - Behaviors you keep doing unconsciously
 - First 2-4 weeks of habit change
@@ -168,30 +183,31 @@ You don't need to do this for every behavior forever. Use it for:
 
 ### Morning Routine (6:00 AM - 9:00 AM)
 
-| Time | Behavior | Rating | Notes |
-|------|----------|---------|-------|
-| 6:00 AM | Alarm goes off | = | Necessary |
-| 6:01 AM | Check phone immediately | - | Reactive start to day, sets anxious tone |
-| 6:05 AM | Scroll social media in bed | - | Wastes time, delays productive start |
-| 6:20 AM | Get out of bed | = | Necessary |
-| 6:25 AM | Use bathroom | = | Necessary |
-| 6:27 AM | Brush teeth | + | Health maintenance |
-| 6:30 AM | Make coffee | + | Part of enjoyable morning ritual |
-| 6:35 AM | Check email while coffee brews | - | Reactive, creates stress before day starts |
-| 6:40 AM | Drink coffee on couch | = | Neutral unless paired with other behavior |
-| 6:45 AM | Watch news | - | Negative information, passive consumption |
-| 7:15 AM | Shower | + | Refreshing, energizing |
-| 7:30 AM | Get dressed | = | Necessary |
-| 7:35 AM | Check phone again | - | Repetitive, reactive |
-| 7:40 AM | Prepare breakfast | + | Healthy eating |
-| 7:45 AM | Eat breakfast while scrolling phone | - | Mindless eating, distracted |
-| 8:00 AM | Pack lunch | + | Saves money, healthy eating |
-| 8:05 AM | Check appearance in mirror | = | Neutral maintenance |
-| 8:10 AM | Put on shoes | = | Necessary |
-| 8:15 AM | Commute to work | = | Necessary |
-| 8:16 AM | Listen to podcast during commute | + | Learning, productive use of time |
+| Time    | Behavior                            | Rating | Notes                                      |
+| ------- | ----------------------------------- | ------ | ------------------------------------------ |
+| 6:00 AM | Alarm goes off                      | =      | Necessary                                  |
+| 6:01 AM | Check phone immediately             | -      | Reactive start to day, sets anxious tone   |
+| 6:05 AM | Scroll social media in bed          | -      | Wastes time, delays productive start       |
+| 6:20 AM | Get out of bed                      | =      | Necessary                                  |
+| 6:25 AM | Use bathroom                        | =      | Necessary                                  |
+| 6:27 AM | Brush teeth                         | +      | Health maintenance                         |
+| 6:30 AM | Make coffee                         | +      | Part of enjoyable morning ritual           |
+| 6:35 AM | Check email while coffee brews      | -      | Reactive, creates stress before day starts |
+| 6:40 AM | Drink coffee on couch               | =      | Neutral unless paired with other behavior  |
+| 6:45 AM | Watch news                          | -      | Negative information, passive consumption  |
+| 7:15 AM | Shower                              | +      | Refreshing, energizing                     |
+| 7:30 AM | Get dressed                         | =      | Necessary                                  |
+| 7:35 AM | Check phone again                   | -      | Repetitive, reactive                       |
+| 7:40 AM | Prepare breakfast                   | +      | Healthy eating                             |
+| 7:45 AM | Eat breakfast while scrolling phone | -      | Mindless eating, distracted                |
+| 8:00 AM | Pack lunch                          | +      | Saves money, healthy eating                |
+| 8:05 AM | Check appearance in mirror          | =      | Neutral maintenance                        |
+| 8:10 AM | Put on shoes                        | =      | Necessary                                  |
+| 8:15 AM | Commute to work                     | =      | Necessary                                  |
+| 8:16 AM | Listen to podcast during commute    | +      | Learning, productive use of time           |
 
 **Morning Summary**:
+
 - Positive behaviors: 6
 - Negative behaviors: 6
 - Neutral behaviors: 7
@@ -201,25 +217,26 @@ You don't need to do this for every behavior forever. Use it for:
 
 ### Work Block (9:00 AM - 12:00 PM)
 
-| Time | Behavior | Rating | Notes |
-|------|----------|---------|-------|
-| 9:00 AM | Arrive at office | = | Necessary |
-| 9:02 AM | Get coffee | = | Workplace social ritual |
-| 9:05 AM | Chat with coworkers | = | Relationship building, reasonable amount |
-| 9:15 AM | Sit at desk | = | Necessary |
-| 9:16 AM | Check email | = | Part of work responsibilities |
-| 9:30 AM | Respond to urgent emails | + | Proactive handling |
-| 9:45 AM | Start important project work | + | Deep work on priorities |
-| 10:15 AM | Get distracted by Slack notification | - | Breaks concentration |
-| 10:20 AM | Go down Slack rabbit hole | - | 5 minutes wasted on non-urgent topics |
-| 10:25 AM | Return to project work | + | Recovery from distraction |
-| 10:50 AM | Coffee break | = | Needed rest |
-| 10:52 AM | Check personal phone | - | Non-work distraction |
-| 10:58 AM | Return to work | = | Back to duties |
-| 11:00 AM | Attend scheduled meeting | = | Work responsibility |
-| 12:00 PM | Meeting ends | = | Transition time |
+| Time     | Behavior                             | Rating | Notes                                    |
+| -------- | ------------------------------------ | ------ | ---------------------------------------- |
+| 9:00 AM  | Arrive at office                     | =      | Necessary                                |
+| 9:02 AM  | Get coffee                           | =      | Workplace social ritual                  |
+| 9:05 AM  | Chat with coworkers                  | =      | Relationship building, reasonable amount |
+| 9:15 AM  | Sit at desk                          | =      | Necessary                                |
+| 9:16 AM  | Check email                          | =      | Part of work responsibilities            |
+| 9:30 AM  | Respond to urgent emails             | +      | Proactive handling                       |
+| 9:45 AM  | Start important project work         | +      | Deep work on priorities                  |
+| 10:15 AM | Get distracted by Slack notification | -      | Breaks concentration                     |
+| 10:20 AM | Go down Slack rabbit hole            | -      | 5 minutes wasted on non-urgent topics    |
+| 10:25 AM | Return to project work               | +      | Recovery from distraction                |
+| 10:50 AM | Coffee break                         | =      | Needed rest                              |
+| 10:52 AM | Check personal phone                 | -      | Non-work distraction                     |
+| 10:58 AM | Return to work                       | =      | Back to duties                           |
+| 11:00 AM | Attend scheduled meeting             | =      | Work responsibility                      |
+| 12:00 PM | Meeting ends                         | =      | Transition time                          |
 
 **Morning Work Summary**:
+
 - Positive behaviors: 3
 - Negative behaviors: 3
 - Neutral behaviors: 9
@@ -229,25 +246,26 @@ You don't need to do this for every behavior forever. Use it for:
 
 ### Lunch & Afternoon (12:00 PM - 5:00 PM)
 
-| Time | Behavior | Rating | Notes |
-|------|----------|---------|-------|
-| 12:05 PM | Go to lunch spot | = | Necessary |
-| 12:10 PM | Order food | = | Necessary eating |
-| 12:15 PM | Eat lunch while scrolling phone | - | Mindless eating, not savoring |
-| 12:30 PM | Quick walk after lunch | + | Movement, fresh air, mental break |
-| 12:45 PM | Return to desk | = | Back to work |
-| 12:50 PM | Check email | = | Work responsibility |
-| 1:00 PM | Afternoon deep work session | + | Focused productive work |
-| 2:30 PM | Energy dip, check social media | - | Procrastination, not addressing real issue (fatigue) |
-| 2:40 PM | Get coffee/snack | + | Addressing energy need appropriately |
-| 2:50 PM | Return to work | = | Back to duties |
-| 3:00 PM | Afternoon meetings | = | Work responsibility |
-| 4:30 PM | Meetings end | = | Transition |
-| 4:35 PM | Check and respond to emails | + | Proactive communication |
-| 4:50 PM | Plan tomorrow's priorities | + | Proactive preparation |
-| 5:00 PM | Leave work | = | End of workday |
+| Time     | Behavior                        | Rating | Notes                                                |
+| -------- | ------------------------------- | ------ | ---------------------------------------------------- |
+| 12:05 PM | Go to lunch spot                | =      | Necessary                                            |
+| 12:10 PM | Order food                      | =      | Necessary eating                                     |
+| 12:15 PM | Eat lunch while scrolling phone | -      | Mindless eating, not savoring                        |
+| 12:30 PM | Quick walk after lunch          | +      | Movement, fresh air, mental break                    |
+| 12:45 PM | Return to desk                  | =      | Back to work                                         |
+| 12:50 PM | Check email                     | =      | Work responsibility                                  |
+| 1:00 PM  | Afternoon deep work session     | +      | Focused productive work                              |
+| 2:30 PM  | Energy dip, check social media  | -      | Procrastination, not addressing real issue (fatigue) |
+| 2:40 PM  | Get coffee/snack                | +      | Addressing energy need appropriately                 |
+| 2:50 PM  | Return to work                  | =      | Back to duties                                       |
+| 3:00 PM  | Afternoon meetings              | =      | Work responsibility                                  |
+| 4:30 PM  | Meetings end                    | =      | Transition                                           |
+| 4:35 PM  | Check and respond to emails     | +      | Proactive communication                              |
+| 4:50 PM  | Plan tomorrow's priorities      | +      | Proactive preparation                                |
+| 5:00 PM  | Leave work                      | =      | End of workday                                       |
 
 **Afternoon Summary**:
+
 - Positive behaviors: 5
 - Negative behaviors: 2
 - Neutral behaviors: 9
@@ -257,26 +275,27 @@ You don't need to do this for every behavior forever. Use it for:
 
 ### Evening Routine (5:00 PM - 10:00 PM)
 
-| Time | Behavior | Rating | Notes |
-|------|----------|---------|-------|
-| 5:00 PM | Commute home | = | Necessary |
-| 5:01 PM | Listen to music during commute | = | Enjoyable, relaxing |
-| 5:30 PM | Arrive home | = | Transition |
-| 5:32 PM | Check phone immediately | - | Automatic, unnecessary |
-| 5:40 PM | Change into comfortable clothes | + | Transition ritual |
-| 5:45 PM | Prepare dinner | + | Healthy eating, life skill |
-| 6:15 PM | Eat dinner while watching TV | - | Mindless eating, passive consumption |
-| 6:45 PM | Clean up dinner dishes | + | Maintaining environment |
-| 6:55 PM | Sit on couch | = | Rest time |
-| 7:00 PM | Watch TV show | = | Reasonable entertainment/rest |
-| 7:45 PM | Check social media during commercial | - | Distraction from already passive activity |
-| 8:00 PM | Continue TV watching | - | 2+ hours of TV is excessive for goals |
-| 9:00 PM | Scroll phone in bed | - | Poor sleep hygiene, passive |
-| 9:30 PM | Finally remember to brush teeth | + | Health maintenance (but late) |
-| 9:35 PM | Get back in bed with phone | - | Continuing poor sleep hygiene |
-| 10:00 PM | Finally fall asleep | = | Necessary |
+| Time     | Behavior                             | Rating | Notes                                     |
+| -------- | ------------------------------------ | ------ | ----------------------------------------- |
+| 5:00 PM  | Commute home                         | =      | Necessary                                 |
+| 5:01 PM  | Listen to music during commute       | =      | Enjoyable, relaxing                       |
+| 5:30 PM  | Arrive home                          | =      | Transition                                |
+| 5:32 PM  | Check phone immediately              | -      | Automatic, unnecessary                    |
+| 5:40 PM  | Change into comfortable clothes      | +      | Transition ritual                         |
+| 5:45 PM  | Prepare dinner                       | +      | Healthy eating, life skill                |
+| 6:15 PM  | Eat dinner while watching TV         | -      | Mindless eating, passive consumption      |
+| 6:45 PM  | Clean up dinner dishes               | +      | Maintaining environment                   |
+| 6:55 PM  | Sit on couch                         | =      | Rest time                                 |
+| 7:00 PM  | Watch TV show                        | =      | Reasonable entertainment/rest             |
+| 7:45 PM  | Check social media during commercial | -      | Distraction from already passive activity |
+| 8:00 PM  | Continue TV watching                 | -      | 2+ hours of TV is excessive for goals     |
+| 9:00 PM  | Scroll phone in bed                  | -      | Poor sleep hygiene, passive               |
+| 9:30 PM  | Finally remember to brush teeth      | +      | Health maintenance (but late)             |
+| 9:35 PM  | Get back in bed with phone           | -      | Continuing poor sleep hygiene             |
+| 10:00 PM | Finally fall asleep                  | =      | Necessary                                 |
 
 **Evening Summary**:
+
 - Positive behaviors: 3
 - Negative behaviors: 6
 - Neutral behaviors: 6
@@ -287,6 +306,7 @@ You don't need to do this for every behavior forever. Use it for:
 ## Full Day Analysis
 
 ### Totals:
+
 - **Positive behaviors: 17**
 - **Negative behaviors: 17**
 - **Neutral behaviors: 31**
@@ -295,6 +315,7 @@ You don't need to do this for every behavior forever. Use it for:
 ### Key Patterns Identified:
 
 **1. Phone Checking Cluster**:
+
 - Checking phone immediately upon waking (-)
 - Checking phone during meals (-)
 - Checking phone during transitions (-)
@@ -302,17 +323,20 @@ You don't need to do this for every behavior forever. Use it for:
 - **TOTAL: 6+ instances of problematic phone use**
 
 **2. Mindless Eating Pattern**:
+
 - Eating breakfast while scrolling (-)
 - Eating lunch while scrolling (-)
 - Eating dinner while watching TV (-)
 - **TOTAL: 3 meals consumed without attention**
 
 **3. Evening Optimization Opportunity**:
+
 - 5:00 PM to 10:00 PM has highest concentration of negative behaviors
 - Passive consumption (TV + phone) dominates
 - This is 5 hours (31% of waking time) with minimal positive behaviors
 
 **4. Positive Foundation Already Exists**:
+
 - Morning coffee ritual
 - Post-lunch walk
 - Lunch preparation
@@ -322,16 +346,19 @@ You don't need to do this for every behavior forever. Use it for:
 ### Keystone Habits to Target:
 
 **1. Phone Management** (Highest Impact):
+
 - Removing phone from bedroom (affects morning and evening)
 - Designated phone-free meals
 - Would positively affect 6+ behaviors
 
 **2. Evening Routine** (Second Highest Impact):
+
 - Replacing passive consumption with active engagement
 - Earlier wind-down routine
 - Would positively affect 5+ behaviors
 
 **3. Meal Mindfulness** (Third Priority):
+
 - Phone-free meals
 - TV-free meals
 - Would positively affect 3 behaviors and cascading health benefits
@@ -345,6 +372,7 @@ You don't need to do this for every behavior forever. Use it for:
 **Purpose**: Maintain awareness without excessive tracking
 
 **Process**:
+
 1. Look at yesterday's scorecard
 2. Ask: "Did I perform my target habits?"
 3. Note any deviations or insights
@@ -361,6 +389,7 @@ You don't need to do this for every behavior forever. Use it for:
 **Purpose**: Identify patterns and plan adjustments
 
 **Process**:
+
 1. Review the full week's behaviors
 2. Count positive, negative, neutral ratios
 3. Identify patterns (clusters of behaviors)
@@ -370,6 +399,7 @@ You don't need to do this for every behavior forever. Use it for:
 **When**: Sunday evening or Friday afternoon
 
 **Questions to Ask**:
+
 - What patterns emerged this week?
 - Which negative habits appeared most frequently?
 - Which positive habits felt strongest?
@@ -385,6 +415,7 @@ You don't need to do this for every behavior forever. Use it for:
 **Purpose**: Comprehensive analysis and course correction
 
 **Process**:
+
 1. Review weekly summaries from the month
 2. Calculate overall positive/negative ratio trends
 3. Identify long-term patterns
@@ -395,6 +426,7 @@ You don't need to do this for every behavior forever. Use it for:
 **When**: Last day of the month
 
 **Questions to Ask**:
+
 - How has my behavior ratio changed over the month?
 - Which targeted habits have improved?
 - Which habits have degraded?
@@ -411,6 +443,7 @@ You don't need to do this for every behavior forever. Use it for:
 **Purpose**: Align behaviors with identity and long-term goals
 
 **Process**:
+
 1. Review monthly summaries
 2. Assess identity shifts ("Who have I become?")
 3. Evaluate if current habits support desired identity
@@ -420,6 +453,7 @@ You don't need to do this for every behavior forever. Use it for:
 **When**: Every 3 months (January, April, July, October)
 
 **Questions to Ask**:
+
 - Who am I becoming through these behaviors?
 - Is this who I want to be?
 - Which habits are most aligned with my identity?
@@ -465,6 +499,7 @@ Example: Organizing sock drawer
 **Step 1: List All Negative Behaviors**
 
 From sample scorecard:
+
 1. Check phone immediately upon waking
 2. Scroll social media in bed
 3. Check email while coffee brews
@@ -483,31 +518,35 @@ From sample scorecard:
 
 **Step 2: Calculate Frequency**
 
-| Behavior | Frequency | Category |
-|----------|-----------|----------|
-| Phone checking | 6x/day | Very High |
-| Mindless eating (with screens) | 3x/day | High |
-| Passive entertainment | 3+ hours/day | High |
-| Work distractions | 2-3x/day | Medium |
+| Behavior                       | Frequency    | Category  |
+| ------------------------------ | ------------ | --------- |
+| Phone checking                 | 6x/day       | Very High |
+| Mindless eating (with screens) | 3x/day       | High      |
+| Passive entertainment          | 3+ hours/day | High      |
+| Work distractions              | 2-3x/day     | Medium    |
 
 **Step 3: Assess Impact**
 
 **Phone Checking**:
+
 - Frequency: Very High (6x/day)
 - Impact: Very High (affects mood, productivity, sleep, relationships)
 - **PRIORITY SCORE: 10/10**
 
 **Mindless Eating**:
+
 - Frequency: High (3x/day)
 - Impact: High (affects health, satisfaction, weight)
 - **PRIORITY SCORE: 8/10**
 
 **Passive Entertainment**:
+
 - Frequency: High (daily, 3+ hours)
 - Impact: Medium-High (affects learning, relationships, goals)
 - **PRIORITY SCORE: 7/10**
 
 **Work Distractions**:
+
 - Frequency: Medium (2-3x/day)
 - Impact: High (affects career, income, satisfaction)
 - **PRIORITY SCORE: 7/10**
@@ -519,6 +558,7 @@ From sample scorecard:
 **From Sample Scorecard**:
 
 **Keystone Habit: Remove Phone from Bedroom**
+
 - Eliminates: Morning phone checking
 - Eliminates: Evening phone scrolling
 - Enables: Reading before bed
@@ -527,6 +567,7 @@ From sample scorecard:
 - **AFFECTS: 6+ behaviors**
 
 **Second Keystone: Phone-Free Meals**
+
 - Eliminates: Distracted eating (3x/day)
 - Enables: Mindful eating
 - Enables: Better digestion
@@ -540,6 +581,7 @@ From sample scorecard:
 **From Sample**: Remove phone from bedroom
 
 **Why**:
+
 - Affects morning and evening (2 crucial times)
 - Eliminates multiple negative behaviors
 - Enables multiple positive behaviors
@@ -554,12 +596,14 @@ From sample scorecard:
 ### Why Time-Block Mapping Matters
 
 Different times of day have:
+
 - Different energy levels
 - Different environmental contexts
 - Different social situations
 - Different triggers and cues
 
 Mapping behaviors by time allows you to:
+
 - Identify time-specific patterns
 - Optimize for your chronotype
 - Create time-appropriate interventions
@@ -574,6 +618,7 @@ Mapping behaviors by time allows you to:
 **Key Opportunities**: Set tone for entire day
 
 **Common Positive Morning Behaviors**:
+
 - ✓ Wake without snoozing
 - ✓ Make bed immediately
 - ✓ Hydrate (glass of water)
@@ -586,6 +631,7 @@ Mapping behaviors by time allows you to:
 - ✓ Personal development time
 
 **Common Negative Morning Behaviors**:
+
 - ✗ Snoozing alarm multiple times
 - ✗ Checking phone immediately
 - ✗ Scrolling social media
@@ -596,6 +642,7 @@ Mapping behaviors by time allows you to:
 - ✗ Caffeine before hydration
 
 **Morning Optimization Questions**:
+
 1. What's the first thing you do upon waking?
 2. When do you first check your phone?
 3. What's your energy level at different morning times?
@@ -603,6 +650,7 @@ Mapping behaviors by time allows you to:
 5. When do you feel most motivated?
 
 **Ideal Morning Routine Structure**:
+
 ```
 TRANSITION 1: Sleeping → Waking
 - Alarm goes off (across room)
@@ -634,6 +682,7 @@ TRANSITION 4: Planning → Executing
 **Key Opportunities**: Deep work, energy management
 
 **Common Positive Afternoon Behaviors**:
+
 - ✓ Focused work blocks
 - ✓ Mindful lunch break
 - ✓ Post-lunch walk
@@ -644,6 +693,7 @@ TRANSITION 4: Planning → Executing
 - ✓ End-of-day planning
 
 **Common Negative Afternoon Behaviors**:
+
 - ✗ Skipping lunch or eating at desk
 - ✗ Post-lunch social media scrolling
 - ✗ Scattered focus (email, messages, work)
@@ -654,12 +704,14 @@ TRANSITION 4: Planning → Executing
 
 **Afternoon Energy Dip** (typically 2-3 PM):
 **Problematic Responses**:
+
 - Scrolling social media
 - Excessive coffee
 - Sugar snacking
 - Busywork instead of important work
 
 **Productive Responses**:
+
 - 10-minute walk
 - 5-minute meditation
 - Healthy snack + water
@@ -667,6 +719,7 @@ TRANSITION 4: Planning → Executing
 - Brief nap (if possible)
 
 **Afternoon Optimization Questions**:
+
 1. When is your peak focus time?
 2. When do you experience energy dips?
 3. How do you currently respond to energy dips?
@@ -674,6 +727,7 @@ TRANSITION 4: Planning → Executing
 5. How do you transition from work to home?
 
 **Ideal Afternoon Structure**:
+
 ```
 EARLY AFTERNOON (12-2 PM):
 - Mindful lunch away from workspace
@@ -703,6 +757,7 @@ LATE AFTERNOON (3-5 PM):
 **Key Opportunities**: Recovery, relationships, learning, sleep prep
 
 **Common Positive Evening Behaviors**:
+
 - ✓ Exercise (if not morning person)
 - ✓ Meal preparation (cooking)
 - ✓ Quality time with family/friends
@@ -714,6 +769,7 @@ LATE AFTERNOON (3-5 PM):
 - ✓ Gratitude or journaling
 
 **Common Negative Evening Behaviors**:
+
 - ✗ Excessive screen time (TV, phone)
 - ✗ Mindless snacking
 - ✗ Continuing work into evening
@@ -726,12 +782,14 @@ LATE AFTERNOON (3-5 PM):
 
 **Evening Danger Zone** (8 PM to bedtime):
 This period often has:
+
 - Highest concentration of passive behaviors
 - Least structure
 - Lowest willpower
 - Greatest opportunity for improvement
 
 **Evening Optimization Questions**:
+
 1. What time do you finish "productive" activities?
 2. How much of evening is passive vs active?
 3. What time do you start winding down?
@@ -739,6 +797,7 @@ This period often has:
 5. What's your ideal bedtime? Actual bedtime?
 
 **Ideal Evening Structure**:
+
 ```
 EARLY EVENING (5-7 PM):
 - Transition ritual (change clothes, tidy up)
@@ -774,6 +833,7 @@ LATE EVENING (9 PM-Bedtime):
 **Definition**: A habit that naturally triggers positive changes in other habits.
 
 **Characteristics**:
+
 1. **High Frequency**: Happens daily or multiple times per day
 2. **Cascading Effect**: Directly influences multiple other behaviors
 3. **Identity Reinforcement**: Strengthens desired identity
@@ -785,11 +845,13 @@ LATE EVENING (9 PM-Bedtime):
 #### 1. Exercise/Movement
 
 **Why It's Keystone**:
+
 - Improves: Sleep, eating, mood, energy, confidence
 - Triggers: Better food choices, reduced vices, more discipline
 - Identity: "I'm someone who takes care of myself"
 
 **Cascade Example**:
+
 ```
 Start exercising daily
   → Feel more energized
@@ -807,11 +869,13 @@ Start exercising daily
 #### 2. Sleep Routine
 
 **Why It's Keystone**:
+
 - Affects: Energy, mood, decision-making, willpower
 - Enables: Morning routine, exercise, healthy eating
 - Identity: "I'm someone who prioritizes rest and recovery"
 
 **Cascade Example**:
+
 ```
 Establish consistent sleep routine
   → Fall asleep faster, sleep deeper
@@ -828,11 +892,13 @@ Establish consistent sleep routine
 #### 3. Morning Routine
 
 **Why It's Keystone**:
+
 - Sets: Tone for entire day
 - Creates: Proactive vs reactive start
 - Identity: "I'm someone who starts the day with intention"
 
 **Cascade Example**:
+
 ```
 Create morning routine
   → Start day with intention
@@ -849,11 +915,13 @@ Create morning routine
 #### 4. Meal Planning/Preparation
 
 **Why It's Keystone**:
+
 - Affects: Health, energy, weight, budget
 - Prevents: Impulsive unhealthy choices
 - Identity: "I'm someone who nourishes their body well"
 
 **Cascade Example**:
+
 ```
 Plan and prep meals weekly
   → Healthy food readily available
@@ -870,11 +938,13 @@ Plan and prep meals weekly
 #### 5. Digital Boundaries
 
 **Why It's Keystone**:
+
 - Reclaims: Time, attention, mental energy
 - Enables: Deep work, learning, relationships
 - Identity: "I'm someone who controls technology, it doesn't control me"
 
 **Cascade Example**:
+
 ```
 Remove phone from bedroom
   → Morning: Start without scrolling
@@ -894,6 +964,7 @@ Remove phone from bedroom
 **Step 1: Review Your Habit Scorecard**
 
 Look for habits that:
+
 - Appear multiple times per day
 - Occur at transition points (wake, meals, bedtime)
 - Affect multiple life domains (health, relationships, work)
@@ -909,6 +980,7 @@ For each potential keystone habit, ask:
 **Habit**: Removing phone from bedroom
 
 **Cascade Analysis**:
+
 - Morning: Wouldn't check phone first thing → Would start with intention
 - Evening: Wouldn't scroll before bed → Would read → Better sleep
 - Night: Better sleep → More energy next day → More willpower
@@ -922,10 +994,11 @@ For each potential keystone habit, ask:
 **Habit**: Organizing sock drawer
 
 **Cascade Analysis**:
+
 - Direct effect: Slightly easier to find socks
 - Indirect effects: None identified
 - Total Behaviors Affected: 1
-**Keystone Status**: NO
+  **Keystone Status**: NO
 
 ---
 
@@ -952,6 +1025,7 @@ All others = Not keystone habits (still may be worth changing)
 **Step 4: Select Your Keystone Habit**
 
 **Criteria for Selection**:
+
 1. Highest combined frequency + impact score
 2. Aligns with your most important identity goal
 3. Feels achievable (not too overwhelming)
@@ -960,11 +1034,13 @@ All others = Not keystone habits (still may be worth changing)
 **From Sample Scorecard Analysis**:
 
 Top 3 Keystone Candidates:
+
 1. **Digital boundaries (phone management)**: Frequency: Very High | Impact: Very High
 2. **Meal mindfulness (phone-free eating)**: Frequency: High | Impact: High
 3. **Evening routine (replace passive consumption)**: Frequency: Medium | Impact: High
 
 **Selected Keystone**: Digital boundaries (phone management)
+
 - Specifically: Remove phone from bedroom
 - Affects morning and evening routines
 - Single environmental change
@@ -979,6 +1055,7 @@ Top 3 Keystone Candidates:
 Instead of organizing by time, organize by life role:
 
 **Roles**:
+
 - Professional
 - Partner/Spouse
 - Parent
@@ -990,6 +1067,7 @@ Instead of organizing by time, organize by life role:
 List behaviors for each role, rate them
 
 **Benefits**:
+
 - Identifies role imbalances
 - Ensures all life areas are considered
 - Highlights roles being neglected
@@ -1008,6 +1086,7 @@ Map behaviors to their triggers:
 | Stressed | Eat junk food | - | Walk outside |
 
 **Benefits**:
+
 - Identifies trigger patterns
 - Pre-plans alternative responses
 - Breaks stimulus-response loops
@@ -1026,6 +1105,7 @@ Rate behaviors by energy impact:
 | Reading | +2 | 30 min | High |
 
 **Benefits**:
+
 - Identifies energy vampires
 - Optimizes for energy generation
 - Makes trade-offs visible
@@ -1097,6 +1177,7 @@ PHASE 7: ACTION PLANNING
 
 **LLM Response**:
 "There's a difference between vaguely knowing 'I use my phone too much' and seeing that you check it 15 specific times per day at these exact moments. The scorecard reveals:
+
 1. The exact frequency (often worse than you think)
 2. The specific triggers (when/why it happens)
 3. The pattern clusters (which habits trigger others)
@@ -1142,6 +1223,7 @@ This specificity is what makes change possible. Shall we try it?"
 **User**: "I hit snooze a couple times, then check my phone for notifications"
 
 **LLM**: "Okay, so:
+
 1. Alarm goes off
 2. Hit snooze (how many times typically?)
 3. Check phone for notifications
@@ -1150,10 +1232,7 @@ When you check your phone, what apps do you typically open?"
 
 **User**: "Usually email, then Instagram, then messages"
 
-**LLM**: "Got it:
-4. Check email
-5. Check Instagram
-6. Check messages
+**LLM**: "Got it: 4. Check email 5. Check Instagram 6. Check messages
 
 How long does this usually take before you actually get out of bed?"
 
@@ -1176,6 +1255,7 @@ What's your primary goal right now? What are you working toward?"
 **LLM**: "Perfect. So we'll rate each behavior based on: Does this increase or decrease productivity and stress?
 
 Let's start with the morning:
+
 1. Hit snooze multiple times - + / - / = ?"
 
 **User**: "Probably negative, I start the day rushed"
@@ -1201,6 +1281,7 @@ Let's start with the morning:
 **LLM**: "Excellent. Here's what the data reveals:
 
 **TOTALS**:
+
 - Positive behaviors: 15
 - Negative behaviors: 19
 - Neutral behaviors: 24
@@ -1222,6 +1303,7 @@ Let's start with the morning:
 **KEYSTONE HABIT IDENTIFIED**:
 
 **Phone management** is your highest-leverage change:
+
 - Affects 8+ behaviors
 - Spans morning and evening (crucial times)
 - Single environmental change could fix multiple issues
@@ -1237,33 +1319,41 @@ When LLM completes a scorecard with user, format output as:
 
 ```markdown
 # Your Habit Scorecard
+
 Date: [DATE]
 
 ## Morning Routine (6:00 AM - 9:00 AM)
-| Time | Behavior | Rating | Notes |
-|------|----------|--------|-------|
-| 6:00 | Alarm goes off | = | Necessary |
-| 6:02 | Hit snooze | - | Creates rushed morning |
+
+| Time | Behavior       | Rating | Notes                  |
+| ---- | -------------- | ------ | ---------------------- |
+| 6:00 | Alarm goes off | =      | Necessary              |
+| 6:02 | Hit snooze     | -      | Creates rushed morning |
+
 [continue...]
 
 ## Afternoon (9:00 AM - 5:00 PM)
+
 [continue...]
 
 ## Evening (5:00 PM - 10:00 PM)
+
 [continue...]
 
 ## Summary Statistics
+
 - Total behaviors tracked: [X]
 - Positive (+): [X] ([X]%)
 - Negative (-): [X] ([X]%)
 - Neutral (=): [X] ([X]%)
 
 ## Key Patterns Identified
+
 1. [Pattern name]: [Description]
 2. [Pattern name]: [Description]
 3. [Pattern name]: [Description]
 
 ## Keystone Habit Opportunities
+
 1. **[Habit name]** (Priority: High)
    - Frequency: [X times per day]
    - Impact: Affects [X] other behaviors
@@ -1274,6 +1364,7 @@ Date: [DATE]
    [continue...]
 
 ## Recommended Next Step
+
 Based on this scorecard, I recommend focusing on: **[Specific keystone habit]**
 
 This single change will positively affect [X] other behaviors and is most aligned with your goal of [user's stated goal].
@@ -1286,6 +1377,7 @@ Shall we create an implementation plan for this habit?
 ## Summary
 
 The Habit Scorecard is the foundational self-awareness exercise that:
+
 1. Reveals unconscious patterns
 2. Identifies keystone opportunities
 3. Provides baseline for measuring progress
@@ -1293,6 +1385,7 @@ The Habit Scorecard is the foundational self-awareness exercise that:
 5. Prioritizes changes by leverage
 
 **The Process**:
+
 - List all daily behaviors (no judgment)
 - Rate each: +, -, or =
 - Identify patterns and clusters

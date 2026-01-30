@@ -3,6 +3,7 @@
 ## Overview
 
 This document provides reusable implementation patterns for building habit-related features. Each pattern includes:
+
 - **Purpose**: What the pattern does
 - **When to use**: Appropriate scenarios
 - **Input requirements**: What data is needed
@@ -15,20 +16,23 @@ This document provides reusable implementation patterns for building habit-relat
 ## Pattern 1: Habit Stack Builder
 
 ### Purpose
+
 Chains a new habit to an existing reliable habit using the formula: "After [CURRENT HABIT], I will [NEW HABIT]"
 
 ### When to Use
+
 - User wants to build a new habit but doesn't have a specific time/place trigger
 - User already has consistent daily routines
 - Want to leverage existing habits as anchors
 
 ### Input Requirements
+
 ```typescript
 interface HabitStackInput {
-  newHabit: string;              // The habit to build
-  userDailyRoutines: string[];   // List of things user does daily
-  timing?: 'morning' | 'afternoon' | 'evening' | 'any';
-  duration?: number;             // How long new habit takes (minutes)
+  newHabit: string; // The habit to build
+  userDailyRoutines: string[]; // List of things user does daily
+  timing?: "morning" | "afternoon" | "evening" | "any";
+  duration?: number; // How long new habit takes (minutes)
 }
 ```
 
@@ -116,7 +120,7 @@ interface HabitStack {
   anchor: string;
   newHabit: string;
   formula: string;
-  cueType: 'action' | 'time' | 'location';
+  cueType: "action" | "time" | "location";
   estimatedTime: number;
   implementationPlan: {
     preparation: string[];
@@ -124,13 +128,14 @@ interface HabitStack {
     environmentSetup: string[];
     trackingMethod: string;
   };
-  confidence: number;  // 0-1 score of how likely this will work
+  confidence: number; // 0-1 score of how likely this will work
 }
 ```
 
 ### Example
 
 **Input:**
+
 ```json
 {
   "newHabit": "meditate for 5 minutes",
@@ -146,6 +151,7 @@ interface HabitStack {
 ```
 
 **Output:**
+
 ```json
 {
   "anchor": "pour morning coffee",
@@ -176,9 +182,11 @@ interface HabitStack {
 ## Pattern 2: Environment Audit
 
 ### Purpose
+
 Analyzes a physical or digital space to identify cues that trigger habits (good and bad) and friction points that help or hinder habits.
 
 ### When to Use
+
 - User wants to optimize their environment for habits
 - User struggling with bad habits triggered by environment
 - Setting up new space (moving, new office, etc.)
@@ -188,11 +196,11 @@ Analyzes a physical or digital space to identify cues that trigger habits (good 
 
 ```typescript
 interface EnvironmentAuditInput {
-  spaceType: 'bedroom' | 'kitchen' | 'office' | 'living_room' | 'digital' | 'car' | 'other';
-  goodHabits: Habit[];    // Habits to encourage
-  badHabits: Habit[];     // Habits to discourage
-  photos?: string[];      // Optional: photos of space
-  inventory?: string[];   // List of items in space
+  spaceType: "bedroom" | "kitchen" | "office" | "living_room" | "digital" | "car" | "other";
+  goodHabits: Habit[]; // Habits to encourage
+  badHabits: Habit[]; // Habits to discourage
+  photos?: string[]; // Optional: photos of space
+  inventory?: string[]; // List of items in space
 }
 
 interface Habit {
@@ -402,6 +410,7 @@ interface EnvironmentReport {
 ### Example
 
 **Input:**
+
 ```json
 {
   "spaceType": "bedroom",
@@ -429,6 +438,7 @@ interface EnvironmentReport {
 ```
 
 **Output:**
+
 ```json
 {
   "space": "bedroom",
@@ -494,20 +504,14 @@ interface EnvironmentReport {
     }
   ],
   "timeline": {
-    "immediate": [
-      "Move phone charger to living room",
-      "Place book on nightstand"
-    ],
+    "immediate": ["Move phone charger to living room", "Place book on nightstand"],
     "thisWeek": [
       "Purchase meditation cushion",
       "Set up meditation corner",
       "Consider removing TV or adding cabinet to hide it"
     ],
     "thisMonth": [],
-    "ongoing": [
-      "Keep bedroom optimized for sleep and morning routine",
-      "Regular monthly audit"
-    ]
+    "ongoing": ["Keep bedroom optimized for sleep and morning routine", "Regular monthly audit"]
   }
 }
 ```
@@ -517,9 +521,11 @@ interface EnvironmentReport {
 ## Pattern 3: Identity Script Generator
 
 ### Purpose
+
 Generates identity-based affirmations and reframes habits as evidence of desired identity.
 
 ### When to Use
+
 - User's habits conflict with their self-image
 - Need motivation boost
 - Starting identity-first habit design
@@ -531,8 +537,8 @@ Generates identity-based affirmations and reframes habits as evidence of desired
 interface IdentityScriptInput {
   desiredOutcome: string;
   currentHabits: string[];
-  desiredIdentity?: string;  // Optional, can be inferred
-  currentIdentity?: string;  // How they currently see themselves
+  desiredIdentity?: string; // Optional, can be inferred
+  currentIdentity?: string; // How they currently see themselves
 }
 ```
 
@@ -716,6 +722,7 @@ interface IdentityScript {
 ### Example
 
 **Input:**
+
 ```json
 {
   "desiredOutcome": "write consistently",
@@ -726,6 +733,7 @@ interface IdentityScript {
 ```
 
 **Output:**
+
 ```json
 {
   "targetIdentity": "writer",
@@ -797,9 +805,11 @@ interface IdentityScript {
 ## Pattern 4: Two-Minute Version Creator
 
 ### Purpose
+
 Scales down any habit to a 2-minute gateway version that's impossible to say no to.
 
 ### When to Use
+
 - User finds habit too difficult
 - Starting a new habit
 - Recovering from broken streak
@@ -810,9 +820,9 @@ Scales down any habit to a 2-minute gateway version that's impossible to say no 
 ```typescript
 interface TwoMinuteInput {
   originalHabit: string;
-  estimatedDuration: number;  // minutes
-  difficulty: number;         // 1-10
-  context?: string;           // Where/when habit occurs
+  estimatedDuration: number; // minutes
+  difficulty: number; // 1-10
+  context?: string; // Where/when habit occurs
 }
 ```
 
@@ -1014,6 +1024,7 @@ interface TwoMinuteHabit {
 ### Example
 
 **Input:**
+
 ```json
 {
   "originalHabit": "run 3 miles",
@@ -1024,6 +1035,7 @@ interface TwoMinuteHabit {
 ```
 
 **Output:**
+
 ```json
 {
   "original": "run 3 miles",
@@ -1088,9 +1100,11 @@ interface TwoMinuteHabit {
 ## Pattern 5: Temptation Bundle Matcher
 
 ### Purpose
+
 Pairs necessary habits with enjoyable activities using the formula: "After [HABIT I NEED], I will [HABIT I WANT]"
 
 ### When to Use
+
 - User lacks motivation for necessary habit
 - Want to make unappealing habit attractive
 - Looking to leverage existing wants
@@ -1100,10 +1114,10 @@ Pairs necessary habits with enjoyable activities using the formula: "After [HABI
 
 ```typescript
 interface TemptationBundleInput {
-  neededHabit: string;        // The habit that needs motivation
+  neededHabit: string; // The habit that needs motivation
   enjoyedActivities: string[]; // Things user already enjoys
-  context?: string;            // When/where needed habit occurs
-  constraints?: string[];      // Limitations (time, location, etc.)
+  context?: string; // When/where needed habit occurs
+  constraints?: string[]; // Limitations (time, location, etc.)
 }
 ```
 
@@ -1293,8 +1307,8 @@ interface TemptationBundle {
   need: string;
   want: string;
   formula: string;
-  formulaAlternative?: string;  // If can do concurrently
-  feasibility: number;           // 0-1
+  formulaAlternative?: string; // If can do concurrently
+  feasibility: number; // 0-1
   alternatives: {
     activity: string;
     score: number;
@@ -1317,21 +1331,18 @@ interface TemptationBundle {
 ### Example
 
 **Input:**
+
 ```json
 {
   "neededHabit": "exercise for 30 minutes",
-  "enjoyedActivities": [
-    "watch Netflix",
-    "listen to podcasts",
-    "scroll Instagram",
-    "call friends"
-  ],
+  "enjoyedActivities": ["watch Netflix", "listen to podcasts", "scroll Instagram", "call friends"],
   "context": "after work",
   "constraints": ["limited time", "home setting"]
 }
 ```
 
 **Output:**
+
 ```json
 {
   "need": "exercise for 30 minutes",
@@ -1378,9 +1389,11 @@ interface TemptationBundle {
 ## Pattern 6: Habit Contract Generator
 
 ### Purpose
+
 Creates a formal commitment contract with accountability partners and consequences.
 
 ### When to Use
+
 - User needs external accountability
 - High-stakes habit (health, career, relationships)
 - User has history of breaking commitments to self
@@ -1391,10 +1404,10 @@ Creates a formal commitment contract with accountability partners and consequenc
 ```typescript
 interface HabitContractInput {
   habit: string;
-  frequency: string;              // "daily", "3x per week", etc.
+  frequency: string; // "daily", "3x per week", etc.
   startDate: Date;
-  partners: string[];             // Names of accountability partners
-  consequenceLevel: 'low' | 'medium' | 'high';
+  partners: string[]; // Names of accountability partners
+  consequenceLevel: "low" | "medium" | "high";
   preferredConsequences?: string[];
 }
 ```
@@ -1621,6 +1634,7 @@ interface HabitContract {
 ### Example
 
 **Input:**
+
 ```json
 {
   "habit": "write for 30 minutes",
@@ -1632,6 +1646,7 @@ interface HabitContract {
 ```
 
 **Output:**
+
 ```json
 {
   "commitmentStatement": "I, [NAME], commit to write for 30 minutes daily, starting January 1, 2025",
@@ -1723,9 +1738,11 @@ interface HabitContract {
 ## Pattern 7: Progress Visualization
 
 ### Purpose
+
 Generates visual representations of habit streaks, trends, and progress to provide immediate satisfaction.
 
 ### When to Use
+
 - User needs motivation boost
 - Want to make progress visible
 - Creating dashboard/app interface
@@ -1742,7 +1759,7 @@ interface ProgressVisualizationInput {
     completed: boolean;
     notes?: string;
   }[];
-  targetFrequency: string;  // "daily", "3x per week", etc.
+  targetFrequency: string; // "daily", "3x per week", etc.
 }
 ```
 
@@ -2013,9 +2030,11 @@ interface VisualizationData {
 ## Pattern 8: Friction Analysis
 
 ### Purpose
+
 Analyzes and quantifies friction points for habits, then generates strategies to add or remove friction.
 
 ### When to Use
+
 - Habit is too difficult (remove friction)
 - Want to prevent bad habit (add friction)
 - Optimizing environment
@@ -2026,12 +2045,12 @@ Analyzes and quantifies friction points for habits, then generates strategies to
 ```typescript
 interface FrictionAnalysisInput {
   habit: string;
-  goal: 'increase' | 'decrease';  // Increase friction (bad habit) or decrease (good habit)
-  currentProcess: string[];       // Current steps to perform habit
+  goal: "increase" | "decrease"; // Increase friction (bad habit) or decrease (good habit)
+  currentProcess: string[]; // Current steps to perform habit
   context: {
     location: string;
     time: string;
-    energy: string;               // "high", "medium", "low"
+    energy: string; // "high", "medium", "low"
   };
 }
 ```
@@ -2323,8 +2342,8 @@ FUNCTION selectBestStrategies(strategies, maxCount) -> Recommendation[]
 
 ```typescript
 interface FrictionReport {
-  currentFriction: number;       // 0-1
-  optimalFriction: number;       // 0-1
+  currentFriction: number; // 0-1
+  optimalFriction: number; // 0-1
   gap: number;
   stepAnalysis: {
     step: string;
@@ -2339,8 +2358,8 @@ interface FrictionReport {
     type: string;
     target?: string;
     suggestion: string;
-    impact: 'HIGH' | 'MEDIUM' | 'LOW';
-    effort: 'HIGH' | 'MEDIUM' | 'LOW';
+    impact: "HIGH" | "MEDIUM" | "LOW";
+    effort: "HIGH" | "MEDIUM" | "LOW";
     specific: string | string[];
     score?: number;
   }[];
@@ -2363,9 +2382,11 @@ interface FrictionReport {
 ## Pattern 9: Trigger Mapping
 
 ### Purpose
+
 Identifies all potential triggers (cues) for a habit across four dimensions: time, location, emotional state, and preceding action.
 
 ### When to Use
+
 - Designing new habit
 - Troubleshooting existing habit
 - Breaking bad habit (identify triggers to avoid)
@@ -2376,10 +2397,10 @@ Identifies all potential triggers (cues) for a habit across four dimensions: tim
 ```typescript
 interface TriggerMappingInput {
   habit: string;
-  userSchedule: object;      // Daily routine
-  locations: string[];        // Places user frequents
+  userSchedule: object; // Daily routine
+  locations: string[]; // Places user frequents
   emotionalPatterns?: object; // Known emotional triggers
-  existingHabits?: string[];  // For habit stacking
+  existingHabits?: string[]; // For habit stacking
 }
 ```
 
@@ -2673,14 +2694,14 @@ Store complete habit plan in database
 const userInput = {
   desiredOutcome: "reduce stress and improve focus",
   habit: "meditate for 10 minutes",
-  currentRoutines: ["wake up", "pour coffee", "check email", "shower"]
+  currentRoutines: ["wake up", "pour coffee", "check email", "shower"],
 };
 
 // Step 1: Apply Habit Stack Builder
 const stack = buildHabitStack({
   newHabit: userInput.habit,
   userDailyRoutines: userInput.currentRoutines,
-  timing: 'morning'
+  timing: "morning",
 });
 // Output: "After I pour my morning coffee, I will meditate for 10 minutes"
 
@@ -2688,15 +2709,15 @@ const stack = buildHabitStack({
 const easyVersion = createTwoMinuteVersion({
   originalHabit: userInput.habit,
   estimatedDuration: 10,
-  difficulty: 5
+  difficulty: 5,
 });
 // Output: "Sit on meditation cushion for 30 seconds"
 
 // Step 3: Apply Environment Audit
 const envChanges = auditEnvironment({
-  spaceType: 'bedroom',
-  goodHabits: [{name: userInput.habit, triggers: ['cushion', 'quiet']}],
-  badHabits: []
+  spaceType: "bedroom",
+  goodHabits: [{ name: userInput.habit, triggers: ["cushion", "quiet"] }],
+  badHabits: [],
 });
 // Output: Add meditation cushion next to coffee maker
 
@@ -2705,7 +2726,7 @@ const tracker = generateProgressVisualization({
   habitName: userInput.habit,
   startDate: new Date(),
   entries: [],
-  targetFrequency: 'daily'
+  targetFrequency: "daily",
 });
 
 // Store complete habit plan
@@ -2717,7 +2738,7 @@ const habitPlan = {
   environment: envChanges,
   difficulty: easyVersion.twoMinuteVersion,
   tracking: tracker,
-  startDate: new Date()
+  startDate: new Date(),
 };
 
 saveToDatabase(habitPlan);

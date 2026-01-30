@@ -17,32 +17,38 @@ Exam preparation is not cramming the night before. It's a systematic, multi-week
 ### Regular Exam (Non-Cumulative)
 
 **2 Weeks Before**:
+
 - Create/update revision timetable
 - Audit all color-coded questions since last exam
 - Identify high-priority topics (purple/blue questions)
 - Begin consolidation phase
 
 **10 Days Before**:
+
 - Intensive practice on purple topics
 - First practice exam (untimed, open resources)
 - Create summary sheets for each topic
 
 **7 Days Before**:
+
 - Second practice exam (timed, closed book)
 - Error analysis: identify weak areas
 - Focused study on errors from practice exam
 
 **3 Days Before**:
+
 - Third practice exam (simulated exam conditions)
 - Quick review of all topics (breadth, not depth)
 - Prepare exam materials (calculator, pencils, etc.)
 
 **1 Day Before**:
+
 - Light review only (no new studying)
 - Review summary sheets
 - Early bed time (8+ hours sleep)
 
 **Day Of**:
+
 - Brief active recall (30 minutes, main concepts only)
 - No cramming
 - Proper breakfast
@@ -53,47 +59,56 @@ Exam preparation is not cramming the night before. It's a systematic, multi-week
 ### Cumulative Final Exam
 
 **6 Weeks Before**:
+
 - Compile ALL questions from entire semester
 - Create master topic list
 - Audit color codes for entire semester
 - Identify major weak areas
 
 **5 Weeks Before**:
+
 - Systematic review: 1 week of material per day
 - Focus on purple/blue questions from early semester
 - Begin practice problem sets
 
 **4 Weeks Before**:
+
 - Integrate topics (find connections across units)
 - Practice explaining relationships
 - First comprehensive practice exam
 
 **3 Weeks Before**:
+
 - Deep work on persistent purple topics
 - Second comprehensive practice exam
 - Create consolidated summary materials
 
 **2 Weeks Before**:
+
 - Daily practice exams (alternate topics/formats)
 - Spaced review of all topics
 - Error analysis and targeted gaps
 
 **1 Week Before**:
+
 - Final comprehensive practice exam
 - Light review of all topics
 - Focus on high-value content (20% that's 80% of exam)
 
 **2 Days Before**:
+
 - Quick review only
 - Visualization/mental rehearsal
 - Rest and recovery
 
 **1 Day Before**:
+
 - No studying (trust your preparation)
 - Relaxation activities
 - Early sleep
 
 **Day Of**:
+
 - Wake up early
 - Light breakfast
 - 15-minute mental review
@@ -108,18 +123,21 @@ Exam preparation is not cramming the night before. It's a systematic, multi-week
 Review your retrospective timetable (all your color-coded questions):
 
 **High Priority (60% of study time)**:
+
 - **Purple** questions: Can't answer
 - **Blue** questions that should be black by now
 - Topics professor emphasized ("this will be on exam")
 - Foundational concepts (needed to solve other problems)
 
 **Medium Priority (30% of study time)**:
+
 - **Blue** questions: Partial understanding
 - Topics from early semester (may have forgotten)
 - Connections between topics
 - Application/synthesis questions
 
 **Low Priority (10% of study time)**:
+
 - **Black** questions: Solid understanding
 - Quick maintenance review only
 - Don't waste time on what you know
@@ -129,6 +147,7 @@ Review your retrospective timetable (all your color-coded questions):
 **Identify the 20% of content that represents 80% of exam value**:
 
 **Indicators of high-value content**:
+
 - Professor spent 2+ lectures on it
 - Appeared on practice exams/past exams
 - Listed as "key concept" in syllabus
@@ -138,6 +157,7 @@ Review your retrospective timetable (all your color-coded questions):
 **Strategy**: Master the 20% first, then cover the remaining 80%
 
 **Example** (Intro Biology):
+
 ```
 High-value 20% (focus here):
 - Cellular respiration (3 lectures, prof emphasized)
@@ -159,6 +179,7 @@ Lower-value 80% (review but don't obsess):
 ### Step 1: Find Practice Exams
 
 **Sources**:
+
 1. **Professor's past exams**: Ask in office hours or check course website
 2. **Textbook test banks**: Many textbooks have online question databases
 3. **Student organizations**: Many keep exam files
@@ -166,6 +187,7 @@ Lower-value 80% (review but don't obsess):
 5. **Create your own**: Use your question-based notes
 
 **Priority order**:
+
 1. Professor's actual past exams (highest value)
 2. Professor's practice problems
 3. Textbook questions similar to lecture focus
@@ -174,6 +196,7 @@ Lower-value 80% (review but don't obsess):
 ### Step 2: Schedule Practice Exams Strategically
 
 **Spacing for practice exams**:
+
 - **First**: 10-14 days before (untimed, can use resources)
 - **Second**: 7-10 days before (timed, closed book)
 - **Third**: 3-5 days before (full simulation)
@@ -186,20 +209,24 @@ Lower-value 80% (review but don't obsess):
 **For full simulation practice exam**:
 
 **Time**: Same as actual exam
+
 - Set timer for exact duration
 - Stop when time is up (even if not finished)
 
 **Environment**: Similar to actual exam
+
 - Quiet room
 - Desk/table (not bed or couch)
 - Remove all distractions (phone away)
 
 **Materials**: Only what's allowed on real exam
+
 - Calculator if permitted
 - Formula sheet if provided
 - No textbook, notes, or internet (if closed-book exam)
 
 **Mindset**: Treat it like the real thing
+
 - No breaks unless exam allows it
 - Don't pause to look things up
 - Mark uncertain answers but keep moving
@@ -221,6 +248,7 @@ Lower-value 80% (review but don't obsess):
 6. **Save time for review**: Last 5-10 minutes to check answers
 
 **Question approach**:
+
 - **Multiple choice**: Eliminate wrong answers first
 - **Short answer**: Address all parts of question
 - **Problems**: Write out steps (partial credit)
@@ -229,17 +257,20 @@ Lower-value 80% (review but don't obsess):
 ### Step 5: Grade Yourself Honestly
 
 **Immediately after practice exam**:
+
 1. Set timer for 5-minute break (simulate post-exam feeling)
 2. Grade your exam using answer key/solutions
 3. Be rigorous: partial credit only if truly deserved
 4. Calculate percentage score
 
 **Grading criteria**:
+
 - **Full credit**: Correct and complete
 - **Partial credit**: Right approach, minor errors
 - **No credit**: Wrong approach or blank
 
 **Record**:
+
 - Total score: [X/100]
 - Questions missed: [List numbers]
 - Reason for each miss: [Didn't know / Careless error / Time pressure / Misread question]
@@ -248,14 +279,15 @@ Lower-value 80% (review but don't obsess):
 
 **For each question you missed**:
 
-| Error Type | What to Do |
-|------------|------------|
-| **Didn't know content** | Study that topic, add to purple questions |
-| **Careless mistake** | Note the pattern, practice attention to detail |
-| **Time pressure** | Practice time management, improve speed |
-| **Misread question** | Practice reading questions carefully, underline key words |
+| Error Type              | What to Do                                                |
+| ----------------------- | --------------------------------------------------------- |
+| **Didn't know content** | Study that topic, add to purple questions                 |
+| **Careless mistake**    | Note the pattern, practice attention to detail            |
+| **Time pressure**       | Practice time management, improve speed                   |
+| **Misread question**    | Practice reading questions carefully, underline key words |
 
 **Deep analysis**:
+
 ```
 Question 15: Calculate equilibrium constant
 
@@ -281,12 +313,14 @@ Priority: HIGH
 ### Step 7: Targeted Review Based on Errors
 
 **Immediately after error analysis**:
+
 1. Identify 3-5 highest-priority gaps
 2. Study those specific topics TODAY
 3. Practice similar problems
 4. Test yourself again on those concepts
 
 **Example study session** (based on practice exam errors):
+
 ```
 Errors identified:
 1. Enzyme kinetics (missed 2 questions) - HIGH PRIORITY
@@ -319,20 +353,21 @@ Study session plan:
 
 **Match the actual exam environment**:
 
-| Actual Exam | Practice Simulation |
-|-------------|---------------------|
-| Desk in classroom | Desk (not bed/couch) |
-| Quiet room | Quiet room (library/empty classroom) |
-| Time pressure | Set timer, enforce strictly |
-| No phone | Phone in different room |
-| Calculator allowed | Same calculator |
-| Formula sheet provided | Same formula sheet |
+| Actual Exam            | Practice Simulation                  |
+| ---------------------- | ------------------------------------ |
+| Desk in classroom      | Desk (not bed/couch)                 |
+| Quiet room             | Quiet room (library/empty classroom) |
+| Time pressure          | Set timer, enforce strictly          |
+| No phone               | Phone in different room              |
+| Calculator allowed     | Same calculator                      |
+| Formula sheet provided | Same formula sheet                   |
 
 **Why**: Your brain encodes context. Study in same context = better retrieval
 
 ### Mental Environment
 
 **Simulate exam stress**:
+
 - Tell yourself "this counts" mentally
 - Feel the time pressure
 - Experience the uncertainty
@@ -343,19 +378,23 @@ Study session plan:
 ### Common Exam Conditions to Practice
 
 **Time pressure**:
+
 - Take practice exam in 80% of allowed time first
 - Then take at full time
 - This builds speed and margin
 
 **Fatigue**:
+
 - Take practice exam when tired (end of day)
 - Simulates 3-hour final when you're exhausted
 
 **Uncertainty**:
+
 - Include some questions you can't fully answer
 - Practice "answer best you can and move on"
 
 **Distraction**:
+
 - Practice with minor background noise
 - Builds resilience to exam room disruptions
 
@@ -366,6 +405,7 @@ Study session plan:
 ### How to Get Past Exams
 
 **Sources**:
+
 1. **Ask professor**: "Do you have past exams available for practice?"
    - Many professors provide them
    - Shows you're serious about preparation
@@ -375,6 +415,7 @@ Study session plan:
 5. **Study groups**: Classmates may have them from older siblings/friends
 
 **Ethical considerations**:
+
 - Only use officially provided exams or those professor approves
 - Don't use stolen or unauthorized exams
 - When in doubt, ask professor
@@ -384,6 +425,7 @@ Study session plan:
 **What to look for**:
 
 **Question type distribution**:
+
 ```
 Past Exam Analysis:
 
@@ -402,6 +444,7 @@ Prep strategy: Practice all three types equally
 ```
 
 **Topic coverage**:
+
 ```
 Topics appearing on last 3 exams:
 - Cellular respiration: 3/3 exams (HIGH VALUE)
@@ -414,16 +457,19 @@ Prep strategy: Focus on topics appearing frequently
 ```
 
 **Question difficulty**:
+
 - Easy recognition questions: 30%
 - Medium application questions: 50%
 - Hard synthesis questions: 20%
 
 **Common traps**:
+
 - Negatively worded questions ("Which is NOT...")
 - Calculations with unit conversions
 - "All of the above" options
 
 **Professor style**:
+
 - Asks for examples or applications
 - Focuses on mechanisms over memorization
 - Includes diagram labeling
@@ -468,21 +514,25 @@ Prep strategy: Focus on topics appearing frequently
 **Light review only** (2-3 hours maximum):
 
 **Morning** (1 hour):
+
 - Flip through summary sheets/cards
 - Quick verbal review of main concepts
 - No new learning, just reminding
 
 **Afternoon** (1 hour):
+
 - Review practice exam errors one last time
 - Quick problem practice (3-5 problems max)
 - Review formula sheet/key equations
 
 **Evening** (30-60 min):
+
 - Organize exam materials (calculator, pencils, ID, etc.)
 - Review exam logistics (time, location, allowed materials)
 - Light conceptual review (no cramming)
 
 **Night**:
+
 - Stop studying 2-3 hours before bed
 - Relaxing activity (walk, light reading, movie)
 - No screens 1 hour before sleep
@@ -491,6 +541,7 @@ Prep strategy: Focus on topics appearing frequently
 ### What NOT to Do
 
 **❌ DON'T**:
+
 - Start new topics or concepts
 - Do intensive problem sets
 - Pull an all-nighter
@@ -499,6 +550,7 @@ Prep strategy: Focus on topics appearing frequently
 - Cram formulas the night before
 
 **Why these fail**:
+
 - New learning the night before creates interference
 - Fatigue destroys performance more than lack of knowledge
 - Anxiety reduces retrieval ability
@@ -513,10 +565,12 @@ Prep strategy: Focus on topics appearing frequently
 ### Wake Up Routine
 
 **Timing**: Wake up 2-3 hours before exam
+
 - Don't sleep until last minute (groggy)
 - Don't wake up 4+ hours early (unnecessary)
 
 **Physical preparation**:
+
 - Shower (wake up your brain)
 - Eat proper breakfast (protein + complex carbs)
   - Good: Eggs and oatmeal
@@ -525,12 +579,14 @@ Prep strategy: Focus on topics appearing frequently
 - Dress comfortably (layers in case room is hot/cold)
 
 **Mental preparation** (15-30 minutes):
+
 - Brief active recall of main concepts
 - Flip through summary sheets ONE TIME
 - Review formula sheet
 - Mental rehearsal: visualize yourself calm and confident in exam
 
 **What to avoid**:
+
 - Heavy studying (too late, creates anxiety)
 - Comparing notes with classmates (creates panic)
 - Caffeine overload (jittery = poor performance)
@@ -539,6 +595,7 @@ Prep strategy: Focus on topics appearing frequently
 ### Pre-Exam Checklist
 
 **Materials**:
+
 - [ ] Student ID
 - [ ] Calculator (with fresh batteries if needed)
 - [ ] Pencils/pens (bring extras)
@@ -548,6 +605,7 @@ Prep strategy: Focus on topics appearing frequently
 - [ ] Watch (if room has no clock)
 
 **Logistics**:
+
 - [ ] Know exam location (visit beforehand if new room)
 - [ ] Plan to arrive 10-15 minutes early
 - [ ] Know duration and format
@@ -555,6 +613,7 @@ Prep strategy: Focus on topics appearing frequently
 - [ ] Have backup plan (alarm clock backup, transportation backup)
 
 **Mental state**:
+
 - [ ] Calm breathing
 - [ ] Confidence affirmation ("I've prepared well, I'm ready")
 - [ ] Avoid anxious classmates
@@ -587,16 +646,19 @@ Prep strategy: Focus on topics appearing frequently
 ### Question-Answering Strategy
 
 **Order of attack**:
+
 1. **Easy questions first** (build confidence, secure points)
 2. **Medium questions next** (bulk of exam)
 3. **Hard questions last** (don't get stuck early)
 
 **Flag uncertain questions**:
+
 - Mark with asterisk or circle
 - Come back if time permits
 - Don't obsess during first pass
 
 **Time management**:
+
 - Check clock every 10-15 minutes
 - If spending too long on one question: flag it, move on
 - Save 5-10 minutes at end for review
@@ -604,24 +666,28 @@ Prep strategy: Focus on topics appearing frequently
 **For different question types**:
 
 **Multiple Choice**:
+
 - Read question carefully (watch for "NOT," "EXCEPT," "ALWAYS")
 - Eliminate obviously wrong answers
 - Choose best remaining option
 - If stuck: make educated guess (don't leave blank unless penalty)
 
 **Short Answer**:
+
 - Address all parts of the question
 - Be concise but complete
 - Use bullet points if efficient
 - Define terms if unclear
 
 **Problem-Solving**:
+
 - Write out given information
 - Show all steps (partial credit)
 - Circle final answer
 - Check units
 
 **Essays**:
+
 - Quick outline first (2-3 minutes)
 - Introduction with thesis
 - Support with evidence/examples
@@ -662,11 +728,13 @@ Prep strategy: Focus on topics appearing frequently
 ### Immediately After Exam
 
 **DON'T**:
+
 - Obsessively discuss answers with classmates (creates anxiety)
 - Look up answers immediately (can't change anything)
 - Beat yourself up over mistakes
 
 **DO**:
+
 - Take a break (walk, snack, relax)
 - Celebrate that it's done
 - Decompress before thinking about results
@@ -700,6 +768,7 @@ Prep strategy: Focus on topics appearing frequently
    - Get advice for improvement
 
 **Example analysis**:
+
 ```
 Exam 1 Results: 78/100
 
@@ -726,6 +795,7 @@ Action plan for Exam 2:
 **6-week timeline** (see beginning of document)
 
 **Key differences**:
+
 - Start much earlier (6 weeks vs 2 weeks)
 - Review ALL semester material
 - Focus especially on early topics (often forgotten)
@@ -733,6 +803,7 @@ Action plan for Exam 2:
 - Integrate across topics (find connections)
 
 **Strategy**:
+
 - Week by week review (Week 1 material, then Week 2, etc.)
 - Create master summary of entire course
 - Practice cumulative exams weekly
@@ -743,17 +814,20 @@ Action plan for Exam 2:
 **Common mistake**: "It's open-book, I don't need to study"
 
 **Reality**: Open-book exams are often HARDER
+
 - Questions are more application-focused
 - You need to know where to find info quickly
 - Time spent looking things up = less time for answers
 
 **Preparation strategy**:
+
 - Study as if closed-book (know material, don't rely on looking up)
 - Organize notes/book with tabs, index
 - Practice finding information quickly
 - Focus on application and synthesis (what you'll be tested on)
 
 **During exam**:
+
 - Don't start every question by looking things up
 - Try to answer from memory first
 - Use book/notes to verify, not learn
@@ -763,11 +837,13 @@ Action plan for Exam 2:
 **Don't underestimate these**
 
 **Common mistakes**:
+
 - Starting too late
 - Not treating it seriously
 - Over-researching (spending too long on each question)
 
 **Strategy**:
+
 - Start early (use all available time)
 - Allocate time for each question
 - Draft answers, revise
@@ -812,6 +888,7 @@ Action plan for Exam 2:
 ### Exam Prep Implementation Checklist
 
 #### 2 Weeks Before Regular Exam
+
 - [ ] Pull all questions from lectures since last exam
 - [ ] Color-code current understanding of each question
 - [ ] Count: X% black, Y% blue, Z% purple
@@ -820,6 +897,7 @@ Action plan for Exam 2:
 - [ ] Schedule practice exam dates
 
 #### 10 Days Before
+
 - [ ] Take first practice exam (untimed)
 - [ ] Grade honestly
 - [ ] Complete error analysis
@@ -828,6 +906,7 @@ Action plan for Exam 2:
 - [ ] Create summary sheets for each major topic
 
 #### 7 Days Before
+
 - [ ] Take second practice exam (timed)
 - [ ] Error analysis again
 - [ ] Compare to first practice exam (improved?)
@@ -835,6 +914,7 @@ Action plan for Exam 2:
 - [ ] Review ALL purple questions
 
 #### 3 Days Before
+
 - [ ] Take third practice exam (simulated conditions)
 - [ ] Final error analysis
 - [ ] Quick fixes for careless error patterns
@@ -843,6 +923,7 @@ Action plan for Exam 2:
 - [ ] Check exam logistics (time, location, materials)
 
 #### 1 Day Before
+
 - [ ] Light review only (2-3 hours max)
 - [ ] Organize all exam materials
 - [ ] Review exam instructions/format
@@ -851,6 +932,7 @@ Action plan for Exam 2:
 - [ ] Early sleep (8+ hours)
 
 #### Morning Of
+
 - [ ] Wake up 2-3 hours before exam
 - [ ] Proper breakfast
 - [ ] Brief active recall (15-30 min)
@@ -1060,6 +1142,7 @@ Use during 2-week prep period:
 ## Week 1 (2 weeks before to 1 week before)
 
 ### Monday [Date]
+
 - [ ] Topics studied: [List]
 - [ ] Practice problems completed: [X]
 - [ ] Color code updates: [Purple→Blue: X, Blue→Black: Y]
@@ -1067,14 +1150,17 @@ Use during 2-week prep period:
 - [ ] Confidence level: [1-10]
 
 ### Tuesday [Date]
+
 [Same format]
 
 ### Wednesday [Date]
+
 [Same format]
 
 [Continue for each day...]
 
 ### Practice Exam 1 [Date]
+
 - Score: [X/100]
 - Time taken: [X minutes]
 - Errors: [List categories]
@@ -1085,17 +1171,20 @@ Use during 2-week prep period:
 [Same daily format]
 
 ### Practice Exam 2 [Date]
+
 - Score: [X/100] (Improved from [X]?)
 - Time: [X minutes] (Faster than [X]?)
 - Errors: [Persistent vs new errors]
 - Action items: [Final priorities]
 
 ### Practice Exam 3 [Date]
+
 - Score: [X/100] (Ready for real exam?)
 - Time: [Within limit?]
 - Confidence: [High/Med/Low]
 
 ## Exam Day Prep
+
 - [ ] All materials ready
 - [ ] Exam logistics confirmed
 - [ ] 8+ hours sleep achieved
@@ -1103,6 +1192,7 @@ Use during 2-week prep period:
 - [ ] Calm and confident: [Y/N]
 
 ## Post-Exam
+
 - Actual score: [X/100]
 - Compared to practice: [Better/Same/Worse]
 - What worked: [List]
@@ -1116,12 +1206,14 @@ Use during 2-week prep period:
 ### Start Early, Stay Consistent
 
 **The 2-week protocol works ONLY if**:
+
 - You actually start 2 weeks before (not 3 days before)
 - You follow daily plan consistently
 - You prioritize exam prep over less important activities
 - You take practice exams seriously
 
 **Cramming doesn't work.** Studies show:
+
 - 2 weeks of spaced practice > 20 hours of cramming
 - Sleep before exam > extra hour of studying
 - Practice exams > re-reading notes
@@ -1129,15 +1221,19 @@ Use during 2-week prep period:
 ### Practice Exams Are Non-Negotiable
 
 **Minimum**:
+
 - 1 practice exam (if truly time-constrained)
 
 **Recommended**:
+
 - 3 practice exams (spaced across 2-week prep)
 
 **Optimal**:
+
 - 5+ practice exams (including variations, past exams)
 
 **Why**:
+
 - Practice exams identify gaps (what you don't know)
 - Practice exams improve speed (time management)
 - Practice exams reduce anxiety (familiarity)
@@ -1148,6 +1244,7 @@ Use during 2-week prep period:
 ### Trust Your Preparation
 
 **If you've followed the system**:
+
 - Pretesting before lectures
 - Question-based notes during lectures
 - Immediate reviews after lectures
@@ -1157,6 +1254,7 @@ Use during 2-week prep period:
 **Then**: You ARE prepared. Trust it.
 
 **Day before and day of**:
+
 - Light review only
 - Rest and recovery
 - Enter exam calm
@@ -1166,6 +1264,7 @@ Use during 2-week prep period:
 ### What Success Looks Like
 
 **Well-prepared student**:
+
 - Starts prep 2 weeks before
 - Takes 3+ practice exams
 - Scores improve across practice exams

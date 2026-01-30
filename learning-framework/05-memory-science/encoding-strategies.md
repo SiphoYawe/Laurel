@@ -11,6 +11,7 @@ Encoding is the critical gateway to long-term memory. Not all studying produces 
 **Core insight**: The depth of mental processing during encoding determines retention quality.
 
 **Research foundation** (Craik & Lockhart, 1972):
+
 - Memory is a byproduct of processing depth
 - Deeper, more meaningful processing creates stronger memory traces
 - Shallow processing yields weak, temporary traces
@@ -22,6 +23,7 @@ Encoding is the critical gateway to long-term memory. Not all studying produces 
 **Focus**: Physical characteristics, surface features
 
 **Examples:**
+
 - "Is this word in capital letters?"
 - "What font is this printed in?"
 - "How many syllables does this word have?"
@@ -30,12 +32,14 @@ Encoding is the critical gateway to long-term memory. Not all studying produces 
 **Retention**: Poor (~15% recall after delay)
 
 **Student trap:**
+
 - Copying notes verbatim
 - Highlighting passively
 - Rewriting notes without processing meaning
 - Transcribing slides word-for-word
 
 **Why it fails:**
+
 - No semantic processing
 - No connection to existing knowledge
 - No meaningful distinction between items
@@ -46,6 +50,7 @@ Encoding is the critical gateway to long-term memory. Not all studying produces 
 **Focus**: Sound-based characteristics
 
 **Examples:**
+
 - "Does this word rhyme with 'brain'?"
 - "How is this term pronounced?"
 - Reading aloud
@@ -53,11 +58,13 @@ Encoding is the critical gateway to long-term memory. Not all studying produces 
 **Retention**: Moderate (~30% recall after delay)
 
 **Student application:**
+
 - Reading material aloud
 - Creating rhymes or songs
 - Focusing on pronunciation of technical terms
 
 **Why it's better than shallow:**
+
 - Requires more processing
 - Engages auditory systems
 - But still doesn't engage meaning deeply
@@ -67,6 +74,7 @@ Encoding is the critical gateway to long-term memory. Not all studying produces 
 **Focus**: Meaning, significance, relationships
 
 **Examples:**
+
 - "How does this concept relate to evolution?"
 - "Does this principle apply to my own experience?"
 - "Why would this mechanism be advantageous?"
@@ -75,12 +83,14 @@ Encoding is the critical gateway to long-term memory. Not all studying produces 
 **Retention**: Excellent (~70%+ recall after delay)
 
 **Student application:**
+
 - Explaining concepts in your own words
 - Creating examples and applications
 - Connecting to prior knowledge
 - Analyzing implications and relationships
 
 **Why it works:**
+
 - Engages semantic memory networks
 - Creates multiple retrieval pathways
 - Integrates with existing knowledge schemas
@@ -90,13 +100,13 @@ Encoding is the critical gateway to long-term memory. Not all studying produces 
 
 **Transform shallow activities into deep processing:**
 
-| Shallow Activity | Deep Processing Alternative |
-|-----------------|---------------------------|
-| Re-reading textbook | Generate questions and answer them |
-| Highlighting passively | Summarize each section in own words |
-| Copying notes | Create concept maps showing relationships |
-| Reviewing flashcards | Explain why the answer is correct |
-| Watching lecture again | Teach the material to someone else |
+| Shallow Activity       | Deep Processing Alternative               |
+| ---------------------- | ----------------------------------------- |
+| Re-reading textbook    | Generate questions and answer them        |
+| Highlighting passively | Summarize each section in own words       |
+| Copying notes          | Create concept maps showing relationships |
+| Reviewing flashcards   | Explain why the answer is correct         |
+| Watching lecture again | Teach the material to someone else        |
 
 ## Strategies for Deep Encoding
 
@@ -106,6 +116,7 @@ Encoding is the critical gateway to long-term memory. Not all studying produces 
 Expanding on new information by relating it to what you already know.
 
 **Why it works:**
+
 - Creates multiple retrieval pathways
 - Integrates new information into existing schemas
 - Makes material more meaningful and distinctive
@@ -143,6 +154,7 @@ Expanding on new information by relating it to what you already know.
 Imposing meaningful structure on material to be learned.
 
 **Why it works:**
+
 - Reduces cognitive load through chunking
 - Creates hierarchical retrieval pathways
 - Reveals relationships between concepts
@@ -151,6 +163,7 @@ Imposing meaningful structure on material to be learned.
 **Organizational structures:**
 
 1. **Hierarchical outlines:**
+
    ```
    Main concept
    ├── Sub-concept A
@@ -196,6 +209,7 @@ Imposing meaningful structure on material to be learned.
 **Unorganized**: "Neurons have dendrites, axons, myelin, nodes of Ranvier, synapses, neurotransmitters, action potentials..."
 
 **Organized**:
+
 ```
 Neuron Structure & Function
 │
@@ -219,12 +233,14 @@ Neuron Structure & Function
 Encoding information in both verbal and visual formats.
 
 **Why it works:**
+
 - Engages two separate memory systems
 - Creates redundant pathways for retrieval
 - Different formats suit different types of information
 - Supports both verbal thinkers and visual thinkers
 
 **Research foundation** (Paivio, 1971):
+
 - Verbal system: processes language-based information
 - Visual system: processes imagery and spatial information
 - Items encoded in both systems are better remembered
@@ -265,6 +281,7 @@ Encoding information in both verbal and visual formats.
 **Verbal only**: "Passive transport moves molecules down their concentration gradient without energy. Active transport moves molecules against their gradient using ATP."
 
 **Dual coding**: [Student draws diagram showing:]
+
 - Cell membrane with channels
 - Arrows showing passive transport (down gradient, no ATP)
 - Arrows showing active transport (up gradient, with ATP symbol)
@@ -278,12 +295,14 @@ Encoding information in both verbal and visual formats.
 Connecting new information to yourself, your experiences, or your goals.
 
 **Why it works:**
+
 - Self-referential information is privileged in memory
 - Personal relevance increases processing depth
 - Emotional connection enhances encoding
 - Creates unique, distinctive memory traces
 
 **Research evidence:**
+
 - Items rated for self-relevance are remembered better than items processed for other semantic qualities
 - Effect is robust and large (~50% improvement)
 
@@ -321,12 +340,14 @@ Connecting new information to yourself, your experiences, or your goals.
 Producing information yourself rather than passively receiving it.
 
 **Why it works:**
+
 - Active generation requires deeper processing than passive review
 - Creates transfer-appropriate processing
 - Reveals gaps in understanding
 - Builds confidence and metacognitive accuracy
 
 **The generation effect** (Slamecka & Graf, 1978):
+
 - Self-generated information is better remembered than read information
 - Effect holds for words, sentences, concepts, problems
 
@@ -367,6 +388,7 @@ Producing information yourself rather than passively receiving it.
 **Passive**: Read Darwin's finch example in textbook
 
 **Generative**:
+
 - "I'll create my own example: Urban pigeons have evolved to have different foot structures because some cities have narrow ledges on buildings, selecting for pigeons with gripping feet. Over generations, city pigeons look different from rural ones."
 - "Another example: Antibiotic-resistant bacteria evolve because antibiotics kill susceptible bacteria, leaving resistant ones to reproduce."
 - "Wait, this also explains why we have different dog breeds—humans artificially selected for traits, which is like natural selection but the environment is human preference."
@@ -379,11 +401,13 @@ Producing information yourself rather than passively receiving it.
 Images are remembered better than words.
 
 **Research findings:**
+
 - Recognition memory: ~90% for pictures vs. ~50% for words (after 3 days)
 - Effect is robust across ages and cultures
 - Particularly strong for concrete, distinctive images
 
 **Why it works:**
+
 - Images are automatically processed semantically
 - Images engage dual coding (visual + verbal labeling)
 - Images are often more distinctive than words
@@ -409,6 +433,7 @@ Images are remembered better than words.
    - Use method of loci (memory palace)
 
 **Important caveat:**
+
 - Complex diagrams can overload working memory
 - Start simple, add detail gradually
 - Explain visuals to yourself to ensure processing
@@ -419,12 +444,14 @@ Images are remembered better than words.
 Organizing individual items into meaningful groups to overcome working memory limitations.
 
 **Why it works:**
+
 - Each chunk counts as one item in working memory
 - Dramatically increases effective capacity
 - Reflects and builds expertise
 - Creates organizational structure for retrieval
 
 **How experts chunk:**
+
 - Chess masters see board patterns, not individual pieces
 - Musicians see phrases, not individual notes
 - Programmers see algorithms, not individual lines
@@ -457,6 +484,7 @@ Organizing individual items into meaningful groups to overcome working memory li
 **Example progression:**
 
 **Novice**: Sees 12 separate facts about the heart
+
 - Four chambers
 - Two atria
 - Two ventricles
@@ -465,11 +493,13 @@ Organizing individual items into meaningful groups to overcome working memory li
 - Etc.
 
 **Intermediate**: Chunks into systems
+
 - Chambers (4: 2 atria + 2 ventricles)
 - Circulation (2 loops: pulmonary + systemic)
 - Valves (4: prevent backflow)
 
 **Expert**: Chunks into integrated function
+
 - Dual-pump system (right → lungs, left → body)
 - One-way flow system (valves → chambers → circulation)
 - Pressure gradient system (high → low pressure pathways)
@@ -479,16 +509,19 @@ Organizing individual items into meaningful groups to overcome working memory li
 ### The Fluency Illusion
 
 **The problem:**
+
 - Re-reading makes material feel familiar
 - Fluency is mistaken for mastery
 - Students confuse recognition with recall
 
 **What actually happens:**
+
 1. First reading: Material is effortful, processed
 2. Second reading: Material is familiar, less effort
 3. Third reading: Material feels fluent, minimal processing
 
 **The mistake:**
+
 - Fluency feels good → interpreted as learning
 - But fluency is just easier sensory processing
 - No deep encoding is occurring
@@ -518,6 +551,7 @@ Organizing individual items into meaningful groups to overcome working memory li
 ### What to do instead:
 
 **Replace re-reading with:**
+
 1. Self-testing (retrieval practice)
 2. Summarizing from memory
 3. Teaching material to others
@@ -526,6 +560,7 @@ Organizing individual items into meaningful groups to overcome working memory li
 6. Creating concept maps without looking
 
 **When re-reading is acceptable:**
+
 - First pass (initial encoding)
 - Targeted re-reading of confusing sections
 - Reading for different purposes (first for gist, second for detail)
@@ -534,34 +569,42 @@ Organizing individual items into meaningful groups to overcome working memory li
 ## Encoding Failures: Common Student Mistakes
 
 ### Mistake 1: Passive Consumption
+
 **Problem**: Watching lectures, reading text without active processing
 **Fix**: Take generative notes, pause to recall, create questions
 
 ### Mistake 2: Shallow Note-Taking
+
 **Problem**: Transcribing verbatim without thinking
 **Fix**: Summarize in own words, reorganize, add connections
 
 ### Mistake 3: Blocking by Topic
+
 **Problem**: Studying Topic A entirely, then Topic B entirely
 **Fix**: Interleave topics for better discrimination
 
 ### Mistake 4: Massed Practice
+
 **Problem**: All study in one long session
 **Fix**: Space study over multiple sessions
 
 ### Mistake 5: Immediate Re-reading
+
 **Problem**: Reading same material repeatedly in succession
 **Fix**: Read once, do retrieval practice, revisit after delay
 
 ### Mistake 6: Over-relying on Recognition
+
 **Problem**: Flashcards shown too quickly, multiple choice only
 **Fix**: Force recall before revealing answer, use open-ended questions
 
 ### Mistake 7: Context-dependent Encoding
+
 **Problem**: Only studying in one location with same materials
 **Fix**: Vary study contexts, practice retrieving in different settings
 
 ### Mistake 8: Ignoring Metacognition
+
 **Problem**: Not assessing what you actually know
 **Fix**: Regular self-testing, honest self-assessment
 
@@ -837,6 +880,7 @@ COMPLETE PATTERN:
 ### Sample Dialogue Showing Encoding Optimization:
 
 **POOR ENCODING SUPPORT:**
+
 ```
 Student: "Explain classical conditioning."
 LLM: "Classical conditioning is when a neutral stimulus becomes associated
@@ -848,6 +892,7 @@ Student: "Yes."
 ```
 
 **OPTIMIZED ENCODING SUPPORT:**
+
 ```
 Student: "Explain classical conditioning."
 

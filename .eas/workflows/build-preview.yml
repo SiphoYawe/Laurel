@@ -1,0 +1,25 @@
+name: Build Preview
+
+on:
+  push:
+    branches: ["develop", "staging"]
+
+defaults:
+  working_directory: apps/mobile
+
+jobs:
+  build_android:
+    name: Build Android Preview
+    type: build
+    params:
+      platform: android
+      profile: preview
+      message: "Preview build from ${{ github.ref_name }}"
+
+  build_ios:
+    name: Build iOS Preview
+    type: build
+    params:
+      platform: ios
+      profile: preview
+      message: "Preview build from ${{ github.ref_name }}"

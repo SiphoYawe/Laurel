@@ -14,6 +14,7 @@
 6. **It builds exam-specific skills** - not just knowledge, but exam performance
 
 **Research findings:**
+
 - Students who take practice tests score 30-50% higher than students who only re-read
 - Practice testing beats concept mapping, summarizing, highlighting, and re-reading
 - Even FAILED practice tests (with feedback) improve learning more than studying
@@ -35,6 +36,7 @@
 ```
 
 **What's wrong with this:**
+
 - No actual retrieval practice (just recognition: "that looks familiar")
 - No time pressure (real exams have limits)
 - No complete answers (thinking "B" isn't the same as knowing WHY)
@@ -48,6 +50,7 @@
 ### Step 1: Put Away ALL Notes and Resources
 
 **What to do:**
+
 - Close textbook, notes, laptop
 - Clear your desk except for:
   - Practice test
@@ -57,6 +60,7 @@
   - Timer
 
 **Why:**
+
 - Real exams are closed-book (usually)
 - Forces actual retrieval, not recognition
 - Reveals what you ACTUALLY know vs what you can find
@@ -66,17 +70,20 @@
 ### Step 2: Read the Question Carefully
 
 **What to do:**
+
 - Read the entire question
 - Identify what it's ACTUALLY asking (not what you expect it to ask)
 - Underline or note key words: "compare," "explain why," "calculate," "list all"
 - Check for qualifiers: "always," "never," "most likely," "primarily"
 
 **Why:**
+
 - Misreading questions is a top reason for wrong answers
 - Exam stress makes you skim and miss details
 - Practice reading carefully now → automatic on exam day
 
 **Common mistakes students make:**
+
 - Reading first sentence only
 - Assuming they know what the question asks based on the topic
 - Missing negatives: "Which is NOT..." or "All EXCEPT..."
@@ -86,11 +93,13 @@
 **Question:** "Compare mitosis and meiosis, focusing on their purposes and outcomes."
 
 **Student who reads carefully sees:**
+
 - "Compare" = need both similarities AND differences
 - "purposes and outcomes" = must address WHY cells use each AND what they produce
 - Not asking about detailed steps, asking about function and result
 
 **Student who skims sees:**
+
 - "Mitosis and meiosis" → dumps everything they know about both
 - Misses the specific focus on purpose/outcomes
 - Loses points for not answering what was asked
@@ -98,6 +107,7 @@
 ### Step 3: Attempt to Answer THOROUGHLY in Writing
 
 **What to do:**
+
 - Write out your complete answer on blank paper
 - For multiple choice: Select your answer AND write a 1-2 sentence explanation of why
 - For short answer: Write 2-5 sentences (full paragraphs, not bullet points)
@@ -105,6 +115,7 @@
 - For math/science: Show all work, write out formulas, explain steps
 
 **Why:**
+
 - Writing forces complete thoughts (can't fake it with vague ideas)
 - Reveals partial understanding ("I know this has something to do with... but I can't explain exactly what")
 - Creates stronger memory than just thinking the answer
@@ -115,6 +126,7 @@
 **Instead of:** Picking B and moving on
 
 **Do this:**
+
 ```
 Selected answer: B
 
@@ -128,6 +140,7 @@ Why D is wrong: Golgi apparatus packages proteins, not related to energy.
 ```
 
 **This method:**
+
 - Forces you to understand ALL options (not just recognize the right one)
 - Reveals if you got it right for the right reason (or just guessed correctly)
 - Deepens learning through elaboration
@@ -147,6 +160,7 @@ C) Ribosome
 D) Golgi apparatus
 
 **Your work:**
+
 ```
 Correct answer: B) Mitochondria
 
@@ -160,6 +174,7 @@ glucose to produce ATP, the cell's energy currency.
 ```
 
 **Why this is powerful:**
+
 - Requires understanding the concept, not just the right answer
 - Prevents getting right answer for wrong reason
 - Prepares for "select all that apply" or "which is NOT" questions
@@ -176,6 +191,7 @@ glucose to produce ATP, the cell's energy currency.
 Instead of immediately giving up and checking the answer:
 
 1. **Write everything you know about the topic area**
+
    ```
    Question asks about X, and I don't know the specific answer, but I know:
    - X is related to Y
@@ -185,12 +201,14 @@ Instead of immediately giving up and checking the answer:
    ```
 
 2. **Use logical reasoning**
+
    ```
    If A were true, then B would happen, but I know B doesn't happen,
    so A is probably wrong.
    ```
 
 3. **Eliminate obviously wrong answers**
+
    ```
    D mentions photosynthesis, but this question is about animal cells,
    so D is out.
@@ -204,6 +222,7 @@ Instead of immediately giving up and checking the answer:
    ```
 
 **Why this works:**
+
 - Activates related knowledge (spreading activation in memory network)
 - Often you know more than you think (the knowledge is there, just hard to retrieve)
 - Creates connections (even if wrong, the process helps learning)
@@ -214,11 +233,13 @@ Instead of immediately giving up and checking the answer:
 ### Step 6: If Still Stuck, Reference Class Notes (More Familiar Cues)
 
 **When to do this:**
+
 - After step 5 (blurting) if you're still completely stuck
 - You've spent 3-5 minutes trying to work through it
 - You genuinely have no idea (not just "this is hard")
 
 **What to do:**
+
 1. Open your class notes (not textbook yet - notes have more familiar language)
 2. Find the relevant section
 3. Read ONLY the section related to this question (don't read the whole chapter)
@@ -227,23 +248,27 @@ Instead of immediately giving up and checking the answer:
 6. Write: "Needed notes for this - flag for review"
 
 **Why notes before textbook:**
+
 - Notes use professor's language and emphasis (matches how exam will ask)
 - Notes are more condensed (faster to find relevant part)
 - You've seen these notes before (more familiar cues)
 
 **Still stuck after notes?**
+
 - Open textbook, read relevant section
 - Close textbook, try again
 - Write: "Needed textbook - major gap, priority for review"
 
 **Tracking stuck questions:**
 Use a coding system:
+
 - ✓ = Got it without help
 - N = Needed notes
 - T = Needed textbook
 - ? = Still don't understand even after checking
 
 **After the practice test:**
+
 - All "N" questions: Review again tomorrow
 - All "T" questions: Re-learn this material, then practice again in 2 days
 - All "?" questions: Get help (professor, tutor, study group)
@@ -284,6 +309,7 @@ Use a coding system:
    → Review this topic with focus on specific gaps
 
 5. **Create a remediation plan:**
+
    ```
    Incorrect: Questions 5, 7, 12, 15, 18, 23
 
@@ -301,6 +327,7 @@ Use a coding system:
    ```
 
 **Why this step is crucial:**
+
 - Feedback is what makes testing a learning event
 - Immediate correction strengthens memory (hypercorrection effect)
 - Categorizing errors reveals patterns
@@ -321,12 +348,14 @@ Use a coding system:
 ### 1. Time Limits
 
 **How:**
+
 - Find out exam duration (ask professor, check syllabus)
 - Set a timer for that exact duration
 - When time's up, STOP (even if not finished)
 - Use remaining time to attempt other questions without time pressure (mark these separately)
 
 **Why:**
+
 - Builds pacing intuition (how much time per question)
 - Creates urgency (mimics exam pressure)
 - Reveals if you're too slow (need to practice speed)
@@ -337,6 +366,7 @@ Use a coding system:
 ### 2. Environment
 
 **How:**
+
 - Study in a quiet room (library, classroom)
 - Sit at a desk (not bed, not couch)
 - Remove distractions (phone in another room, close extra tabs)
@@ -344,12 +374,14 @@ Use a coding system:
 - Simulate temperature if possible (exam rooms are often cold)
 
 **Why:**
+
 - Context-dependent memory (similar environment aids retrieval)
 - Trains focus in exam-like conditions
 - Identifies environmental distractions before exam day
 
 **Example:**
 If your exam is in a large lecture hall at 9am, practice test should be:
+
 - Morning (9-11am)
 - Quiet large space (library reading room)
 - Cold (wear same layers you'll wear to exam)
@@ -360,12 +392,14 @@ If your exam is in a large lecture hall at 9am, practice test should be:
 **Allowed on practice test = allowed on real exam only**
 
 **Check:**
+
 - Calculator allowed? (What type? Scientific? Graphing?)
 - Formula sheet provided? (Get a copy and use ONLY that)
 - Notes allowed? (Open-book exam? One page of notes?)
 - Scratch paper provided?
 
 **Match exactly:**
+
 - If exam provides formula sheet → use only that sheet on practice test
 - If no calculator on exam → don't use one on practice (even if harder)
 - If exam provides blue books → write in similar lined paper
@@ -379,6 +413,7 @@ If your exam is in a large lecture hall at 9am, practice test should be:
 ### 4. Question Format
 
 **How:**
+
 - If exam is multiple choice → practice with multiple choice
 - If exam is essay → practice writing essays
 - If exam is mixed → practice with same mix
@@ -387,22 +422,26 @@ If your exam is in a large lecture hall at 9am, practice test should be:
 **Why format matters:**
 
 Multiple choice skills:
+
 - Eliminating wrong answers
 - Not getting tricked by distractors
 - Time per question (can budget tightly)
 
 Essay skills:
+
 - Organizing thoughts quickly
 - Writing under time pressure
 - Balancing depth vs breadth
 - Leaving time for proofreading
 
 Short answer skills:
+
 - Concise, complete answers
 - Hitting key points without excess
 - Knowing when to stop (not over-writing)
 
 Problem-solving skills:
+
 - Showing work clearly
 - Managing partial credit
 - Checking answers within time limit
@@ -414,22 +453,26 @@ Problem-solving skills:
 **The reality:** Exams induce stress. Practice should too (to a degree).
 
 **How to add appropriate pressure:**
+
 - Make it count: "This score will tell me if I'm ready"
 - Study partner: Take test together, compare scores
 - Set consequences: "If I score <80%, I'll study 3 more hours tomorrow"
 - Simulate first-time experience: Don't preview questions
 
 **Don't:**
+
 - Create unhealthy stress (panic, anxiety)
 - Make it a high-stakes judgment of self-worth
 - Compare to others destructively
 
 **Why some stress helps:**
+
 - Simulates exam arousal (you'll perform under similar conditions)
 - Prevents under-estimating difficulty (low-stress practice → overconfidence)
 - Builds stress tolerance (exposure therapy)
 
 **Balance:**
+
 - Enough pressure to mimic exam → helpful
 - So much pressure you can't think → harmful
 
@@ -440,6 +483,7 @@ Problem-solving skills:
 ### How to Get Past Exams
 
 **1. Ask the professor directly**
+
 ```
 Email template:
 "Dear Professor [Name],
@@ -457,17 +501,21 @@ Best regards,
 **Most professors will say yes.** They want you to succeed. Some even post old exams on the course website.
 
 **2. Check department/course websites**
+
 - Many departments keep exam archives
 - Course management systems (Canvas, Blackboard) often have previous exams
 
 **3. Student organizations**
+
 - Fraternities, sororities, student government often maintain test banks
 - Ethical as long as professor hasn't explicitly forbidden sharing
 
 **4. Study groups with students who took the course before**
+
 - Ask seniors/friends who took the course
 
 **What if professor says no?**
+
 - Ask for sample questions instead
 - Ask what format the exam will take
 - Ask for practice problems (even if not from actual exams)
@@ -475,6 +523,7 @@ Best regards,
 ### How to Use Past Exams
 
 **First past exam: Diagnostic**
+
 ```
 Week 3-4 of semester (early):
 - Take first past exam under timed conditions
@@ -486,6 +535,7 @@ Purpose: Find out what you don't know when there's still time to learn
 ```
 
 **Second past exam: Progress Check**
+
 ```
 Week 6-8 (midpoint):
 - Take second past exam
@@ -497,6 +547,7 @@ Purpose: Verify your studying is working
 ```
 
 **Third past exam: Final Prep**
+
 ```
 Week 10-12 (right before exam):
 - Take third past exam (simulated exam conditions)
@@ -508,6 +559,7 @@ Purpose: Final dress rehearsal
 ```
 
 **If only one past exam available:**
+
 - Take it 1 week before real exam
 - Use as final diagnostic
 - Intense focused study on anything you missed
@@ -518,12 +570,14 @@ Purpose: Final dress rehearsal
 **Question patterns professors use:**
 
 After doing 2-3 past exams, you'll notice:
+
 - "Professor always asks us to compare X and Y"
 - "There's always a question about applications to real-world scenarios"
 - "Multiple questions always cover [specific topic]"
 - "Essay questions always require connecting concepts, not just defining"
 
 **Use this intel:**
+
 - Prepare comparison tables for concepts that appear together
 - Practice application questions
 - Prioritize heavily-tested topics
@@ -532,6 +586,7 @@ After doing 2-3 past exams, you'll notice:
 **Example insights:**
 
 "I took 3 past exams and noticed:
+
 - 40% of questions are on cell division (mitosis/meiosis) → needs heavy focus
 - Professor loves asking 'compare and contrast' → make comparison tables
 - Always one question connecting biology to medicine → find medical applications
@@ -548,6 +603,7 @@ After doing 2-3 past exams, you'll notice:
 **Go through your notes and create questions from every major concept.**
 
 **Example - Notes on mitosis:**
+
 ```
 Notes: "Mitosis has four phases: prophase, metaphase, anaphase, telophase"
 
@@ -566,6 +622,7 @@ Q5: Draw and label a cell in metaphase.
 **Most textbooks have practice problems.**
 
 **How to use effectively:**
+
 - Do ALL of them (not just assigned homework)
 - Do them under timed conditions
 - Mix questions from multiple chapters (interleaving)
@@ -574,6 +631,7 @@ Q5: Draw and label a cell in metaphase.
 ### Strategy 3: Use Study Partners to Create Tests for Each Other
 
 **Protocol:**
+
 1. Each person creates 20 questions from this week's material
 2. Exchange tests (don't look at each other's questions first)
 3. Take the test your partner created (timed, closed-book)
@@ -581,6 +639,7 @@ Q5: Draw and label a cell in metaphase.
 5. Discuss questions you both found difficult
 
 **Benefits:**
+
 - Someone else's questions surprise you (like real exam)
 - Creating questions deepens your learning
 - Collaborative learning
@@ -589,6 +648,7 @@ Q5: Draw and label a cell in metaphase.
 ### Strategy 4: Use Online Resources
 
 **Quality sources:**
+
 - Khan Academy (practice exercises)
 - OpenStax (free textbooks with questions)
 - Quizlet (search for your course)
@@ -600,6 +660,7 @@ Q5: Draw and label a cell in metaphase.
 ### Strategy 5: Ask AI to Generate Practice Questions
 
 **Prompt:**
+
 ```
 Create a 20-question practice exam for [COURSE] covering:
 - [Topic 1]
@@ -617,6 +678,7 @@ Include answer key with explanations.
 ```
 
 **Then:**
+
 - Take the exam without looking at answers
 - Check your work
 - Identify gaps
@@ -632,6 +694,7 @@ Include answer key with explanations.
 **For each incorrect answer:**
 
 **1. Identify the error type:**
+
 ```
 [ ] Knowledge gap: I didn't know this concept
 [ ] Misconception: I knew something, but it was wrong
@@ -642,18 +705,21 @@ Include answer key with explanations.
 ```
 
 **2. Explain what you thought and why:**
+
 ```
 "I chose C because I thought [X]. I was thinking about [Y] and confused
 it with [Z]."
 ```
 
 **3. Explain the correct answer:**
+
 ```
 "The right answer is B because [explanation]. The key concept I was
 missing is [concept]. This connects to [other topic]."
 ```
 
 **4. Explain why you won't make this mistake again:**
+
 ```
 "To remember this, I will [strategy]:
 - Create a flashcard for [concept]
@@ -674,6 +740,7 @@ D) Calvin cycle
 **Correct answer:** C
 
 **Analysis:**
+
 ```
 Error type: [X] Partial knowledge
 
@@ -695,6 +762,7 @@ I'll also make a flashcard: 'Where does Krebs cycle occur?' → 'Mitochondrial m
 ```
 
 **Why this works:**
+
 - Forces confrontation with the error (can't just move on)
 - Creates corrective memory (you'll remember this mistake)
 - Hypercorrection effect (errors + correction = strong learning)
@@ -707,16 +775,19 @@ I'll also make a flashcard: 'Where does Krebs cycle occur?' → 'Mitochondrial m
 **Mistake:** Taking a practice test before learning the material.
 
 **Problem:**
+
 - You're testing what you haven't learned yet
 - Low scores are demoralizing
 - You're guessing randomly (no learning value)
 
 **Fix:**
+
 - First learn the material (lectures, readings, initial study)
 - THEN take practice test to assess retention and identify gaps
 - Exception: Diagnostic pre-test (to identify what you don't know)
 
 **Timeline:**
+
 ```
 Week 1-2: Learn material
 Week 3: First practice test (diagnostic)
@@ -731,11 +802,13 @@ Week 6: Third practice test (final prep)
 **Mistake:** "I'll just do practice tests - that's active recall!"
 
 **Problem:**
+
 - Practice tests identify gaps but don't fill them
 - You need to LEARN before you can RETRIEVE
 - Repeated testing without studying = repeated failure
 
 **Fix:**
+
 - Balance: 60-70% content study, 30-40% practice testing
 - Cycle: Study → Practice test → Identify gaps → Study those gaps → Practice test again
 
@@ -744,11 +817,13 @@ Week 6: Third practice test (final prep)
 **Mistake:** Checking answers quickly, noting score, moving on.
 
 **Problem:**
+
 - You waste the learning opportunity
 - You'll make the same mistakes on the real exam
 - No feedback = no improvement
 
 **Fix:**
+
 - Spend as much time reviewing the test as taking it
 - Analyze every wrong answer deeply
 - Create remediation plan
@@ -759,11 +834,13 @@ Week 6: Third practice test (final prep)
 **Mistake:** Taking the same practice test 5 times and scoring 100%.
 
 **Problem:**
+
 - You've memorized the specific questions, not learned the concepts
 - False confidence
 - Real exam will ask different questions on same concepts
 
 **Fix:**
+
 - Each practice test should be different (or mostly different)
 - If you must reuse: Wait at least 1 week, and test whether you can explain answers, not just recognize them
 - Better: Create/find multiple practice tests
@@ -773,11 +850,13 @@ Week 6: Third practice test (final prep)
 **Mistake:** Taking practice test open-book, untimed, with music, in bed.
 
 **Problem:**
+
 - Doesn't prepare you for exam conditions
 - Overestimates your actual ability
 - Won't build exam-day skills (time management, stress tolerance)
 
 **Fix:**
+
 - Simulate as closely as possible (time, location, materials, format)
 - The last 2-3 practice tests should be exact simulations
 
@@ -786,11 +865,13 @@ Week 6: Third practice test (final prep)
 **Mistake:** Practicing multiple choice when exam is essays.
 
 **Problem:**
+
 - Recognition (multiple choice) ≠ generation (essays)
 - Format shock on exam day
 - Haven't practiced writing under time pressure
 
 **Fix:**
+
 - Match practice format to exam format
 - If unsure, ask professor
 
@@ -801,12 +882,14 @@ Week 6: Third practice test (final prep)
 Practice testing IS active recall, but at scale.
 
 **Combine:**
+
 - Daily: Quick active recall (flashcards, self-quizzing)
 - Weekly: Practice test (comprehensive active recall)
 
 ### Practice Testing + Spaced Repetition
 
 **Schedule:**
+
 - Practice Test 1: Week 3 (first exposure)
 - Practice Test 2: Week 5 (spaced retrieval)
 - Practice Test 3: Week 7 (spaced retrieval)
@@ -817,11 +900,13 @@ Each test is a spaced repetition event.
 ### Practice Testing + Interleaving
 
 **Within practice tests:**
+
 - Questions should be interleaved (mixed topics)
 - Don't do all Chapter 1 questions, then all Chapter 2
 - Mix them up (like the real exam will)
 
 **Across study sessions:**
+
 - Interleave practice testing with other study methods
 - Monday: Content study
 - Tuesday: Practice test
@@ -932,12 +1017,14 @@ Start with question 1.
 **When a student asks about exam preparation:**
 
 1. **Always recommend practice testing first**
+
    ```
    "The most effective way to prepare is taking practice tests under exam
    conditions. Do you have access to past exams from this professor?"
    ```
 
 2. **Guide them through proper practice test protocol**
+
    ```
    "Don't just check answers as you go. Take the entire test first, under
    timed conditions, with no materials. Then we'll review your mistakes
@@ -945,6 +1032,7 @@ Start with question 1.
    ```
 
 3. **Help them create a practice test schedule**
+
    ```
    "You have 3 weeks until the exam. Let's schedule 3 practice tests:
    Week 1: Diagnostic (identify gaps)
@@ -955,6 +1043,7 @@ Start with question 1.
    ```
 
 4. **Focus on mistake analysis**
+
    ```
    Student: "I got a 75% on the practice test."
 
@@ -1077,6 +1166,7 @@ Questions:
 **The counterintuitive truth:** Testing is not just for assessment. Testing IS learning.
 
 **Why practice testing works:**
+
 - Active retrieval strengthens memory
 - Identifies gaps precisely
 - Simulates exam conditions
@@ -1084,11 +1174,13 @@ Questions:
 - Provides immediate feedback
 
 **The research is overwhelming:**
+
 - Practice testing beats every other study method
 - Even failed tests (with feedback) produce learning
 - Testing effect is one of the most robust findings in cognitive science
 
 **The implementation is straightforward:**
+
 1. Get practice tests (past exams, create your own, use textbook questions)
 2. Take them under real exam conditions (timed, closed-book, quiet)
 3. Answer thoroughly (write explanations, show work, don't just select options)
@@ -1099,6 +1191,7 @@ Questions:
 **The mistake most students make:** Using practice tests to "check if they're ready" instead of as a primary learning tool.
 
 **The shift in thinking:**
+
 ```
 Old: Study → Practice test (to assess)
 New: Study → Practice test (to learn) → Study gaps → Practice test (to learn more)

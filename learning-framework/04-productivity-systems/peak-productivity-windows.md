@@ -7,6 +7,7 @@ Your body operates on **circadian rhythms**—biological cycles that regulate en
 **Key insight:** Your brain does NOT function at the same level all day long. There are predictable peaks and valleys.
 
 **Most people experience:**
+
 - **High energy** at certain times (peak windows)
 - **Low energy** at other times (valleys)
 - **Moderate energy** in between
@@ -24,6 +25,7 @@ Your body operates on **circadian rhythms**—biological cycles that regulate en
 ### Pattern 1: The Standard "Lark" (Morning Person)
 
 **Energy flow:**
+
 - **6am-9am:** Rising energy, excellent focus (PEAK)
 - **9am-12pm:** Sustained high energy (PEAK continues)
 - **12pm-2pm:** Post-lunch dip (LOW)
@@ -35,6 +37,7 @@ Your body operates on **circadian rhythms**—biological cycles that regulate en
 **Best for:** Early risers, people who wake naturally before their alarm
 
 **Optimal schedule:**
+
 - Hardest work: 7am-11am
 - Moderate work: 2pm-5pm
 - Routine/admin: 12pm-2pm, 6pm-9pm
@@ -44,6 +47,7 @@ Your body operates on **circadian rhythms**—biological cycles that regulate en
 ### Pattern 2: The "Owl" (Night Person)
 
 **Energy flow:**
+
 - **6am-9am:** Groggy, low energy (LOW)
 - **9am-12pm:** Slowly waking up (MODERATE)
 - **12pm-3pm:** Hitting stride (MODERATE-HIGH)
@@ -55,6 +59,7 @@ Your body operates on **circadian rhythms**—biological cycles that regulate en
 **Best for:** Natural night owls, people who feel "off" in the morning
 
 **Optimal schedule:**
+
 - Hardest work: 3pm-9pm
 - Moderate work: 10am-2pm
 - Routine/admin: 9am-10am, 9pm-11pm
@@ -66,6 +71,7 @@ Your body operates on **circadian rhythms**—biological cycles that regulate en
 ### Pattern 3: The "Third Bird" (Midday Peak)
 
 **Energy flow:**
+
 - **6am-9am:** Moderate energy (MODERATE)
 - **9am-12pm:** Building to peak (HIGH)
 - **12pm-3pm:** Peak focus and energy (PEAK)
@@ -76,6 +82,7 @@ Your body operates on **circadian rhythms**—biological cycles that regulate en
 **Best for:** People who hit their stride mid-morning and maintain through early afternoon
 
 **Optimal schedule:**
+
 - Hardest work: 10am-3pm
 - Moderate work: 9am-10am, 3pm-5pm
 - Routine/admin: 7am-9am, 6pm-9pm
@@ -85,6 +92,7 @@ Your body operates on **circadian rhythms**—biological cycles that regulate en
 ### Pattern 4: The Bi-Modal (Two Peaks)
 
 **Energy flow:**
+
 - **6am-9am:** Morning peak (PEAK)
 - **9am-12pm:** Declining from peak (HIGH)
 - **12pm-3pm:** Afternoon slump (LOW)
@@ -95,6 +103,7 @@ Your body operates on **circadian rhythms**—biological cycles that regulate en
 **Best for:** People with two distinct high-energy windows separated by a significant dip
 
 **Optimal schedule:**
+
 - Hardest work: 7am-10am AND 4pm-7pm (split across two peaks)
 - Moderate work: 10am-12pm, 7pm-9pm
 - Routine/admin: 12pm-3pm (during the dip, don't fight it)
@@ -106,6 +115,7 @@ Your body operates on **circadian rhythms**—biological cycles that regulate en
 **The patterns above are STARTING POINTS, not rules.**
 
 **Your energy pattern is influenced by:**
+
 - **Genetics** (chronotype: are you naturally a lark or owl?)
 - **Age** (teenagers tend toward night owl, older adults toward morning lark)
 - **Sleep quality** (poor sleep flattens peaks)
@@ -128,12 +138,14 @@ Your body operates on **circadian rhythms**—biological cycles that regulate en
 **Goal:** Identify your natural energy patterns without trying to change them.
 
 **What to track:**
+
 1. **Energy level** (1-10 scale)
 2. **Focus quality** (1-10 scale)
 3. **Mood** (positive, neutral, negative)
 4. **Time of day**
 
 **How to track:**
+
 - Set hourly reminders (or every 2 hours if that's too frequent)
 - At each reminder, quickly rate your current state
 - Takes 30 seconds per check-in
@@ -174,23 +186,28 @@ TIME  | ENERGY (1-10) | FOCUS (1-10) | MOOD | NOTES
 **After one week, review your tracking data:**
 
 **1. When do you consistently rate energy 7-10?**
+
 - These are your PEAK WINDOWS
 - Example: "Every day, 9am-11am and 4pm-6pm are 8+/10"
 
 **2. When do you consistently rate energy 1-4?**
+
 - These are your LOW WINDOWS
 - Example: "Every day, 1pm-2pm and 8pm-10pm are 3-4/10"
 
 **3. When is your focus highest?**
+
 - May overlap with energy, but not always
 - Example: "My energy is high at 7am, but focus doesn't peak until 9am"
 
 **4. When is your mood best?**
+
 - Mood affects productivity indirectly
 - Positive mood = better creativity and problem-solving
 - Example: "Mornings I'm grumpy even when energized; evenings I'm happier but tired"
 
 **5. Are there patterns in your notes?**
+
 - "After coffee" (artificial boost)
 - "After exercise" (genuine boost)
 - "After heavy meal" (consistent crash)
@@ -200,17 +217,20 @@ TIME  | ENERGY (1-10) | FOCUS (1-10) | MOOD | NOTES
 ### Identifying Patterns: Example Analysis
 
 **Student A's one-week data shows:**
+
 - Energy peaks: 9am-11am (average 8.5/10) and 3pm-5pm (average 7.5/10)
 - Energy valleys: 1pm-2pm (average 3/10) and 8pm-10pm (average 2/10)
 - Focus peaks: 9am-12pm (average 9/10)
 - Mood peaks: 4pm-7pm (average positive)
 
 **Interpretation:**
+
 - **Morning peak:** 9am-12pm (high energy + high focus = PRIME TIME)
 - **Afternoon moderate peak:** 3pm-5pm (decent energy, good mood = GOOD TIME)
 - **Avoid:** 1pm-2pm (post-lunch crash = WORST TIME for hard work)
 
 **Recommended schedule:**
+
 - **Hardest work:** 9am-12pm (peak window)
 - **Moderate work:** 3pm-5pm (secondary window)
 - **Routine tasks:** 1pm-2pm (admin, email, organizing - don't fight the dip)
@@ -227,6 +247,7 @@ TIME  | ENERGY (1-10) | FOCUS (1-10) | MOOD | NOTES
 **When:** Your identified peak windows (e.g., 9am-12pm)
 
 **What to do:**
+
 - **Deep analytical work:** Math problem sets, coding, complex reading
 - **Creative synthesis:** Essay writing, designing projects, original thinking
 - **Difficult learning:** New, challenging material that requires intense focus
@@ -237,10 +258,12 @@ TIME  | ENERGY (1-10) | FOCUS (1-10) | MOOD | NOTES
 These tasks REQUIRE high cognitive capacity. Doing them during low energy = wasted time, poor quality, frustration.
 
 **Example:**
+
 - 9am-11am: Work on the hardest calculus problems from your problem set
 - Result: You solve them efficiently, understand deeply, retain well
 
 **Counter-example:**
+
 - 8pm: Try to work on calculus (your brain is fried)
 - Result: Stare at the problem for 30 minutes, make no progress, feel defeated
 
@@ -251,6 +274,7 @@ These tasks REQUIRE high cognitive capacity. Doing them during low energy = wast
 **When:** Moderate energy times (e.g., 2pm-4pm, 7pm-8pm)
 
 **What to do:**
+
 - **Structured review:** Flashcard review, practice quizzes (familiar material)
 - **Reading:** Textbook reading (not the hardest chapters, but steady progress)
 - **Organized practice:** Doing practice problems you mostly know how to do
@@ -262,6 +286,7 @@ These tasks REQUIRE high cognitive capacity. Doing them during low energy = wast
 These tasks need attention but don't require peak brainpower. You can do them competently with moderate energy.
 
 **Example:**
+
 - 3pm: Review biology flashcards you've seen before
 - Result: Productive, reinforcing memory, not exhausting
 
@@ -272,6 +297,7 @@ These tasks need attention but don't require peak brainpower. You can do them co
 **When:** Your identified valleys (e.g., 1pm-2pm, 8pm-10pm)
 
 **What to do:**
+
 - **Administrative tasks:** Checking emails, responding to messages, organizing files
 - **Planning/logistics:** Updating calendar, scheduling meetings, preparing materials
 - **Routine chores:** Laundry, cleaning, meal prep, organizing desk
@@ -283,10 +309,12 @@ These tasks need attention but don't require peak brainpower. You can do them co
 Fighting your body's natural low-energy period is exhausting and ineffective. Instead, LEAN INTO IT with tasks that don't require high focus.
 
 **Example:**
+
 - 1pm (post-lunch crash): Organize your notes from the morning, file papers, check course announcements
 - Result: You're being productive without fighting your biology
 
 **The mistake:** Trying to do hard work during low energy
+
 - 1pm: Attempt to write essay introduction
 - Result: Stare at blank page, write garbage, waste 2 hours, feel terrible
 
@@ -305,27 +333,32 @@ Fighting your body's natural low-energy period is exhausting and ineffective. In
 ### The Ruthless Protection Strategy
 
 **1. Block peak hours on your calendar**
+
 - Mark them as "BUSY" or "DEEP WORK"
 - Don't schedule meetings during this time (if you control your schedule)
 - Communicate to others: "I'm unavailable 9am-12pm for focused work"
 
 **2. Eliminate distractions BEFORE peak time**
+
 - Phone in another room (or airplane mode)
 - Close email, Slack, Discord, all messaging
 - Use website blockers (Freedom, Cold Turkey)
 - Wear headphones (even if not playing music - signals "don't interrupt me")
 
 **3. Prepare the night before**
+
 - Know EXACTLY what you'll work on during your peak window
 - Have all materials ready (textbook open to right page, links saved, etc.)
 - No decision-making during peak time—just execution
 
 **4. Communicate boundaries**
+
 - Roommate: "I'm working 9am-12pm, please don't interrupt unless emergency"
 - Friends: "Can't hang out this morning, but free after 12pm"
 - Family: "I'll call you back this afternoon, in deep work now"
 
 **5. Batch low-value tasks OUTSIDE peak windows**
+
 - Email: Check only at 12pm and 5pm (not during 9am-12pm peak)
 - Social media: Scheduled breaks, not during peak
 - Admin tasks: Save for 1pm-2pm valley
@@ -335,6 +368,7 @@ Fighting your body's natural low-energy period is exhausting and ineffective. In
 ### Example: A Protected Peak Window (9am-12pm)
 
 **8:45am - Preparation:**
+
 - Phone on airplane mode, in another room
 - Website blocker activated (no social media, news, YouTube)
 - Noise-canceling headphones on
@@ -342,12 +376,14 @@ Fighting your body's natural low-energy period is exhausting and ineffective. In
 - Materials ready: Calculus textbook open, problem set printed, scratch paper out
 
 **9:00am - Begin Deep Work:**
+
 - No checking anything else
 - Full focus on calculus problem set
 - Work continuously (or with short 5-min breaks every 45 min)
 - No email, no texts, no interruptions
 
 **12:00pm - Peak Window Ends:**
+
 - Take a real break (walk, eat lunch, rest)
 - NOW you can check email, messages, etc.
 - Feel satisfied: you used your best hours for your hardest work
@@ -365,22 +401,26 @@ Fighting your body's natural low-energy period is exhausting and ineffective. In
 **Before your peak window begins:**
 
 **1. Workspace:**
+
 - Clean, organized desk (no clutter)
 - Good lighting (natural light ideal, or bright lamp)
 - Comfortable chair (but not SO comfortable you get sleepy)
 - Appropriate temperature (slightly cool is better for focus than warm)
 
 **2. Materials:**
+
 - Everything you need within arm's reach
 - Nothing you DON'T need on your desk (distractions removed)
 - Backup materials ready (extra pen, more paper, chargers)
 
 **3. Sensory control:**
+
 - Noise: Quiet space, or noise-canceling headphones with focus music/white noise
 - Visual: Minimize visual distractions (close door, face wall not window if easily distracted)
 - Digital: Only necessary tabs/apps open
 
 **4. Body preparation:**
+
 - Bathroom before starting (don't interrupt peak time)
 - Hydrated (water on desk)
 - Not hungry (light snack before, or scheduled break mid-peak)
@@ -395,18 +435,22 @@ Fighting your body's natural low-energy period is exhausting and ineffective. In
 **Before peak window:**
 
 **1. Clear your mind:**
+
 - Brain dump: Write down everything on your mind (worries, to-dos, random thoughts)
 - Put the list aside: "I'll deal with these later, not now"
 
 **2. Set intention:**
+
 - Know exactly what you'll work on: "I will complete problems 15-25 of the calculus set"
 - Visualize success: "I'll work steadily, solve these problems, and feel accomplished"
 
 **3. Eliminate decision fatigue:**
+
 - Don't decide what to work on DURING peak time
 - Decide the night before: "Tomorrow 9am-12pm: Chemistry exam prep, chapters 5-7"
 
 **4. Protect your mood:**
+
 - Don't check stressful news before peak time
 - Don't have difficult conversations right before
 - Enter peak window calm, not agitated
@@ -422,6 +466,7 @@ Fighting your body's natural low-energy period is exhausting and ineffective. In
 **Goal:** See which work is easiest/hardest at which times
 
 **Method:**
+
 - **Monday 9am:** Do math problems (analytical work)
 - **Monday 1pm:** Do math problems (same type, low-energy time)
 - Compare: Which time felt easier? Which produced better work?
@@ -433,6 +478,7 @@ Fighting your body's natural low-energy period is exhausting and ineffective. In
 **Track:** Quality of work, speed, how you felt
 
 **Insight:** You'll discover some tasks are MORE time-sensitive than others
+
 - Example: "Math is impossible at 8pm, but flashcards are fine"
 
 ---
@@ -442,6 +488,7 @@ Fighting your body's natural low-energy period is exhausting and ineffective. In
 **Goal:** See the impact of distraction-free peak time
 
 **Method:**
+
 - **Week 1:** Work 9am-12pm with phone, email, interruptions allowed (baseline)
 - **Week 2:** Work 9am-12pm fully protected (phone away, no email, no interruptions)
 - Compare: How much did you accomplish? Quality? How did you feel?
@@ -457,6 +504,7 @@ Fighting your body's natural low-energy period is exhausting and ineffective. In
 **Goal:** Experience the pain of fighting your biology vs. working with it
 
 **Method:**
+
 - **Option A (fighting biology):** Do hardest work during your low-energy time
   - Example: If you're a morning person, try to do hard work at 9pm for 3 days
 - **Option B (aligned):** Do hardest work during your peak time
@@ -473,6 +521,7 @@ Fighting your body's natural low-energy period is exhausting and ineffective. In
 **Goal:** Find what best recharges you between work blocks
 
 **Method:**
+
 - Try different break activities:
   - Walk outside (10 min)
   - Nap (20 min)
@@ -484,6 +533,7 @@ Fighting your body's natural low-energy period is exhausting and ineffective. In
 **Track:** How you feel AFTER the break (energy, focus, mood)
 
 **Insight:** You'll find YOUR best recovery method
+
 - Example: "Walks restore me, but phone scrolling drains me further"
 
 ---
@@ -493,12 +543,14 @@ Fighting your body's natural low-energy period is exhausting and ineffective. In
 ### Mistake 1: Wasting Peak Hours on Email
 
 **The trap:**
+
 - 9am: "I'll just quickly check email before starting"
 - 9:30am: Still responding to messages
 - 10am: Finally start real work
 - You've wasted 1 hour of peak time on low-value tasks
 
 **The fix:**
+
 - Email is a LOW-ENERGY task
 - Schedule email for your valleys (e.g., 1pm, 5pm)
 - During peak hours: NO EMAIL
@@ -508,12 +560,14 @@ Fighting your body's natural low-energy period is exhausting and ineffective. In
 ### Mistake 2: Not Knowing What to Work On
 
 **The trap:**
+
 - 9am: Peak time begins
 - "Hmm, what should I do? Maybe chemistry? Or that essay? Let me think..."
 - 9:15am: Still deciding
 - 9:30am: Finally start, but you've lost 30 minutes
 
 **The fix:**
+
 - Decide the NIGHT BEFORE what you'll work on during peak time
 - When peak time arrives: EXECUTE, don't decide
 
@@ -522,11 +576,13 @@ Fighting your body's natural low-energy period is exhausting and ineffective. In
 ### Mistake 3: Scheduling Classes/Meetings During Peak Time
 
 **The trap:**
+
 - Your peak time is 10am-12pm
 - You schedule a class or meeting at 11am
 - You lose half your peak window
 
 **The fix:**
+
 - If you control your schedule: Protect peak time, schedule meetings outside it
 - If you don't control your schedule (fixed class times): Identify your SECONDARY peak and protect that ruthlessly
 
@@ -535,12 +591,14 @@ Fighting your body's natural low-energy period is exhausting and ineffective. In
 ### Mistake 4: Trying to Force Peak Performance During Valleys
 
 **The trap:**
+
 - 8pm: You're exhausted (natural valley)
 - "I HAVE to finish this essay tonight"
 - Force yourself to work for 3 hours
 - Produce low-quality work, feel miserable, barely make progress
 
 **The fix:**
+
 - Accept your valleys
 - Do admin/routine tasks during valleys
 - Save hard work for tomorrow's peak (wake up earlier if needed)
@@ -550,11 +608,13 @@ Fighting your body's natural low-energy period is exhausting and ineffective. In
 ### Mistake 5: Not Tracking, Just Guessing
 
 **The trap:**
+
 - "I think I'm a morning person"
 - Schedule hard work in morning
 - Actually struggle and don't know why (maybe you're NOT a morning person, or your peak is later)
 
 **The fix:**
+
 - TRACK for one week
 - Don't rely on assumptions
 - Let data reveal your true patterns
@@ -576,6 +636,7 @@ Fighting your body's natural low-energy period is exhausting and ineffective. In
 **Your schedule:** Class 9am-11am (CONFLICT)
 
 **Solution:**
+
 - **Accept the loss:** You can't change class time
 - **Identify secondary peak:** Maybe 3pm-5pm is your second-best time
 - **Ruthlessly protect 3pm-5pm:** This becomes your new primary deep work window
@@ -592,6 +653,7 @@ Fighting your body's natural low-energy period is exhausting and ineffective. In
 **Your schedule:** Classes 1pm-5pm every day (CONFLICT)
 
 **Solution:**
+
 - **Identify alternative peak:** Morning (even if not YOUR natural peak) becomes your deep work time
 - **Enhance morning energy:** Exercise before studying, bright light, caffeine strategically
 - **Use evenings for secondary work:** After classes, do moderate-difficulty work
@@ -604,6 +666,7 @@ Fighting your body's natural low-energy period is exhausting and ineffective. In
 **Your schedule:** Classes at different times every day, part-time job, inconsistent sleep
 
 **Solution:**
+
 - **Daily tracking:** Each morning, assess YOUR energy that specific day
 - **Flexible prioritization:** On days with morning free time + high energy → hardest work
 - **Protect what you can:** Even 90 minutes of protected peak time is valuable
@@ -614,7 +677,7 @@ Fighting your body's natural low-energy period is exhausting and ineffective. In
 
 ## LLM-ACTIONABLE-INSIGHTS: Energy-Task Matching
 
-*This section provides structured prompts for AI assistants to help students identify and leverage peak productivity windows.*
+_This section provides structured prompts for AI assistants to help students identify and leverage peak productivity windows._
 
 ---
 
@@ -623,6 +686,7 @@ Fighting your body's natural low-energy period is exhausting and ineffective. In
 **Input:** One week of energy tracking data (see template above)
 
 **LLM prompt**:
+
 ```
 Here is my one-week energy tracking data:
 
@@ -646,6 +710,7 @@ Be specific with times and task types.
 ### PROMPT 2: Design My Ideal Weekly Schedule Based on Energy Patterns
 
 **LLM prompt**:
+
 ```
 Based on my energy patterns (from tracking or self-knowledge):
 
@@ -680,6 +745,7 @@ Output: Hour-by-hour weekly schedule, color-coded by task type.
 ### PROMPT 3: Troubleshoot My Energy Issues
 
 **LLM prompt**:
+
 ```
 I'm experiencing energy problems:
 
@@ -706,6 +772,7 @@ Provide actionable, specific recommendations.
 ### PROMPT 4: Adapt My Peak Windows to My Class Schedule
 
 **LLM prompt**:
+
 ```
 MY NATURAL PEAK WINDOWS (from tracking):
 - [Time range]
@@ -733,6 +800,7 @@ Be realistic about what's possible given my fixed commitments.
 ### PROMPT 5: Design Experiments to Find My Peak Windows
 
 **LLM prompt**:
+
 ```
 I haven't tracked my energy yet, but I want to find my peak productivity windows.
 
@@ -760,6 +828,7 @@ Provide:
 ### PROMPT 6: Protect My Peak Windows from Distractions
 
 **LLM prompt**:
+
 ```
 I've identified my peak windows: [time range]
 
@@ -785,6 +854,7 @@ Make it specific enough that I can implement immediately.
 ### PROMPT 7: Create a Task-Energy Matching System
 
 **LLM prompt**:
+
 ```
 I want to match my tasks to my energy levels systematically.
 
@@ -810,6 +880,7 @@ Output as a reference guide I can consult when planning my day.
 ### PROMPT 8: Optimize My Day Based on Energy + Deadlines
 
 **LLM prompt**:
+
 ```
 I need to plan tomorrow based on both my energy patterns AND my deadlines.
 
@@ -894,6 +965,7 @@ Priority 3: Rest/recovery (sometimes doing nothing is the right choice)
 **LLM can suggest combinations**:
 
 **Peak Windows + Time-Blocking**:
+
 ```
 When creating time blocks, align with energy:
 - Peak window (9am-12pm): Block for hardest course (e.g., calculus)
@@ -902,6 +974,7 @@ When creating time blocks, align with energy:
 ```
 
 **Peak Windows + Pomodoro**:
+
 ```
 Use Pomodoro DURING peak windows to maximize focus:
 - Peak window (9am-12pm): Three 45-min Pomodoros with 10-min breaks
@@ -909,6 +982,7 @@ Use Pomodoro DURING peak windows to maximize focus:
 ```
 
 **Peak Windows + Interleaving**:
+
 ```
 During peak window, interleave hardest subjects:
 - 9am-10am: Physics (hard)
@@ -918,6 +992,7 @@ During peak window, interleave hardest subjects:
 ```
 
 **Peak Windows + 3-2-1 Method**:
+
 ```
 When peak window arrives, use 3-2-1 to start immediately:
 - 9am: Peak window begins
@@ -941,4 +1016,3 @@ When helping students optimize peak windows:
 8. **Experiment is valuable** - one week of tracking is a start, but ongoing refinement helps
 9. **Be realistic** - if a student has 2 peak hours, don't schedule 6 hours of hard work
 10. **Quality over quantity** - 2 peak hours of focused work beats 6 hours of exhausted struggle
-

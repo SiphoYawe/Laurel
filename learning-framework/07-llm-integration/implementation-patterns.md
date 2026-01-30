@@ -1,6 +1,7 @@
 # Implementation Patterns - Reusable Coaching Algorithms
 
 ## Purpose
+
 This document provides reusable algorithms (patterns) for common coaching tasks. Each pattern includes input parameters, processing logic, and expected outputs. Use these as templates for systematic student support.
 
 ---
@@ -10,13 +11,14 @@ This document provides reusable algorithms (patterns) for common coaching tasks.
 **Purpose**: Generate structured study sessions optimized for learning outcomes
 
 ### Input Parameters
+
 ```typescript
 interface SessionDesignInput {
   subject: string;
   topic: string;
   timeAvailable: number; // minutes
-  energyLevel: 'high' | 'medium' | 'low';
-  materialType: 'new' | 'review' | 'practice' | 'mixed';
+  energyLevel: "high" | "medium" | "low";
+  materialType: "new" | "review" | "practice" | "mixed";
   studentMastery: 1 | 2 | 3 | 4 | 5; // current level
   assessmentDate?: Date; // if preparing for exam
 }
@@ -182,6 +184,7 @@ FUNCTION generateActivityDescription(technique, input):
 ```
 
 ### Example Input
+
 ```javascript
 {
   subject: "Biology",
@@ -195,6 +198,7 @@ FUNCTION generateActivityDescription(technique, input):
 ```
 
 ### Example Output
+
 ```javascript
 {
   subject: "Biology",
@@ -243,6 +247,7 @@ FUNCTION generateActivityDescription(technique, input):
 **Purpose**: Create spaced repetition schedule for exam preparation
 
 ### Input Parameters
+
 ```typescript
 interface RevisionInput {
   examDate: Date;
@@ -433,6 +438,7 @@ FUNCTION balanceLoad(schedule):
 ```
 
 ### Example Input
+
 ```javascript
 {
   examDate: new Date('2025-01-20'),
@@ -448,6 +454,7 @@ FUNCTION balanceLoad(schedule):
 ```
 
 ### Example Output
+
 ```javascript
 {
   metadata: {
@@ -570,14 +577,15 @@ FUNCTION balanceLoad(schedule):
 **Purpose**: Create questions from source material to facilitate active recall practice
 
 ### Input Parameters
+
 ```typescript
 interface QuestionGenInput {
   topic: string;
   sourceContent: string; // summary or full text
-  questionTypes: Array<'factual' | 'conceptual' | 'application' | 'analysis'>;
-  difficulty: 'easy' | 'medium' | 'hard';
+  questionTypes: Array<"factual" | "conceptual" | "application" | "analysis">;
+  difficulty: "easy" | "medium" | "hard";
   quantity: number;
-  format: 'flashcard' | 'short-answer' | 'problem-solving';
+  format: "flashcard" | "short-answer" | "problem-solving";
 }
 ```
 
@@ -869,6 +877,7 @@ FUNCTION balanceDifficulty(questions, targetDifficulty, quantity):
 ```
 
 ### Example Input
+
 ```javascript
 {
   topic: "Photosynthesis",
@@ -881,6 +890,7 @@ FUNCTION balanceDifficulty(questions, targetDifficulty, quantity):
 ```
 
 ### Example Output
+
 ```javascript
 {
   metadata: {
@@ -1004,12 +1014,13 @@ FUNCTION balanceDifficulty(questions, targetDifficulty, quantity):
 **Purpose**: Recommend study techniques based on learning context
 
 ### Input Parameters
+
 ```typescript
 interface TechniqueRecommendationInput {
-  learningGoal: 'understand' | 'memorize' | 'apply' | 'analyze' | 'create';
+  learningGoal: "understand" | "memorize" | "apply" | "analyze" | "create";
   timeAvailable: number; // minutes
-  materialType: 'reading' | 'lecture' | 'problems' | 'conceptual' | 'factual';
-  currentPhase: 'initial_learning' | 'practice' | 'review' | 'exam_prep';
+  materialType: "reading" | "lecture" | "problems" | "conceptual" | "factual";
+  currentPhase: "initial_learning" | "practice" | "review" | "exam_prep";
   studentProfile?: {
     learningStyle?: string;
     pastSuccesses?: string[];
@@ -1303,6 +1314,7 @@ FUNCTION generateImplementationGuide(technique, input):
 ```
 
 ### Example Input
+
 ```javascript
 {
   learningGoal: 'understand',
@@ -1318,6 +1330,7 @@ FUNCTION generateImplementationGuide(technique, input):
 ```
 
 ### Example Output
+
 ```javascript
 {
   primary: {
@@ -1416,6 +1429,7 @@ FUNCTION generateImplementationGuide(technique, input):
 **Purpose**: Analyze current study habits and provide improvement recommendations
 
 ### Input Parameters
+
 ```typescript
 interface StudyHabitInput {
   currentHabits: string; // free-text description
@@ -1829,6 +1843,7 @@ FUNCTION createActionPlan(recommendations, constraints):
 ```
 
 ### Example Input
+
 ```javascript
 {
   currentHabits: "I usually read my textbook and highlight important parts. Sometimes I reread my notes before exams. I try to study every day but it depends on my schedule. I don't really review old material, just keep moving forward.",
@@ -1857,6 +1872,7 @@ FUNCTION createActionPlan(recommendations, constraints):
 ```
 
 ### Example Output
+
 ```javascript
 {
   analysis: {
@@ -2070,6 +2086,7 @@ FUNCTION createActionPlan(recommendations, constraints):
 **Purpose**: Optimize daily schedule by matching task difficulty to energy levels
 
 ### Input Parameters
+
 ```typescript
 interface EnergyTaskInput {
   dailySchedule: Array<{
@@ -2077,18 +2094,18 @@ interface EnergyTaskInput {
     currentActivity?: string;
     isFixed: boolean; // can't be changed (class, work, etc.)
   }>;
-  energyPattern: 'morning_person' | 'night_owl' | 'consistent' | 'custom';
+  energyPattern: "morning_person" | "night_owl" | "consistent" | "custom";
   customEnergyLevels?: Array<{
     timeBlock: string;
-    energyLevel: 'high' | 'medium' | 'low';
+    energyLevel: "high" | "medium" | "low";
   }>;
   taskList: Array<{
     name: string;
     subject: string;
-    difficulty: 'high' | 'medium' | 'low';
+    difficulty: "high" | "medium" | "low";
     estimatedDuration: number; // minutes
     deadline?: Date;
-    type: 'study' | 'practice' | 'review' | 'admin';
+    type: "study" | "practice" | "review" | "admin";
   }>;
 }
 ```

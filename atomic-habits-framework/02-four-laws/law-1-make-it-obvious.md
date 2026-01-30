@@ -15,12 +15,14 @@
 ### The Paradox of Automaticity
 
 **As habits form, they become unconscious**:
+
 - Initially, habits require conscious attention
 - With repetition, they move to automatic processing
 - Eventually, you stop noticing the cue entirely
 - You execute the behavior without awareness
 
 **The Danger**:
+
 - Can't change what you don't notice
 - Bad habits run on autopilot
 - Good habits opportunities are missed
@@ -29,12 +31,14 @@
 ### The Awareness Gap
 
 **Most people are blind to their own behavior**:
+
 - Research shows people vastly underestimate frequency of habits
 - Smokers undercount cigarettes smoked
 - Phone users underestimate screen time
 - Snackers forget mindless eating episodes
 
 **Why This Matters**:
+
 - First step in behavior change is AWARENESS
 - You must notice the cue before you can change the response
 - Consciousness must be raised before behavior can be modified
@@ -46,6 +50,7 @@
 **The Habits Scorecard** is a comprehensive awareness exercise that reveals your current behavioral patterns.
 
 **Method**:
+
 1. Make a list of your daily habits from wake to sleep
 2. Mark each habit as positive (+), negative (-), or neutral (=)
 3. Consider long-term outcomes, not immediate gratification
@@ -83,11 +88,13 @@ Morning Routine:
 Ask: "Does this behavior help me become the person I wish to be?"
 
 **Scoring System**:
+
 - **+ (Positive)**: Helps you move toward your goals and identity
 - **- (Negative)**: Takes you away from your goals and identity
 - **= (Neutral)**: Neither helps nor hinders
 
 **Critical Considerations**:
+
 - Judge based on ULTIMATE outcomes, not immediate feelings
 - Context matters: "Watching TV = neutral" vs "Watching TV after work + good" vs "Watching TV instead of working - bad"
 - Same behavior can have different scores in different contexts
@@ -96,6 +103,7 @@ Ask: "Does this behavior help me become the person I wish to be?"
 **Step 3: Notice Patterns**
 
 Look for:
+
 - Clusters of negative habits (high-risk periods)
 - Times when positive habits are missing
 - Cues that trigger negative behaviors
@@ -123,6 +131,7 @@ Look for:
 ```
 
 **Insights from This Scorecard**:
+
 - Morning phone check creates rushed start (negative cascade)
 - Skipping breakfast leads to low energy
 - Evenings are dominated by passive consumption
@@ -132,6 +141,7 @@ Look for:
 ### The Power of Awareness
 
 **Benefits of the Scorecard**:
+
 1. **Visibility**: Makes unconscious habits visible
 2. **Honesty**: Forces confrontation with reality
 3. **Patterns**: Reveals behavioral clusters and triggers
@@ -152,11 +162,13 @@ Look for:
 ### The Technique
 
 **Basic Process**:
+
 1. Point at the object or location
 2. Verbally state the action or status
 3. Create physical and verbal acknowledgment
 
 **Railway Example**:
+
 - Conductor points at speedometer
 - States aloud: "Speed is 80 kilometers per hour"
 - Points at signal
@@ -167,17 +179,20 @@ Look for:
 **For Building Awareness**:
 
 **Example 1: Leaving the House**
+
 - Point at keys: "I have my keys"
 - Point at wallet: "I have my wallet"
 - Point at phone: "I have my phone"
 - Point at door lock: "The door is locked"
 
 **Example 2: Before Making a Purchase**
+
 - Point at item: "Do I need this?"
 - State aloud: "This costs $50"
 - Ask aloud: "Is this worth working for [X hours]?"
 
 **Example 3: Food Choices**
+
 - Point at food: "I'm about to eat this cookie"
 - State aloud: "This is my third cookie today"
 - Ask: "Is this aligned with my health goals?"
@@ -187,9 +202,11 @@ Look for:
 **Modified Version**: Simply verbalize your behavior
 
 **Example - James Clear's Story**:
+
 > "I was at a friend's house and they offered me a cookie. I was about to accept when I said out loud, 'You know, I'm not that hungry. I'll pass.' As soon as I heard myself say it, I realized I was just eating out of habit and politeness, not actual hunger."
 
 **Power of Verbalization**:
+
 - Hearing yourself say it makes it real
 - Creates cognitive dissonance if action doesn't match values
 - Interrupts automatic behavior patterns
@@ -200,16 +217,19 @@ Look for:
 **Format**: "I am about to [ACTION]. This will result in [OUTCOME]."
 
 **Building Good Habits**:
+
 - "I am about to go to the gym. This will make me stronger."
 - "I am about to work on my project. This will move me toward my goal."
 - "I am about to read this book. This will make me more knowledgeable."
 
 **Breaking Bad Habits**:
+
 - "I am about to eat this candy. This will give me a sugar crash."
 - "I am about to check Instagram. This will waste 30 minutes."
 - "I am about to skip this workout. This will make me weaker."
 
 **Why It Works**:
+
 - Transforms unconscious habit into conscious choice
 - Creates pause between stimulus and response
 - Activates prefrontal cortex (decision-making)
@@ -220,11 +240,13 @@ Look for:
 ### The Problem with Vague Goals
 
 **Common Approach (Ineffective)**:
+
 - "I will eat healthier"
 - "I will exercise more"
 - "I will be more productive"
 
 **Why This Fails**:
+
 - No clear cue
 - No specific time
 - No defined location
@@ -236,11 +258,13 @@ Look for:
 **Format**: "I will [BEHAVIOR] at [TIME] in [LOCATION]"
 
 **Structure**:
+
 - **BEHAVIOR**: Specific action (not vague goal)
 - **TIME**: Exact time or time period
 - **LOCATION**: Specific place or context
 
 **The Power**:
+
 - Creates explicit cue (time + location)
 - Removes ambiguity
 - Eliminates decision fatigue
@@ -249,12 +273,14 @@ Look for:
 ### Research Evidence
 
 **Study - British Journal of Health Psychology**:
+
 - Participants asked to exercise at least once per week
 - Control group: 38% exercised
 - Implementation intention group: 91% exercised
 - **2.4x improvement** from simple formula
 
 **Study - Goal Achievement**:
+
 - Implementation intentions increase likelihood of achieving goals by 2-3x
 - Effect holds across domains: health, work, relationships
 - Works for both one-time actions and habits
@@ -262,26 +288,32 @@ Look for:
 ### Implementation Examples
 
 **Exercise**:
+
 - ❌ "I will work out more"
 - ✅ "I will exercise for 20 minutes at 6:00 AM in my living room"
 
 **Reading**:
+
 - ❌ "I will read more books"
 - ✅ "I will read for 30 minutes at 9:00 PM in my bedroom"
 
 **Meditation**:
+
 - ❌ "I will meditate regularly"
 - ✅ "I will meditate for 5 minutes at 7:00 AM in my office"
 
 **Healthy Eating**:
+
 - ❌ "I will eat healthier"
 - ✅ "I will eat a salad at 12:00 PM at my desk"
 
 **Writing**:
+
 - ❌ "I will write more"
 - ✅ "I will write 500 words at 8:00 AM in my home office"
 
 **Savings**:
+
 - ❌ "I will save more money"
 - ✅ "I will transfer $100 at 9:00 AM on the 1st of each month from checking to savings"
 
@@ -291,6 +323,7 @@ Look for:
 "When [SITUATION], then I will [BEHAVIOR]"
 
 **Examples**:
+
 - "When I close my laptop for the day, then I will write down three things I'm grateful for"
 - "When I sit down for dinner, then I will put my phone in another room"
 - "When I feel stressed, then I will take three deep breaths"
@@ -314,17 +347,20 @@ Look for:
 ### Why Habit Stacking Works
 
 **1. Existing Habits Are Already Automatic**:
+
 - Current habit is already wired into your brain
 - Strong neural pathways already exist
 - Cue is reliable and consistent
 - Requires no additional memory or willpower
 
 **2. Clear and Specific Cue**:
+
 - More precise than time or location alone
 - Behavioral cue is often more reliable than time
 - Tied to something you already do without thinking
 
 **3. Creates Behavioral Chains**:
+
 - Links habits together like dominoes
 - One habit triggers the next
 - Builds routines naturally
@@ -333,12 +369,14 @@ Look for:
 ### The Diderot Effect
 
 **Historical Origin**:
+
 - French philosopher Denis Diderot received a scarlet robe as gift
 - Robe was so elegant that his other possessions seemed shabby
 - He replaced rug, chair, desk, clock—entire study
 - Ended up in debt from cascading upgrades
 
 **Positive Application**:
+
 - One behavior can trigger a cascade of related behaviors
 - Use this effect intentionally for good habits
 - Stack habits to create positive spirals
@@ -348,6 +386,7 @@ Look for:
 **Step 1: List Current Habits**
 
 Identify your existing reliable habits (from Habits Scorecard):
+
 ```
 - Wake up
 - Pour coffee
@@ -367,6 +406,7 @@ Identify your existing reliable habits (from Habits Scorecard):
 **Step 2: Select Anchor Habit**
 
 Choose based on:
+
 - **Consistency**: Happens every day at same time
 - **Strength**: Already deeply ingrained
 - **Timing**: Fits when you want new habit
@@ -379,23 +419,27 @@ Use formula: "After [CURRENT HABIT], I will [NEW HABIT]"
 ### Habit Stacking Examples
 
 **Morning Stacks**:
+
 - "After I pour my morning coffee, I will meditate for 60 seconds"
 - "After I sit down for breakfast, I will write down one thing I'm grateful for"
 - "After I take my morning shower, I will apply lotion and moisturizer"
 - "After I brush my teeth in the morning, I will do 10 pushups"
 
 **Work Stacks**:
+
 - "After I sit down at my desk, I will review my top three priorities"
 - "After I finish a meeting, I will write down one key takeaway"
 - "After I close my laptop for lunch, I will do 5 minutes of stretching"
 
 **Evening Stacks**:
+
 - "After I sit down for dinner, I will say one thing I'm grateful for"
 - "After I finish dinner, I will immediately wash my dishes"
 - "After I wash the dishes, I will wipe down the counter"
 - "After I get in bed, I will read for 10 minutes"
 
 **Fitness Stacks**:
+
 - "After I take off my work shoes, I will immediately put on my workout clothes"
 - "After I put on my workout clothes, I will do one burpee"
 - "After I do one burpee, I will text my accountability partner"
@@ -405,6 +449,7 @@ Use formula: "After [CURRENT HABIT], I will [NEW HABIT]"
 **The Power of Chains**: Link multiple habits together
 
 **Example Morning Stack Chain**:
+
 ```
 1. After I wake up, I will make my bed
 2. After I make my bed, I will put on my workout clothes
@@ -418,6 +463,7 @@ Use formula: "After [CURRENT HABIT], I will [NEW HABIT]"
 **Result**: 7 positive habits in one connected chain
 
 **Critical Success Factor**: First link must be bulletproof
+
 - If first habit breaks, entire chain breaks
 - Make first link ridiculously easy
 - Build redundancy (multiple paths to start chain)
@@ -457,6 +503,7 @@ Use formula: "After [CURRENT HABIT], I will [NEW HABIT]"
 **Principle**: Make the cues of good habits obvious in your environment
 
 **Why Vision Dominates**:
+
 - Humans are visual creatures
 - 10 million of 11 million sensory receptors are dedicated to sight
 - Visual cues trigger behavior automatically
@@ -467,6 +514,7 @@ Use formula: "After [CURRENT HABIT], I will [NEW HABIT]"
 **Strategy**: Restructure your space to make good cues visible and bad cues invisible
 
 **The Placement Principle**:
+
 - Put good habit cues in high-traffic, high-visibility areas
 - Remove bad habit cues from sight entirely
 - Create visual triggers that you can't miss
@@ -476,11 +524,13 @@ Use formula: "After [CURRENT HABIT], I will [NEW HABIT]"
 **Example 1: Reading More**
 
 **Before**:
+
 - Books on shelf in other room
 - TV remote on coffee table
 - Phone on couch next to you
 
 **After**:
+
 - Book on pillow (see it when you go to bed)
 - Book on coffee table (see it when you sit down)
 - Book in car (see it during lunch break)
@@ -492,12 +542,14 @@ Use formula: "After [CURRENT HABIT], I will [NEW HABIT]"
 **Example 2: Eating Healthier**
 
 **Before**:
+
 - Cookies in jar on counter
 - Fruit in crisper drawer in fridge
 - Vegetables in opaque bags in fridge
 - Chips in pantry at eye level
 
 **After**:
+
 - Fruit bowl on kitchen counter (first thing you see)
 - Pre-cut vegetables in clear containers at eye level in fridge
 - Water pitcher on counter
@@ -509,11 +561,13 @@ Use formula: "After [CURRENT HABIT], I will [NEW HABIT]"
 **Example 3: Practicing Guitar**
 
 **Before**:
+
 - Guitar in case in closet
 - TV easily accessible in living room
 - Comfortable couch in front of TV
 
 **After**:
+
 - Guitar on stand in middle of living room
 - Guitar in every room you spend time in
 - Amp plugged in and ready to go
@@ -524,10 +578,12 @@ Use formula: "After [CURRENT HABIT], I will [NEW HABIT]"
 **Example 4: Drinking More Water**
 
 **Before**:
+
 - Water in tap (have to walk to kitchen)
 - No visual reminder
 
 **After**:
+
 - Water bottle on desk (always visible)
 - Water bottle by bed
 - Water bottle in car
@@ -541,12 +597,14 @@ Use formula: "After [CURRENT HABIT], I will [NEW HABIT]"
 **Concept**: Train your brain to associate environments with specific behaviors
 
 **Problem with Mixed Environments**:
+
 - Bedroom used for work, TV, scrolling, sleep
 - Brain gets confused about what to do in that space
 - Cues become mixed and conflicting
 - Habits compete with each other
 
 **Solution - Environment Specialization**:
+
 - **Kitchen**: Eating only
 - **Bedroom**: Sleep and sex only
 - **Office**: Work only
@@ -555,12 +613,14 @@ Use formula: "After [CURRENT HABIT], I will [NEW HABIT]"
 
 **When Space is Limited**:
 Create micro-environments through:
+
 - **Physical dividers**: Screens, curtains, rugs
 - **Lighting**: Different lights for different activities
 - **Positioning**: Face different direction for different tasks
 - **Time blocks**: Same space, different times for different activities
 
 **Example - Studio Apartment**:
+
 - **Morning (6-9 AM)**: Desk faces window = work mode
 - **Afternoon (12-6 PM)**: Desk faces wall = deep focus mode
 - **Evening (7-10 PM)**: Sit on couch, desk cleared = relaxation mode
@@ -571,6 +631,7 @@ Create micro-environments through:
 **Step 1: Audit Your Environment**
 
 Walk through your space and ask:
+
 - What does this environment make obvious?
 - What behaviors are cued by visible objects?
 - What friction exists for good behaviors?
@@ -579,6 +640,7 @@ Walk through your space and ask:
 **Step 2: Make Good Cues Obvious**
 
 For each desired habit:
+
 1. Identify the cue that should trigger it
 2. Make that cue highly visible
 3. Put it in a place you can't miss
@@ -587,6 +649,7 @@ For each desired habit:
 **Step 3: Make Bad Cues Invisible**
 
 For each unwanted habit:
+
 1. Identify the cues that trigger it
 2. Remove those cues from environment
 3. Add friction to accessing them
@@ -595,6 +658,7 @@ For each unwanted habit:
 **Step 4: Create Redundancy**
 
 Don't rely on single cue:
+
 - Multiple books in multiple locations
 - Multiple water bottles in multiple places
 - Multiple workout clothes sets
@@ -607,6 +671,7 @@ Don't rely on single cue:
 **Principle**: Context is often a more powerful cue than time or specific objects
 
 **Why Context Works**:
+
 - Entire environment serves as trigger
 - Don't have to remember specific cue
 - Multiple sensory inputs reinforce behavior
@@ -615,12 +680,14 @@ Don't rely on single cue:
 ### The Context Conditioning Process
 
 **How It Develops**:
+
 1. **Initial pairing**: Behavior + Location co-occur
 2. **Repetition**: Same behavior in same location multiple times
 3. **Association**: Brain links context to behavior
 4. **Automation**: Entering context triggers behavior automatically
 
 **Example - The Gym Effect**:
+
 - First visits: Conscious effort to work out
 - After 50 visits: Walking through door triggers workout mode
 - Brain associates gym context with exercise behavior
@@ -633,21 +700,25 @@ Don't rely on single cue:
 **Examples**:
 
 **Coffee Shop = Deep Work**:
+
 - Only do focused work at coffee shop
 - Never check email or browse social media there
 - Brain learns: Coffee shop = deep concentration
 
 **Library = Reading**:
+
 - Only read at the library
 - Don't work, browse phone, or socialize
 - Brain learns: Library = reading mode
 
 **Park Bench = Journaling**:
+
 - Only journal at specific bench
 - Same location, same time, same activity
 - Brain learns: This bench = reflection time
 
 **Kitchen Table = Family Meals**:
+
 - Only eat family dinners here
 - No phones, no TV, no work
 - Brain learns: Table = connection time
@@ -655,16 +726,19 @@ Don't rely on single cue:
 ### Leveraging Existing Context Associations
 
 **Identify Pre-Existing Associations**:
+
 - Where do you naturally feel creative?
 - Where do you naturally relax?
 - Where do you naturally focus?
 
 **Use These Natural Associations**:
+
 - Don't fight them—leverage them
 - Build habits that align with existing context cues
 - Reinforce positive associations
 
 **Example**:
+
 - You feel energized at the park → Stack exercise habit there
 - You feel creative in coffee shops → Stack writing habit there
 - You feel calm in your bedroom → Stack meditation habit there
@@ -674,6 +748,7 @@ Don't rely on single cue:
 **Insight**: New contexts make new habits easier
 
 **Why It Works**:
+
 - No existing associations to overcome
 - No competing cues
 - Clean slate for behavior
@@ -682,19 +757,23 @@ Don't rely on single cue:
 **Applications**:
 
 **Moving to New Home**:
+
 - Perfect time to redesign all habit cues
 - Set up environment from scratch with intention
 - No old patterns to break
 
 **Starting New Job**:
+
 - Establish new work habits before old ones form
 - Create fresh routines in new context
 
 **Traveling**:
+
 - Easier to meditate, exercise, eat well when routine is disrupted
 - New environment = new cues available
 
 **Rearranging Room**:
+
 - Don't need to move—just rearrange furniture
 - Changes visual context enough to disrupt old patterns
 
@@ -723,6 +802,7 @@ Don't rely on single cue:
 **Application**: To break a bad habit, remove the cue from your environment
 
 **Why It Works**:
+
 - Can't act on what you don't see
 - Self-control is not resisting temptation—it's avoiding it
 - Eliminating the cue eliminates the craving
@@ -733,6 +813,7 @@ Don't rely on single cue:
 **Common Belief**: People with strong self-control resist temptation better
 
 **Reality (Research Evidence)**:
+
 - People with high "self-control" are better at avoiding temptation
 - They structure their lives to minimize exposure to cues
 - They don't white-knuckle through cravings
@@ -745,18 +826,21 @@ Don't rely on single cue:
 **Strategy 1: Physical Removal**
 
 **Examples**:
+
 - Want to stop watching TV? → Unplug it and put it in closet after each use
 - Want to stop eating junk food? → Don't buy it, remove it from house
 - Want to stop checking phone? → Keep it in another room
 - Want to stop drinking? → Remove all alcohol from house
 
 **The Distance Principle**: Increase physical distance between you and cue
+
 - Every second of distance reduces likelihood of action
 - 20 seconds can be enough to break the habit loop
 
 **Strategy 2: Visual Removal**
 
 **Examples**:
+
 - Put candy in opaque container (vs. clear jar)
 - Put junk food on top shelf (vs. eye level)
 - Put TV remote in drawer (vs. on coffee table)
@@ -765,6 +849,7 @@ Don't rely on single cue:
 **Strategy 3: Digital Removal**
 
 **Examples**:
+
 - Uninstall social media apps from phone
 - Unsubscribe from tempting email lists
 - Use website blockers during work hours
@@ -774,6 +859,7 @@ Don't rely on single cue:
 **Strategy 4: Context Avoidance**
 
 **Examples**:
+
 - Avoid bakery aisle if trying to stop eating pastries
 - Avoid bars if trying to stop drinking
 - Avoid mall if trying to stop shopping
@@ -784,12 +870,14 @@ Don't rely on single cue:
 **When You Can't Fully Remove Cue**:
 
 **Reduce Exposure**:
+
 - Can't eliminate phone? → Reduce notifications
 - Can't eliminate TV? → Remove from bedroom, keep in less convenient location
 - Can't eliminate junk food? → Buy smaller quantities, less variety
 - Can't eliminate work stress? → Create buffer time between work and home
 
 **Reduce Visibility**:
+
 - Turn off notification badges
 - Put tempting items in less visible locations
 - Rearrange environment to hide cues
@@ -798,6 +886,7 @@ Don't rely on single cue:
 ### Case Study: Breaking Phone Addiction
 
 **The Problem**:
+
 - Constantly checking phone
 - Disrupts focus and productivity
 - Triggered by notifications and visibility
@@ -805,21 +894,25 @@ Don't rely on single cue:
 **Cue-Elimination Strategy**:
 
 **Level 1 - Reduce Notifications**:
+
 - Turn off all non-essential notifications
 - Remove notification badges
 - Put phone on "Do Not Disturb" mode
 
 **Level 2 - Reduce Visibility**:
+
 - Keep phone face-down
 - Put phone in drawer while working
 - Charge phone in different room overnight
 
 **Level 3 - Reduce Access**:
+
 - Uninstall social media apps
 - Log out of accounts after each use
 - Use grayscale mode (reduces dopamine hit)
 
 **Level 4 - Increase Friction**:
+
 - Use phone lockbox with timer
 - Delete apps and only access via browser
 - Give phone to spouse/friend during focus time
@@ -831,23 +924,27 @@ Don't rely on single cue:
 **Process**:
 
 **Step 1: Identify Cue**
+
 - What triggers the bad habit?
 - Where does it happen?
 - What do you see right before you act?
 
 **Step 2: Remove or Hide Cue**
+
 - Physically remove from environment
 - Hide from sight
 - Reduce exposure
 - Change context to avoid trigger
 
 **Step 3: Create Friction**
+
 - Add steps between you and bad habit
 - Increase time to access
 - Make it inconvenient
 - Add barriers
 
 **Step 4: Replace with Better Cue**
+
 - Don't just remove bad cue—add good one
 - Fill void with positive alternative
 - Design environment for desired behavior
@@ -859,24 +956,31 @@ Don't rely on single cue:
 **Examples**:
 
 **Instead of**:
+
 - Removing TV (leaving empty space)
 
 **Do This**:
+
 - Remove TV, put bookshelf with books in its place
 
 **Instead of**:
+
 - Removing junk food (leaving empty pantry)
 
 **Do This**:
+
 - Remove junk food, fill with healthy snacks, water, fruit
 
 **Instead of**:
+
 - Hiding phone (leaving boredom)
 
 **Do This**:
+
 - Hide phone, put book or journal in that spot
 
 **Why It Works**:
+
 - Nature abhors a vacuum
 - Empty space gets filled with something
 - Better to intentionally fill with good cue
@@ -887,6 +991,7 @@ Don't rely on single cue:
 ### Diagnostic Questions for Law 1
 
 **When user wants to BUILD a habit, ask**:
+
 1. "What specific cue currently triggers this behavior (or could trigger it)?"
 2. "When and where does this behavior happen (or should happen)?"
 3. "What existing habit could serve as an anchor for this new habit?"
@@ -894,6 +999,7 @@ Don't rely on single cue:
 5. "How aware are you of the current triggers in your daily routine?"
 
 **When user wants to BREAK a habit, ask**:
+
 1. "What cue triggers this behavior?"
 2. "Where in your environment is this cue present?"
 3. "Can you remove this cue entirely, or only reduce exposure?"
@@ -971,30 +1077,35 @@ Don't rely on single cue:
 ### Strategy Selection Guide
 
 **Choose Implementation Intention when**:
+
 - User has no current routine in that time period
 - Behavior needs to happen at specific time
 - User wants to start completely new habit
 - Simple, one-time behaviors
 
 **Choose Habit Stacking when**:
+
 - User has strong existing routines
 - New habit logically connects to existing habit
 - Building habit chains or morning/evening routines
 - Want to leverage existing neural pathways
 
 **Choose Environment Design when**:
+
 - User has control over physical space
 - Habit is location-dependent
 - Need to eliminate competing cues
 - Visual reminders would be helpful
 
 **Choose Pointing-and-Calling when**:
+
 - User is unconscious of behavior
 - Need to break automatic patterns
 - High-stakes situations requiring awareness
 - Catching bad habits in the moment
 
 **Choose Habits Scorecard when**:
+
 - User doesn't know where to start
 - Need comprehensive awareness of all habits
 - Multiple habits to address
@@ -1003,6 +1114,7 @@ Don't rely on single cue:
 ### Quality Checks for Recommendations
 
 **Good "Make It Obvious" recommendation includes**:
+
 - [ ] Specific cue identified (time, location, or existing habit)
 - [ ] Clear implementation intention or habit stack formula
 - [ ] Environmental design element (visual cue or space redesign)
@@ -1010,6 +1122,7 @@ Don't rely on single cue:
 - [ ] Includes backup cues (redundancy)
 
 **Good "Make It Invisible" recommendation includes**:
+
 - [ ] Specific cue to remove identified
 - [ ] Concrete plan for cue elimination (physical removal, hiding, etc.)
 - [ ] Replacement strategy (what fills the void)

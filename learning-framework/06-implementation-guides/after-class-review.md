@@ -21,12 +21,12 @@ This is the MOST IMPORTANT step in the entire learning system. The immediate aft
 **What happens if you DON'T review immediately**:
 
 | Time After Lecture | Information Retained |
-|-------------------|---------------------|
-| Immediately after | ~90% |
-| 1 hour later | ~70% |
-| 1 day later | ~50% |
-| 1 week later | ~20% |
-| 1 month later | ~10% |
+| ------------------ | -------------------- |
+| Immediately after  | ~90%                 |
+| 1 hour later       | ~70%                 |
+| 1 day later        | ~50%                 |
+| 1 week later       | ~20%                 |
+| 1 month later      | ~10%                 |
 
 **By waiting just 24 hours, you've lost HALF the lecture.**
 
@@ -34,18 +34,19 @@ This is the MOST IMPORTANT step in the entire learning system. The immediate aft
 
 **What happens if you DO review immediately**:
 
-| Time After Lecture | Action | Retention |
-|-------------------|---------|-----------|
-| Within 2 hours | Immediate review | ~95% |
-| 1 day later | End-of-day review | ~90% |
-| 1 week later | First spaced review | ~85% |
-| 1 month later | Second spaced review | ~80% |
+| Time After Lecture | Action               | Retention |
+| ------------------ | -------------------- | --------- |
+| Within 2 hours     | Immediate review     | ~95%      |
+| 1 day later        | End-of-day review    | ~90%      |
+| 1 week later       | First spaced review  | ~85%      |
+| 1 month later      | Second spaced review | ~80%      |
 
 **Immediate review changes everything.**
 
 ### The Science
 
 **Why the first 1-2 hours matter**:
+
 - Information is in working memory (accessible but fragile)
 - Retrieval practice NOW = transfer to long-term memory
 - Synaptic consolidation happens in this window
@@ -54,6 +55,7 @@ This is the MOST IMPORTANT step in the entire learning system. The immediate aft
 **Critical finding**: One retrieval attempt within 2 hours = stronger memory than multiple study sessions later
 
 **The research** (Bjork & Bjork):
+
 - Testing immediately after learning → 90% retention after 1 week
 - No testing, studying later → 40% retention after 1 week
 - **More than 2x difference from 20 minutes of retrieval practice**
@@ -73,12 +75,14 @@ This is the MOST IMPORTANT step in the entire learning system. The immediate aft
 **Unacceptable**: Next day (too late, most benefit lost)
 
 **How to ensure this happens**:
+
 1. Schedule it as part of "class time" (lecture + review = one block)
 2. Find spot near classroom (library, empty room, outdoor bench)
 3. Set alarm reminder
 4. Make it a non-negotiable habit (like brushing teeth)
 
 **Example schedule**:
+
 ```
 9:00-10:00 AM: Biology lecture
 10:00-10:20 AM: Biology immediate review ← REQUIRED
@@ -93,6 +97,7 @@ This is the MOST IMPORTANT step in the entire learning system. The immediate aft
 ### Step 1: Go Through All Questions (10-12 minutes)
 
 **What to do**:
+
 1. Open your question-based notes from lecture
 2. Go through each question in order
 3. Attempt to answer FROM MEMORY (this is critical)
@@ -100,6 +105,7 @@ This is the MOST IMPORTANT step in the entire learning system. The immediate aft
 5. Answer verbally (fastest) or write brief answer
 
 **How to attempt answers**:
+
 - **Verbal**: Say answer out loud (or in your head)
 - **Written**: Write 1-3 sentence answer
 - **Mixed**: Speak for most, write for complex ones
@@ -107,6 +113,7 @@ This is the MOST IMPORTANT step in the entire learning system. The immediate aft
 **Key principle**: STRUGGLE with retrieval
 
 **What struggling looks like**:
+
 - "Hmm, I remember the professor said something about... was it...?"
 - "I know this has to do with X, but I can't remember the exact mechanism"
 - "There were three steps, I remember the first two..."
@@ -147,19 +154,21 @@ And making ATP? I don't remember the details."
 ### Step 2: Color Code Based on Understanding (3-4 minutes)
 
 **What to do**:
+
 1. Go back through each question
 2. Assign a color based on how well you answered
 3. Use consistent color system (create legend)
 
 **The Color-Coding System**:
 
-| Color | Meaning | What This Looks Like |
-|-------|---------|---------------------|
-| **Black** | Answered correctly with detail | Full, confident answer with specifics |
-| **Blue** | Answered partially or with uncertainty | Got main idea but missed details/nuance |
-| **Purple** | Couldn't answer at all | Drew blank or totally wrong answer |
+| Color      | Meaning                                | What This Looks Like                    |
+| ---------- | -------------------------------------- | --------------------------------------- |
+| **Black**  | Answered correctly with detail         | Full, confident answer with specifics   |
+| **Blue**   | Answered partially or with uncertainty | Got main idea but missed details/nuance |
+| **Purple** | Couldn't answer at all                 | Drew blank or totally wrong answer      |
 
 **Alternative color system** (if you prefer):
+
 - **Green** = Solid understanding
 - **Yellow** = Partial understanding
 - **Orange** = Weak understanding
@@ -170,18 +179,21 @@ And making ATP? I don't remember the details."
 **How to decide which color**:
 
 **Black/Green criteria** (all must be true):
+
 - [ ] Could answer without long pause
 - [ ] Answer was accurate and detailed
 - [ ] Felt confident about answer
 - [ ] Could teach this to someone else
 
 **Blue/Yellow criteria** (some true):
+
 - [ ] Got general idea but missed specifics
 - [ ] Needed time to think/remember
 - [ ] Answer was partially correct
 - [ ] Some uncertainty or confusion
 
 **Purple/Red criteria** (any true):
+
 - [ ] Couldn't remember at all
 - [ ] Drew complete blank
 - [ ] Answer was entirely wrong
@@ -213,6 +225,7 @@ Question 8: How do two stages connect? [PURPLE]
 ### Step 3: Reformat/Rewrite Questions for Clarity (2-3 minutes)
 
 **What to do**:
+
 1. Review your questions from lecture
 2. Some will be unclear, abbreviated, or incomplete
 3. Rewrite them for future study
@@ -220,6 +233,7 @@ Question 8: How do two stages connect? [PURPLE]
 **Example reformatting**:
 
 **During lecture** (rushed, abbreviated):
+
 ```
 - mitosis phases??
 - DNA -> RNA???
@@ -227,6 +241,7 @@ Question 8: How do two stages connect? [PURPLE]
 ```
 
 **After-class review** (reformulated):
+
 ```
 - What are the phases of mitosis in correct order? [PURPLE]
 - What is the process of DNA being transcribed to RNA? [BLUE]
@@ -234,11 +249,13 @@ Question 8: How do two stages connect? [PURPLE]
 ```
 
 **Why this matters**:
+
 - Clear questions = effective future study
 - Vague questions = wasted time later trying to remember what you meant
 - Reformulating forces you to think about the concept again (more encoding)
 
 **Quick test**: "If I read this question in 2 weeks, would I know what I'm asking?"
+
 - If yes: Leave as is
 - If no: Reformulate now
 
@@ -247,6 +264,7 @@ Question 8: How do two stages connect? [PURPLE]
 ### Step 4: Cover Diagrams and Attempt to Recall (2 minutes)
 
 **What to do**:
+
 1. For any diagrams in slides or textbook mentioned in lecture
 2. Cover the diagram with hand/paper
 3. Try to draw it from memory (rough sketch OK)
@@ -254,6 +272,7 @@ Question 8: How do two stages connect? [PURPLE]
 5. Color code your diagram recall
 
 **Example** (Cell membrane structure):
+
 ```
 Step 1: Cover Figure 5.3 (cell membrane diagram)
 Step 2: Draw what you remember (phospholipid bilayer, proteins)
@@ -265,6 +284,7 @@ Step 4: Color code:
 ```
 
 **Why diagrams need special attention**:
+
 - Visual memory is different from verbal memory
 - "I recognized it" ≠ "I can recall it"
 - Diagrams often appear on exams
@@ -277,17 +297,20 @@ Step 4: Color code:
 ### Step 5: Prioritize for End-of-Day Review (1 minute)
 
 **What to do**:
+
 1. Count how many purple, blue, and black questions you have
 2. Mark the top 5-10 purple/blue questions with a star (⭐)
 3. These are your priority for end-of-day review
 
 **Selection criteria for starred questions**:
+
 - Professor emphasized this (said "important" or "on exam")
 - Foundational concept (needed to understand later topics)
 - You're very confused about it
 - Appeared in pretest (you've now struggled with it twice)
 
 **Example**:
+
 ```
 Total questions: 28
 Purple: 8
@@ -311,6 +334,7 @@ These 5 get extra attention tonight.
 **Note**: This step is OPTIONAL for immediate review. Can be saved for end-of-day review.
 
 **What to do** (if you have time):
+
 1. For questions you colored PURPLE
 2. NOW look at textbook, slides, or notes
 3. Find the answer
@@ -319,6 +343,7 @@ These 5 get extra attention tonight.
 6. If successful, change color from PURPLE → BLUE
 
 **Example**:
+
 ```
 Question: What is the electron transport chain? [PURPLE]
 
@@ -337,18 +362,21 @@ along and use that to make ATP by creating a proton gradient"
 ```
 
 **Why OPTIONAL**:
+
 - The struggle (attempting to recall) is more important than getting the answer
 - Looking up answers can create false sense of mastery
 - Better to struggle again during end-of-day review (spacing effect)
 - Only look up if you have extra time or are very confused
 
 **When to include this step**:
+
 - Light day with only 1-2 lectures
 - Topic is critically important
 - You're very confused and anxious about it
 - Exam is coming up soon
 
 **When to skip this step**:
+
 - Heavy day with 3+ lectures
 - You'll have time for end-of-day review
 - Want to maximize spacing effect
@@ -362,6 +390,7 @@ This is the SECOND review on the same day. Critical for spacing effect.
 **When**: Before bed (or end of your day)
 
 **What to do**:
+
 1. Review ALL questions from today's lectures
 2. Focus especially on starred (⭐) purple/blue questions
 3. Attempt to answer again FROM MEMORY
@@ -369,6 +398,7 @@ This is the SECOND review on the same day. Critical for spacing effect.
 5. Update color coding if improvement
 
 **Why before bed**:
+
 - Sleep consolidates memory
 - Reviewing before sleep = enhanced consolidation
 - Spacing (morning review + evening review) = stronger encoding
@@ -437,17 +467,20 @@ powers ATP synthase?"
 **Solutions**:
 
 **Option 1: Abbreviated immediate review**
+
 - 10 minutes per class (instead of 20)
 - Quick attempt at all questions
 - Color code only
 - Full review saved for end-of-day
 
 **Option 2: Prioritized immediate review**
+
 - Full 20-minute review for hardest class
 - 10-minute review for medium class
 - 5-minute review for easy class
 
 **Option 3: Rolling review**
+
 - Review Class 1 between Class 1 and Class 2
 - Review Class 2 between Class 2 and Class 3
 - Review Class 3 after Class 3
@@ -456,6 +489,7 @@ powers ATP synthase?"
 **Recommended**: Option 3 (rolling review)
 
 **Example schedule** (3 lectures):
+
 ```
 9:00-10:00 AM: Biology
 10:00-10:20 AM: Biology immediate review
@@ -474,19 +508,23 @@ powers ATP synthase?"
 **Solutions**:
 
 **Option 1: Combined review**
+
 - Both lectures end
 - 30-minute review block (15 min each)
 
 **Option 2: Delayed but same-day**
+
 - Review after lunch or later
 - MUST be same day
 
 **Option 3: Between-class micro-review**
+
 - 5-minute break between classes
 - Quick color-coding only
 - Full review later
 
 **Example**:
+
 ```
 10:00-11:00 AM: Class A
 11:00-12:00 PM: Class B (back-to-back)
@@ -510,6 +548,7 @@ PURPLE: 8 questions (29%)
 ```
 
 **What this means**:
+
 - 29% solid understanding (BLACK)
 - 43% partial understanding (BLUE)
 - 29% weak/no understanding (PURPLE)
@@ -519,16 +558,19 @@ PURPLE: 8 questions (29%)
 ### How to Use Color Codes for Future Study
 
 **Priority ranking**:
+
 1. **PURPLE** = Highest priority (can't answer)
 2. **BLUE** = Medium priority (partial answer)
 3. **BLACK** = Low priority (maintain with spaced review only)
 
 **Time allocation** for next study session:
+
 - 60% of time → PURPLE questions
 - 30% of time → BLUE questions
 - 10% of time → BLACK questions (just review to maintain)
 
 **Example study session** (1 hour on Biology):
+
 ```
 36 min: Work through PURPLE questions (practice, textbook, examples)
 18 min: Work through BLUE questions (fill in gaps)
@@ -566,11 +608,13 @@ After third spaced review (2 weeks later):
 **Reframe**: You don't have time NOT to do this.
 
 **Reality check**:
+
 - Skipping immediate review = need 2-3x more study time later
 - 20 minutes now saves 60 minutes later
 - This IS the most efficient use of time
 
 **Solutions if genuinely constrained**:
+
 1. **Micro-review**: 5-10 minutes (bare minimum)
    - Just color-code questions (attempt to answer verbally only)
    - Full review saved for end-of-day
@@ -585,16 +629,19 @@ After third spaced review (2 weeks later):
 ### Challenge 2: "I can't answer ANY questions (100% purple)"
 
 **First**: Is this first lecture on brand new topic?
+
 - If yes: Some purple is expected
 - But if EVERYTHING is purple, something's wrong
 
 **Possible causes**:
+
 1. **Didn't do pretest**: Start pretesting (primes your brain)
 2. **Didn't pay attention in lecture**: Improve focus
 3. **Questions too hard**: Break into simpler questions
 4. **Material genuinely very difficult**: Seek help NOW
 
 **Immediate actions**:
+
 1. Attend professor office hours THIS WEEK
 2. Form study group
 3. Watch supplementary videos (Khan Academy, etc.)
@@ -607,6 +654,7 @@ After third spaced review (2 weeks later):
 **This means**: You're being too generous with yourself (or testing doesn't match studying)
 
 **Solutions**:
+
 1. **Raise the bar for BLACK**:
    - Can you teach this to someone who's never learned it?
    - Can you apply it in new contexts?
@@ -619,6 +667,7 @@ After third spaced review (2 weeks later):
    - If exam asks application but you only tested definition → not actually BLACK
 
 **Recalibration**:
+
 - After first exam, review what you coded BLACK
 - If you missed those questions → your BLACK bar is too low
 - Adjust for next round
@@ -626,18 +675,21 @@ After third spaced review (2 weeks later):
 ### Challenge 4: "This takes longer than 20 minutes"
 
 **Possible causes**:
+
 1. Too many questions (wrote 50+ during lecture)
 2. Trying to write full answers (should be brief attempts)
 3. Looking up every answer (save most for end-of-day)
 4. Perfecting questions instead of color-coding quickly
 
 **Solutions**:
+
 1. **Limit lecture questions**: 20-40 max (quality over quantity)
 2. **Verbal answers**: Speak answers instead of writing (much faster)
 3. **Delay lookup**: Only look up a few critical purples, rest later
 4. **Use timer**: Set 20-minute timer, finish when it beeps
 
 **Time breakdown** (for 30 questions):
+
 - 10 min: Quick attempt at each question (20 sec each)
 - 5 min: Color code all questions
 - 3 min: Reformulate unclear questions
@@ -652,6 +704,7 @@ After third spaced review (2 weeks later):
 **Reframe**: Struggling to answer IS learning.
 
 **Key concept**: Retrieval practice works BECAUSE it's difficult
+
 - Easy recall = weak memory strengthening
 - Difficult recall = strong memory strengthening
 - Failed recall = priming for future learning
@@ -659,6 +712,7 @@ After third spaced review (2 weeks later):
 **Research finding**: Testing and failing STILL produces better learning than re-studying
 
 **What to expect**:
+
 - Immediate review: Lots of purple (can't answer)
 - End-of-day review: Some purple → blue
 - Spaced review 3 days later: Some blue → black
@@ -669,17 +723,20 @@ After third spaced review (2 weeks later):
 ### Challenge 6: "Material from lecture was too much to review"
 
 **This suggests**:
+
 1. Lecture covered too much (common in survey courses)
 2. You wrote too many questions
 3. Questions need better prioritization
 
 **Solutions**:
+
 1. **Selective review**: Review only ⭐ marked questions in immediate review
 2. **Categorize during lecture**: Mark questions as High/Medium/Low priority in real-time
 3. **Abbreviate for low-priority**: Just color-code, don't attempt full answers
 4. **Accept imperfection**: Cover 80% thoroughly > 100% superficially
 
 **Priority markers to use during lecture**:
+
 - ⭐ = Professor said "important"
 - EXAM = Professor said "on exam"
 - 🔑 = Foundational concept
@@ -696,6 +753,7 @@ After third spaced review (2 weeks later):
 **What**: Compare today's material to previous lectures
 
 **How**:
+
 1. After color-coding questions, add 2-3 comparison questions:
    - "How is today's topic different from last lecture?"
    - "What connects today's material to previous topics?"
@@ -704,6 +762,7 @@ After third spaced review (2 weeks later):
 3. This builds integrated knowledge (not isolated topics)
 
 **Example**:
+
 ```
 Today: Covalent bonding
 Previous: Ionic bonding
@@ -719,6 +778,7 @@ Comparison questions:
 **What**: Explain concepts out loud as if teaching someone
 
 **How**:
+
 1. Pick 3-5 questions from your list
 2. Speak complete answer out loud (record yourself if helpful)
 3. Use plain language, no jargon
@@ -728,6 +788,7 @@ Comparison questions:
 **Why this works**: Teaching requires deepest level of understanding
 
 **Example**:
+
 ```
 Question: What is natural selection?
 
@@ -747,6 +808,7 @@ babies inherit the fast-running genes."
 **What**: Predict what will come next
 
 **How**:
+
 1. After reviewing today's questions, write:
    - "What topic will likely come next lecture?"
    - "What questions do I have going forward?"
@@ -754,6 +816,7 @@ babies inherit the fast-running genes."
 2. This primes your brain for next lecture
 
 **Example**:
+
 ```
 Today we learned: Mitosis (cell division)
 Prediction for next lecture: Meiosis (specialized cell division)
@@ -771,6 +834,7 @@ I'll pretest these before next class.
 **What**: For PURPLE questions, identify WHY you couldn't answer
 
 **How**:
+
 1. For each purple question, note:
    - "Never heard this concept before"
    - "Forgot during lecture"
@@ -779,6 +843,7 @@ I'll pretest these before next class.
 2. This identifies patterns in your gaps
 
 **Example**:
+
 ```
 PURPLE questions analysis:
 
@@ -798,6 +863,7 @@ Action: Focus vocabulary study and memorization of specifics.
 **What**: Use different senses and modalities
 
 **How**:
+
 1. **Verbal**: Speak answers out loud
 2. **Written**: Write answers on paper
 3. **Visual**: Draw diagrams or concept maps
@@ -805,6 +871,7 @@ Action: Focus vocabulary study and memorization of specifics.
 5. **Auditory**: Record yourself explaining and listen back
 
 **Example** (photosynthesis review):
+
 ```
 Verbal: Explain photosynthesis out loud
 Written: Write steps of light-dependent reactions
@@ -823,14 +890,14 @@ Each modality strengthens different neural pathways.
 
 **The complete review schedule**:
 
-| Timing | Review Type | Duration | Purpose |
-|--------|-------------|----------|---------|
-| Within 2 hours | Immediate review | 20 min | Initial encoding |
-| Same evening | End-of-day review | 20 min | First spacing interval |
-| 3 days later | First spaced review | 15 min | Combat forgetting |
-| 1 week later | Second spaced review | 15 min | Long-term consolidation |
-| 2 weeks later | Third spaced review | 10 min | Exam prep begins |
-| 1 month later | Fourth spaced review | 10 min | Cumulative review |
+| Timing         | Review Type          | Duration | Purpose                 |
+| -------------- | -------------------- | -------- | ----------------------- |
+| Within 2 hours | Immediate review     | 20 min   | Initial encoding        |
+| Same evening   | End-of-day review    | 20 min   | First spacing interval  |
+| 3 days later   | First spaced review  | 15 min   | Combat forgetting       |
+| 1 week later   | Second spaced review | 15 min   | Long-term consolidation |
+| 2 weeks later  | Third spaced review  | 10 min   | Exam prep begins        |
+| 1 month later  | Fourth spaced review | 10 min   | Cumulative review       |
 
 **Immediate review is the FOUNDATION.**
 
@@ -881,6 +948,7 @@ Progress: 50% of material now mastered (BLACK)
 ### Daily Metrics
 
 After each immediate review, track:
+
 - [ ] Time spent: [Minutes]
 - [ ] Questions reviewed: [Count]
 - [ ] Color distribution: [X% BLACK, Y% BLUE, Z% PURPLE]
@@ -888,6 +956,7 @@ After each immediate review, track:
 - [ ] Did end-of-day review: [Y/N]
 
 **Target**:
+
 - Time: 15-25 minutes
 - All questions reviewed
 - Distribution: 20-40% BLACK, 30-50% BLUE, 20-40% PURPLE (first review)
@@ -897,6 +966,7 @@ After each immediate review, track:
 ### Weekly Metrics
 
 Every Sunday, review the week:
+
 - [ ] Immediate reviews completed: [X/Y lectures]
 - [ ] Adherence rate: [%] (target: 90%+)
 - [ ] Average color distribution across all lectures
@@ -906,6 +976,7 @@ Every Sunday, review the week:
 ### Long-Term Metrics
 
 After first exam:
+
 - [ ] Did immediate review correlate with better retention?
 - [ ] Did color coding accurately predict exam performance?
 - [ ] Were BLACK topics easy on exam?
@@ -919,6 +990,7 @@ After first exam:
 ### Implementation Checklist
 
 #### First Time (Trial Run)
+
 - [ ] Choose one lecture to practice immediate review
 - [ ] Set 25-minute timer after class
 - [ ] Find quiet spot (library, empty classroom, outside)
@@ -928,6 +1000,7 @@ After first exam:
 - [ ] Note how this felt vs. traditional review
 
 #### First Week
+
 - [ ] Immediate review after EVERY lecture (non-negotiable)
 - [ ] Track time spent per review
 - [ ] Track color distributions
@@ -935,6 +1008,7 @@ After first exam:
 - [ ] Reflect: Is this making lectures more valuable?
 
 #### First Month
+
 - [ ] Consistent immediate review habit established
 - [ ] Color coding calibrated (honest assessment)
 - [ ] Integration with spacing schedule
@@ -1052,10 +1126,12 @@ Use this structure every time:
 
 ```markdown
 # Immediate Review: [Course] - [Date]
+
 **Lecture topic**: [Topic]
 **Review started**: [Time]
 
 ## Quick Attempt (10 min)
+
 [Go through all questions, attempt to answer]
 
 Question 1: [Question from lecture]
@@ -1067,28 +1143,35 @@ My attempt: [Brief answer attempt]
 [Continue for all questions...]
 
 ## Color Coding (3 min)
+
 BLACK (solid): [List question numbers]
 BLUE (partial): [List question numbers]
 PURPLE (weak): [List question numbers]
 
 **Distribution**:
+
 - BLACK: [X] questions ([%])
 - BLUE: [Y] questions ([%])
 - PURPLE: [Z] questions ([%])
 
 ## Reformulated Questions (2 min)
+
 [Rewrite any unclear questions]
 
 Original: [Unclear question]
 Reformulated: [Clear question]
 
 ## Diagram Recall (2 min)
+
 Diagrams to practice:
+
 - [Figure X]: [Could/Couldn't recall]
 - [Figure Y]: [Could/Couldn't recall]
 
 ## Priority for End-of-Day (1 min)
+
 ⭐ Top 5 questions to focus on tonight:
+
 1. [Question] [PURPLE/BLUE]
 2. [Question] [PURPLE/BLUE]
 3. [Question] [PURPLE/BLUE]
@@ -1096,6 +1179,7 @@ Diagrams to practice:
 5. [Question] [PURPLE/BLUE]
 
 ## Notes
+
 - Challenges: [Any difficulties during review]
 - Insights: [Connections or realizations]
 - Follow-up: [Do I need to seek help on anything?]
@@ -1132,12 +1216,14 @@ Find the time. Make it non-negotiable.
 ### The First Time Will Feel Awkward
 
 **What to expect**:
+
 - Uncomfortable retrieving (you'll struggle a lot)
 - Surprising how much you've forgotten (after just 1 hour!)
 - Lots of purple coding (discouraging at first)
 - Feels like you learned nothing (this is the point)
 
 **Why this is good**:
+
 - Struggling = your brain encoding
 - Forgotten material = exactly what needs review
 - Purple coding = honest assessment
@@ -1150,11 +1236,13 @@ Find the time. Make it non-negotiable.
 **Mental frame**: Immediate review is PART of the lecture, not separate.
 
 **Schedule it as**:
+
 ```
 9:00-10:20 AM: Biology (60 min lecture + 20 min review)
 ```
 
 NOT as:
+
 ```
 9:00-10:00 AM: Biology
 [Maybe review later if I have time]
@@ -1173,6 +1261,7 @@ NOT as:
 ### What Success Looks Like
 
 **After 1 month of consistent immediate reviews**:
+
 - You remember lectures days/weeks later
 - Color codes show purple → blue → black progression
 - Studying for exams is mostly reviewing black questions

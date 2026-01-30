@@ -1,6 +1,7 @@
 # Data Models - Structured Data for Learning Systems
 
 ## Purpose
+
 This document provides data structures for building learning applications that implement the framework. Includes TypeScript interfaces, database schemas, and API specifications.
 
 ---
@@ -22,10 +23,10 @@ interface StudentProfile {
 
   // Learning Characteristics
   learningProfile: {
-    energyPattern: 'morning_person' | 'night_owl' | 'consistent' | 'custom';
+    energyPattern: "morning_person" | "night_owl" | "consistent" | "custom";
     customEnergyLevels?: Array<{
       timeRange: string; // e.g., "09:00-12:00"
-      energyLevel: 'high' | 'medium' | 'low';
+      energyLevel: "high" | "medium" | "low";
     }>;
     preferredStudyDuration: number; // minutes per session
     focusCapacity: number; // minutes before break needed
@@ -54,7 +55,7 @@ interface StudentProfile {
     currentMethods: string[]; // e.g., ['re-reading', 'highlighting', 'practice problems']
     effectiveMethods: string[]; // methods that have worked well
     ineffectiveMethods: string[]; // methods that haven't worked
-    preferredEnvironment: 'quiet' | 'moderate_noise' | 'music' | 'varied';
+    preferredEnvironment: "quiet" | "moderate_noise" | "music" | "varied";
     typicalStudyLocation: string;
   };
 
@@ -111,6 +112,7 @@ interface StudentProfile {
 ```
 
 **Database Schema (PostgreSQL):**
+
 ```sql
 CREATE TABLE student_profiles (
   id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
@@ -175,7 +177,14 @@ interface Course {
 
   // Assessment Structure
   assessments: {
-    format: Array<'multiple_choice' | 'short_answer' | 'essay' | 'problem_solving' | 'practical' | 'presentation'>;
+    format: Array<
+      | "multiple_choice"
+      | "short_answer"
+      | "essay"
+      | "problem_solving"
+      | "practical"
+      | "presentation"
+    >;
     weightDistribution: Array<{
       type: string; // e.g., "Midterm", "Final", "Homework", "Participation"
       weight: number; // percentage, e.g., 30
@@ -194,7 +203,7 @@ interface Course {
     id: string;
     name: string;
     order: number;
-    status: 'not_started' | 'in_progress' | 'completed';
+    status: "not_started" | "in_progress" | "completed";
     importance: 1 | 2 | 3 | 4 | 5; // 5 = most important
     estimatedHours: number;
     prerequisites?: string[]; // IDs of prerequisite topics
@@ -216,7 +225,7 @@ interface Course {
     importantDates: Array<{
       date: Date;
       description: string; // e.g., "Midterm exam"
-      type: 'exam' | 'assignment' | 'quiz' | 'other';
+      type: "exam" | "assignment" | "quiz" | "other";
     }>;
   };
 
@@ -231,7 +240,7 @@ interface Course {
 
   // Resources
   resources: Array<{
-    type: 'textbook' | 'video' | 'website' | 'notes' | 'practice_problems' | 'other';
+    type: "textbook" | "video" | "website" | "notes" | "practice_problems" | "other";
     title: string;
     url?: string;
     description?: string;
@@ -249,6 +258,7 @@ interface Course {
 ```
 
 **Database Schema (PostgreSQL):**
+
 ```sql
 CREATE TABLE courses (
   id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
@@ -304,7 +314,7 @@ interface Topic {
     keywords: string[];
     prerequisites: string[]; // IDs of prerequisite topics
     relatedTopics: string[]; // IDs of related topics
-    difficulty: 'easy' | 'medium' | 'hard';
+    difficulty: "easy" | "medium" | "hard";
     estimatedHours: number;
   };
 
@@ -320,7 +330,7 @@ interface Topic {
     history: Array<{
       date: Date;
       level: 1 | 2 | 3 | 4 | 5;
-      assessmentType: 'self' | 'quiz' | 'test' | 'practice';
+      assessmentType: "self" | "quiz" | "test" | "practice";
       notes?: string;
     }>;
 
@@ -388,6 +398,7 @@ interface Topic {
 ```
 
 **Database Schema (PostgreSQL):**
+
 ```sql
 CREATE TABLE topics (
   id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
@@ -437,7 +448,7 @@ interface StudySession {
   plan: {
     plannedDuration: number; // minutes
     plannedActivities: Array<{
-      type: 'reading' | 'active_recall' | 'practice_problems' | 'review' | 'video' | 'other';
+      type: "reading" | "active_recall" | "practice_problems" | "review" | "video" | "other";
       topic: string;
       duration: number; // minutes
     }>;
@@ -498,7 +509,7 @@ interface StudySession {
     satisfaction: number; // 1-10 scale
 
     distractions: Array<{
-      type: 'phone' | 'noise' | 'people' | 'thoughts' | 'other';
+      type: "phone" | "noise" | "people" | "thoughts" | "other";
       count: number;
     }>;
 
@@ -508,10 +519,10 @@ interface StudySession {
   // Environment
   environment: {
     location: string;
-    timeOfDay: 'early_morning' | 'morning' | 'afternoon' | 'evening' | 'night';
+    timeOfDay: "early_morning" | "morning" | "afternoon" | "evening" | "night";
     tools: string[]; // e.g., ["textbook", "laptop", "flashcards"]
     music?: boolean;
-    company?: 'alone' | 'study_group' | 'other_people_nearby';
+    company?: "alone" | "study_group" | "other_people_nearby";
   };
 
   // Reflection
@@ -537,7 +548,7 @@ interface StudySession {
   // Metadata
   metadata: {
     isPlanned: boolean; // was this scheduled or ad-hoc?
-    sessionType: 'regular' | 'exam_prep' | 'review' | 'catchup' | 'exploration';
+    sessionType: "regular" | "exam_prep" | "review" | "catchup" | "exploration";
     tags: string[];
     voiceNotes?: string; // URL to audio recording
     attachments?: string[]; // URLs to files
@@ -546,6 +557,7 @@ interface StudySession {
 ```
 
 **Database Schema (PostgreSQL):**
+
 ```sql
 CREATE TABLE study_sessions (
   id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
@@ -597,7 +609,7 @@ interface ReviewSchedule {
 
   // Schedule Configuration
   config: {
-    algorithm: 'standard' | 'intensive' | 'long_term' | 'custom';
+    algorithm: "standard" | "intensive" | "long_term" | "custom";
     // standard: 1, 3, 7, 14, 30 days
     // intensive: 1, 2, 4, 7, 14 days
     // long_term: 7, 21, 45, 90 days
@@ -618,13 +630,13 @@ interface ReviewSchedule {
       success: boolean;
       durationMinutes: number;
       recallAccuracy: number; // 0-100%
-      difficulty: 'easy' | 'medium' | 'hard';
+      difficulty: "easy" | "medium" | "hard";
     };
 
     nextReview: {
       scheduledDate: Date;
       estimatedDuration: number; // minutes
-      priority: 'high' | 'medium' | 'low';
+      priority: "high" | "medium" | "low";
       notificationSent: boolean;
     };
   };
@@ -638,9 +650,9 @@ interface ReviewSchedule {
 
     performance: {
       recallAccuracy: number; // 0-100%
-      speed: 'faster' | 'normal' | 'slower'; // compared to previous
+      speed: "faster" | "normal" | "slower"; // compared to previous
       confidence: number; // 1-10 scale
-      difficulty: 'easy' | 'medium' | 'hard';
+      difficulty: "easy" | "medium" | "hard";
     };
 
     intervalAfter: number; // next interval decided after this review
@@ -670,6 +682,7 @@ interface ReviewSchedule {
 ```
 
 **Database Schema (PostgreSQL):**
+
 ```sql
 CREATE TABLE review_schedules (
   id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
@@ -705,13 +718,13 @@ interface Question {
   id: string;
   topicId: string;
   courseId: string;
-  createdBy: 'student' | 'instructor' | 'system' | 'imported';
+  createdBy: "student" | "instructor" | "system" | "imported";
   createdAt: Date;
   updatedAt: Date;
 
   // Question Content
   content: {
-    type: 'multiple_choice' | 'short_answer' | 'true_false' | 'problem_solving' | 'essay';
+    type: "multiple_choice" | "short_answer" | "true_false" | "problem_solving" | "essay";
 
     question: string; // the actual question text
     context?: string; // additional context/scenario
@@ -732,7 +745,7 @@ interface Question {
     solution?: string; // step-by-step solution (for problems)
 
     attachments?: Array<{
-      type: 'image' | 'diagram' | 'code' | 'formula';
+      type: "image" | "diagram" | "code" | "formula";
       url: string;
       description?: string;
     }>;
@@ -740,7 +753,7 @@ interface Question {
 
   // Question Metadata
   metadata: {
-    difficulty: 'easy' | 'medium' | 'hard';
+    difficulty: "easy" | "medium" | "hard";
     estimatedTime: number; // seconds
     skills: string[]; // e.g., ["algebra", "problem-solving", "critical-thinking"]
     keywords: string[];
@@ -777,7 +790,7 @@ interface Question {
       notes?: string;
     }>;
 
-    masteryLevel: 'not_attempted' | 'struggling' | 'developing' | 'proficient' | 'mastered';
+    masteryLevel: "not_attempted" | "struggling" | "developing" | "proficient" | "mastered";
     // not_attempted: 0 attempts
     // struggling: <50% correct
     // developing: 50-79% correct
@@ -789,7 +802,7 @@ interface Question {
   scheduling: {
     dueForReview: boolean;
     nextReviewDate?: Date;
-    reviewPriority: 'high' | 'medium' | 'low';
+    reviewPriority: "high" | "medium" | "low";
     // high: recently got wrong
     // medium: got right but needs reinforcement
     // low: mastered, occasional review
@@ -808,6 +821,7 @@ interface Question {
 ```
 
 **Database Schema (PostgreSQL):**
+
 ```sql
 CREATE TABLE questions (
   id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
@@ -846,7 +860,7 @@ interface ProgressSnapshot {
   studentId: string;
   courseId?: string; // null for overall progress
   createdAt: Date;
-  periodType: 'daily' | 'weekly' | 'monthly' | 'semester' | 'custom';
+  periodType: "daily" | "weekly" | "monthly" | "semester" | "custom";
   periodStart: Date;
   periodEnd: Date;
 
@@ -897,11 +911,14 @@ interface ProgressSnapshot {
     mostEffectiveMethod: string;
     leastEffectiveMethod: string;
 
-    methodEffectiveness: Map<string, {
-      sessionsUsed: number;
-      averageSatisfaction: number;
-      averageMasteryGain: number;
-    }>;
+    methodEffectiveness: Map<
+      string,
+      {
+        sessionsUsed: number;
+        averageSatisfaction: number;
+        averageMasteryGain: number;
+      }
+    >;
   };
 
   // Consistency Metrics
@@ -928,7 +945,7 @@ interface ProgressSnapshot {
     }>;
 
     averageTestScore: number;
-    testScoreTrend: 'improving' | 'stable' | 'declining';
+    testScoreTrend: "improving" | "stable" | "declining";
 
     assignmentScores: Array<{
       assignmentId: string;
@@ -995,6 +1012,7 @@ interface ProgressSnapshot {
 ```
 
 **Database Schema (PostgreSQL):**
+
 ```sql
 CREATE TABLE progress_snapshots (
   id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
@@ -1107,23 +1125,23 @@ POST   /api/students/:studentId/diagnose-problems
 // Real-time updates for study sessions
 interface WebSocketEvents {
   // Study session updates
-  'study:session:started': {
+  "study:session:started": {
     sessionId: string;
     startTime: Date;
   };
 
-  'study:session:paused': {
+  "study:session:paused": {
     sessionId: string;
     pauseTime: Date;
     durationSoFar: number;
   };
 
-  'study:session:resumed': {
+  "study:session:resumed": {
     sessionId: string;
     resumeTime: Date;
   };
 
-  'study:session:completed': {
+  "study:session:completed": {
     sessionId: string;
     endTime: Date;
     summary: {
@@ -1134,7 +1152,7 @@ interface WebSocketEvents {
   };
 
   // Review reminders
-  'review:due': {
+  "review:due": {
     topicId: string;
     topicName: string;
     courseId: string;
@@ -1142,20 +1160,20 @@ interface WebSocketEvents {
   };
 
   // Progress updates
-  'progress:mastery-gained': {
+  "progress:mastery-gained": {
     topicId: string;
     topicName: string;
     oldLevel: number;
     newLevel: number;
   };
 
-  'progress:streak-updated': {
+  "progress:streak-updated": {
     currentStreak: number;
     isNewRecord: boolean;
   };
 
   // Achievements
-  'achievement:unlocked': {
+  "achievement:unlocked": {
     achievementId: string;
     title: string;
     description: string;
@@ -1177,16 +1195,16 @@ todayEnd.setHours(23, 59, 59, 999);
 const dueTopics = await database.reviewSchedules.findMany({
   where: {
     studentId: studentId,
-    'state.nextReview.scheduledDate': { $lte: todayEnd },
-    'metadata.paused': false
+    "state.nextReview.scheduledDate": { $lte: todayEnd },
+    "metadata.paused": false,
   },
   include: {
     topic: true,
-    course: true
+    course: true,
   },
   orderBy: {
-    'state.nextReview.priority': 'desc'
-  }
+    "state.nextReview.priority": "desc",
+  },
 });
 ```
 
@@ -1211,7 +1229,10 @@ ORDER BY
 
 ```typescript
 // Algorithm to calculate weekly progress
-async function calculateWeeklyProgress(studentId: string, weekStart: Date): Promise<ProgressSnapshot> {
+async function calculateWeeklyProgress(
+  studentId: string,
+  weekStart: Date
+): Promise<ProgressSnapshot> {
   const weekEnd = new Date(weekStart);
   weekEnd.setDate(weekEnd.getDate() + 7);
 
@@ -1219,8 +1240,8 @@ async function calculateWeeklyProgress(studentId: string, weekStart: Date): Prom
   const sessions = await database.studySessions.findMany({
     where: {
       studentId: studentId,
-      createdAt: { $gte: weekStart, $lt: weekEnd }
-    }
+      createdAt: { $gte: weekStart, $lt: weekEnd },
+    },
   });
 
   // Aggregate study time
@@ -1230,12 +1251,12 @@ async function calculateWeeklyProgress(studentId: string, weekStart: Date): Prom
   const masteryChanges = await database.topics.findMany({
     where: {
       studentId: studentId,
-      'mastery.history': {
+      "mastery.history": {
         $elemMatch: {
-          date: { $gte: weekStart, $lt: weekEnd }
-        }
-      }
-    }
+          date: { $gte: weekStart, $lt: weekEnd },
+        },
+      },
+    },
   });
 
   // ... more calculations
@@ -1253,15 +1274,15 @@ async function recommendNextTopic(studentId: string, courseId: string): Promise<
   const topics = await database.topics.findMany({
     where: {
       courseId: courseId,
-      studentId: studentId
+      studentId: studentId,
     },
     include: {
-      reviewSchedule: true
-    }
+      reviewSchedule: true,
+    },
   });
 
   // Score each topic
-  const scoredTopics = topics.map(topic => {
+  const scoredTopics = topics.map((topic) => {
     let score = 0;
 
     // Priority = Importance × (6 - MasteryLevel)
@@ -1279,8 +1300,8 @@ async function recommendNextTopic(studentId: string, courseId: string): Promise<
     }
 
     // Boost if prerequisites are met
-    const prerequisitesMet = topic.content.prerequisites.every(prereqId => {
-      const prereq = topics.find(t => t.id === prereqId);
+    const prerequisitesMet = topic.content.prerequisites.every((prereqId) => {
+      const prereq = topics.find((t) => t.id === prereqId);
       return prereq && prereq.mastery.currentLevel >= 3;
     });
     if (prerequisitesMet) {
@@ -1307,23 +1328,27 @@ async function recommendNextTopic(studentId: string, courseId: string): Promise<
 ## Integration Considerations
 
 ### Data Synchronization
+
 - Implement optimistic UI updates with eventual consistency
 - Use WebSockets for real-time updates
 - Queue offline changes for sync when connection restored
 
 ### Privacy & Security
+
 - Encrypt sensitive data at rest and in transit
 - Implement row-level security in database
 - GDPR compliance: allow data export and deletion
 - Student data is never shared without explicit consent
 
 ### Scalability
+
 - Use JSONB for flexible schema evolution
 - Index frequently queried fields
 - Implement caching layer (Redis) for frequently accessed data
 - Consider read replicas for analytics queries
 
 ### Analytics & ML Integration
+
 - Export data to analytics warehouse for deep analysis
 - Train ML models for:
   - Optimal review timing prediction

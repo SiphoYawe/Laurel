@@ -4,7 +4,7 @@
 
 The Pomodoro Technique is a time management method that uses **focused work intervals** separated by **short breaks** to maintain high concentration and prevent mental fatigue.
 
-Named after the tomato-shaped kitchen timer (*pomodoro* means "tomato" in Italian) used by its creator, Francesco Cirillo, in the 1980s.
+Named after the tomato-shaped kitchen timer (_pomodoro_ means "tomato" in Italian) used by its creator, Francesco Cirillo, in the 1980s.
 
 ---
 
@@ -13,11 +13,13 @@ Named after the tomato-shaped kitchen timer (*pomodoro* means "tomato" in Italia
 ### Basic Structure
 
 **One Pomodoro Cycle:**
+
 1. **25 minutes**: Focused work on a single task
 2. **5 minutes**: Break (stand up, move, rest your eyes)
 3. Repeat
 
 **After 4 Pomodoros (about 2 hours):**
+
 - Take a **longer break**: 15-30 minutes
 - This allows deeper mental recovery
 
@@ -43,6 +45,7 @@ After the long break, if you continue working, start a new set of 4 Pomodoros.
 ### 1. Makes Large Tasks Feel Manageable
 
 **The psychological barrier**:
+
 - "I need to study for 4 hours for this exam" → Overwhelming, demotivating
 - "I'll do one 25-minute Pomodoro on flashcards" → Manageable, doable
 
@@ -52,6 +55,7 @@ Instead of committing to finishing the entire task, you commit to just working o
 **Result**: Lower activation energy. You're more likely to start.
 
 **Example**:
+
 - **Overwhelming**: "Write entire essay (probably 6-8 hours)"
 - **Manageable**: "Do one Pomodoro on the outline"
 
@@ -62,10 +66,12 @@ Once you start, momentum builds. But even if it doesn't, you've made progress.
 ### 2. Starting Is the Hardest Part
 
 **The physics of productivity**:
+
 - Object at rest stays at rest (scrolling on phone, lying in bed)
 - Object in motion stays in motion (once you start studying, continuing is easier)
 
 **Pomodoro lowers the activation energy**:
+
 - You don't have to commit to "working until it's done"
 - You commit to "25 minutes"
 - 25 minutes is psychologically trivial
@@ -77,6 +83,7 @@ Once you start, momentum builds. But even if it doesn't, you've made progress.
 ### 3. Creates Urgency Through Time Constraints
 
 **Parkinson's Law in action**:
+
 - Without a timer: "I'll work on this until I'm done" → Unfocused, distracted, inefficient
 - With Pomodoro timer: "I have 25 minutes" → Urgency, focus, efficiency
 
@@ -91,6 +98,7 @@ Once you start, momentum builds. But even if it doesn't, you've made progress.
 **The reality**: Your focus degrades over time without rest. The 7th hour of continuous study is maybe 20% as effective as the 1st hour.
 
 **Pomodoro builds in recovery**:
+
 - Every 25 minutes → micro-recovery (5 min break)
 - Every 2 hours → macro-recovery (15-30 min break)
 
@@ -101,15 +109,18 @@ Once you start, momentum builds. But even if it doesn't, you've made progress.
 ### 5. Provides Measurable Progress
 
 **The satisfaction of counting Pomodoros**:
+
 - "I completed 8 Pomodoros today" = tangible accomplishment
 - "I studied for a while" = vague, unsatisfying
 
 **Tracking creates momentum**:
+
 - Each completed Pomodoro is a small win
 - Small wins build confidence
 - Confidence makes starting the next Pomodoro easier
 
 **Gamification**:
+
 - Set daily Pomodoro goals (e.g., "Complete 6 Pomodoros today")
 - Track in a journal or app
 - Celebrate hitting targets
@@ -121,6 +132,7 @@ Once you start, momentum builds. But even if it doesn't, you've made progress.
 **The standard 25/5 protocol works for many people, but not everyone.**
 
 Your optimal work interval depends on:
+
 - Your attention span baseline
 - The type of task
 - Your experience level with deep work
@@ -133,21 +145,25 @@ Your optimal work interval depends on:
 ### Variation 1: Extended Pomodoro (45/10)
 
 **Structure**:
+
 - 45 minutes work
 - 10 minutes break
 - Long break after 3 cycles (not 4)
 
 **Best for**:
+
 - Tasks requiring deep flow states (coding, writing, complex problem-solving)
 - Experienced deep workers who can sustain focus longer
 - Work where 25 minutes feels too short to get into the zone
 
 **Why it works**:
+
 - Allows you to enter flow state (usually takes 15-20 min) and stay there
 - Reduces number of interruptions per hour
 - Still prevents the fatigue of 2+ hour marathon sessions
 
 **Example**: Writing a research paper
+
 ```
 2:00 - 2:45   → Research and outline (flow state)
 2:45 - 2:55   → Break
@@ -162,16 +178,19 @@ Your optimal work interval depends on:
 ### Variation 2: Classic Work Block (50/10)
 
 **Structure**:
+
 - 50 minutes work
 - 10 minutes break
 - Mirrors traditional university class structure
 
 **Best for**:
+
 - Study sessions that follow class format
 - Reading-heavy tasks
 - When you want to align with hourly schedule blocks
 
 **Why it works**:
+
 - Familiar structure (feels like class)
 - Full hour cycles make scheduling easier
 - 10-minute break is enough for bathroom + snack + brief movement
@@ -181,17 +200,20 @@ Your optimal work interval depends on:
 ### Variation 3: Ultradian Rhythm (90/20)
 
 **Structure**:
+
 - 90 minutes work
 - 20 minutes break
 - Based on natural ultradian rhythms (your body's 90-min cycles)
 
 **Best for**:
+
 - Very experienced deep workers
 - Highly engaging tasks where you lose track of time
 - Creative work requiring extended immersion
 - When you're already in flow and don't want interruption
 
 **Why it works**:
+
 - Aligns with your body's natural attention cycles
 - Maximizes sustained flow time
 - 20-min break allows genuine recovery
@@ -199,6 +221,7 @@ Your optimal work interval depends on:
 **Warning**: Only for those who can truly sustain 90 minutes of focus. Most people cannot (yet). Build up to this.
 
 **Example**: Creative coding session
+
 ```
 10:00 - 11:30 → Deep coding session (fully immersed)
 11:30 - 11:50 → Walk outside, eat snack, completely disconnect
@@ -211,22 +234,26 @@ Your optimal work interval depends on:
 ### Variation 4: Micro-Pomodoro (15/3)
 
 **Structure**:
+
 - 15 minutes work
 - 3 minutes break
 - For beginners or extremely difficult tasks
 
 **Best for**:
+
 - People new to focused work (building the focus muscle)
 - Tasks you're procrastinating on (lower barrier to entry)
 - Days when you're low energy or distracted
 - Studying material you find extremely boring/difficult
 
 **Why it works**:
+
 - 15 minutes is psychologically trivial ("anyone can do 15 minutes")
 - Frequent breaks prevent the dread of sustained effort
 - Gradual adaptation: start here, work up to 25-min standard
 
 **Example**: Tackling a subject you hate
+
 ```
 "I'll just do one 15-minute Pomodoro on statistics"
 → Complete first one
@@ -241,16 +268,19 @@ Your optimal work interval depends on:
 ### Variation 5: Flexible Pomodoro (Task-Based)
 
 **Structure**:
+
 - Work until you complete a specific sub-task (up to 45 min max)
 - Then break
 - No fixed timer, but self-imposed maximum
 
 **Best for**:
+
 - Tasks with natural stopping points (finish a problem, complete a section)
 - When rigid timing feels disruptive
 - Experienced self-regulators who won't abuse flexibility
 
 **Why it works**:
+
 - Respects the flow of the work itself
 - Reduces artificial interruptions at bad moments
 - Still prevents marathon sessions (maximum limit)
@@ -262,20 +292,24 @@ Your optimal work interval depends on:
 ## Finding Your Optimal Interval: The Experiment
 
 **Week 1: Baseline (Standard 25/5)**
+
 - Try classic Pomodoro for one full week
 - Track how you feel during each interval
 - Note when focus wanes, when you're still in flow at the bell
 
 **Week 2: Extend (45/10 or 50/10)**
+
 - Try longer intervals
 - See if you can sustain focus
 - Notice if flow states deepen
 
 **Week 3: Shorten (15/3)**
+
 - Try shorter intervals on hard-to-start tasks
 - Compare energy levels and completion rates
 
 **Week 4: Custom Protocol**
+
 - Based on weeks 1-3, design your personal system
 - Might be different intervals for different tasks:
   - Math problem sets: 25/5
@@ -284,6 +318,7 @@ Your optimal work interval depends on:
   - Reading dense textbook: 50/10
 
 **Questions to ask yourself after each experiment**:
+
 - Did I maintain focus the entire interval?
 - Did the breaks feel too short/too long?
 - Did I dread the work sessions or find them manageable?
@@ -301,6 +336,7 @@ Your optimal work interval depends on:
 ### The Golden Rule: Complete Mental Detachment
 
 **Do NOT**:
+
 - Check email
 - Scroll social media
 - Read articles
@@ -314,6 +350,7 @@ Your optimal work interval depends on:
 ### DO: Movement-Based Breaks (Best)
 
 **5-Minute Breaks**:
+
 - Stand up and stretch (arms, back, legs)
 - Walk to another room or outside
 - Do 10 jumping jacks or push-ups
@@ -322,6 +359,7 @@ Your optimal work interval depends on:
 - Use the bathroom
 
 **Benefits**:
+
 - Increases blood flow (wakes up the brain)
 - Counteracts sitting posture issues
 - Resets visual focus (preventing eye strain)
@@ -332,12 +370,14 @@ Your optimal work interval depends on:
 ### DO: Mindfulness Breaks
 
 **5-Minute Breaks**:
+
 - Close your eyes, breathe deeply for 2 minutes
 - Progressive muscle relaxation (tense and release each muscle group)
 - Look at something calming (plant, art, out the window)
 - Listen to one song with your eyes closed
 
 **Benefits**:
+
 - Activates parasympathetic nervous system (rest mode)
 - Reduces stress hormones
 - Improves focus for next Pomodoro
@@ -347,12 +387,14 @@ Your optimal work interval depends on:
 ### DO: Social Micro-Breaks
 
 **5-Minute Breaks**:
+
 - Brief chat with roommate/family
 - Text a friend (not a conversation, just a quick check-in)
 - Pet your cat/dog
 - Call someone for 3 minutes
 
 **Benefits**:
+
 - Social connection boosts mood
 - Prevents isolation feeling during long study days
 - Human interaction is energizing
@@ -364,6 +406,7 @@ Your optimal work interval depends on:
 ### Long Breaks (15-30 min): Deeper Recovery
 
 **What to do**:
+
 - Go for a walk outside (ideal)
 - Eat a small meal or substantial snack
 - Take a power nap (20 min max)
@@ -382,6 +425,7 @@ Your optimal work interval depends on:
 **Why it's critical**: Your phone is an infinite attentional drain.
 
 **What happens when you check your phone during breaks**:
+
 1. You see notifications
 2. You get pulled into responding
 3. 5-minute break becomes 20 minutes
@@ -392,6 +436,7 @@ Your optimal work interval depends on:
 **Solution**: Phone in another room during Pomodoro sessions. Seriously.
 
 If you must have it:
+
 - Airplane mode during work + breaks
 - Check only during long breaks
 - Use app blockers (Forest, Freedom, etc.)
@@ -405,6 +450,7 @@ If you must have it:
 ### The Problem with Single-Subject Marathons
 
 **Bad approach**: 3 hours straight of calculus
+
 - Mental fatigue sets in
 - Later Pomodoros much less effective
 - Brain doesn't get varied practice
@@ -416,6 +462,7 @@ If you must have it:
 ### Structure 1: Subject Rotation Per Pomodoro
 
 **Example study session**:
+
 ```
 7:00 - 7:25   → Pomodoro 1: Biology flashcards
 7:25 - 7:30   → Break
@@ -428,6 +475,7 @@ If you must have it:
 ```
 
 **Benefits**:
+
 - Each subject feels fresh
 - You're interleaving Bio and Chem
 - Prevents boredom and fatigue from single subject
@@ -437,6 +485,7 @@ If you must have it:
 ### Structure 2: Technique Rotation Within One Subject
 
 **Example** (studying for history exam):
+
 ```
 3:00 - 3:25   → Pomodoro 1: Read textbook chapter (passive input)
 3:25 - 3:30   → Break
@@ -449,6 +498,7 @@ If you must have it:
 ```
 
 **Benefits**:
+
 - Varied cognitive demands prevent fatigue
 - Hitting material from multiple angles (stronger encoding)
 - Stays engaging
@@ -458,6 +508,7 @@ If you must have it:
 ### Structure 3: Problem Type Rotation (Math/STEM)
 
 **Example** (calculus study session):
+
 ```
 10:00 - 10:25 → Pomodoro 1: Derivative problems (type A)
 10:25 - 10:30 → Break
@@ -470,6 +521,7 @@ If you must have it:
 ```
 
 **Benefits**:
+
 - Interleaving problem types improves discrimination ability
 - Prevents "pattern matching" without understanding
 - Better prepares for mixed exams
@@ -481,21 +533,25 @@ If you must have it:
 ### Physical Timers
 
 **Traditional Tomato Timer**:
+
 - **Pros**: No digital distractions, satisfying ticking sound, tactile
 - **Cons**: Can't customize intervals, ticking may annoy others
 - **Best for**: Nostalgic approach, completely phone-free sessions
 
 **Time Timer (Visual Timer)**:
+
 - **Pros**: Shows time remaining visually (colored disk disappears), no ticking
 - **Cons**: More expensive
 - **Best for**: Visual learners, kids, those who find ticking stressful
 
 **Kitchen Timer / Sand Timer**:
+
 - **Pros**: Simple, no setup
 - **Cons**: Not designed for Pomodoro specifically
 - **Best for**: Minimalists
 
 **Why physical timers work**:
+
 - No temptation to check phone
 - Visible reminder you're "in a Pomodoro"
 - Reduces digital distractions
@@ -507,6 +563,7 @@ If you must have it:
 #### Focus Keeper (iOS, Mac, Android)
 
 **Features**:
+
 - Classic Pomodoro timer (25/5/15)
 - Customizable intervals
 - Statistics and tracking
@@ -522,6 +579,7 @@ If you must have it:
 #### Forest (iOS, Android)
 
 **Features**:
+
 - Pomodoro timer + gamification
 - "Plant a tree" during each focus session
 - Tree dies if you leave the app
@@ -539,6 +597,7 @@ If you must have it:
 #### Pomofocus (Web-based)
 
 **Features**:
+
 - Free browser-based Pomodoro timer
 - Customizable intervals
 - Task list integration
@@ -556,6 +615,7 @@ If you must have it:
 #### Brain Focus Productivity Timer (Android)
 
 **Features**:
+
 - Customizable Pomodoro intervals
 - Tracks total focus time
 - Supports multiple profiles (work, study, etc.)
@@ -570,6 +630,7 @@ If you must have it:
 #### Be Focused (Mac, iOS)
 
 **Features**:
+
 - Pomodoro timer + task manager
 - Create task lists with time estimates
 - Track time spent on each task
@@ -584,6 +645,7 @@ If you must have it:
 #### Marinara Timer (Web, Chrome Extension)
 
 **Features**:
+
 - Browser-based Pomodoro
 - Chrome extension for easy access
 - Multiple timer types (Pomodoro, short break, long break)
@@ -598,6 +660,7 @@ If you must have it:
 #### Pomotodo (Cross-platform)
 
 **Features**:
+
 - Pomodoro + to-do list integration
 - Statistics and reports
 - Syncs across devices
@@ -713,13 +776,14 @@ If you must have it:
 
 ## LLM-ACTIONABLE-INSIGHTS: Pomodoro Customization
 
-*This section provides structured prompts for AI assistants to help design personalized Pomodoro protocols.*
+_This section provides structured prompts for AI assistants to help design personalized Pomodoro protocols._
 
 ---
 
 ### PROMPT 1: Find My Optimal Pomodoro Interval
 
 **LLM prompt**:
+
 ```
 Help me find my optimal Pomodoro interval.
 
@@ -746,6 +810,7 @@ Be specific about what to track during each experiment.
 ### PROMPT 2: Design a Pomodoro Study Session
 
 **LLM prompt**:
+
 ```
 Design a Pomodoro-based study session for:
 
@@ -770,6 +835,7 @@ Format as a timeline with specific tasks per interval.
 ### PROMPT 3: Troubleshoot My Pomodoro Practice
 
 **LLM prompt**:
+
 ```
 I'm struggling with Pomodoro. Here's what's happening:
 
@@ -796,6 +862,7 @@ Provide concrete, actionable fixes.
 ### PROMPT 4: Integrate Pomodoro with My Study Plan
 
 **LLM prompt**:
+
 ```
 I have the following study goals this week:
 [List courses, topics, deadlines]
@@ -818,6 +885,7 @@ Provide a weekly Pomodoro schedule with specific tasks per interval.
 ### PROMPT 5: Design Effective Breaks
 
 **LLM prompt**:
+
 ```
 My current situation:
 - I work/study: [environment - dorm, library, home, etc.]
@@ -838,6 +906,7 @@ Be specific: not just "move around" but "do these 5 stretches" with examples.
 ### PROMPT 6: Pomodoro for Procrastinated Tasks
 
 **LLM prompt**:
+
 ```
 I've been procrastinating on: [specific task]
 
@@ -860,6 +929,7 @@ Make it SO easy that I can't say no to the first one.
 **Input**: Paste Pomodoro tracking data
 
 **LLM prompt**:
+
 ```
 Here's my Pomodoro tracking for this week:
 
@@ -890,6 +960,7 @@ Provide:
 ### PROMPT 8: Emergency Pomodoro Protocol
 
 **LLM prompt**:
+
 ```
 I have [X hours] until [deadline] and I'm WAY behind.
 
@@ -953,6 +1024,7 @@ High energy, task you love:
 **LLM can generate hybrid protocols**:
 
 **Pomodoro + Time-Blocking**:
+
 ```
 3:00pm - 5:00pm: Deep Work Block (Biology)
   Within this block:
@@ -967,6 +1039,7 @@ High energy, task you love:
 ```
 
 **Pomodoro + 5-Minute Rule**:
+
 ```
 Use 5-minute rule to start, then continue with Pomodoros:
 1. Commit to "just 5 minutes" to overcome activation energy
@@ -976,6 +1049,7 @@ Use 5-minute rule to start, then continue with Pomodoros:
 ```
 
 **Pomodoro + Interleaving**:
+
 ```
 2-hour session with subject rotation:
 → Pomodoro 1: Subject A
@@ -1004,4 +1078,3 @@ When helping students implement Pomodoro:
 8. **Combine with other techniques** - Pomodoro works great with time-blocking and interleaving
 9. **Focus on sustainability** - marathon study sessions aren't the goal
 10. **Make it stupid simple to start** - the first Pomodoro should feel trivial
-

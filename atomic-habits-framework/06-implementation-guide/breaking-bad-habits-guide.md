@@ -13,12 +13,14 @@ This guide provides a comprehensive, step-by-step process for eliminating unwant
 ## The Inverted Four Laws
 
 ### Original Laws (Building Good Habits):
+
 1. Make it Obvious
 2. Make it Attractive
 3. Make it Easy
 4. Make it Satisfying
 
 ### Inverted Laws (Breaking Bad Habits):
+
 1. **Make it Invisible**
 2. **Make it Unattractive**
 3. **Make it Difficult**
@@ -31,6 +33,7 @@ This guide provides a comprehensive, step-by-step process for eliminating unwant
 ### Step 1: Identify the Bad Habit Precisely
 
 **Why Precision Matters**:
+
 - "I need to stop procrastinating" is too vague to act on
 - "I need to stop checking Twitter when I sit down to write" is specific and actionable
 
@@ -39,6 +42,7 @@ This guide provides a comprehensive, step-by-step process for eliminating unwant
 **A. Name the Exact Behavior**
 
 **Vague** → **Precise**:
+
 - "Eat less junk food" → "Stop eating chips while watching TV at night"
 - "Stop wasting time" → "Stop scrolling Instagram in the morning"
 - "Be less lazy" → "Stop hitting snooze three times every morning"
@@ -47,6 +51,7 @@ This guide provides a comprehensive, step-by-step process for eliminating unwant
 **B. Measure Current Frequency**
 
 Track for 3-7 days to get baseline:
+
 - How many times per day does this behavior occur?
 - When does it happen?
 - Where does it happen?
@@ -55,10 +60,12 @@ Track for 3-7 days to get baseline:
 **C. Identify the Precise Context**
 
 Bad habits are highly context-dependent:
+
 - **Context 1**: Scrolling social media during lunch break at work = might be fine (needed rest)
 - **Context 2**: Scrolling social media for 2 hours instead of sleeping = problematic
 
 **Precision Template**:
+
 ```
 BAD HABIT: [Specific behavior]
 FREQUENCY: [X times per day/week]
@@ -97,6 +104,7 @@ CONTEXT: Disrespectful to family, damages relationships
 
 **Understanding the Loop**:
 Every habit follows this four-stage pattern:
+
 1. **Cue**: The trigger that initiates the behavior
 2. **Craving**: The motivational force (what you actually want)
 3. **Response**: The behavior itself (the habit)
@@ -111,6 +119,7 @@ Every habit follows this four-stage pattern:
 Ask: "What triggers this behavior?"
 
 Common cue categories:
+
 - **Time**: "It's 9 PM" triggers Netflix
 - **Location**: "I'm in bed" triggers phone scrolling
 - **Preceding Event**: "I finish dinner" triggers checking email
@@ -122,12 +131,14 @@ Common cue categories:
 Ask: "What do I actually want in this moment?"
 
 The craving is rarely the behavior itself:
+
 - You don't crave cigarettes—you crave stress relief or social connection
 - You don't crave scrolling Instagram—you crave novelty or validation
 - You don't crave junk food—you crave comfort or stimulation
 - You don't crave hitting snooze—you crave avoiding discomfort
 
 **Finding Your Craving**:
+
 1. Notice when the urge arises
 2. Pause before acting
 3. Ask: "What do I really want right now?"
@@ -145,6 +156,7 @@ Not vague: "I waste time on my phone"
 Ask: "What do I get from this behavior?"
 
 **Immediate rewards** (these drive repetition):
+
 - Dopamine hit (social media, junk food)
 - Stress relief (smoking, drinking, TV)
 - Escape from discomfort (procrastination, avoiding tasks)
@@ -152,6 +164,7 @@ Ask: "What do I get from this behavior?"
 - Stimulation (breaking boredom)
 
 **Delayed consequences** (these don't prevent repetition):
+
 - Weight gain (from junk food)
 - Wasted time (from scrolling)
 - Damaged relationships (from phone during conversations)
@@ -218,6 +231,7 @@ REWARD:
 **A. List All Cues for This Habit**
 
 From your habit loop mapping:
+
 - Visual cues (seeing the trigger)
 - Location cues (being in a place)
 - Time cues (specific time of day)
@@ -231,6 +245,7 @@ From your habit loop mapping:
 **Problem**: Bag of chips visible on counter → triggers evening snacking
 
 **Solutions**:
+
 - Don't buy chips (ultimate solution)
 - If must have: Hide in back of high cabinet (out of sight)
 - Replace with visible healthy option (fruit bowl on counter)
@@ -239,6 +254,7 @@ From your habit loop mapping:
 **Problem**: Phone visible on desk → triggers distracted checking during work
 
 **Solutions**:
+
 - Phone in different room during work
 - Phone in drawer (closed, not visible)
 - Phone in bag or locker
@@ -249,6 +265,7 @@ From your habit loop mapping:
 **Problem**: Couch = TV watching and snacking
 
 **Solutions**:
+
 - Rearrange furniture (change the context)
 - Remove TV from living room (eliminate possibility)
 - Create new association (couch = reading only)
@@ -257,6 +274,7 @@ From your habit loop mapping:
 **Problem**: Bedroom = phone scrolling before sleep
 
 **Solutions**:
+
 - Phone charges in different room overnight
 - No phone in bedroom after 9 PM (strict rule)
 - Keep phone in bathroom (must get up to check it)
@@ -266,6 +284,7 @@ From your habit loop mapping:
 **Problem**: 9 PM = automatic Netflix time
 
 **Solutions**:
+
 - Schedule different activity at 9 PM (walk, reading, hobby)
 - Use time for something incompatible (exercise class, meeting friend)
 - Go to bed earlier (eliminate the time window)
@@ -273,6 +292,7 @@ From your habit loop mapping:
 **Problem**: Morning coffee = cigarette
 
 **Solutions**:
+
 - Drink coffee in different location (break association)
 - Switch to tea (different ritual)
 - Drink coffee while doing incompatible activity (exercise)
@@ -282,11 +302,13 @@ From your habit loop mapping:
 **Problem**: Stress = junk food
 
 **Solutions**:
+
 - Remove junk food from home (can't access when stressed)
 - Pre-commit to stress response (when stressed, I will walk, not eat)
 - Practice alternative stress responses before stress hits
 
 **Note**: Emotional cues are harder to eliminate than physical cues, but you can still:
+
 - Reduce stress exposure (avoid stressful news, people, situations)
 - Increase stress resilience (meditation, exercise, therapy)
 - Remove ability to act on emotional cue (no junk food accessible)
@@ -296,6 +318,7 @@ From your habit loop mapping:
 **Problem**: Coworkers going for smoke break = temptation to join
 
 **Solutions**:
+
 - Take breaks at different times
 - Join for walk instead of smoke break
 - Bring friend who doesn't smoke for accountability
@@ -304,6 +327,7 @@ From your habit loop mapping:
 **Problem**: Friends ordering drinks = pressure to drink
 
 **Solutions**:
+
 - Choose friends who support sobriety
 - Suggest activities that don't involve drinking
 - Reduce frequency of seeing drinking friends temporarily
@@ -339,6 +363,7 @@ For your specific bad habit, ask:
 **A. Highlight the Costs, Not Just the Consequences**
 
 Most people know the long-term consequences but ignore them because they're distant:
+
 - "Smoking causes cancer" → Too abstract, too far away
 - "This cigarette is reducing my lung capacity right now" → Immediate cost
 
@@ -361,6 +386,7 @@ Before engaging in bad habit (if you can't resist), speak the costs aloud:
 
 **Example (Smoking)**:
 "I am about to:
+
 - Put toxins in my lungs
 - Make my clothes smell
 - Reduce my athletic performance
@@ -370,6 +396,7 @@ Before engaging in bad habit (if you can't resist), speak the costs aloud:
 
 **Example (Junk Food)**:
 "I am about to:
+
 - Eat food that will make me feel sluggish
 - Consume empty calories that don't nourish me
 - Reinforce the habit I'm trying to break
@@ -377,6 +404,7 @@ Before engaging in bad habit (if you can't resist), speak the costs aloud:
 - Move away from my health goals"
 
 **Why This Works**:
+
 - Verbal acknowledgment creates cognitive dissonance
 - Hard to ignore explicit costs when stated
 - Associates immediate negative feeling with behavior
@@ -387,30 +415,36 @@ Before engaging in bad habit (if you can't resist), speak the costs aloud:
 **Shift from Loss to Gain**:
 
 **Loss Framing** (creates deprivation feeling):
+
 - "I can't have sweets"
 - "I have to give up smoking"
 - "I'm not allowed to check my phone"
 
 **Gain Framing** (creates empowerment feeling):
+
 - "I don't eat sweets" (identity statement)
 - "I'm a non-smoker" (identity, not deprivation)
 - "I control my phone, it doesn't control me"
 
 **The Subtle Difference**:
+
 - "I can't" → External restriction, creates rebellion
 - "I don't" → Internal identity, creates pride
 
 **Examples**:
 
 **When offered a cigarette**:
+
 - Weak: "I can't, I'm trying to quit" (implies desire, restriction)
 - Strong: "I don't smoke" (identity, no desire)
 
 **When friends go out drinking**:
+
 - Weak: "I can't drink right now" (temporary restriction)
 - Strong: "I don't drink" (permanent identity)
 
 **When tempted by junk food**:
+
 - Weak: "I shouldn't eat that" (creates forbidden fruit effect)
 - Strong: "I don't eat that" or "That's not my food"
 
@@ -422,6 +456,7 @@ Create written list of benefits of NOT doing the bad habit:
 **Example (Quitting Social Media)**:
 
 **Benefits of NOT scrolling Instagram**:
+
 1. More time for reading (30+ min/day)
 2. Better focus and attention span
 3. Less comparison and envy
@@ -436,6 +471,7 @@ Create written list of benefits of NOT doing the bad habit:
 **Before/After Visualization**:
 
 Regularly visualize:
+
 - WHO YOU ARE NOW (with bad habit)
 - WHO YOU'LL BECOME (without bad habit)
 
@@ -462,6 +498,7 @@ Make the future version more attractive than the immediate gratification.
 **Current State**: Phone on nightstand (0 steps to access)
 
 **Add Friction**:
+
 - Level 1: Phone in drawer (1 step: open drawer)
 - Level 2: Phone in different room (5 steps: get up, walk, retrieve)
 - Level 3: Phone in lockbox in different room (10 steps: get up, walk, find key, unlock, retrieve)
@@ -472,6 +509,7 @@ Make the future version more attractive than the immediate gratification.
 **Current State**: Chips in pantry (5 steps to access)
 
 **Add Friction**:
+
 - Level 1: Don't buy chips (must go to store: 30+ steps)
 - Level 2: Buy single-serve portions only (limits damage)
 - Level 3: Give chips away (must ask neighbor: adds social friction)
@@ -482,6 +520,7 @@ Make the future version more attractive than the immediate gratification.
 **Current State**: TV remote on coffee table (1 step)
 
 **Add Friction**:
+
 - Level 1: Unplug TV after each use (must plug back in)
 - Level 2: Remove TV from living room (must go to different room)
 - Level 3: Cancel streaming subscriptions (must resubscribe to watch)
@@ -494,11 +533,13 @@ Make the future version more attractive than the immediate gratification.
 **Rule**: "I can do [bad habit], but only after waiting [X] minutes."
 
 **Examples**:
+
 - "I can check Instagram, but only after I finish this work session (25 minutes)"
 - "I can have dessert, but only after waiting 20 minutes after dinner"
 - "I can buy that impulse item, but only after waiting 48 hours"
 
 **Why This Works**:
+
 - Urges typically peak and then diminish after 10-20 minutes
 - Waiting creates reflection time
 - Often the desire passes
@@ -514,6 +555,7 @@ Use phone timer or written note: "Started craving at 3:00 PM, can act at 3:20 PM
 **Types**:
 
 **1. Financial Commitment**:
+
 - Bet money with friend that you'll be penalized if you do bad habit
 - Use apps like StickK (money goes to anti-charity if you fail)
 - Pay friend to be your accountability partner
@@ -521,6 +563,7 @@ Use phone timer or written note: "Started craving at 3:00 PM, can act at 3:20 PM
 **Example**: "If I smoke a cigarette, I'll donate $100 to a political party I oppose"
 
 **2. Social Commitment**:
+
 - Public declaration (social pressure)
 - Accountability partner (regular check-ins)
 - Group challenge (peer pressure)
@@ -528,6 +571,7 @@ Use phone timer or written note: "Started craving at 3:00 PM, can act at 3:20 PM
 **Example**: "I've told all my friends I quit smoking. The embarrassment of failure is too high."
 
 **3. Technical Commitment**:
+
 - App blockers (Freedom, Cold Turkey)
 - Website blockers
 - Parental controls on own devices
@@ -536,11 +580,13 @@ Use phone timer or written note: "Started craving at 3:00 PM, can act at 3:20 PM
 **Example**: Use Freedom app to block social media 9 AM-5 PM daily
 
 **4. Physical Commitment**:
+
 - Give credit card to spouse (can't impulse shop)
 - Give cigarettes to friend (must ask to get them back)
 - Keep gym clothes in car (can't go home first)
 
 **5. Automated Commitment**:
+
 - Automatic bill pay (can't forget)
 - Scheduled accountability texts
 - Calendar blocking
@@ -552,18 +598,21 @@ Use phone timer or written note: "Started craving at 3:00 PM, can act at 3:20 PM
 **Examples**:
 
 **Bad Habit: TV watching**
+
 - Unplug TV after each use
 - Put TV in cabinet (must open to watch)
 - Remove remote batteries (must replace to use)
 - Keep TV in room without seating
 
 **Bad Habit: Junk food**
+
 - Don't bring into house (must go to store)
 - Buy pre-portioned only (limits damage)
 - Keep in garage/basement (inconvenient)
 - Give to neighbor for safekeeping
 
 **Bad Habit: Sleeping through alarm**
+
 - Put alarm across room (must stand to turn off)
 - Use alarm clock, not phone (can't hit snooze easily)
 - Set multiple alarms in different rooms
@@ -584,6 +633,7 @@ Use phone timer or written note: "Started craving at 3:00 PM, can act at 3:20 PM
 **What It Is**: Written agreement with consequences for failure.
 
 **Structure**:
+
 ```
 HABIT CONTRACT
 
@@ -610,6 +660,7 @@ Witness 2: _______________
 ```
 
 **Example (Quit Smoking)**:
+
 ```
 HABIT CONTRACT
 
@@ -636,6 +687,7 @@ Witness 2: Mike Johnson
 ```
 
 **Why This Works**:
+
 - Social accountability (witnesses)
 - Immediate financial pain
 - Public embarrassment risk
@@ -646,17 +698,20 @@ Witness 2: Mike Johnson
 **Structure**:
 
 **Daily Check-In**:
+
 - Partner texts: "Did you [avoid bad habit] today?"
 - You respond: Yes/No
 - If no: Consequence is triggered
 
 **Weekly Review**:
+
 - Video/phone call with accountability partner
 - Review the week's performance
 - Discuss challenges and adjustments
 - Consequence if check-in is missed
 
 **Requirements for Effective Partner**:
+
 - Must be reliable (won't let you off the hook)
 - Must care about your success
 - Must be willing to enforce consequences
@@ -667,6 +722,7 @@ Witness 2: Mike Johnson
 **Strategies**:
 
 **1. Social Media Accountability**:
+
 - Post daily update about habit
 - Public streak counter
 - Share struggles and successes
@@ -675,12 +731,14 @@ Witness 2: Mike Johnson
 **Example**: Daily tweet: "Day 47 without cigarettes. #100DaysNoSmoking"
 
 **2. Visible Home Tracking**:
+
 - Large calendar on wall
 - Mark each day avoided bad habit
 - Family members see it (accountability)
 - "Don't break the chain" visible motivation
 
 **3. Group Challenges**:
+
 - Join or create challenge group
 - Daily check-ins with group
 - Competitive motivation
@@ -695,23 +753,27 @@ Create pre-committed ritual that makes it immediately unpleasant:
 **Examples**:
 
 **If I smoke a cigarette**:
+
 - Immediately do 50 burpees
 - Immediately take cold shower
 - Immediately call accountability partner and confess
 - Immediately write 500-word essay on why I want to quit
 
 **If I eat junk food**:
+
 - Immediately go for 20-minute walk
 - Immediately do unpleasant chore
 - Immediately text accountability partner
 - Immediately document how I feel physically
 
 **If I hit snooze**:
+
 - Immediately do 10 push-ups
 - Immediately take cold shower
 - Immediately skip coffee (most painful for coffee lover)
 
 **Why This Works**:
+
 - Associates immediate pain with bad habit
 - Disrupts the reward loop
 - Creates disincentive for future repetition
@@ -722,17 +784,20 @@ Create pre-committed ritual that makes it immediately unpleasant:
 **The Transparency Method**:
 
 **Process**:
+
 1. Track every instance of bad habit
 2. Share tracking publicly (partner, spouse, social media)
 3. Transparency creates shame
 4. Shame prevents repetition
 
 **Example (Social Media Overuse)**:
+
 - Use app timer to track daily screen time
 - Share screenshot with partner daily
 - Public accountability prevents excessive use
 
 **Example (Junk Food)**:
+
 - Take photo of every junk food eaten
 - Share in accountability group
 - Shame of sharing prevents impulse
@@ -746,6 +811,7 @@ Create pre-committed ritual that makes it immediately unpleasant:
 **Key Insight**: Habits are neurological patterns. You cannot delete them—you can only override them with new patterns.
 
 **Why Pure Elimination Fails**:
+
 - The cue-response pattern remains in your brain
 - Cravings still arise when cue is present
 - Willpower alone is insufficient
@@ -762,6 +828,7 @@ Create pre-committed ritual that makes it immediately unpleasant:
 **Step 1**: When urge for bad habit arises, pause.
 
 **Step 2**: Ask yourself:
+
 - "What do I actually want right now?"
 - "What feeling am I seeking?"
 - "What discomfort am I avoiding?"
@@ -815,6 +882,7 @@ Create pre-committed ritual that makes it immediately unpleasant:
 **Step 2**: Brainstorm alternative behaviors that satisfy same craving
 
 **Step 3**: Choose replacement that is:
+
 - Healthier than bad habit
 - Satisfies same craving
 - Feasible in same context
@@ -833,6 +901,7 @@ Create pre-committed ritual that makes it immediately unpleasant:
 **Bad Habit**: Smoking cigarettes during breaks at work
 
 **Underlying Cravings**:
+
 - Stress relief (physiological relaxation)
 - Social connection (bonding with coworkers)
 - Break from work (mental rest)
@@ -840,17 +909,20 @@ Create pre-committed ritual that makes it immediately unpleasant:
 **Replacement Options**:
 
 **For Stress Relief**:
+
 - Deep breathing exercises (satisfies relaxation craving)
 - Brief meditation or body scan
 - Progressive muscle relaxation
 - Walking outside (movement reduces stress)
 
 **For Social Connection**:
+
 - Invite coworker for walk instead of smoke break
 - Coffee break with colleagues
 - Join non-smoking coworkers for lunch
 
 **For Break from Work**:
+
 - 10-minute walk
 - Stretching routine
 - Call a friend
@@ -860,6 +932,7 @@ Create pre-committed ritual that makes it immediately unpleasant:
 "When I want a cigarette, I will invite a coworker for a 10-minute walk outside."
 
 **Why This Works**:
+
 - ✓ Stress relief (walking reduces cortisol)
 - ✓ Social connection (conversation with coworker)
 - ✓ Break from work (physical movement, change of scene)
@@ -873,6 +946,7 @@ Create pre-committed ritual that makes it immediately unpleasant:
 **Bad Habit**: Scrolling Instagram when should be writing
 
 **Underlying Cravings**:
+
 - Novelty/stimulation (dopamine from new content)
 - Avoidance (escaping discomfort of difficult task)
 - Procrastination reward (immediate gratification)
@@ -880,17 +954,20 @@ Create pre-committed ritual that makes it immediately unpleasant:
 **Replacement Options**:
 
 **For Novelty/Stimulation**:
+
 - Read interesting article (still novelty, more valuable)
 - Walk outside (sensory novelty)
 - Stretch or movement (physical stimulation)
 - Listen to one song (dopamine, time-limited)
 
 **For Avoidance**:
+
 - Break task into smaller piece (reduce overwhelm)
 - Do easier version of task (lower threshold)
 - Change location (new context reduces resistance)
 
 **For Immediate Gratification**:
+
 - Make coffee/tea (small reward)
 - Healthy snack (immediate pleasure)
 - 5-minute meditation (feels good)
@@ -899,6 +976,7 @@ Create pre-committed ritual that makes it immediately unpleasant:
 "When I want to scroll Instagram while writing, I will write for just 2 minutes (two-minute rule), THEN reward with 5-minute walk."
 
 **Why This Works**:
+
 - Addresses avoidance by lowering bar (just 2 minutes)
 - Provides alternative stimulation (walk)
 - Creates reward system (walk after writing)
@@ -911,6 +989,7 @@ Create pre-committed ritual that makes it immediately unpleasant:
 **Bad Habit**: Eating chips on couch while watching TV every night
 
 **Underlying Cravings**:
+
 - Sensory stimulation (crunch, salt, hand-to-mouth)
 - Comfort/soothing (emotional regulation)
 - Something to do (restlessness)
@@ -918,18 +997,21 @@ Create pre-committed ritual that makes it immediately unpleasant:
 **Replacement Options**:
 
 **For Sensory Stimulation**:
+
 - Crunchy vegetables with hummus (same crunch, healthier)
 - Popcorn (lower calorie, still satisfying)
 - Sugar-free gum (hand-to-mouth, flavor)
 - Tea ritual (sensory experience, comfort)
 
 **For Comfort/Soothing**:
+
 - Hot bath (physical comfort)
 - Cozy blanket (tactile comfort)
 - Meditation or breathing (emotional regulation)
 - Journaling (process emotions)
 
 **For Something to Do**:
+
 - Knitting/crocheting (keeps hands busy)
 - Stretching/yoga (physical activity)
 - Puzzle or game (mental engagement)
@@ -939,6 +1021,7 @@ Create pre-committed ritual that makes it immediately unpleasant:
 "When I want to eat chips on couch, I will make herbal tea and do a puzzle with my hands occupied."
 
 **Why This Works**:
+
 - ✓ Sensory stimulation (tea flavor, puzzle engagement)
 - ✓ Comfort (warm tea, cozy activity)
 - ✓ Hands occupied (puzzle prevents eating)
@@ -952,6 +1035,7 @@ Create pre-committed ritual that makes it immediately unpleasant:
 **Bad Habit**: Scrolling phone for 1+ hour in bed before sleep
 
 **Underlying Cravings**:
+
 - Novelty/stimulation (dopamine from content)
 - Avoid sleep (not ready for day to end)
 - Relaxation (transition ritual)
@@ -960,22 +1044,26 @@ Create pre-committed ritual that makes it immediately unpleasant:
 **Replacement Options**:
 
 **For Novelty/Stimulation**:
+
 - Reading (still novel content, better for sleep)
 - Audiobook or podcast (audio stimulation, no blue light)
 - Journaling (mental processing)
 
 **For Avoid Sleep**:
+
 - Earlier wind-down routine (start relaxing sooner)
 - Meditation (conscious relaxation)
 - Reading (enjoyable but eventually tiring)
 
 **For Relaxation/Transition**:
+
 - Stretching routine (physical relaxation)
 - Breathing exercises (activate parasympathetic)
 - Progressive muscle relaxation
 - Gratitude journaling
 
 **For FOMO**:
+
 - Check phone BEFORE entering bedroom (contained time)
 - Set app limits (iOS Screen Time, Android Digital Wellbeing)
 - Recognize: Nothing is that urgent
@@ -984,6 +1072,7 @@ Create pre-committed ritual that makes it immediately unpleasant:
 "When I get into bed, I will read a physical book for 20-30 minutes instead of using my phone."
 
 **Why This Works**:
+
 - ✓ Satisfies novelty craving (story content)
 - ✓ Provides relaxation ritual (wind-down time)
 - ✓ No blue light (better sleep quality)
@@ -1031,6 +1120,7 @@ FIRST TEST: [Date] _____________
 The most powerful way to break a bad habit is to remove it entirely from your environment.
 
 **Effectiveness Hierarchy**:
+
 1. **Complete Removal** (100% effective) - Habit becomes impossible
 2. **Hiding/Inconvenience** (60-80% effective) - Habit requires effort
 3. **Rules/Willpower** (20-40% effective) - Habit requires self-control
@@ -1048,24 +1138,28 @@ The most powerful way to break a bad habit is to remove it entirely from your en
 **Examples**:
 
 **Junk Food**:
+
 - Don't buy it
 - Throw away what's currently in house
 - Don't allow it through the door
 - **Result**: Cannot eat what isn't there
 
 **Cigarettes/Vaping**:
+
 - Throw away all cigarettes
 - Throw away lighters and ashtrays
 - Remove smoking-related items
 - **Result**: Cannot smoke without going to store (major friction)
 
 **Alcohol**:
+
 - Pour all alcohol down drain
 - Remove bottles, glasses
 - Don't attend bars/parties temporarily
 - **Result**: Cannot drink what isn't accessible
 
 **TV/Streaming**:
+
 - Cancel subscriptions
 - Unplug TV
 - Remove from house entirely
@@ -1086,24 +1180,28 @@ The most powerful way to break a bad habit is to remove it entirely from your en
 **Examples**:
 
 **Junk Food (when family members still eat it)**:
+
 - Keep in garage/basement (separate from living space)
 - In high cabinet requiring stool (adds steps)
 - In opaque containers (removes visual cue)
 - Individually wrapped only (adds unwrapping friction)
 
 **Phone Usage**:
+
 - Phone stays in bag/locker during work
 - Phone charges in car during dinner
 - Phone in kitchen lockbox during sleep
 - **Adds**: 20-30 steps to access
 
 **TV Watching**:
+
 - Unplug TV after each use (must replug)
 - Remove remote batteries (must replace)
 - Put TV in cabinet with doors (must open)
 - **Adds**: 3-5 steps to watch
 
 **Video Games**:
+
 - Unplug console after each use
 - Store games in attic/basement
 - Give controllers to friend (must ask for them back)
@@ -1120,24 +1218,28 @@ The most powerful way to break a bad habit is to remove it entirely from your en
 **Examples**:
 
 **Junk Food → Healthy Snacks**:
+
 - Remove: Chips, cookies, candy
 - Replace with: Pre-cut vegetables, fruit, nuts
 - At eye level in refrigerator (obvious, accessible)
 - **Result**: When seeking snack, healthy option is most obvious
 
 **Soda → Flavored Water**:
+
 - Remove: Soda from refrigerator
 - Replace with: Sparkling water, herbal tea
 - In same location in fridge
 - **Result**: Same cooling refreshment, healthier choice
 
 **TV → Books**:
+
 - Remove or relocate TV
 - Place bookshelf where TV was
 - Stack interesting books on coffee table
 - **Result**: When seeking entertainment, books are most obvious
 
 **Scrolling → Learning**:
+
 - Delete social media apps from phone
 - Replace home screen slots with: Kindle app, podcast app, Duolingo
 - **Result**: When seeking stimulation, learning is most accessible
@@ -1151,12 +1253,14 @@ The most powerful way to break a bad habit is to remove it entirely from your en
 **Most Effective Digital Intervention**: Delete apps entirely.
 
 **Process**:
+
 1. Delete social media apps from phone
 2. Delete games
 3. Delete news apps
 4. Delete shopping apps
 
 **Accessing After Deletion**:
+
 - Can still access via desktop browser (intentional, not impulsive)
 - Must type URL (adds friction)
 - Desktop is separate location (not always-accessible)
@@ -1164,6 +1268,7 @@ The most powerful way to break a bad habit is to remove it entirely from your en
 **The Rule**: "If I want to check Instagram, I can on my laptop at home. Not on my phone."
 
 **Why This Works**:
+
 - Eliminates impulsive checking (app not present)
 - Preserves ability for intentional use (desktop)
 - Forces conscious decision (must go to laptop)
@@ -1175,22 +1280,26 @@ The most powerful way to break a bad habit is to remove it entirely from your en
 **For habits that can't be fully deleted** (email, messaging):
 
 **iOS Screen Time**:
+
 - Set app limits (e.g., Instagram: 10 minutes/day)
 - Set downtime (blocks all apps during hours)
 - Require password from accountability partner to override
 
 **Android Digital Wellbeing**:
+
 - App timers (limits daily use)
 - Focus mode (blocks distracting apps)
 - Bedtime mode (grayscale + Do Not Disturb)
 
 **Third-Party Blockers**:
+
 - **Freedom**: Blocks websites/apps across all devices
 - **Cold Turkey**: Extreme blocking (cannot override)
 - **StayFocusd**: Browser extension for site blocking
 - **Forest**: Gamification of phone avoidance
 
 **Implementation**:
+
 ```
 Block: Social media, news, shopping, games
 When: 9 AM - 5 PM (work hours), 9 PM - 7 AM (sleep + morning)
@@ -1209,6 +1318,7 @@ Result: Can only access during 5-9 PM window (controlled time)
 **Android**: Settings → Digital Wellbeing → Bedtime Mode → Grayscale
 
 **Effect**:
+
 - Social media becomes visually dull
 - Reduces dopamine trigger from colorful content
 - Easier to put phone down
@@ -1223,6 +1333,7 @@ Result: Can only access during 5-9 PM window (controlled time)
 **The Solution**: Turn off all non-essential notifications.
 
 **Process**:
+
 1. Go to Settings → Notifications
 2. Turn off notifications for EVERYTHING except:
    - Phone calls
@@ -1239,24 +1350,28 @@ Result: Can only access during 5-9 PM window (controlled time)
 **Create Physical Spaces Where Phone Is Never Allowed**:
 
 **Bedroom**:
+
 - Phone charges in bathroom/kitchen overnight
 - Buy alarm clock (remove excuse)
 - Read physical books before bed
 - **Result**: Better sleep, better mornings
 
 **Dining Table**:
+
 - No phones during meals (family rule)
 - Phones stay in other room or basket
 - Focus on conversation and food
 - **Result**: Better digestion, stronger relationships
 
 **Work Desk**:
+
 - Phone stays in bag/locker during work hours
 - Check only during scheduled breaks
 - No visible phone = no checking impulse
 - **Result**: Deep work, higher productivity
 
 **Exercise Space**:
+
 - Phone stays in locker during workout
 - Music downloaded to watch/earbuds (if needed)
 - No ability to check mid-workout
@@ -1271,17 +1386,20 @@ Result: Can only access during 5-9 PM window (controlled time)
 #### Strategy 1: Reduce Exposure to Enablers
 
 **Identify People Who Enable Bad Habit**:
+
 - Who do you do this bad habit with?
 - Who encourages this behavior?
 - Who makes it harder to quit?
 
 **Action**:
+
 - Reduce time with these people (temporarily or permanently)
 - Explain your goals; ask for support
 - If they can't support, create distance
 
 **Example (Alcohol)**:
 If your friend group revolves around drinking:
+
 - Option 1: Suggest sober activities (hiking, sports, coffee)
 - Option 2: Attend less frequently
 - Option 3: Find new friends who don't drink
@@ -1293,17 +1411,20 @@ If your friend group revolves around drinking:
 #### Strategy 2: Increase Exposure to Supporters
 
 **Identify People Who Model Desired Behavior**:
+
 - Who doesn't have this bad habit?
 - Who has successfully quit?
 - Who supports your goals?
 
 **Action**:
+
 - Spend more time with these people
 - Join communities of people without this habit
 - Ask successful quitters to mentor you
 
 **Example (Fitness)**:
 Join running club, CrossFit gym, or cycling group:
+
 - Surrounded by people who prioritize exercise
 - Social norm is health, not sedentary lifestyle
 - Peer pressure becomes positive pressure
@@ -1315,6 +1436,7 @@ Join running club, CrossFit gym, or cycling group:
 **Leverage Social Pressure**:
 
 **Process**:
+
 1. Publicly announce goal (social media, friends, family)
 2. Regular public updates on progress
 3. Social accountability prevents failure
@@ -1323,6 +1445,7 @@ Join running club, CrossFit gym, or cycling group:
 "I've quit smoking. Today is Day 1. I'll post updates weekly. Hold me accountable."
 
 **Why This Works**:
+
 - Embarrassment of public failure is powerful motivator
 - Others will check in and ask about progress
 - Creates external accountability
@@ -1341,6 +1464,7 @@ Join running club, CrossFit gym, or cycling group:
 **Productivity**: Join coworking space, accountability groups, masterminds
 
 **Why This Works**:
+
 - The group norm becomes YOUR norm
 - Surrounded by people who've succeeded
 - Social proof makes change feel normal
@@ -1544,6 +1668,7 @@ Breaking bad habits requires systematic application of the inverted Four Laws:
 4. **Make it Unsatisfying**: Create immediate negative consequences
 
 **The Core Truths**:
+
 - You cannot eliminate habits, only replace them
 - Address the underlying craving, not just the behavior
 - Environment design beats willpower
@@ -1551,6 +1676,7 @@ Breaking bad habits requires systematic application of the inverted Four Laws:
 - Accountability creates consequences willpower cannot
 
 **The Process**:
+
 1. Identify exact behavior and frequency
 2. Map the cue-craving-response-reward loop
 3. Apply all four inversions systematically

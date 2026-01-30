@@ -13,6 +13,7 @@ Habit stacking is a strategy for building new habits by anchoring them to existi
 **Denis Diderot** (1765): French philosopher receives a beautiful scarlet robe as a gift.
 
 **The cascade**:
+
 1. New robe looks too elegant for his current study
 2. Replaces study furniture to match robe's elegance
 3. New furniture makes old paintings look shabby
@@ -39,6 +40,7 @@ Habit stacking is a strategy for building new habits by anchoring them to existi
 **Cognitive fluidity**: Once in motion, continuing is easier than starting. The first habit breaks inertia for subsequent habits.
 
 **Examples in daily life**:
+
 - Washing hands → Drying hands → Hanging towel (automatic sequence)
 - Pouring coffee → Adding cream → Adding sugar (linked behaviors)
 - Getting in car → Putting on seatbelt → Starting engine (safety chain)
@@ -53,11 +55,13 @@ Habit stacking is a strategy for building new habits by anchoring them to existi
 **Format**: "After [CURRENT HABIT], I will [NEW HABIT]"
 
 **Components**:
+
 1. **Anchor habit**: Existing behavior you already do automatically
 2. **Linking phrase**: "After..." creates the connection
 3. **New habit**: Behavior you want to build
 
 **Why it works**:
+
 - Uses existing neural pathway as foundation
 - Eliminates need to remember or rely on time-based cues
 - Creates immediate, obvious trigger
@@ -66,6 +70,7 @@ Habit stacking is a strategy for building new habits by anchoring them to existi
 ### Essential Requirements
 
 **The anchor habit must be**:
+
 1. **Already automatic**: Not something you're also trying to build
 2. **Specific**: Precise behavior, not vague category
 3. **Consistent**: Happens at same frequency as desired new habit
@@ -75,30 +80,35 @@ Habit stacking is a strategy for building new habits by anchoring them to existi
 ### Examples Across Domains
 
 **Physical health**:
+
 - "After I pour my morning coffee, I will do 10 pushups"
 - "After I brush my teeth at night, I will floss one tooth"
 - "After I take off my work shoes, I will change into workout clothes"
 - "After I sit down for lunch, I will eat one serving of vegetables first"
 
 **Mental health**:
+
 - "After I sit down at my desk, I will write three things I'm grateful for"
 - "After I close my laptop for the day, I will do 2 minutes of meditation"
 - "After I get into bed, I will read one page of a book"
 - "After I feel stressed, I will take three deep breaths"
 
 **Productivity**:
+
 - "After I start my computer, I will write my top three priorities"
 - "After I finish a meeting, I will send follow-up notes"
 - "After I complete a work task, I will update my task list"
 - "After I answer an email, I will immediately file or delete it"
 
 **Relationships**:
+
 - "After I walk in the door from work, I will hug my partner"
 - "After I sit down for dinner, I will ask one question about my child's day"
 - "After I drink my morning coffee, I will text one friend"
 - "After I finish work on Friday, I will schedule one social activity for the weekend"
 
 **Learning**:
+
 - "After I pour my morning coffee, I will read one page of a non-fiction book"
 - "After I eat lunch, I will review my language flashcards for 5 minutes"
 - "After I turn off my car, I will listen to one podcast episode summary"
@@ -111,10 +121,12 @@ Habit stacking is a strategy for building new habits by anchoring them to existi
 ### Single Stack vs. Chain Stack
 
 **Single stack**:
+
 - One trigger → One new habit
 - Example: "After I pour coffee, I will meditate for 1 minute"
 
 **Chain stack**:
+
 - Multiple habits linked in sequence
 - Example: Coffee → Meditation → Journaling → Exercise → Shower
 - Creates powerful routines from individual behaviors
@@ -124,6 +136,7 @@ Habit stacking is a strategy for building new habits by anchoring them to existi
 **Principle**: Link habits that naturally flow together based on location, energy level, or logical sequence.
 
 **Framework**:
+
 1. Start with existing anchor
 2. Add first new habit
 3. Let first new habit become anchor for second new habit
@@ -131,6 +144,7 @@ Habit stacking is a strategy for building new habits by anchoring them to existi
 5. Keep each habit small enough that chain remains doable
 
 **Formula for chains**:
+
 ```
 After [EXISTING HABIT], I will [NEW HABIT 1]
 After [NEW HABIT 1], I will [NEW HABIT 2]
@@ -140,6 +154,7 @@ After [NEW HABIT 2], I will [NEW HABIT 3]
 ### Chain Examples
 
 **Morning routine chain**:
+
 ```
 1. After my alarm goes off, I will immediately sit up
 2. After I sit up, I will drink a glass of water on my nightstand
@@ -154,6 +169,7 @@ After [NEW HABIT 2], I will [NEW HABIT 3]
 ```
 
 **Evening wind-down chain**:
+
 ```
 1. After I finish dinner, I will clear my plate
 2. After I clear my plate, I will wash the dishes
@@ -170,6 +186,7 @@ After [NEW HABIT 2], I will [NEW HABIT 3]
 ```
 
 **Work focus chain**:
+
 ```
 1. After I arrive at my desk, I will close all browser tabs
 2. After I close tabs, I will put phone in drawer
@@ -185,26 +202,31 @@ After [NEW HABIT 2], I will [NEW HABIT 3]
 ### Benefits of Chain Stacking
 
 **Momentum compounding**:
+
 - First habit breaks inertia
 - Each subsequent habit is easier than starting from scratch
 - Completion energy carries through entire chain
 
 **Reduced decision fatigue**:
+
 - No decisions between habits
 - Entire sequence becomes single automated routine
 - Willpower required only to start chain, not for each habit
 
 **Stronger neural encoding**:
+
 - Multiple repetitions in close succession
 - Brain chunks entire sequence together
 - Becomes single procedural memory unit
 
 **Time efficiency**:
+
 - Transitions between habits are seamless
 - No "what should I do next?" dead time
 - Can accomplish significant routine in short period
 
 **Psychological satisfaction**:
+
 - Checking off multiple habits creates momentum
 - Sense of accomplishment amplifies
 - Identity reinforcement: "I'm the type of person who has powerful routines"
@@ -212,21 +234,25 @@ After [NEW HABIT 2], I will [NEW HABIT 3]
 ### Dangers and Limitations of Long Chains
 
 **Fragility**:
+
 - Breaking chain at any point can disrupt entire sequence
 - One missed habit can derail routine
 - Creates all-or-nothing mentality
 
 **Overwhelm**:
+
 - Too many habits can feel daunting
 - May avoid starting because chain seems too long
 - Initial friction increases with chain length
 
 **Inflexibility**:
+
 - Life disruptions break rigid chains
 - Travel, illness, schedule changes affect entire routine
 - Can create guilt when unable to complete full chain
 
 **Mitigation strategies**:
+
 1. Keep chains to 3-5 habits maximum initially
 2. Build optional "flex points" where chain can branch
 3. Create minimum viable version: core habits that must happen vs. bonus habits
@@ -252,6 +278,7 @@ After [NEW HABIT 2], I will [NEW HABIT 3]
 **Exercise**: List all behaviors you do every day without thinking
 
 **Categories to consider**:
+
 - Wake up and sleep routines
 - Bathroom and hygiene
 - Meal preparation and eating
@@ -262,6 +289,7 @@ After [NEW HABIT 2], I will [NEW HABIT 3]
 - Household maintenance
 
 **Common daily habits most people have**:
+
 - Wake up, get out of bed
 - Use bathroom
 - Brush teeth (morning and night)
@@ -313,6 +341,7 @@ After [NEW HABIT 2], I will [NEW HABIT 3]
 ### Strong vs. Weak Anchors
 
 **Strong anchors** (Highly recommended):
+
 - Very specific: "After I pour my morning coffee" not "After I wake up"
 - Highly consistent: Happens same way every single time
 - Obvious completion point: Clear when anchor is done
@@ -323,6 +352,7 @@ After [NEW HABIT 2], I will [NEW HABIT 3]
   - "After I park my car..."
 
 **Weak anchors** (Avoid):
+
 - Vague: "After I get ready in the morning..."
 - Inconsistent: "After I check social media..." (varies wildly)
 - No clear endpoint: "After I relax..."
@@ -335,21 +365,25 @@ After [NEW HABIT 2], I will [NEW HABIT 3]
 ### Advanced Anchoring Techniques
 
 **State-based anchors** (for habits addressing emotional states):
+
 - "After I notice I'm feeling stressed, I will take 3 deep breaths"
 - "After I feel bored, I will do 10 squats"
 - "After I notice myself procrastinating, I will work for just 2 minutes"
 
 **Conditional anchors** (if-then planning):
+
 - "If it's Monday, after I wake up, I will meal prep"
 - "If I'm feeling low energy, after lunch, I will take a 10-minute walk"
 - "If I completed my priority task, after I finish, I will take a real break"
 
 **Location-transition anchors**:
+
 - "After I walk through my front door, I will hang up my keys"
 - "After I sit down at my desk, I will close all browser tabs"
 - "After I get in my car, I will put phone in center console"
 
 **Person-based anchors**:
+
 - "After I see my child after school, I will ask about their day"
 - "After I greet my partner in the morning, I will give them a hug"
 - "After I meet with my manager, I will update my task list"
@@ -609,6 +643,7 @@ After break → I will tackle shallow tasks (admin, scheduling, etc.)
 **Principle**: Each habit in a stack can serve as the anchor for the next, creating cascading chains of behavior.
 
 **Notation**:
+
 - A = Existing habit (anchor)
 - B = First new habit
 - C = Second new habit
@@ -616,6 +651,7 @@ After break → I will tackle shallow tasks (admin, scheduling, etc.)
 - And so on...
 
 **Formula**:
+
 ```
 After A, I will B
 After B, I will C
@@ -641,6 +677,7 @@ F (new habit 5): Make healthy breakfast
 ```
 
 **Progressive implementation**:
+
 - Week 1-2: Just A → B (alarm → make bed)
 - Week 3-4: Add C (alarm → bed → pushups)
 - Week 5-6: Add D (alarm → bed → pushups → meditate)
@@ -791,27 +828,32 @@ After changing clothes → IF weekday
 ### Troubleshooting Process
 
 **Step 1: Observe without judgment**
+
 - For one week, just notice when the stack fails
 - Don't try to force it, just observe
 - Write down what happens at the moment of failure
 
 **Step 2: Identify the break point**
+
 - Where exactly does the chain break?
 - Is it: Not noticing anchor, noticing but not doing new habit, starting but not finishing?
 
 **Step 3: Categorize the failure**
 
 **Type A: Anchor problem**
+
 - Not noticing anchor completion
 - Anchor doesn't happen consistently
 - Anchor has no clear endpoint
 
 **Type B: Transition problem**
+
 - Notice anchor but don't transition to new habit
 - Get distracted between habits
 - Forget the connection
 
 **Type C: Execution problem**
+
 - Start new habit but don't finish
 - New habit is too difficult/long
 - Too much friction
@@ -819,17 +861,20 @@ After changing clothes → IF weekday
 **Step 4: Apply specific fix**
 
 **For Type A (Anchor problem)**:
+
 - Choose more obvious anchor with clear completion point
 - Add physical reminder at anchor location
 - Choose anchor that happens at consistent time/place
 
 **For Type B (Transition problem)**:
+
 - Reduce gap between anchor and new habit to zero
 - Create physical connection (e.g., exercise mat next to bed for morning stack)
 - Write down stack and place note where anchor happens
 - Use verbal cue: say out loud "I just [ANCHOR], now I [NEW HABIT]"
 
 **For Type C (Execution problem)**:
+
 - Make new habit smaller (2-minute rule)
 - Reduce friction (pre-position materials)
 - Choose easier version of habit
@@ -840,6 +885,7 @@ After changing clothes → IF weekday
 **Complete stack failure**: If entire stack has fallen apart
 
 **Recovery protocol**:
+
 1. Don't try to restart full stack
 2. Identify the core habit (most important one)
 3. Create a new single stack: Anchor → Core habit only
@@ -863,6 +909,7 @@ After changing clothes → IF weekday
 **Key principle**: Your stack should evolve with your life
 
 **Signs you need to update your stack**:
+
 - Schedule has changed (new job, new routine)
 - Season has changed (morning routine in winter vs. summer)
 - Life phase has changed (new baby, kids off to college, retirement)
@@ -902,10 +949,12 @@ After changing clothes → IF weekday
 ### Pattern Recognition for LLM
 
 **Identify automatic habits in user's narrative**:
+
 - Listen for "I always...", "Every day I...", "Without thinking I..."
 - These phrases indicate automatic behaviors = potential anchors
 
 **Red flags in user's stack attempts**:
+
 - Vague language: "after I wake up", "when I have time"
 - Aspirational rather than actual: "after I go to the gym" (if they don't currently go)
 - Too many habits: listing 10+ behaviors to stack
@@ -914,6 +963,7 @@ After changing clothes → IF weekday
 ### Coaching Conversation Flow
 
 **Phase 1: Discover existing habits**
+
 ```
 LLM: "Let's identify your existing automatic behaviors. What do you do every single morning without thinking about it?"
 
@@ -927,6 +977,7 @@ LLM: "Great anchor. Coffee starts brewing at a specific moment, right? After you
 ```
 
 **Phase 2: Design the stack**
+
 ```
 User: "I want to exercise more"
 
@@ -942,6 +993,7 @@ LLM: "Exactly - and that's why it will work. We're building the connection, not 
 ```
 
 **Phase 3: Troubleshoot failures**
+
 ```
 User: "It's not working, I keep forgetting"
 
@@ -959,6 +1011,7 @@ LLM: "After those 3 days, add: 'Coffee is starting, time for my pushup.' Then do
 ### Templates for Common Stacks
 
 **Morning energy stack**:
+
 ```
 After [morning beverage preparation], I will [1-minute movement]
 After [movement], I will [1 minute mindfulness]
@@ -966,6 +1019,7 @@ After [mindfulness], I will [write top 3 priorities]
 ```
 
 **Evening wind-down stack**:
+
 ```
 After [dinner cleanup], I will [prep tomorrow's items]
 After [tomorrow prep], I will [screen shut-off]
@@ -973,6 +1027,7 @@ After [screen off], I will [reading/reflection]
 ```
 
 **Work productivity stack**:
+
 ```
 After [arriving at workspace], I will [close distractions]
 After [closing distractions], I will [identify #1 priority]
@@ -982,12 +1037,14 @@ After [identifying priority], I will [start 25-min timer and begin]
 ### Generating Personalized Stacks
 
 **Input required**:
+
 1. User's existing daily routines
 2. User's goals/desired habits
 3. User's schedule and constraints
 4. User's energy patterns throughout day
 
 **Processing**:
+
 1. Match new habit energy requirements to user's energy curve
 2. Match new habit locations to existing habit locations
 3. Ensure frequency alignment
@@ -995,6 +1052,7 @@ After [identifying priority], I will [start 25-min timer and begin]
 5. Start with micro-version of desired habit
 
 **Output**:
+
 1. Specific habit stack formula
 2. Reasoning for why this stack will work
 3. Potential obstacles and mitigations
@@ -1004,12 +1062,14 @@ After [identifying priority], I will [start 25-min timer and begin]
 ### Adaptive Coaching
 
 **Track over time**:
+
 - Which stacks succeed?
 - Which anchors prove most reliable for this user?
 - What time of day works best for this user?
 - What friction points keep appearing?
 
 **Adapt recommendations**:
+
 - Suggest anchors similar to past successes
 - Avoid patterns that have failed before
 - Adjust complexity based on user's track record
@@ -1018,6 +1078,7 @@ After [identifying priority], I will [start 25-min timer and begin]
 ### Meta-Skills to Develop in Users
 
 **Teach users to**:
+
 1. Identify their own automatic behaviors
 2. Recognize clear completion points
 3. Create specificity in language
@@ -1027,4 +1088,3 @@ After [identifying priority], I will [start 25-min timer and begin]
 7. Adapt stacks as life changes
 
 **Ultimate goal**: User becomes their own habit stack architect, no longer needing external coaching.
-

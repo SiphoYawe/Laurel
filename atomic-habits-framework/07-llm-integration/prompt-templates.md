@@ -24,6 +24,7 @@ This document provides conversation templates for LLM interactions to guide user
 "Let's identify habits that align with who you want to become. What area of your life would you like to improve?"
 
 **Follow-ups:**
+
 - "Who would you need to be to achieve that?"
 - "What does that person do daily?"
 - "Which habit feels most important to start with?"
@@ -39,6 +40,7 @@ This document provides conversation templates for LLM interactions to guide user
 "To break a habit, we need to understand its triggers. When does [BAD HABIT] typically occur?"
 
 **The Five Trigger Questions:**
+
 1. When? (time of day)
 2. Where? (location)
 3. Who? (social context)
@@ -46,6 +48,7 @@ This document provides conversation templates for LLM interactions to guide user
 5. What precedes it? (previous action)
 
 **Inversion Strategy:**
+
 - Make it Invisible (remove cues)
 - Make it Unattractive (highlight costs)
 - Make it Difficult (add friction)
@@ -59,6 +62,7 @@ This document provides conversation templates for LLM interactions to guide user
 "I will [BEHAVIOR] at [TIME] in [LOCATION]"
 
 **Questions:**
+
 - "What time works best for this habit?"
 - "Where will you do it?"
 - "What are you already doing at that time?"
@@ -74,6 +78,7 @@ This document provides conversation templates for LLM interactions to guide user
 "After [CURRENT HABIT], I will [NEW HABIT]"
 
 **Questions:**
+
 - "What do you do consistently every day?"
 - "Which routine is most stable?"
 - "What happens right after [anchor habit]?"
@@ -89,12 +94,14 @@ This document provides conversation templates for LLM interactions to guide user
 "When starting a habit, it should take less than two minutes."
 
 **Process:**
+
 1. Ask: "What's the full version of this habit?"
 2. Ask: "What's the first step only?"
 3. Ask: "Can we make it even smaller?"
 4. Create gateway version
 
 **Examples:**
+
 - "Run 3 miles" → "Put on running shoes"
 - "Read 30 pages" → "Read one page"
 - "Write 1000 words" → "Write one sentence"
@@ -104,12 +111,14 @@ This document provides conversation templates for LLM interactions to guide user
 ### 6. Environment Audit Guide
 
 **Room-by-Room Questions:**
+
 - "What cues for good habits exist here?"
 - "What cues for bad habits exist here?"
 - "What creates friction for good habits?"
 - "What reduces friction for bad habits?"
 
 **Action Plan:**
+
 1. Add cues for good habits (make visible)
 2. Remove cues for bad habits (make invisible)
 3. Reduce friction for good habits (prime environment)
@@ -120,6 +129,7 @@ This document provides conversation templates for LLM interactions to guide user
 ### 7. Accountability Setup
 
 **Contract Template:**
+
 ```
 I, [NAME], commit to [HABIT] [FREQUENCY].
 If I fail, I will [CONSEQUENCE].
@@ -128,6 +138,7 @@ Check-in Method: [DAILY/WEEKLY]
 ```
 
 **Consequence Levels:**
+
 - Low: Report to partner
 - Medium: Donate $25 to charity
 - High: Donate $100 + public post
@@ -137,16 +148,19 @@ Check-in Method: [DAILY/WEEKLY]
 ### 8. Progress Review Prompts
 
 **Daily Review (2 minutes):**
+
 - "Did I complete my habit today?"
 - "If yes: How did it feel?"
 - "If no: What got in the way?"
 
 **Weekly Review (10 minutes):**
+
 - "Which habits were consistent this week?"
 - "Which habits struggled?"
 - "What needs to change next week?"
 
 **Monthly Review (30 minutes):**
+
 - "What's working? (keep doing)"
 - "What's not working? (adjust)"
 - "What's missing? (new opportunities)"
@@ -156,14 +170,17 @@ Check-in Method: [DAILY/WEEKLY]
 ### 9. Motivation Reframing
 
 **Transformation:**
+
 - From: "I have to [habit]"
 - To: "I get to [habit] because [benefit]"
 
 **Identity Connection:**
+
 - "I am the type of person who [identity behavior]"
 - "Every time I [habit], I cast a vote for being [identity]"
 
 **Questions:**
+
 - "Why did you want this habit originally?"
 - "What does this habit say about who you are?"
 - "Who are you becoming by doing this?"
@@ -173,6 +190,7 @@ Check-in Method: [DAILY/WEEKLY]
 ### 10. Troubleshooting Guide
 
 **Diagnostic Questions:**
+
 1. "How often are you completing this habit?"
 2. "When you don't do it, what's the reason?"
 3. "Do you have a specific trigger?"
@@ -181,6 +199,7 @@ Check-in Method: [DAILY/WEEKLY]
 6. "Does it align with your identity?"
 
 **Common Problems & Solutions:**
+
 - Forget to do it → Stronger cue (implementation intention)
 - Too difficult → Two-Minute Rule
 - Not motivated → Temptation bundling or reframe
@@ -257,6 +276,7 @@ When engaging with users about habits:
 10. **Schedule reviews** - Build in reflection points
 
 **Key Phrases to Use:**
+
 - "Who do you want to become?"
 - "Let's make this smaller"
 - "What's the 2-minute version?"
@@ -269,6 +289,7 @@ When engaging with users about habits:
 - "What went well? What needs adjustment?"
 
 **Avoid:**
+
 - Generic advice
 - Overwhelming users with too much at once
 - Skipping the identity work

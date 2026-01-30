@@ -17,6 +17,7 @@ Your study environment is not just where you study—it's a cognitive tool that 
 ### The Science of Phone Distraction
 
 **Research findings**:
+
 - Having phone VISIBLE (even face down) reduces cognitive capacity by ~10%
 - Having phone in same room reduces performance by ~5%
 - Phone notifications destroy deep focus for 23 minutes after each interruption
@@ -28,17 +29,20 @@ Your study environment is not just where you study—it's a cognitive tool that 
 ### Solution 1: Different Room
 
 **What to do**:
+
 1. Before study session, place phone in DIFFERENT ROOM
 2. Not on silent in your pocket (still accessible)
 3. Not on desk face-down (still visible)
 4. Actually in a different physical space
 
 **Why this works**:
+
 - Physical barrier creates friction (harder to check)
 - Out of sight = out of mind
 - No temptation during study breaks
 
 **Implementation**:
+
 ```
 Study session routine:
 1. Put phone in bedroom (if studying in living room)
@@ -48,6 +52,7 @@ Study session routine:
 ```
 
 **Exception handling**:
+
 - Emergency contact: Set up emergency bypass (certain contacts can reach you)
 - Important call expected: Set specific time window, then remove phone again
 - Anxiety about missing something: Remember, nothing truly urgent happens in 50 minutes
@@ -55,17 +60,20 @@ Study session routine:
 ### Solution 2: Timed Lockbox
 
 **What to do**:
+
 1. Purchase physical lockbox with timer (Kitchen Safe, kSafe, etc.)
 2. Put phone in box before study session
 3. Set timer (can't open until timer expires)
 4. Box literally locks for set duration
 
 **Why this works**:
+
 - Physical impossibility of accessing phone
 - Removes temptation completely
 - No willpower needed (decision made once)
 
 **How to use**:
+
 ```
 Study block: 50 minutes
 Break: 10 minutes
@@ -85,18 +93,21 @@ Next study block: Lock again for 50 minutes.
 **If phone must be nearby** (e.g., using for study apps, music):
 
 **iPhone**:
+
 1. Settings → Screen Time → App Limits
 2. Set time limits for distracting apps (social media, games)
 3. Enable "Downtime" during study hours
 4. Ask friend to set Screen Time password (so you can't override)
 
 **Android**:
+
 1. Digital Wellbeing → App Timers
 2. Set limits on distracting apps
 3. Use "Focus Mode" to pause apps during study
 4. ActionDash app for more control
 
 **Third-party apps**:
+
 - **Forest**: Gamified focus (virtual tree dies if you leave app)
 - **Freedom**: Blocks apps/websites across all devices
 - **Cold Turkey**: Aggressive blocker (can't override during session)
@@ -109,6 +120,7 @@ Next study block: Lock again for 50 minutes.
 ### Solution 4: The "Study Phone"
 
 **For serious students**:
+
 1. Buy cheap smartphone ($30-50 used phone)
 2. Install ONLY study-related apps (calculator, note-taking, scanner)
 3. No social media, no games, no distractions
@@ -126,6 +138,7 @@ Next study block: Lock again for 50 minutes.
 ### The Problem
 
 **Common scenario**:
+
 - Open computer to work on assignment
 - "Just quickly check email"
 - See interesting YouTube thumbnail
@@ -137,12 +150,14 @@ Next study block: Lock again for 50 minutes.
 ### Solution 1: Website Blockers
 
 **Cold Turkey (Windows, Mac)** - MOST EFFECTIVE:
+
 - Blocks websites/apps completely during study sessions
 - "Frozen Turkey" mode: cannot uninstall or override
 - Schedule automatic blocking (e.g., 6-8 PM every weekday)
 - Free version available, Pro version ~$30
 
 **Setup**:
+
 ```
 Blocked during study:
 - Social media (Facebook, Instagram, Twitter, TikTok, etc.)
@@ -159,22 +174,26 @@ Allowed:
 ```
 
 **Freedom (All platforms)**:
+
 - Cross-device blocking (phone + computer + tablet)
 - Scheduled sessions
 - "Locked Mode" prevents cheating
 - ~$40/year
 
 **Self-Control (Mac, free)**:
+
 - Blocks sites for set duration
 - Cannot override (even restarting computer won't help)
 - Simple, effective
 
 **LeechBlock (Browser extension, free)**:
+
 - Customizable blocking schedules
 - Different block sets for different times
 - Works on Firefox, Chrome
 
 **How to choose**:
+
 - Need cross-device: Freedom
 - Need nuclear option: Cold Turkey Frozen Turkey
 - Mac user, simple: SelfControl
@@ -183,6 +202,7 @@ Allowed:
 ### Solution 2: Separate User Accounts
 
 **What to do**:
+
 1. Create two user accounts on computer:
    - "Study" account
    - "Personal" account
@@ -195,11 +215,13 @@ Allowed:
    - Everything else
 
 **Why this works**:
+
 - Physical friction (have to log out and log in)
 - Clear separation: study mode vs. personal mode
 - Environmental trigger (Study account = automatic focus)
 
 **Implementation** (Windows):
+
 ```
 Settings → Accounts → Family & other users → Add someone else
 Create "Study" user
@@ -208,6 +230,7 @@ Log into Study account for all study sessions
 ```
 
 **Implementation** (Mac):
+
 ```
 System Preferences → Users & Groups → Add user
 Create "Study" user
@@ -218,6 +241,7 @@ Switch accounts for study time
 ### Solution 3: Physical Ethernet
 
 **For extreme cases**:
+
 1. Disconnect WiFi
 2. Use ethernet cable only for required sites
 3. Physically unplug ethernet when not needed for current task
@@ -229,12 +253,14 @@ Switch accounts for study time
 **Strategy**: Do as much as possible offline
 
 **Examples**:
+
 - Write essays in plain text editor (no internet needed)
 - Solve problem sets on paper (scan and submit later)
 - Download PDFs/readings in batch, then disconnect
 - Use offline note-taking apps
 
 **Benefits**:
+
 - No distraction possibility
 - Often faster (no loading, no temptation)
 - Forces focus
@@ -248,16 +274,19 @@ Switch accounts for study time
 **Key concept**: Your brain associates locations with behaviors
 
 **Examples**:
+
 - Bed = sleep (don't study in bed!)
 - Couch = relaxation (don't study on couch!)
 - Desk = work (study here consistently)
 
 **Why this matters**:
+
 - Studying in bed makes sleep harder (brain confused)
 - Studying where you relax makes focus harder
 - Dedicated space = automatic mental state shift
 
 **Implementation**:
+
 ```
 Bed: Sleep only (no phone, no laptop, no studying)
 Couch/Comfortable chair: Relaxation, leisure reading
@@ -273,6 +302,7 @@ If you only have one room (dorm):
 ### Dedicated Study Area
 
 **Ideal setup**:
+
 1. **Desk/table** (not bed, not couch)
 2. **Chair** (comfortable but not too comfortable—you should sit upright)
 3. **Clear surface** (nothing except current study materials)
@@ -283,16 +313,19 @@ If you only have one room (dorm):
 **For students without private space**:
 
 **Library solution**:
+
 - Same library seat every time if possible
 - Creates consistency even in shared space
 - Library environment = others studying = social facilitation
 
 **Shared dorm/apartment solution**:
+
 - Claim specific desk/corner
 - Use visual triggers (put study lamp there, specific mat, etc.)
 - Roommate agreement on quiet hours
 
 **No desk solution**:
+
 - Kitchen table during specific hours
 - Public library
 - University study rooms
@@ -303,16 +336,19 @@ If you only have one room (dorm):
 ### Clear Desk Policy
 
 **What to do**:
+
 1. Before study session, clear desk completely
 2. Only current subject materials on desk
 3. No clutter, no distractions, no unrelated items
 
 **Why this works**:
+
 - Visual clutter = mental clutter
 - Each item on desk is potential distraction
 - Clean space → clear mind
 
 **Implementation**:
+
 ```
 Desk should have ONLY:
 - Current textbook/notes
@@ -339,27 +375,29 @@ NOT on desk:
 
 **The noise spectrum**:
 
-| Noise Level | Effect on Study | Best For |
-|-------------|----------------|----------|
-| **Complete silence** | Best for complex problem-solving, math, reading | Deep concentration tasks |
-| **Library quiet** | Light ambient noise, minimal | Most study tasks |
-| **White noise** | Consistent background sound | Blocking out variable noise |
-| **Light background** | Coffee shop hum, nature sounds | Some people focus better |
-| **Music (no lyrics)** | Can help or hinder depending on person/task | Low-cognitive-load tasks |
-| **Music (with lyrics)** | Generally impairs performance | Not recommended for study |
-| **Variable noise** | Very distracting (people talking, TV) | Avoid |
+| Noise Level             | Effect on Study                                 | Best For                    |
+| ----------------------- | ----------------------------------------------- | --------------------------- |
+| **Complete silence**    | Best for complex problem-solving, math, reading | Deep concentration tasks    |
+| **Library quiet**       | Light ambient noise, minimal                    | Most study tasks            |
+| **White noise**         | Consistent background sound                     | Blocking out variable noise |
+| **Light background**    | Coffee shop hum, nature sounds                  | Some people focus better    |
+| **Music (no lyrics)**   | Can help or hinder depending on person/task     | Low-cognitive-load tasks    |
+| **Music (with lyrics)** | Generally impairs performance                   | Not recommended for study   |
+| **Variable noise**      | Very distracting (people talking, TV)           | Avoid                       |
 
 **Find your optimal noise level through experimentation**
 
 **Noise solutions**:
 
 **For quiet environments**:
+
 1. **Library**: Natural quiet option
 2. **Empty classroom**: Ask professors which rooms are free
 3. **Home with rules**: Set quiet hours with roommates/family
 4. **Early morning**: Study before others wake up
 
 **For noisy environments**:
+
 1. **Noise-cancelling headphones**: (~$50-300)
    - Blocks ambient noise
    - Can play white noise or silence
@@ -373,6 +411,7 @@ NOT on desk:
 4. **Library study rooms**: Small private rooms, bookable
 
 **Music guidelines** (if you insist):
+
 - No lyrics (lyrics compete with language processing)
 - Familiar music only (new music is distracting)
 - Low volume
@@ -380,6 +419,7 @@ NOT on desk:
 - Worst for: reading, writing, learning new concepts
 
 **Recommended**:
+
 - Lo-fi hip hop (cliché but effective)
 - Classical music (Baroque period best for tempo)
 - Video game soundtracks (designed for focus)
@@ -390,12 +430,14 @@ NOT on desk:
 ### Lighting
 
 **The science**:
+
 - Bright light → alertness (mimics daylight)
 - Dim light → sleepiness (triggers melatonin)
 - Blue light → wakefulness (suppresses melatonin)
 - Warm light → relaxation
 
 **Optimal study lighting**:
+
 1. **Natural light** (best):
    - Sit near window if possible
    - Daylight maintains circadian rhythm
@@ -412,6 +454,7 @@ NOT on desk:
    - Reduces alertness
 
 **Implementation**:
+
 ```
 Day study: Near window, natural light
 Evening study: Bright desk lamp + overhead light
@@ -420,12 +463,14 @@ Before bed: Dim, warm light only (no studying)
 ```
 
 **Light therapy**:
+
 - For winter/early morning studying: SAD light box (10,000 lux)
 - 20-30 minutes exposure = increased alertness
 
 ### Temperature
 
 **Research findings**:
+
 - Optimal cognitive performance: 68-72°F (20-22°C)
 - Too warm: drowsiness, reduced focus
 - Too cold: distraction, discomfort
@@ -435,6 +480,7 @@ Before bed: Dim, warm light only (no studying)
 **Why**: Mild cold increases alertness, warmth induces sleepiness
 
 **Implementation**:
+
 - Set thermostat to 68-70°F if you control it
 - Dress in layers (adjust as needed)
 - Open window for fresh air
@@ -446,17 +492,20 @@ Before bed: Dim, warm light only (no studying)
 ### Air Quality
 
 **Often overlooked**:
+
 - Stuffy rooms reduce cognitive performance
 - CO2 buildup impairs decision-making
 - Fresh air increases alertness
 
 **Solutions**:
+
 - Open window (even crack) during study
 - Study in well-ventilated areas
 - Take breaks outside
 - Avoid windowless rooms for long sessions
 
 **Plants** (bonus):
+
 - Some evidence for improved air quality
 - Aesthetic benefits (calmer environment)
 - Low-maintenance options: pothos, snake plant, spider plant
@@ -470,11 +519,13 @@ Before bed: Dim, warm light only (no studying)
 **Concept**: Consistent cues that signal "study time"
 
 **How it works**:
+
 1. Perform same action before every study session
 2. Brain learns: action = study mode
 3. After 2-3 weeks, action automatically triggers focus
 
 **Examples of study triggers**:
+
 - Sitting at specific desk
 - Putting on specific playlist
 - Lighting specific candle
@@ -483,6 +534,7 @@ Before bed: Dim, warm light only (no studying)
 - Turning on desk lamp
 
 **The ritual**:
+
 ```
 My study ritual (example):
 1. Clear desk
@@ -504,11 +556,13 @@ After 2 weeks: Step 1 triggers automatic focus mode
 **Strategy**: Always study in same location
 
 **Benefits**:
+
 - Location itself becomes trigger
 - No decision fatigue ("where should I study today?")
 - Efficiency (materials can stay there)
 
 **Implementation**:
+
 ```
 Monday-Friday, 6-9 PM: Library, 3rd floor, table by window
 This becomes "my spot"
@@ -525,6 +579,7 @@ Sitting there = automatic focus
 **Why this works**: Circadian rhythms + habit formation
 
 **Example**:
+
 ```
 Every day, 7-9 PM = study time
 After 2-3 weeks, brain expects to study at 7 PM
@@ -542,6 +597,7 @@ Automatically alert and focused at that time
 **Before study session**, prepare:
 
 **Essential**:
+
 - [ ] Current textbook/readings
 - [ ] Notebook/paper
 - [ ] Pens/pencils (multiple, in case one breaks)
@@ -550,6 +606,7 @@ Automatically alert and focused at that time
 - [ ] Water bottle (full)
 
 **Nice to have**:
+
 - [ ] Highlighters
 - [ ] Sticky notes
 - [ ] Index cards (flashcards)
@@ -566,17 +623,20 @@ Automatically alert and focused at that time
 ### Snacks and Hydration
 
 **Water**:
+
 - Full water bottle at desk
 - Sip regularly
 - Dehydration impairs cognitive performance
 
 **Snacks** (if needed):
+
 - Prepare BEFORE study session
 - Good options: nuts, fruit, vegetables, cheese
 - Avoid: sugary snacks (energy crash), heavy meals (drowsiness)
 - Keep at desk (don't break focus to get food)
 
 **Caffeine**:
+
 - Can enhance focus (100-200mg = 1-2 cups coffee)
 - Don't overdo (400mg+ = jitters, anxiety)
 - Avoid after 2 PM (disrupts sleep)
@@ -585,19 +645,23 @@ Automatically alert and focused at that time
 ### Digital Tools
 
 **Note-taking**:
+
 - Handwritten (better for learning) vs. Digital (easier organization)
 - If digital: Notion, OneNote, Evernote, Google Docs
 - Minimize formatting (don't waste time making pretty notes)
 
 **PDF annotation**:
+
 - Preview (Mac), Adobe Acrobat, Xodo (Android)
 - Annotate readings directly
 
 **Flashcards**:
+
 - Anki (spaced repetition algorithm built-in)
 - Quizlet (easier interface, less powerful algorithm)
 
 **Focus tools**:
+
 - Forest app (gamified focus)
 - Pomodoro timer apps
 - Cold Turkey (website blocker)
@@ -611,6 +675,7 @@ Automatically alert and focused at that time
 ### Challenge 1: "I share a room, can't control environment"
 
 **Solutions**:
+
 1. **Study elsewhere**: Library, coffee shop, empty classroom
 2. **Negotiate quiet hours**: Roommate agreement
 3. **Noise-cancelling headphones**: Block out roommate
@@ -623,6 +688,7 @@ Automatically alert and focused at that time
 ### Challenge 2: "I can't focus at library (too many people)"
 
 **Try**:
+
 1. **Different library location**: Upper floors are quieter
 2. **Private study rooms**: Many libraries have bookable rooms
 3. **Different time**: Early morning or late evening = fewer people
@@ -636,17 +702,18 @@ Automatically alert and focused at that time
 
 **Causes and solutions**:
 
-| Cause | Solution |
-|-------|----------|
-| Too warm | Lower temperature, lighter clothing |
-| Dim lighting | Brighter light, natural light |
-| Sitting in comfortable chair | Sit upright in desk chair |
-| After heavy meal | Study before eating or 90+ min after |
-| Not enough sleep | Fix sleep schedule (non-negotiable) |
-| Boring material | Active learning (questions, not passive reading) |
-| Lack of oxygen | Open window, take break outside |
+| Cause                        | Solution                                         |
+| ---------------------------- | ------------------------------------------------ |
+| Too warm                     | Lower temperature, lighter clothing              |
+| Dim lighting                 | Brighter light, natural light                    |
+| Sitting in comfortable chair | Sit upright in desk chair                        |
+| After heavy meal             | Study before eating or 90+ min after             |
+| Not enough sleep             | Fix sleep schedule (non-negotiable)              |
+| Boring material              | Active learning (questions, not passive reading) |
+| Lack of oxygen               | Open window, take break outside                  |
 
 **Quick fixes when drowsy**:
+
 - Stand up, stretch, walk
 - Splash cold water on face
 - 10 jumping jacks
@@ -659,6 +726,7 @@ Automatically alert and focused at that time
 ### Challenge 4: "I don't have a desk"
 
 **Alternatives**:
+
 1. **Kitchen/dining table**: Clear it, use during specific hours
 2. **Library**: Your desk is there
 3. **Lap desk**: $20-40, use on floor/bed (not ideal but better than nothing)
@@ -670,6 +738,7 @@ Automatically alert and focused at that time
 ### Challenge 5: "My home is too chaotic/distracting"
 
 **Solution**: Study elsewhere 100% of the time
+
 - Library
 - 24-hour study room (many universities have these)
 - Coffee shop
@@ -688,6 +757,7 @@ Automatically alert and focused at that time
 **Try this experiment**:
 
 **Week 1**: Study in current environment, track metrics:
+
 - Focus quality (1-10 scale)
 - Distractions per hour
 - Time wasted
@@ -695,14 +765,17 @@ Automatically alert and focused at that time
 - Energy levels
 
 **Week 2**: Optimize ONE factor (e.g., remove phone)
+
 - Track same metrics
 - Compare to Week 1
 
 **Week 3**: Optimize ANOTHER factor (e.g., add website blocker)
+
 - Track metrics
 - Compare to Weeks 1-2
 
 **Week 4**: Full optimization (all factors)
+
 - Track metrics
 - Compare to baseline
 
@@ -711,35 +784,41 @@ Automatically alert and focused at that time
 ### Optimization Checklist
 
 #### Phone Distraction
+
 - [ ] Phone in different room OR
 - [ ] Phone in timed lockbox OR
 - [ ] Phone with app restrictions (least effective)
 
 #### Computer Distraction
+
 - [ ] Website blocker installed (Cold Turkey, Freedom, etc.)
 - [ ] Blocker configured for study hours
 - [ ] Distracting apps removed/blocked
 - [ ] Separate user account for study (optional)
 
 #### Physical Space
+
 - [ ] Dedicated study area (not bed, not couch)
 - [ ] Clear desk (only current materials)
 - [ ] Comfortable but upright seating
 - [ ] Consistent location
 
 #### Sensory Environment
+
 - [ ] Noise level optimized (silence, white noise, or music)
 - [ ] Lighting optimized (bright, natural if possible)
 - [ ] Temperature comfortable (slightly cool)
 - [ ] Fresh air (window open or well-ventilated)
 
 #### Study Triggers
+
 - [ ] Consistent study ritual (3-5 steps)
 - [ ] Same location most days
 - [ ] Same time most days
 - [ ] Automatic "study mode" developing
 
 #### Materials Ready
+
 - [ ] All necessary materials at desk before starting
 - [ ] Water bottle full
 - [ ] Snacks prepared (if needed)
@@ -754,6 +833,7 @@ Automatically alert and focused at that time
 ### Environment Setup Implementation Checklist
 
 #### Week 1: Phone and Computer Distractions
+
 - [ ] Choose phone solution (different room / lockbox / restrictions)
 - [ ] Implement for one study session (test it)
 - [ ] Choose computer blocker (Cold Turkey / Freedom / etc.)
@@ -762,6 +842,7 @@ Automatically alert and focused at that time
 - [ ] Test for one full week
 
 #### Week 2: Physical Space
+
 - [ ] Identify dedicated study location
 - [ ] Clear desk/table completely
 - [ ] Set up one-space-one-purpose rule (no studying in bed)
@@ -770,6 +851,7 @@ Automatically alert and focused at that time
 - [ ] Study in same location all week
 
 #### Week 3: Sensory Optimization
+
 - [ ] Test different noise levels (silence, white noise, music)
 - [ ] Find optimal noise environment
 - [ ] Optimize lighting (bright, natural if possible)
@@ -778,6 +860,7 @@ Automatically alert and focused at that time
 - [ ] Implement for all study sessions
 
 #### Week 4: Triggers and Rituals
+
 - [ ] Design study ritual (3-5 consistent steps)
 - [ ] Perform ritual before every study session
 - [ ] Set consistent study time (same time daily)
@@ -785,6 +868,7 @@ Automatically alert and focused at that time
 - [ ] Track: Does sitting down = automatic focus yet?
 
 #### Ongoing: Maintenance and Adjustment
+
 - [ ] Weekly audit: What's working? What's not?
 - [ ] Adjust based on data
 - [ ] Maintain consistency (same space, time, ritual)
@@ -899,12 +983,14 @@ Use this weekly:
 ## Distractions Tracked
 
 ### Phone
+
 - Number of times checked during study: [X]
 - Time wasted on phone: [X minutes]
 - Phone location: [On desk / In pocket / Different room / Lockbox]
 - **Rating (1-10)**: [How well did I manage phone this week?]
 
 ### Computer
+
 - Distracting websites visited: [X times]
 - Time wasted on distractions: [X minutes]
 - Blocker active: [Y/N]
@@ -912,6 +998,7 @@ Use this weekly:
 - **Rating (1-10)**: [How well did I manage computer distractions?]
 
 ### Physical Environment
+
 - Studied in same location: [X/Y sessions]
 - Desk was clear: [Y/N per session]
 - Noise level appropriate: [Y/N per session]
@@ -919,18 +1006,21 @@ Use this weekly:
 - **Rating (1-10)**: [How optimal was my physical environment?]
 
 ### Ritual Consistency
+
 - Performed study ritual: [X/Y sessions]
 - Same time each day: [X/Y days]
 - Automatic focus achieved: [Y/N]
 - **Rating (1-10)**: [How consistent was I with triggers?]
 
 ## Focus Quality
+
 [For each study session this week]
 
-| Day | Location | Focus Quality (1-10) | Distractions | Time Wasted | Notes |
-|-----|----------|---------------------|--------------|-------------|-------|
-| Mon | [Where] | [Rating] | [What distracted] | [Minutes] | [Comments] |
-| Tue | [Where] | [Rating] | [What distracted] | [Minutes] | [Comments] |
+| Day | Location | Focus Quality (1-10) | Distractions      | Time Wasted | Notes      |
+| --- | -------- | -------------------- | ----------------- | ----------- | ---------- |
+| Mon | [Where]  | [Rating]             | [What distracted] | [Minutes]   | [Comments] |
+| Tue | [Where]  | [Rating]             | [What distracted] | [Minutes]   | [Comments] |
+
 [Continue...]
 
 **Average focus quality this week**: [X/10]
@@ -939,21 +1029,25 @@ Use this weekly:
 ## Key Insights
 
 **What worked well**:
+
 - [What environmental factor helped most]
 - [Successful distraction management]
 - [Effective ritual/trigger]
 
 **What didn't work**:
+
 - [What environmental factor failed]
 - [Distraction that got through]
 - [Inconsistency in ritual]
 
 **Adjustments for next week**:
+
 1. [Specific change 1]
 2. [Specific change 2]
 3. [Specific change 3]
 
 ## Goal for Next Week
+
 [Specific, measurable environmental goal]
 ```
 
@@ -1012,18 +1106,22 @@ Same decent space every time > different optimal spaces randomly.
 **Don't try to optimize everything at once.**
 
 **Week 1**: Remove phone only
+
 - Track improvement
 - Build habit
 - Prove to yourself it works
 
 **Week 2**: Add website blocker
+
 - Track improvement
 - Compound benefits
 
 **Week 3**: Optimize physical space
+
 - Dedicated desk, clear surface
 
 **Week 4**: Add ritual and triggers
+
 - Full system in place
 
 **Gradual implementation > overwhelming yourself > giving up**
@@ -1031,12 +1129,14 @@ Same decent space every time > different optimal spaces randomly.
 ### Measure and Adjust
 
 **What to track**:
+
 - Focus quality (subjective 1-10 rating)
 - Distractions per hour
 - Work accomplished per hour
 - Time wasted
 
 **How to track**:
+
 - Quick note after each study session
 - Weekly review of data
 - Month-over-month comparison
@@ -1046,6 +1146,7 @@ Same decent space every time > different optimal spaces randomly.
 ### Environment = Foundation
 
 **Remember**: All the study techniques in the world won't work if:
+
 - You're checking your phone every 5 minutes
 - You're watching YouTube instead of studying
 - You're drowsy in a dim, warm room

@@ -22,6 +22,7 @@ The act of retrieval itself modifies the brain. Neurons that fire together, wire
 In a landmark study published in Science, researchers compared different study strategies:
 
 **Study Design:**
+
 - Students learned a science text using one of four methods:
   1. Read once, then recall (write down everything)
   2. Read once, create concept map
@@ -29,6 +30,7 @@ In a landmark study published in Science, researchers compared different study s
   4. Read once, create concept map, then recall
 
 **Results (1 week later):**
+
 - **Retrieval practice group: 67% retention**
 - Concept mapping group: 45% retention
 - Repeated reading: 40% retention
@@ -40,22 +42,26 @@ Even more striking: Students PREDICTED they would perform better with concept ma
 ## Types of Recall
 
 ### Free Recall
+
 Retrieving information with NO cues or prompts.
 
 **Example:** "Close your book. Write down everything you remember about cellular respiration."
 
 **Characteristics:**
+
 - Hardest form of recall
 - Most effective for learning
 - Best reveals true understanding
 - Mimics essay exam conditions
 
 ### Cued Recall
+
 Retrieving information with hints, prompts, or partial information.
 
 **Example:** "What are the three stages of cellular respiration?"
 
 **Characteristics:**
+
 - Easier than free recall
 - Still highly effective
 - More specific practice
@@ -68,16 +74,19 @@ Retrieving information with hints, prompts, or partial information.
 **Critical insight: Testing is not just assessment - testing IS learning.**
 
 Traditional view:
+
 ```
 Learn → Test (to measure learning)
 ```
 
 Reality:
+
 ```
 Test → Learn (testing causes learning)
 ```
 
 Every time you test yourself, you:
+
 1. **Strengthen retrieved memories** (direct effect)
 2. **Identify gaps** in knowledge (diagnostic effect)
 3. **Create better organization** in memory (structural effect)
@@ -90,6 +99,7 @@ The testing effect is so powerful that even FAILED retrieval attempts improve le
 **Discovery:** We learn MORE from our confident mistakes than from information we already knew.
 
 When you:
+
 1. Answer confidently
 2. Discover you were wrong
 3. Learn the correct answer
@@ -107,18 +117,21 @@ When you:
 **What:** Quiz yourself on material BEFORE the lecture/reading.
 
 **How:**
+
 - Skim the chapter headings and bolded terms
 - Try to answer: "What do I think this section will cover?"
 - Attempt to define unfamiliar terms before reading
 - Write 3-5 questions you expect the material to answer
 
 **Why it works:**
+
 - Primes your brain to recognize important information
 - Creates curiosity gaps that motivate learning
 - Makes lecture feel like "answers" rather than new information
 - Even wrong guesses improve later retention (hypercorrection effect)
 
 **Example - Before attending a lecture on photosynthesis:**
+
 ```
 Pretest Questions:
 Q: What is photosynthesis? (My guess: plants making food from sunlight)
@@ -134,12 +147,14 @@ Then attend lecture/do reading and confirm/correct your guesses.
 **What:** Take notes in question-answer format instead of copying what the professor says.
 
 **Traditional notes (passive):**
+
 ```
 Mitochondria are the powerhouse of the cell.
 They produce ATP through cellular respiration.
 ```
 
 **Active recall notes:**
+
 ```
 Q: What organelle produces ATP?
 A: Mitochondria
@@ -152,6 +167,7 @@ A: Because they generate most of the cell's energy (ATP)
 ```
 
 **Benefits:**
+
 - Forces engagement during lecture (can't copy verbatim)
 - Creates instant study material
 - Identifies what you don't understand IN CLASS (ask questions now!)
@@ -164,6 +180,7 @@ A: Because they generate most of the cell's energy (ATP)
 **What:** Within 24 hours of class, answer all the questions you created in your notes.
 
 **Protocol:**
+
 1. Close your notebook
 2. On blank paper, write each question
 3. Answer from memory
@@ -182,6 +199,7 @@ A: Because they generate most of the cell's energy (ATP)
 **What:** Explain concepts in simple language as if teaching a child.
 
 **The 4 Steps:**
+
 1. Choose a concept
 2. Explain it in simple terms (write it out or say it aloud)
 3. Identify gaps where you get stuck or use jargon
@@ -189,10 +207,10 @@ A: Because they generate most of the cell's energy (ATP)
 
 **Example - Explaining "Opportunity Cost":**
 
-*First attempt:*
+_First attempt:_
 "Opportunity cost is the value of the next best alternative foregone when making a decision."
 
-*Simplified (5th grader version):*
+_Simplified (5th grader version):_
 "When you choose to do one thing, you give up doing something else. The opportunity cost is what you missed out on. If you spend $10 on a movie, you can't spend that $10 on pizza. The pizza you didn't get is the opportunity cost."
 
 **When you get stuck simplifying, you've found a knowledge gap.**
@@ -204,6 +222,7 @@ A: Because they generate most of the cell's energy (ATP)
 **What:** Free recall practice - write everything you remember about a topic.
 
 **Protocol:**
+
 1. Study a section of material (20-30 minutes)
 2. Close all materials
 3. Set timer (10-15 minutes)
@@ -213,12 +232,14 @@ A: Because they generate most of the cell's energy (ATP)
 7. Focus next study session on the RED items
 
 **Why it works:**
+
 - Pure free recall (no cues)
 - Reveals exactly what stuck vs what didn't
 - Forces organization (you must structure the information)
 - Identifies weak areas immediately
 
 **Example - After studying cell division:**
+
 ```
 BLURT:
 
@@ -238,7 +259,7 @@ Meiosis:
 - Creates genetic diversity through... (STUCK - what were the two mechanisms?)
 ```
 
-*After checking notes:*
+_After checking notes:_
 RED MARKS: Crossing over and independent assortment (the two mechanisms)
 
 **Next session:** Focus on crossing over and independent assortment.
@@ -248,6 +269,7 @@ RED MARKS: Crossing over and independent assortment (the two mechanisms)
 **What:** Complete practice exams under exam conditions.
 
 **Why it's THE BEST study method:**
+
 - Mimics actual exam conditions (reduces test anxiety)
 - Mixed question types (comprehensive recall)
 - Time pressure (builds fluency)
@@ -256,6 +278,7 @@ RED MARKS: Crossing over and independent assortment (the two mechanisms)
 **Critical:** Most students use practice tests WRONG. They read the question, think "yeah, I know this," check the answer, and move on.
 
 **Correct method:**
+
 1. Take the test under REAL conditions (timed, closed book)
 2. Write complete answers (even for multiple choice - explain WHY)
 3. When done, grade yourself
@@ -291,26 +314,31 @@ Better: "A 1000kg car accelerates at 2 m/s². If the car's mass doubles but forc
 ### Question Types
 
 **1. What/Define Questions** (foundational)
+
 - What is X?
 - Define Y.
 - List the components of Z.
 
 **2. How/Process Questions** (procedural)
+
 - How does X work?
 - What is the process for Y?
 - What are the steps in Z?
 
 **3. Why/Explanation Questions** (conceptual)
+
 - Why does X happen?
 - What causes Y?
 - Explain the relationship between A and B.
 
 **4. Compare/Contrast Questions** (relational)
+
 - How are X and Y similar/different?
 - What distinguishes A from B?
 - Compare the approaches of X and Y.
 
 **5. Application Questions** (transfer)
+
 - Given scenario X, what would happen?
 - How would you solve problem Y?
 - Apply concept Z to situation W.
@@ -322,11 +350,13 @@ Better: "A 1000kg car accelerates at 2 m/s². If the car's mass doubles but forc
 Track your recall accuracy with a simple color system:
 
 ### Black Ink
+
 **When:** First time answering a question (during/after initial learning)
 
 **Meaning:** First attempt, baseline knowledge
 
 ### Blue Ink
+
 **When:** You answer correctly on the first try
 
 **Meaning:** Strong recall, this knowledge is solid
@@ -334,11 +364,13 @@ Track your recall accuracy with a simple color system:
 **Action:** Include in spaced repetition, but lower priority
 
 ### Purple Ink
+
 **When:** You answer incorrectly, incompletely, or struggle significantly
 
 **Meaning:** Knowledge gap identified
 
 **Action:**
+
 - Review source material immediately
 - Rewrite question in your own words
 - Test again in 1 day
@@ -354,6 +386,7 @@ Track your recall accuracy with a simple color system:
 5. **Retest:** Purple questions become blue when mastered
 
 **Visual example:**
+
 ```
 Q: What are the four stages of mitosis? ✓ (BLUE - got it right)
 
@@ -367,6 +400,7 @@ Q: Difference between DNA and RNA? ~ (PURPLE - partial answer)
 ### Writing Answers (Preferred)
 
 **Advantages:**
+
 - Forces complete thoughts (can't mumble through gaps)
 - Creates written record to check against source
 - Slower = deeper processing
@@ -374,6 +408,7 @@ Q: Difference between DNA and RNA? ~ (PURPLE - partial answer)
 - Reveals partial understanding ("I know part of this...")
 
 **When to use:**
+
 - Major concepts
 - Complex, multi-part topics
 - When preparing written exam formats
@@ -382,12 +417,14 @@ Q: Difference between DNA and RNA? ~ (PURPLE - partial answer)
 ### Verbal Answering (Efficient)
 
 **Advantages:**
+
 - Faster (can review more questions)
 - More natural (mimics explaining to someone)
 - Good for commute/walking review
 - Reduces friction (easier to start)
 
 **When to use:**
+
 - Quick daily review
 - Simple factual recall
 - When time is limited
@@ -548,6 +585,7 @@ Try answering these before checking your notes.
 ### Question Generation Prompts
 
 **For comprehensive topic review:**
+
 ```
 Topic: [X]
 Bloom's Taxonomy level: [Remember/Understand/Apply/Analyze]
@@ -561,6 +599,7 @@ Format as flashcards with questions on front, detailed answers on back.
 ```
 
 **For exam simulation:**
+
 ```
 Create a 45-minute practice exam on [TOPIC] with:
 - 10 multiple choice (with explanations for each wrong answer)
@@ -572,6 +611,7 @@ Include a grading rubric.
 ```
 
 **For Socratic dialogue:**
+
 ```
 I'm studying [TOPIC]. Have a Socratic dialogue with me where you:
 1. Ask a question
@@ -588,16 +628,19 @@ Start with: "Tell me what you understand about [TOPIC]."
 If you only implement ONE technique from this entire framework, make it active recall.
 
 **The evidence is overwhelming:**
+
 - 50% better retention than other study methods
 - Works across all subjects and ages
 - Scales from 5-minute reviews to 3-hour exams
 - Free and requires no special tools
 
 **The principle is simple:**
+
 - Reading = familiar recognition (weak)
 - Retrieval = effortful reconstruction (strong)
 
 **The implementation is straightforward:**
+
 - Close your materials
 - Force yourself to answer
 - Check and correct

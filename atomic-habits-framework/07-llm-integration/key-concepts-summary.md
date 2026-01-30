@@ -19,18 +19,19 @@ This is the habit loop that drives all behavior.
 
 ## The Four Laws of Behavior Change
 
-| Law | Building Good Habits | Breaking Bad Habits |
-|-----|---------------------|---------------------|
-| **1st Law** | Make it Obvious | Make it Invisible |
-| **2nd Law** | Make it Attractive | Make it Unattractive |
-| **3rd Law** | Make it Easy | Make it Difficult |
-| **4th Law** | Make it Satisfying | Make it Unsatisfying |
+| Law         | Building Good Habits | Breaking Bad Habits  |
+| ----------- | -------------------- | -------------------- |
+| **1st Law** | Make it Obvious      | Make it Invisible    |
+| **2nd Law** | Make it Attractive   | Make it Unattractive |
+| **3rd Law** | Make it Easy         | Make it Difficult    |
+| **4th Law** | Make it Satisfying   | Make it Unsatisfying |
 
 ## Core Strategies by Law
 
 ### 1st Law: Make it Obvious / Invisible
 
 **Building Good Habits:**
+
 - Implementation intention formula
 - Habit stacking formula
 - Environment design (add cues)
@@ -38,6 +39,7 @@ This is the habit loop that drives all behavior.
 - Pointing-and-calling (explicit awareness)
 
 **Breaking Bad Habits:**
+
 - Reduce exposure to cues
 - Remove triggers from environment
 - Increase steps to bad habit
@@ -46,12 +48,14 @@ This is the habit loop that drives all behavior.
 ### 2nd Law: Make it Attractive / Unattractive
 
 **Building Good Habits:**
+
 - Temptation bundling
 - Join a culture where desired behavior is normal
 - Reframe mindset (highlight benefits)
 - Motivation ritual (associate habit with positive feeling)
 
 **Breaking Bad Habits:**
+
 - Reframe mindset (highlight downsides)
 - Associate bad habit with negative feelings
 - Join culture where bad habit is abnormal
@@ -60,6 +64,7 @@ This is the habit loop that drives all behavior.
 ### 3rd Law: Make it Easy / Difficult
 
 **Building Good Habits:**
+
 - Reduce friction (decrease steps)
 - Prime the environment (prep ahead)
 - Two-minute rule
@@ -68,6 +73,7 @@ This is the habit loop that drives all behavior.
 - Standardize before optimizing
 
 **Breaking Bad Habits:**
+
 - Increase friction (add steps)
 - Use commitment devices
 - Make bad habits impractical
@@ -76,6 +82,7 @@ This is the habit loop that drives all behavior.
 ### 4th Law: Make it Satisfying / Unsatisfying
 
 **Building Good Habits:**
+
 - Immediate rewards
 - Visual progress tracking
 - Habit tracking
@@ -84,6 +91,7 @@ This is the habit loop that drives all behavior.
 - Accountability partner
 
 **Breaking Bad Habits:**
+
 - Immediate costs/consequences
 - Accountability partner (report failures)
 - Habit contract (punishment for failure)
@@ -92,6 +100,7 @@ This is the habit loop that drives all behavior.
 ## Key Formulas & Templates
 
 ### Implementation Intention
+
 ```
 "I will [BEHAVIOR] at [TIME] in [LOCATION]."
 
@@ -101,6 +110,7 @@ Examples:
 ```
 
 ### Habit Stacking
+
 ```
 "After [CURRENT HABIT], I will [NEW HABIT]."
 
@@ -110,6 +120,7 @@ Examples:
 ```
 
 ### Temptation Bundling
+
 ```
 "After [HABIT I NEED], I will [HABIT I WANT]."
 
@@ -122,6 +133,7 @@ Examples:
 ```
 
 ### Identity Statement
+
 ```
 "I am the type of person who [IDENTITY]."
 
@@ -132,6 +144,7 @@ Examples:
 ```
 
 ### Two-Minute Rule
+
 ```
 "When you start a new habit, it should take less than two minutes to do."
 
@@ -144,6 +157,7 @@ Examples:
 ```
 
 ### Habit Scorecard Template
+
 ```
 HABIT                           | CUE                    | +/-/=
 --------------------------------|------------------------|-------
@@ -159,6 +173,7 @@ Legend: + = Positive, - = Negative, = = Neutral
 ```
 
 ### Habit Contract Template
+
 ```
 HABIT CONTRACT
 
@@ -309,15 +324,15 @@ Motivation = Difficulty at edge of current abilities
 
 ### If you want to...
 
-| Goal | Apply | Specific Strategy |
-|------|-------|------------------|
-| **Start a new habit** | 1st Law → 2nd Law → 3rd Law → 4th Law | Implementation intention + Make it easy + Add reward |
-| **Break a bad habit** | Invert all laws | Remove cues + Increase friction + Make unsatisfying |
-| **Make habit stick** | 4th Law + Identity | Track progress + Reframe identity |
-| **Overcome resistance** | 3rd Law | Two-minute rule + Reduce friction |
-| **Stay motivated** | 2nd Law + Goldilocks | Join supportive culture + Increase difficulty 4% |
-| **Recover from miss** | 4th Law | Never miss twice + Forgive yourself |
-| **Scale up habit** | 3rd Law | Master gateway version first, then advance |
+| Goal                    | Apply                                 | Specific Strategy                                    |
+| ----------------------- | ------------------------------------- | ---------------------------------------------------- |
+| **Start a new habit**   | 1st Law → 2nd Law → 3rd Law → 4th Law | Implementation intention + Make it easy + Add reward |
+| **Break a bad habit**   | Invert all laws                       | Remove cues + Increase friction + Make unsatisfying  |
+| **Make habit stick**    | 4th Law + Identity                    | Track progress + Reframe identity                    |
+| **Overcome resistance** | 3rd Law                               | Two-minute rule + Reduce friction                    |
+| **Stay motivated**      | 2nd Law + Goldilocks                  | Join supportive culture + Increase difficulty 4%     |
+| **Recover from miss**   | 4th Law                               | Never miss twice + Forgive yourself                  |
+| **Scale up habit**      | 3rd Law                               | Master gateway version first, then advance           |
 
 ## Advanced Concepts
 
@@ -400,6 +415,7 @@ Fix the inputs and the outputs will fix themselves.
 **This summary serves as the foundation for all habit-related operations.**
 
 When helping users:
+
 1. Always start with identity ("Who do you want to become?")
 2. Apply laws in sequence (Obvious → Attractive → Easy → Satisfying)
 3. Start smaller than user thinks necessary (two-minute rule)

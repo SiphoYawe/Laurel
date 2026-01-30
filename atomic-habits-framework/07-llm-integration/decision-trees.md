@@ -1285,6 +1285,7 @@ When a user presents a habit challenge:
 6. **Output structured plan** at the end
 
 **Key principles:**
+
 - Decision trees are guides, not rigid scripts
 - Adapt language to user's context
 - Can jump between trees if needed
@@ -1292,12 +1293,14 @@ When a user presents a habit challenge:
 - Store structured data for future reference
 
 **Common flows:**
+
 - New habit → Tree 1
 - Breaking habit → Tree 2
 - Troubleshooting → Tree 3, 4, 5, or 9
 - Optimization → Tree 5, 6, 7, or 8
 
 **Integration with other files:**
+
 - Use `key-concepts-summary.md` for formulas and strategies
 - Use `implementation-patterns.md` for specific techniques
 - Use `prompt-templates.md` for conversation starters

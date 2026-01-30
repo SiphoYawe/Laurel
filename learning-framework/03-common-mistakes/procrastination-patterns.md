@@ -9,21 +9,25 @@ Procrastination is not a character flaw, moral failing, or simple laziness. It's
 ### 1. Task Feels Overwhelming
 
 **The experience**:
+
 - Looking at assignment and thinking "I don't even know where to start"
 - Mental freeze when contemplating scope of work
 - Perception: "This is too big/complex/time-consuming"
 
 **Underlying mechanism**: Cognitive overwhelm triggers avoidance
+
 - Brain perceives task as threatening (too large to process)
 - Emotional response: anxiety and paralysis
 - Behavioral response: do something easier to regulate emotions
 
 **Not about**:
+
 - Laziness
 - Not caring
 - Poor time management (you know you should start, but can't)
 
 **Example**: "Write 15-page research paper" triggers:
+
 - Where do I even begin?
 - How will I find 15 pages worth of content?
 - This will take forever
@@ -32,11 +36,13 @@ Procrastination is not a character flaw, moral failing, or simple laziness. It's
 ### 2. Fear of Failure or Imperfection
 
 **The experience**:
+
 - Delaying work because "I need to do it perfectly"
 - Anxiety about not knowing enough to start
 - Worry: "What if I do it wrong?"
 
 **Underlying mechanism**: Perfectionism and self-worth protection
+
 - Performance tied to self-esteem ("If I fail, I'm worthless")
 - Starting means risking failure (threatening to ego)
 - Not starting means protecting self-image ("I could have done well if I'd tried")
@@ -44,6 +50,7 @@ Procrastination is not a character flaw, moral failing, or simple laziness. It's
 **The paradox**: Delaying ensures the feared outcome (poor performance due to time pressure)
 
 **Not about**:
+
 - High standards (that's adaptive)
 - Caring about quality (that's good)
 - It's about: Standards so high they prevent action
@@ -53,42 +60,50 @@ Procrastination is not a character flaw, moral failing, or simple laziness. It's
 ### 3. Lack of Clear Next Steps
 
 **The experience**:
+
 - Know you should work on something but unclear what specific action to take
 - Vague intention: "Work on Biology" but no concrete task
 - Decision paralysis: too many possible actions, can't choose
 
 **Underlying mechanism**: Ambiguity increases cognitive load and reduces motivation
+
 - Brain prefers clear, specific actions (low cognitive demand)
 - Vague tasks require extra decision-making (high cognitive demand)
 - Easier to avoid than to figure out what to do
 
 **Not about**:
+
 - Not knowing the material exists
 - Not caring about the course
 
 **Example**: "Study for Calculus exam" (vague) vs "Do practice problems 1-10 from Section 3.4" (specific)
+
 - First triggers: "What should I study? Where do I start? Is there a better approach?"
 - Second enables: "I know exactly what to do, I'll start now"
 
 ### 4. Environment Not Conducive
 
 **The experience**:
+
 - Sit down to study but constantly distracted
 - Phone notifications, roommate interruptions, noisy setting
 - Physical discomfort (bad chair, poor lighting, wrong temperature)
 
 **Underlying mechanism**: High friction to starting and maintaining focus
+
 - Environment pulls attention away from difficult task
 - Alternative stimuli more immediately rewarding
 - Each interruption requires re-engaging (exhausting)
 
 **Not about**:
+
 - Just needing more willpower
 - Being weak or undisciplined
 
 **Contextual factors matter enormously**
 
 **Example**: Trying to study in dorm room with:
+
 - Roommate playing video games
 - Phone next to you buzzing
 - Bed visible (tempting for nap)
@@ -99,11 +114,13 @@ Procrastination is not a character flaw, moral failing, or simple laziness. It's
 ### 5. Task Is Boring or Unrewarding
 
 **The experience**:
+
 - Task provides no immediate satisfaction
 - Delayed reward (exam is weeks away)
 - Alternative activities more immediately pleasurable
 
 **Underlying mechanism**: Present bias and temporal discounting
+
 - Brain values immediate rewards over delayed rewards
 - Studying: effort now, reward later (weeks/months)
 - Social media: reward now (immediate dopamine)
@@ -114,6 +131,7 @@ Procrastination is not a character flaw, moral failing, or simple laziness. It's
 **Emotional brain usually wins**
 
 **Not about**:
+
 - Not understanding long-term consequences
 - Not valuing education
 
@@ -122,22 +140,26 @@ Procrastination is not a character flaw, moral failing, or simple laziness. It's
 ### 6. Low Energy or Poor Physical State
 
 **The experience**:
+
 - Tired, hungry, or mentally depleted
 - Know you should work but genuinely can't focus
 - Physical discomfort (headache, poor sleep, illness)
 
 **Underlying mechanism**: Willpower and cognitive resources are finite
+
 - Difficult tasks require cognitive resources
 - When depleted, even starting feels impossible
 - Body's genuine need for rest/food/care
 
 **Not about**:
+
 - Making excuses
 - Being lazy
 
 **Sometimes procrastination signals legitimate need for recovery**
 
 **Example**: Trying to study after:
+
 - 4 hours of sleep
 - Skipping meals
 - Already studying for 6 hours straight
@@ -149,6 +171,7 @@ Procrastination is not a character flaw, moral failing, or simple laziness. It's
 ### The Overthinking Trap
 
 **Pattern**:
+
 1. Need to complete task
 2. Start thinking about ALL the ways to approach it
 3. Compare approaches, seek "optimal" method
@@ -165,10 +188,12 @@ Procrastination is not a character flaw, moral failing, or simple laziness. It's
 **Reality**: Planning feels productive but is procrastination in disguise
 
 **Research finding**: Most planning beyond 10-15 minutes has diminishing returns
+
 - Better to start with "good enough" plan and adjust as you go
 - Planning is easier than doing (so we over-invest in planning)
 
 **Example**:
+
 - Spending 2 hours creating the perfect study schedule for the semester
 - Never actually following the schedule
 - Redoing the schedule next week (more planning procrastination)
@@ -176,6 +201,7 @@ Procrastination is not a character flaw, moral failing, or simple laziness. It's
 ### The Research Rabbit Hole
 
 **Pattern**: "Before I start, I need to research the best way to do this"
+
 - Research note-taking methods for 2 hours
 - Watch YouTube videos on studying
 - Read articles about productivity
@@ -188,6 +214,7 @@ Procrastination is not a character flaw, moral failing, or simple laziness. It's
 ### The Perfectionism Spiral
 
 **Pattern**:
+
 - "I need optimal conditions to start" (perfect desk setup, perfect time of day, perfect energy level)
 - "I need to fully understand everything before beginning" (impossible for complex tasks)
 - "I need to be inspired/motivated first" (waiting for feeling that may never come)
@@ -199,6 +226,7 @@ Procrastination is not a character flaw, moral failing, or simple laziness. It's
 ### The Tool Acquisition Procrastination
 
 **Pattern**:
+
 - "I need the right notebook/planner/app before I can study effectively"
 - Spend hours researching and comparing tools
 - Acquire tool, then need time to "set it up properly"
@@ -241,16 +269,19 @@ Vow to never procrastinate again
 ### Why the Cycle Persists
 
 **Negative reinforcement**: Avoidance provides immediate relief from anxiety
+
 - Even though it makes things worse long-term
 - Immediate relief is powerfully reinforcing
 - Brain learns: "Avoidance = anxiety reduction"
 
 **Incomplete extinction**: Sometimes procrastination "works"
+
 - Rush at last minute, still get acceptable grade
 - This occasionally successful outcome reinforces the pattern
 - "I work better under pressure" (false narrative to justify pattern)
 
 **Snowball effect**: Each procrastination episode makes next episode more likely
+
 - Guilt and shame from last time add to anxiety about next time
 - Pattern becomes self-fulfilling identity: "I'm a procrastinator"
 
@@ -259,25 +290,30 @@ Vow to never procrastinate again
 **Procrastination generates distorted thinking**:
 
 **1. "I work better under pressure"**
+
 - Reality: You work ONLY under pressure because you've trained yourself to need deadline crisis
 - Quality is lower than if you'd had adequate time
 - Stress is harmful to health and wellbeing
 
 **2. "I need to be in the right mood to start"**
+
 - Reality: Motivation often follows action, not precedes it
 - Waiting for motivation means never starting
 - Starting creates motivation (positive feedback from progress)
 
 **3. "I'll do it tomorrow when I have more time"**
+
 - Reality: Tomorrow you'll have the same avoidance impulse
 - Time availability is rarely the actual issue
 - Procrastination expands to fill available time
 
 **4. "It's not due until [date], so I have plenty of time"**
+
 - Reality: Not accounting for other commitments, unexpected challenges, or realistic work pace
 - Deadline feels far away until suddenly it doesn't
 
 **5. "I just need to get through this deadline, then I'll change"**
+
 - Reality: Pattern repeats with next assignment
 - Crisis becomes the norm, not the exception
 
@@ -288,12 +324,14 @@ Vow to never procrastinate again
 **Principle**: Commit to working for ONLY 5 minutes
 
 **How it works**:
+
 1. Set timer for 5 minutes
 2. Give yourself permission to stop after 5 minutes
 3. Start the task
 4. After 5 minutes: reassess
 
 **Why it works**:
+
 - Lowers barrier to starting (5 minutes is manageable)
 - Overcomes activation energy problem
 - Often, once started, you'll continue beyond 5 minutes
@@ -302,6 +340,7 @@ Vow to never procrastinate again
 **Psychological mechanism**: Starting is the hardest part. Once engaged, continuation is easier.
 
 **Example**:
+
 - Task: Write 10-page paper (overwhelming)
 - 5-minute commitment: Just open document and write one paragraph
 - Reality: After 5 minutes, you've overcome inertia and often keep going
@@ -317,6 +356,7 @@ Vow to never procrastinate again
 **DON'T**: "Write research paper" (overwhelming, vague)
 
 **DO**: Break into steps:
+
 1. Choose topic from provided list (5 min)
 2. Find 3 relevant articles via library database (20 min)
 3. Read first article and take notes (30 min)
@@ -326,9 +366,10 @@ Vow to never procrastinate again
 7. Outline main arguments (20 min)
 8. Write introduction paragraph (20 min)
 9. Write first body paragraph (25 min)
-[etc.]
+   [etc.]
 
 **Why it works**:
+
 - Each step is specific and time-bound (reduces cognitive load)
 - Completion of each step provides sense of progress (motivating)
 - Clear next action (eliminates decision paralysis)
@@ -337,6 +378,7 @@ Vow to never procrastinate again
 **Psychological mechanism**: Brain can process "find 3 articles" without overwhelm. Cannot process "write paper" without anxiety.
 
 **Implementation**:
+
 - Write each step on separate line/card
 - Estimate realistic time for each
 - Do ONE step at a time
@@ -358,6 +400,7 @@ Vow to never procrastinate again
 **Next physical action**: "Open PowerPoint and create title slide"
 
 **Why it works**:
+
 - Physical actions are concrete and unambiguous
 - Extremely low barrier to starting
 - Overcomes decision fatigue
@@ -369,12 +412,14 @@ Vow to never procrastinate again
 **Principle**: If a task takes less than 2 minutes, do it immediately
 
 **Applications**:
+
 - Responding to email
 - Scheduling office hours appointment
 - Checking assignment due date
 - Adding task to calendar
 
 **Why it works**:
+
 - Prevents accumulation of small tasks
 - Small tasks delayed become mental burden (drain cognitive resources)
 - Quick wins build momentum
@@ -391,6 +436,7 @@ Vow to never procrastinate again
 **Format**: "If [situation], then I will [action]"
 
 **Examples**:
+
 - "If it's Monday/Wednesday/Friday at 3pm, then I will go to the library and work on Calculus homework"
 - "If I finish dinner, then I will immediately review today's lecture notes"
 - "If I open my laptop, then I will close all social media tabs before starting work"
@@ -398,11 +444,13 @@ Vow to never procrastinate again
 **Research finding** (Gollwitzer & Sheeran, 2006): Implementation intentions increase likelihood of completing tasks by ~2x
 
 **Why it works**:
+
 - Removes in-the-moment decision-making (pre-committed)
 - Creates automatic response to cue
 - Reduces reliance on motivation or willpower
 
 **Compare**:
+
 - Vague: "I'll study sometime this week" (easy to procrastinate)
 - Specific: "If it's Tuesday at 4pm, I will study in the library" (harder to procrastinate)
 
@@ -411,16 +459,19 @@ Vow to never procrastinate again
 **Principle**: Pair unpleasant task with pleasant activity
 
 **Examples**:
+
 - Listen to favorite music ONLY while studying
 - Drink favorite coffee ONLY during study sessions
 - Go to favorite café to work (pleasant environment)
 
 **Why it works**:
+
 - Reduces aversiveness of task
 - Positive association makes starting easier
 - Pleasant activity becomes reward for engagement
 
 **Caution**: Ensure pleasant activity doesn't distract from work
+
 - Music without lyrics for reading/writing tasks
 - Music with lyrics for problem sets (if it helps you)
 - Test what works for you
@@ -430,6 +481,7 @@ Vow to never procrastinate again
 **Principle**: Make starting easy and avoiding hard
 
 **Reduce friction to desired behavior**:
+
 - Keep study materials visible and accessible
 - Have dedicated study space (not bed, not couch)
 - Clear desk of non-study items
@@ -438,6 +490,7 @@ Vow to never procrastinate again
 - Use website blockers for social media
 
 **Increase friction to undesired behavior**:
+
 - Log out of social media (requires re-login to access)
 - Put phone in drawer/other room (physical barrier)
 - Use app limits (forces deliberate override)
@@ -448,12 +501,14 @@ Vow to never procrastinate again
 **Example transformation**:
 
 **High-friction study environment**:
+
 - Study on bed (tempting to nap)
 - Phone next to you (constant temptation)
 - Social media tabs open (one click to distraction)
 - Snacks easily accessible (constant interruption)
 
 **Low-friction study environment**:
+
 - Study at desk/library (purpose-associated space)
 - Phone in different room (out of sight)
 - Website blocker active (requires deliberate disable)
@@ -466,26 +521,32 @@ Vow to never procrastinate again
 **Examples**:
 
 **1. Study group with specific meeting time**
+
 - Can't easily bail without social cost
 - Others expecting you creates external motivation
 
 **2. Body doubling**
+
 - Work alongside someone else (in-person or virtual)
 - Parallel accountability (they're working, so you work)
 
 **3. Public commitment**
+
 - Tell friend/roommate: "I'm going to complete X by Y time"
 - Social pressure to follow through
 
 **4. Scheduled office hours appointment**
+
 - Commits you to having questions prepared
 - External deadline (meeting with professor)
 
 **5. Pomodoro timer with partner**
+
 - Both commit to 25-minute work session
 - Can't quit early without letting partner down
 
 **Why it works**:
+
 - Shifts from internal motivation (unreliable) to external structure (reliable)
 - Social cost of not following through
 - Pre-commitment removes in-the-moment choice
@@ -495,6 +556,7 @@ Vow to never procrastinate again
 **Principle**: Time-blocking for specific tasks
 
 **How**:
+
 - Use calendar to block specific times for specific tasks
 - Treat like appointments (non-negotiable)
 - Include buffer time and breaks
@@ -514,6 +576,7 @@ Tuesday:
 ```
 
 **Why it works**:
+
 - Removes ambiguity (you know exactly what to do when)
 - Prevents schedule Tetris (trying to figure out when to fit things)
 - Creates routine (reduces decision fatigue)
@@ -525,6 +588,7 @@ Tuesday:
 **Principle**: Procrastination thrives on shame; self-compassion breaks the cycle
 
 **Self-critical response to procrastination**:
+
 - "I'm so lazy"
 - "What's wrong with me?"
 - "I'll never succeed"
@@ -533,6 +597,7 @@ Tuesday:
 **Result**: More anxiety → more avoidance → more procrastination
 
 **Self-compassionate response**:
+
 - "I'm struggling with this task because it feels overwhelming"
 - "Many students experience this; it's a common challenge"
 - "I can take a small step right now"
@@ -590,6 +655,7 @@ An LLM can identify procrastination patterns and causes:
 ```
 
 **LLM Analysis Pattern**:
+
 - Identifies primary procrastination drivers (overwhelm, fear, ambiguity, environment)
 - Detects negative reinforcement cycle (avoidance → relief → more avoidance)
 - Flags self-criticism patterns that perpetuate procrastination
@@ -687,6 +753,7 @@ LLM OUTPUT:
 ### Personalization Variables for LLM
 
 To customize procrastination intervention:
+
 - Primary drivers (overwhelm, perfectionism, ambiguity, environment, etc.)
 - Typical avoidance behaviors
 - Current commitments and schedule
@@ -901,16 +968,19 @@ Help me get through this, and then we'll work on preventing it next time.
 ### The Identity Shift
 
 **Old identity**: "I'm a procrastinator"
+
 - Self-fulfilling prophecy
 - Excuse for continued behavior
 - Reduces agency ("It's just who I am")
 
 **New identity**: "I'm someone who sometimes procrastinates but is building better systems"
+
 - Acknowledges pattern without defining self by it
 - Emphasizes agency and growth
 - Allows for change
 
 **Identity change through behavior change**:
+
 - Don't wait to feel like a non-procrastinator
 - Start with behaviors of non-procrastinator
 - Identity follows behavior over time
@@ -918,11 +988,13 @@ Help me get through this, and then we'll work on preventing it next time.
 ### Relapse Prevention
 
 **Procrastination will happen again**:
+
 - Expect it
 - Plan for it
 - Don't catastrophize when it occurs
 
 **When you procrastinate**:
+
 1. Notice without judgment ("I'm procrastinating")
 2. Identify trigger ("I'm feeling overwhelmed/scared/bored")
 3. Use intervention ("I'll do the 5-minute rule")
@@ -938,11 +1010,13 @@ Help me get through this, and then we'll work on preventing it next time.
 ### Procrastination Is Not a Character Flaw
 
 **It's a skill deficit and emotional regulation challenge**:
+
 - Skills can be learned
 - Emotions can be managed
 - Patterns can be changed
 
 **You're not lazy or broken**:
+
 - You're experiencing a common, well-understood challenge
 - There are evidence-based interventions that work
 - Change is possible with the right strategies
@@ -950,6 +1024,7 @@ Help me get through this, and then we'll work on preventing it next time.
 ### The Core Interventions
 
 **Most effective for most students**:
+
 1. **5-minute rule** (lowers barrier to starting)
 2. **Task decomposition** (reduces overwhelm)
 3. **Environment design** (removes friction and temptation)
@@ -961,6 +1036,7 @@ Help me get through this, and then we'll work on preventing it next time.
 ### The Challenge
 
 **This week**:
+
 1. Identify one task you're procrastinating on
 2. Break it into smallest possible steps
 3. Schedule specific time to do first step (implementation intention)
@@ -969,6 +1045,7 @@ Help me get through this, and then we'll work on preventing it next time.
 6. Use self-compassion if you still procrastinate
 
 **Track**:
+
 - Did you start?
 - If yes, how did it feel vs expectations?
 - If no, what was the barrier?

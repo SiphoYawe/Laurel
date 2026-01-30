@@ -15,6 +15,7 @@ Building habits is not a "set and forget" process. Regular review and reflection
 ### The Problem with "Set It and Forget It"
 
 **Common Scenario**:
+
 1. You build a habit (e.g., morning meditation)
 2. It becomes automatic after 60+ days
 3. You stop paying attention to it
@@ -29,25 +30,30 @@ Building habits is not a "set and forget" process. Regular review and reflection
 ### What Review Provides
 
 **1. Awareness**:
+
 - Are you actually doing the habit consistently?
 - Or has it degraded without you noticing?
 
 **2. Adaptation**:
+
 - Life changes require habit adjustments
 - What worked 3 months ago might not work now
 - Review allows evolution
 
 **3. Optimization**:
+
 - What's working well?
 - What could be improved?
 - Small tweaks compound over time
 
 **4. Identity Reinforcement**:
+
 - Celebrating progress strengthens identity
 - "I am the type of person who [habit]"
 - Evidence accumulation through review
 
 **5. Course Correction**:
+
 - Early detection of drift
 - Prevents complete habit collapse
 - Small adjustments prevent major rebuilding
@@ -96,11 +102,13 @@ ANNUAL REVIEW (2-3 hours)
 #### Step 1: Review Today's Tracking
 
 **Questions to Ask**:
+
 - Did I complete each target habit today?
 - If yes: Mark it. Feel the satisfaction.
 - If no: Why not? What was the obstacle?
 
 **Tracking Methods**:
+
 - Paper calendar with X marks
 - Habit tracking app
 - Journal checkboxes
@@ -118,6 +126,7 @@ ANNUAL REVIEW (2-3 hours)
 **Do**: Analyze the miss like a scientist
 
 **Analysis Questions**:
+
 1. **What was the trigger?** (What caused the miss?)
    - Too busy?
    - Forgot?
@@ -136,6 +145,7 @@ ANNUAL REVIEW (2-3 hours)
    - Add accountability?
 
 **Example Analysis**:
+
 ```
 HABIT: Morning meditation
 STATUS: Missed
@@ -151,6 +161,7 @@ ADJUSTMENT: Set bedtime alarm for 10 PM (prevents late sleep → late waking)
 **Evening Planning** (recommended):
 
 **Template**:
+
 ```
 TOMORROW'S DATE: _____________
 
@@ -173,6 +184,7 @@ CONTINGENCY PLANS: [If X happens, I will do Y]
 ```
 
 **Example**:
+
 ```
 TOMORROW'S DATE: Tuesday, June 15
 
@@ -222,6 +234,7 @@ TOMORROW'S FOCUS:
 ```
 
 **Daily Review Questions**:
+
 1. What percentage of habits did I complete? (7/8 = 87.5%)
 2. Which habit felt easiest today?
 3. Which habit required most effort?
@@ -236,11 +249,13 @@ TOMORROW'S FOCUS:
 **Daily Question**: "Did I miss any habit yesterday?"
 
 **If YES**:
+
 - That habit is PRIORITY ONE today
 - Do the absolute minimum version if needed
 - Break the "miss twice" pattern immediately
 
 **Why This Matters**:
+
 - One miss = accident
 - Two misses = beginning of a pattern
 - Three misses = habit erosion
@@ -296,6 +311,7 @@ _______________________________________________
 **Review Your Tracking**:
 
 **Calculate Completion Rates**:
+
 ```
 HABIT SCORECARD - Week of [Date]
 
@@ -315,6 +331,7 @@ OVERALL: 19/21 (90%)
 ```
 
 **Look for Patterns**:
+
 - Which days are strongest? (Most habits completed)
 - Which days are weakest? (Most habits missed)
 - Which habits are most consistent?
@@ -332,6 +349,7 @@ OVERALL: 19/21 (90%)
 **The Three Core Questions** (from James Clear):
 
 **1. What went well this week?**
+
 - Which habits felt easy and automatic?
 - What systems are working?
 - What progress did you make?
@@ -341,6 +359,7 @@ OVERALL: 19/21 (90%)
 "Reading before bed is now automatic. I don't even think about it. Putting the book on my pillow was the key. Keep this system."
 
 **2. What didn't work this week?**
+
 - Which habits felt like a struggle?
 - What obstacles repeatedly appeared?
 - What systems failed?
@@ -350,6 +369,7 @@ OVERALL: 19/21 (90%)
 "Missed morning meditation twice because I woke up late. The late waking was caused by staying up past 11 PM. Need earlier bedtime."
 
 **3. What did I learn this week?**
+
 - What insights emerged?
 - What surprised you?
 - What patterns did you notice?
@@ -363,6 +383,7 @@ OVERALL: 19/21 (90%)
 #### Step 3: Celebrate Wins
 
 **Why Celebration Matters**:
+
 - Reinforces positive behavior
 - Provides emotional satisfaction
 - Strengthens habit loop (makes it rewarding)
@@ -371,26 +392,31 @@ OVERALL: 19/21 (90%)
 **Weekly Wins to Celebrate**:
 
 **Streak Milestones**:
+
 - "7-day streak on reading! 🎉"
 - "30-day streak on exercise! 💪"
 - "100-day streak on meditation! 🧘"
 
 **Consistency Wins**:
+
 - "90%+ completion rate this week"
 - "Didn't miss any habit twice in a row"
 - "Recovered immediately from Monday's miss"
 
 **Identity Wins**:
+
 - "I truly felt like a writer this week" (identity reinforcement)
 - "I AM someone who exercises, this is now part of me"
 - "My identity is shifting from 'trying to read' to 'reader'"
 
 **Progress Wins**:
+
 - "Read 2 books this week"
 - "Exercised 6/7 days (up from 4/7 last week)"
 - "Meditated 10+ minutes every day (started at 2 minutes)"
 
 **How to Celebrate**:
+
 - Write wins in journal (documenting evidence)
 - Share with accountability partner
 - Treat yourself (healthy reward aligned with identity)
@@ -403,6 +429,7 @@ OVERALL: 19/21 (90%)
 **Identify This Week's Biggest Obstacle**:
 
 **Template**:
+
 ```
 OBSTACLE: [What prevented habit completion?]
 
@@ -419,6 +446,7 @@ TESTING NEXT WEEK: [Which solution to try]
 ```
 
 **Example**:
+
 ```
 OBSTACLE: Skipped morning exercise due to feeling too tired
 
@@ -443,18 +471,22 @@ TESTING NEXT WEEK: All three - comprehensive sleep optimization
 **Adjustment Types**:
 
 **Timing Adjustments**:
+
 - "Moving meditation from 7 AM to 6:30 AM (before kids wake up)"
 - "Switching workout from morning to evening (works better with schedule)"
 
 **Environment Adjustments**:
+
 - "Placing gym clothes on bathroom counter (even more obvious)"
 - "Moving book from pillow to nightstand (pillow setup got stale)"
 
 **Friction Adjustments**:
+
 - "Pre-making smoothie ingredients in baggies (faster morning preparation)"
 - "Keeping second pair of running shoes in car (for spontaneous runs)"
 
 **Reward Adjustments**:
+
 - "Only allowing favorite podcast during walks (temptation bundling)"
 - "Having special tea after journaling (immediate reward)"
 
@@ -467,6 +499,7 @@ TESTING NEXT WEEK: All three - comprehensive sleep optimization
 **Set Next Week's Intention**:
 
 **Template**:
+
 ```
 NEXT WEEK'S FOCUS: [One main theme or goal]
 
@@ -487,6 +520,7 @@ CONTINGENCY PLANS:
 ```
 
 **Example**:
+
 ```
 NEXT WEEK'S FOCUS: Protect morning routine (no early meetings)
 
@@ -602,11 +636,13 @@ OVERALL: 77/90 (86%)
 
 **Visualize the Month**:
 Create calendar view with color coding:
+
 - ✓ Green: All habits completed
 - ✓ Yellow: Most habits completed
 - ✗ Red: Multiple habits missed
 
 **Look for Macro Patterns**:
+
 - Which weeks were strongest?
 - Which weeks were weakest?
 - What events correlated with success/failure?
@@ -621,11 +657,13 @@ Create calendar view with color coding:
 **1. Who am I becoming through these habits?**
 
 Reflect on identity shift:
+
 - "30 days ago, I was trying to be a meditator. Now I AM a meditator."
 - "I genuinely think of myself as someone who exercises regularly."
 - "Reading is now part of my identity, not a goal I'm pursuing."
 
 **Identity Check**:
+
 ```
 30 DAYS AGO, I was: _______________
 TODAY, I am: _______________
@@ -635,11 +673,13 @@ EVIDENCE: [How do habits prove this?]
 **2. What habits are serving me? What habits need to change?**
 
 **Serving Me**:
+
 - Reading before bed → Better sleep, more knowledge, less phone time
 - Morning exercise → More energy, better mood, improved health
 - Keep these exactly as they are
 
 **Need to Change**:
+
 - Evening social media checking → Wasted time, poor sleep, comparison anxiety
 - Skipping meal prep on Sundays → Leads to poor eating all week
 - Address these this month
@@ -647,12 +687,14 @@ EVIDENCE: [How do habits prove this?]
 **3. What's different in my life now vs 30 days ago?**
 
 **Life Changes That Affect Habits**:
+
 - New job schedule → Need to adjust workout time
 - Relationship change → More/less time at home
 - Season change → Different daylight hours
 - New responsibilities → Less free time
 
 **Required Adaptations**:
+
 - If schedule changed: Adjust habit timing
 - If environment changed: Redesign cues
 - If time changed: Reduce habit size or frequency
@@ -662,6 +704,7 @@ EVIDENCE: [How do habits prove this?]
 Not 100% better (overwhelming), just 10% (achievable).
 
 **Examples**:
+
 - "If I increased meditation from 10 to 11 minutes..."
 - "If I added accountability partner for exercise..."
 - "If I prepared Monday's workout clothes on Sunday..."
@@ -707,6 +750,7 @@ _______________________________________________
 ```
 
 **Example**:
+
 ```
 HABIT: Morning Journaling
 
@@ -752,24 +796,28 @@ NEW APPROACH:
 **Questions to Ask**:
 
 **Physical Environment**:
+
 - Are cues for good habits still obvious?
 - Have cues for bad habits crept back in?
 - Has clutter accumulated?
 - Do spaces still support desired behaviors?
 
 **Example Issues**:
+
 - Junk food reappeared in pantry
 - Workout clothes no longer laid out
 - Desk became cluttered again
 - Book no longer on pillow
 
 **Digital Environment**:
+
 - Have distracting apps been re-downloaded?
 - Are notifications creeping back?
 - Is phone back in bedroom?
 - Has screen time increased?
 
 **Social Environment**:
+
 - Am I spending time with habit enablers or supporters?
 - Have toxic relationships increased?
 - Have supportive relationships decreased?
@@ -784,18 +832,21 @@ NEW APPROACH:
 **Choose ONE Main Theme**:
 
 **Examples**:
+
 - "Master morning routine" (all habits before 8 AM bulletproof)
 - "Eliminate evening phone scrolling" (focus on digital detox)
 - "Consistent meal prep" (every Sunday, no exceptions)
 - "Reading habit to 100%" (already at 97%, push for perfect month)
 
 **Why One Theme**:
+
 - Focus beats diffusion
 - One area of excellence better than many areas of mediocrity
 - Allows deep optimization
 - Compound improvements in one domain
 
 **Monthly Goal Template**:
+
 ```
 NEXT MONTH'S THEME: [One focus area]
 
@@ -814,6 +865,7 @@ MEASUREMENT:
 ```
 
 **Example**:
+
 ```
 NEXT MONTH'S THEME: Morning Routine Mastery
 
@@ -921,36 +973,43 @@ James Clear publicly shares his annual review. This section follows his structur
 **Categories to Review**:
 
 **Habits & Routines**:
+
 - Which habits became automatic this year?
 - Which routines transformed your life?
 - What systems are now effortless?
 
 **Work & Career**:
+
 - What professional wins did you achieve?
 - What projects are you proud of?
 - What skills did you develop?
 
 **Relationships**:
+
 - Which relationships deepened?
 - Who did you spend quality time with?
 - What meaningful connections were made?
 
 **Health & Fitness**:
+
 - How did your physical health improve?
 - What fitness milestones did you reach?
 - How is your energy and vitality?
 
 **Learning & Growth**:
+
 - What did you learn?
 - What books transformed your thinking?
 - What new skills did you acquire?
 
 **Financial**:
+
 - How did your financial situation improve?
 - What money habits did you build?
 - What financial goals did you achieve?
 
 **Personal Development**:
+
 - How have you grown as a person?
 - What fears did you overcome?
 - What limiting beliefs did you shed?
@@ -962,36 +1021,43 @@ James Clear publicly shares his annual review. This section follows his structur
 **Same Categories**:
 
 **Habits & Routines**:
+
 - Which habits did you fail to build?
 - Which habits degraded or disappeared?
 - What systems broke down?
 
 **Work & Career**:
+
 - What professional disappointments occurred?
 - What projects failed or stalled?
 - What opportunities did you miss?
 
 **Relationships**:
+
 - Which relationships suffered or ended?
 - Who did you lose touch with?
 - What connections did you neglect?
 
 **Health & Fitness**:
+
 - How did your health decline (if at all)?
 - What fitness goals did you miss?
 - How is your stress level?
 
 **Learning & Growth**:
+
 - What did you fail to learn?
 - What books went unread?
 - What skills remain undeveloped?
 
 **Financial**:
+
 - How did your finances suffer (if at all)?
 - What money mistakes did you make?
 - What financial goals were missed?
 
 **Personal Development**:
+
 - What bad habits persist?
 - What fears still control you?
 - What limiting beliefs remain?
@@ -1005,26 +1071,31 @@ James Clear publicly shares his annual review. This section follows his structur
 **Insights Categories**:
 
 **About Habits**:
+
 - What did I learn about building habits?
 - What techniques worked best for me?
 - What doesn't work for my personality?
 
 **About Myself**:
+
 - What did I discover about my values?
 - What motivates me? What drains me?
 - What are my true priorities?
 
 **About Others**:
+
 - What did I learn about relationships?
 - How do I best connect with others?
 - Who brings out the best in me?
 
 **About Life**:
+
 - What life lessons emerged?
 - What beliefs changed?
 - What matters most?
 
 **Example Insights** (from Clear's reviews):
+
 - "I am more productive working in 90-minute blocks than 8-hour days"
 - "My best ideas come during walks, not at my desk"
 - "I need 8+ hours of sleep to perform optimally"
@@ -1037,6 +1108,7 @@ James Clear publicly shares his annual review. This section follows his structur
 **Quantitative Review**:
 
 **Habits Tracked**:
+
 ```
 HABIT: [Name]
 Annual Completion: ___/365 (___%)
@@ -1045,18 +1117,19 @@ Current Streak: ___ days
 Trend: [Graph or description]
 ```
 
-**Books Read**: ___ total
-**Articles Read**: ___ total
-**Workouts Completed**: ___ total
-**Miles Run/Walked**: ___ total
-**Weight Change**: ___ lbs (if tracking)
-**Meditation Minutes**: ___ total
-**Words Written**: ___ total
-**Projects Completed**: ___ total
-**Money Saved/Earned**: $___
-**Trips Taken**: ___ destinations
+**Books Read**: **\_ total
+**Articles Read**: \_** total
+**Workouts Completed**: **\_ total
+**Miles Run/Walked**: \_** total
+**Weight Change**: **\_ lbs (if tracking)
+**Meditation Minutes**: \_** total
+**Words Written**: **\_ total
+**Projects Completed**: \_** total
+**Money Saved/Earned**: $**\_
+**Trips Taken**: \_** destinations
 
 **The Power of Numbers**:
+
 - Provides objective evidence of progress
 - Reveals patterns not visible day-to-day
 - Quantifies transformation
@@ -1091,6 +1164,7 @@ How I feel about this: _______________
 ```
 
 **Example**:
+
 ```
 JANUARY 1, 2024:
 I was: Someone who wanted to be a writer
@@ -1115,6 +1189,7 @@ How I feel: Proud. Confident. This is who I am now.
 **Review Last Year's Goals** (if you set them):
 
 **For Each Goal**:
+
 ```
 GOAL: [What was the goal?]
 
@@ -1135,12 +1210,14 @@ LEARNING:
 ```
 
 **Common Patterns**:
+
 - Outcome-based goals often fail (lose 20 lbs)
 - Identity-based goals often succeed (become healthy person)
 - Process goals often succeed (exercise 4x/week)
 - Vague goals often fail (be more productive)
 
 **Example**:
+
 ```
 GOAL: Run a marathon
 
@@ -1171,6 +1248,7 @@ LEARNING:
 **Instead of goals, choose a THEME**:
 
 **Examples**:
+
 - "Year of Health" (priority: physical vitality)
 - "Year of Creation" (priority: creative output)
 - "Year of Connection" (priority: relationships)
@@ -1179,6 +1257,7 @@ LEARNING:
 - "Year of Simplicity" (priority: minimalism)
 
 **Why Themes Beat Goals**:
+
 - Flexible (adapts to life changes)
 - Identity-focused (who you're becoming)
 - Affects all decisions (not single outcome)
@@ -1191,6 +1270,7 @@ LEARNING:
 **Choose 3-5 Core Habits** (aligned with theme):
 
 **Template**:
+
 ```
 THEME: [Year theme]
 
@@ -1211,6 +1291,7 @@ SUCCESS: [What does consistency look like?]
 ```
 
 **Example**:
+
 ```
 THEME: Year of Health
 
@@ -1237,6 +1318,7 @@ SUCCESS: 350/365 days (96%+)
 **Who do you want to become this year?**
 
 **Template**:
+
 ```
 BY DECEMBER 31, [Next Year]:
 
@@ -1252,6 +1334,7 @@ This matters because:
 ```
 
 **Example**:
+
 ```
 BY DECEMBER 31, 2025:
 
@@ -1271,16 +1354,19 @@ Health is the foundation of everything I want to do. Without health, nothing els
 **D. What to Stop, Start, Continue**
 
 **STOP** (Eliminate):
+
 - What habits/behaviors/commitments to eliminate?
 - What's draining energy without returning value?
 - What's no longer aligned with who you're becoming?
 
 **START** (Initiate):
+
 - What new habits to build?
 - What new skills to learn?
 - What new experiences to pursue?
 
 **CONTINUE** (Maintain):
+
 - What's working that you want to keep?
 - What habits are serving you?
 - What systems are effective?
@@ -1310,6 +1396,7 @@ Key habits: _______________
 ```
 
 **Example** (Year of Health):
+
 ```
 Q1 (Jan-Mar): BUILD FOUNDATION
 Primary goal: Establish core habits (exercise, sleep, nutrition)
@@ -1473,6 +1560,7 @@ Ask: Do I actually want this, or do I think I should want this?
 **Signal**: Habit completion correlates with specific time issues.
 
 **Examples**:
+
 - Missing morning habit due to rushed mornings → Move to evening
 - Missing evening habit due to fatigue → Move to morning
 - Missing lunch habit due to variable schedule → Move to consistent time (morning)
@@ -1484,6 +1572,7 @@ Ask: Do I actually want this, or do I think I should want this?
 **Signal**: Habit feels too big, creates resistance, frequently skipped.
 
 **Examples**:
+
 - 30-minute workout too much → Scale to 10 minutes
 - 1 chapter reading too long → Scale to 1 page
 - Elaborate healthy meal too effortful → Scale to smoothie
@@ -1495,6 +1584,7 @@ Ask: Do I actually want this, or do I think I should want this?
 **Signal**: Cues are no longer effective, environment has changed.
 
 **Examples**:
+
 - Book no longer on pillow (got used to it) → Move to different obvious location
 - Workout clothes on chair (visual adaptation) → Move to bathroom counter
 - Moved to new home → Redesign all environmental cues
@@ -1506,6 +1596,7 @@ Ask: Do I actually want this, or do I think I should want this?
 **Signal**: Habit doesn't feel satisfying, no immediate gratification.
 
 **Examples**:
+
 - Meditation feels pointless → Add tracking (visible progress)
 - Exercise feels like chore → Add temptation bundling (podcast only during workout)
 - Healthy eating unsatisfying → Add flavor/variety
@@ -1517,6 +1608,7 @@ Ask: Do I actually want this, or do I think I should want this?
 **Signal**: Can skip without consequences, no external pressure.
 
 **Examples**:
+
 - Solo habit lacks motivation → Add accountability partner
 - Easy to rationalize skipping → Add habit contract with consequences
 - No one knows if you skip → Make public commitment
@@ -1562,6 +1654,7 @@ Ask: Do I actually want this, or do I think I should want this?
 ### Why Celebration Matters
 
 **The Science**:
+
 - Celebration releases dopamine
 - Dopamine reinforces the habit loop
 - Without reward, habits fade
@@ -1577,6 +1670,7 @@ Ask: Do I actually want this, or do I think I should want this?
 **Celebrate Consistency, Not Perfection**:
 
 **Examples**:
+
 - ✓ "7-day streak!" (even if each session was minimum)
 - ✓ "Returned after a miss" (recovery is success)
 - ✓ "30 days completed" (not 30 perfect days, just 30 completions)
@@ -1586,6 +1680,7 @@ Ask: Do I actually want this, or do I think I should want this?
 **Celebrate Identity Evidence**:
 
 **Examples**:
+
 - ✓ "I am a writer" (identity shift)
 - ✓ "I'm the kind of person who exercises" (identity proof)
 - ✓ "I meditate every day now" (behavior = identity)
@@ -1593,6 +1688,7 @@ Ask: Do I actually want this, or do I think I should want this?
 **Celebrate System Improvements**:
 
 **Examples**:
+
 - ✓ "Found the perfect trigger for this habit"
 - ✓ "Environment redesign is working"
 - ✓ "Recovery from misses is now automatic"
@@ -1605,6 +1701,7 @@ Ask: Do I actually want this, or do I think I should want this?
 
 **Moment of Acknowledgment**:
 After completing habit, pause and:
+
 - Say to yourself: "I am [identity]"
 - Feel pride for 5-10 seconds
 - Acknowledge the vote for your identity
@@ -1613,11 +1710,13 @@ After completing habit, pause and:
 After workout: "I am the type of person who exercises. This is who I am." (Feel it)
 
 **Tracking Celebration**:
+
 - Mark the X on calendar with satisfaction
 - See the visual chain
 - "Don't break the chain" motivation
 
 **Journaling Celebration**:
+
 - Write down wins at end of day/week
 - Document evidence of identity
 - Reviewing past entries shows transformation
@@ -1627,27 +1726,32 @@ After workout: "I am the type of person who exercises. This is who I am." (Feel 
 **External Celebration** (Supportive, Not Primary):
 
 **Share with Accountability Partner**:
+
 - Weekly check-in: Share wins
 - Partner celebrates with you
 - Social reinforcement
 
 **Social Media**:
+
 - Post milestones (30-day streak, 100-day streak)
 - Not for validation, but for documentation
 - Creates public record of identity
 
 **Reward Yourself**:
+
 - After 30-day streak: Small treat aligned with identity
 - Example: New workout gear after 30 days of exercise
 - Example: New book after 30 days of reading
 - Must align with identity (not contradict it)
 
 **Bad Celebration**:
+
 - ✗ Celebrate workout with junk food (contradicts identity)
 - ✗ Celebrate sobriety by getting drunk (contradicts habit)
 - ✗ Celebrate saving money by spending money (contradicts goal)
 
 **Good Celebration**:
+
 - ✓ Celebrate workout with massage (aligns with health identity)
 - ✓ Celebrate sobriety with nice meal (aligns with self-care)
 - ✓ Celebrate saving money with investment (aligns with financial growth)
@@ -1657,6 +1761,7 @@ After workout: "I am the type of person who exercises. This is who I am." (Feel 
 ### Milestone Celebrations
 
 **Streak Milestones**:
+
 - 7 days: First week! Identity beginning to form.
 - 30 days: One month! Habit is establishing.
 - 60 days: Two months! Habit is becoming automatic.
@@ -1665,6 +1770,7 @@ After workout: "I am the type of person who exercises. This is who I am." (Feel 
 - 365 days: One year! This is who you are now.
 
 **How to Mark Each**:
+
 - 7 days: Journal entry about what you learned
 - 30 days: Share with friend or partner
 - 60 days: Treat yourself (aligned with identity)
@@ -1688,21 +1794,25 @@ After workout: "I am the type of person who exercises. This is who I am." (Feel 
 **When You Miss a Habit**:
 
 **Step 1: Acknowledge Without Judgment**
+
 - "I missed [habit] yesterday."
 - Not: "I'm terrible. I always fail. I can't do anything right."
 - Just: "I missed. That's a fact."
 
 **Step 2: Analyze**
+
 - What caused the miss?
 - Was it preventable?
 - What can I adjust?
 
 **Step 3: Return Immediately**
+
 - Today, do the habit (even minimum version)
 - Break the "two misses" pattern
 - Prove to yourself: One miss does not define you
 
 **Step 4: Adjust System**
+
 - Make specific change to prevent future miss
 - Don't just rely on "trying harder"
 - Actual system modification
@@ -1716,16 +1826,19 @@ After workout: "I am the type of person who exercises. This is who I am." (Feel 
 **Self-Compassion Process**:
 
 **1. Self-Kindness** (vs Self-Judgment):
+
 - Treat yourself as you'd treat a good friend
 - "It's okay. Everyone misses sometimes."
 - Not: "I'm so stupid. I can't do anything right."
 
 **2. Common Humanity** (vs Isolation):
+
 - Recognize everyone struggles
 - "Missing is part of the process."
 - Not: "I'm the only one who can't stick to habits."
 
 **3. Mindfulness** (vs Over-Identification):
+
 - Notice the miss without dwelling
 - "I missed yesterday. Today is new."
 - Not: "I'm a failure. This defines me."
@@ -1763,21 +1876,25 @@ This is more important than completion rates, streak lengths, or any metric.
 **Questions to Ask**:
 
 **1. What do my habits say about who I am?**
+
 - If stranger observed my behaviors, who would they say I am?
 - Do my habits match my desired identity?
 - What identity am I voting for with each action?
 
 **2. Do I genuinely identify with these behaviors?**
+
 - Do I think of myself as [identity]?
 - Or am I still "trying to be" [identity]?
 - Has the shift happened internally?
 
 **3. What external evidence exists?**
+
 - Do others see me as [identity]?
 - Do I introduce myself as [identity]?
 - Would I be surprised if I didn't do [habit]?
 
 **4. What needs to change?**
+
 - Which habits support desired identity?
 - Which habits contradict desired identity?
 - What adjustments needed for alignment?
@@ -1818,12 +1935,14 @@ Level 5: "Of course I'm [identity], this is who I've always been"
 **This Is Good**: Identity should evolve with growth.
 
 **Annual Identity Review**:
+
 - What identities did I hold this year?
 - What identities am I shedding?
 - What new identities am I growing into?
 - What does next-level-me look like?
 
 **Permission to Change**:
+
 - You can shed identities that no longer serve you
 - You can adopt new identities
 - You can redefine what identities mean to you
@@ -1891,6 +2010,7 @@ ADJUSTMENT DECISION SUPPORT:
 "Weekly review is 15 minutes that saves hours of drifting off track. It's the highest-ROI 15 minutes of your week. However, if 15 minutes truly isn't available, let's simplify:
 
 Minimum Weekly Review (5 minutes):
+
 1. What percentage of habits did I complete? (2 min to calculate)
 2. What's one thing that's working? (1 min)
 3. What's one thing to adjust next week? (2 min)
@@ -1918,6 +2038,7 @@ Let's set this up: Where will you put your tracker? What's the exact action you'
 "Review is not judgment - it's data collection. You're a scientist observing your own experiment. Scientists don't feel guilty about data; they analyze and adjust.
 
 Reframe:
+
 - Not: 'I only completed 70%, I'm terrible'
 - Instead: '70% is 70% more than zero. What prevented the other 30%? How can I adjust the system?'
 
@@ -1931,6 +2052,7 @@ Misses are information, not indictments. What can you learn from the miss patter
 "Identity shifts are gradual and then sudden. You may not notice day-to-day, but compare to 90 days ago.
 
 Evidence Check:
+
 1. Are you doing the behavior consistently? (If yes, you ARE that person)
 2. Have others commented on the change? (External proof)
 3. Would you feel weird if you DIDN'T do the habit? (Internal proof)
@@ -1946,17 +2068,20 @@ How long have you been consistent? What % completion?"
 Regular review transforms habits from unconscious patterns into optimized systems that evolve with you.
 
 **The Four-Level System**:
+
 1. **Daily** (5 min): Track, analyze misses, plan tomorrow
 2. **Weekly** (15-30 min): Identify patterns, celebrate wins, adjust systems
 3. **Monthly** (45-60 min): Deep analysis, major course corrections, identity reflection
 4. **Annual** (2-3 hours): Year in review, identity transformation, next year planning
 
 **The Core Questions** (Ask at Every Level):
+
 1. What went well?
 2. What didn't work?
 3. What did I learn?
 
 **The Outcomes**:
+
 - **Awareness**: Seeing patterns invisible in daily life
 - **Adaptation**: Adjusting habits as life changes
 - **Optimization**: Continuous improvement

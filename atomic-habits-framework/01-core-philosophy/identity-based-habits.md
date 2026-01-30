@@ -13,6 +13,7 @@ Identity-based habits represent the deepest and most effective approach to behav
 **Definition**: The results you want to achieve.
 
 **Characteristics**:
+
 - What you get
 - External and measurable
 - Time-bound and finite
@@ -24,12 +25,14 @@ Identity-based habits represent the deepest and most effective approach to behav
   - Getting promoted
 
 **Why People Start Here**:
+
 - Outcomes are visible and concrete
 - Easy to measure success
 - Culturally reinforced (goal-setting culture)
 - Provides clear target
 
 **Limitations**:
+
 1. **Motivation Is Temporary**
    - Excitement fades after achieving the goal
    - Or despair sets in if goal seems too far away
@@ -46,6 +49,7 @@ Identity-based habits represent the deepest and most effective approach to behav
    - Success doesn't guarantee continued behavior
 
 **Example**: "I want to lose 20 pounds"
+
 - Focus is on the number on the scale
 - Behavior ends when weight is lost
 - Often followed by rebound because identity didn't change
@@ -55,6 +59,7 @@ Identity-based habits represent the deepest and most effective approach to behav
 **Definition**: The systems and habits you implement.
 
 **Characteristics**:
+
 - What you do
 - Actionable and controllable
 - Ongoing and repeatable
@@ -66,12 +71,14 @@ Identity-based habits represent the deepest and most effective approach to behav
   - Waking up at 5 AM
 
 **Why This Is Better Than Outcomes**:
+
 - You control the process, not the outcome
 - Focuses on actions you can take today
 - Creates consistency
 - Systems thinking (not goal thinking)
 
 **Limitations**:
+
 1. **Requires Constant Willpower**
    - You're forcing yourself to do the habit
    - Motivation fluctuates
@@ -88,6 +95,7 @@ Identity-based habits represent the deepest and most effective approach to behav
    - Behavior feels like sacrifice
 
 **Example**: "I'm going to exercise every Monday, Wednesday, Friday"
+
 - Focus is on the schedule
 - Behavior is obligation-based
 - Can be skipped if motivation drops
@@ -97,6 +105,7 @@ Identity-based habits represent the deepest and most effective approach to behav
 **Definition**: Your beliefs about yourself and who you are.
 
 **Characteristics**:
+
 - Who you are (or who you believe you are)
 - Internal and self-reinforcing
 - Shapes what you consider "normal" for you
@@ -108,6 +117,7 @@ Identity-based habits represent the deepest and most effective approach to behav
   - "I'm someone who shows up"
 
 **Why This Is Most Powerful**:
+
 1. **Behavior Flows Naturally From Identity**
    - "I'm a runner" → Running feels natural, not forced
    - Actions align with self-concept automatically
@@ -129,20 +139,21 @@ Identity-based habits represent the deepest and most effective approach to behav
    - Easier to get back on track
 
 **Example**: "I'm a healthy person"
+
 - Exercise is natural expression of identity
 - Eating well is "what people like me do"
 - Behavior persists because it's tied to self-concept
 
 ### Comparing the Three Layers
 
-| Aspect | Outcomes | Processes | Identity |
-|--------|----------|-----------|----------|
-| **Focus** | What you get | What you do | Who you are |
-| **Motivation** | External rewards | Discipline/systems | Intrinsic alignment |
-| **Sustainability** | Ends with achievement | Lasts while motivated | Indefinite |
-| **Resilience** | Fragile to setbacks | Moderate | Highly resilient |
-| **Initiation** | Requires goals | Requires planning | Requires belief shift |
-| **Energy** | High (pushing toward) | Medium (maintaining) | Low (natural expression) |
+| Aspect             | Outcomes              | Processes             | Identity                 |
+| ------------------ | --------------------- | --------------------- | ------------------------ |
+| **Focus**          | What you get          | What you do           | Who you are              |
+| **Motivation**     | External rewards      | Discipline/systems    | Intrinsic alignment      |
+| **Sustainability** | Ends with achievement | Lasts while motivated | Indefinite               |
+| **Resilience**     | Fragile to setbacks   | Moderate              | Highly resilient         |
+| **Initiation**     | Requires goals        | Requires planning     | Requires belief shift    |
+| **Energy**         | High (pushing toward) | Medium (maintaining)  | Low (natural expression) |
 
 **Example Scenario: Quitting Smoking**
 
@@ -170,12 +181,14 @@ Identity-based habits represent the deepest and most effective approach to behav
 **Fundamental Truth**: Every action you take is a vote for the type of person you wish to become.
 
 **How It Works**:
+
 1. Your brain notices patterns in your behavior
 2. It updates your self-concept based on evidence
 3. Your self-concept then influences future behavior
 4. This creates a feedback loop (virtuous or vicious)
 
 **Example**:
+
 - You write 500 words → "I'm someone who writes"
 - "I'm someone who writes" → More likely to write tomorrow
 - More writing → Stronger writer identity
@@ -211,6 +224,7 @@ Humans have a deep need for internal consistency (cognitive consistency theory).
 **3. Pride and Self-Respect**
 
 Identity-based habits tap into pride:
+
 - "I'm the type of person who keeps their word"
 - Breaking the habit means violating your self-respect
 - This internal accountability is stronger than external rewards
@@ -220,11 +234,13 @@ Identity-based habits tap into pride:
 **4. Automatic Behavior**
 
 When behavior is identity-aligned, it becomes automatic:
+
 - Requires minimal willpower
 - Feels like "just what I do"
 - Doesn't require decision-making
 
 **Example**:
+
 - Non-identity: "Should I work out today? I'm tired... maybe I'll skip"
 - Identity: "I'm someone who works out on Mondays. It's Monday. Time to work out."
 
@@ -234,12 +250,14 @@ When behavior is identity-aligned, it becomes automatic:
 - **Identity-based**: Setback is just one vote against → Continue
 
 **Example**: Missing one workout
+
 - "I'm trying to lose weight" → "I failed, I'll never lose weight"
 - "I'm an athlete" → "Athletes have off days. Back at it tomorrow."
 
 **6. Social Reinforcement**
 
 Identity is reinforced by how others see you:
+
 - You tell people "I'm a runner"
 - They expect runner behavior from you
 - You act like a runner to maintain social consistency
@@ -248,6 +266,7 @@ Identity is reinforced by how others see you:
 **7. Compound Effects on Self-Esteem**
 
 Each identity-aligned action:
+
 1. Proves your identity to yourself
 2. Increases self-efficacy ("I can do this")
 3. Builds self-esteem ("I'm capable")
@@ -268,10 +287,12 @@ Forced → Natural
 ```
 
 **Why Start Deep**:
+
 - Changing outcomes without changing identity: temporary success, eventual regression
 - Changing identity: outcomes and processes follow automatically
 
 **The Transformation Path**:
+
 ```
 Old Identity → Old Behaviors → Old Outcomes
                     ↓
@@ -289,24 +310,28 @@ New Identity → New Behaviors → New Outcomes
 **Structure**: "I want to achieve X"
 
 **Characteristics**:
+
 - Goal is external to you
 - Motivation is achievement
 - Behavior is means to end
 - Success is destination
 
 **Examples**:
+
 - "I want to lose 20 pounds"
 - "I want to read 50 books this year"
 - "I want to run a marathon"
 - "I want to earn six figures"
 
 **Language Patterns**:
+
 - "I want to..."
 - "I need to..."
 - "I should..."
 - "My goal is to..."
 
 **Mental Model**:
+
 - Striving toward something you don't have
 - Gap between current and desired state
 - Behavior is sacrifice/effort to close gap
@@ -334,6 +359,7 @@ New Identity → New Behaviors → New Outcomes
    - Can do everything right and still "fail"
 
 **Example Story**: Jane wants to lose 20 pounds for her wedding.
+
 - She diets strictly for 6 months
 - Achieves the weight loss
 - Looks great at wedding
@@ -347,24 +373,28 @@ New Identity → New Behaviors → New Outcomes
 **Structure**: "I am the type of person who X"
 
 **Characteristics**:
+
 - Identity is internal
 - Motivation is being true to self
 - Behavior is expression of identity
 - Success is consistency with self-concept
 
 **Examples**:
+
 - "I'm a healthy person" (not "I want to lose weight")
 - "I'm a reader" (not "I want to read 50 books")
 - "I'm a runner" (not "I want to run a marathon")
 - "I'm financially responsible" (not "I want to earn six figures")
 
 **Language Patterns**:
+
 - "I am..."
 - "I'm the type of person who..."
 - "People like me..."
 - "This is what I do"
 
 **Mental Model**:
+
 - Living as who you already are
 - Alignment between behavior and self
 - Behavior is expression, not effort
@@ -392,6 +422,7 @@ New Identity → New Behaviors → New Outcomes
    - No external rewards needed
 
 **Example Story**: Sarah decides "I'm a healthy person."
+
 - She eats well because healthy people eat well
 - She exercises because that's what healthy people do
 - She prioritizes sleep because healthy people value rest
@@ -404,35 +435,35 @@ New Identity → New Behaviors → New Outcomes
 
 **Scenario: Building a Reading Habit**
 
-| Aspect | Outcome-Based | Identity-Based |
-|--------|---------------|----------------|
-| **Goal** | "Read 50 books this year" | "Become a reader" |
-| **Daily Thought** | "I need to read to hit my goal" | "Reading is what I do" |
-| **Missing a Day** | "I'm falling behind!" | "Readers have off days" |
-| **Finishing Book** | "49 more to go..." | "Another book enjoyed" |
-| **December 31** | "Did I hit 50?" (binary) | "I'm a reader now" (ongoing) |
-| **Next Year** | "New goal: 60 books?" | "Keep reading because I'm a reader" |
-| **Sustainability** | Ends with goal or failure | Continues indefinitely |
+| Aspect             | Outcome-Based                   | Identity-Based                      |
+| ------------------ | ------------------------------- | ----------------------------------- |
+| **Goal**           | "Read 50 books this year"       | "Become a reader"                   |
+| **Daily Thought**  | "I need to read to hit my goal" | "Reading is what I do"              |
+| **Missing a Day**  | "I'm falling behind!"           | "Readers have off days"             |
+| **Finishing Book** | "49 more to go..."              | "Another book enjoyed"              |
+| **December 31**    | "Did I hit 50?" (binary)        | "I'm a reader now" (ongoing)        |
+| **Next Year**      | "New goal: 60 books?"           | "Keep reading because I'm a reader" |
+| **Sustainability** | Ends with goal or failure       | Continues indefinitely              |
 
 **Scenario: Quitting Sugar**
 
-| Aspect | Outcome-Based | Identity-Based |
-|--------|---------------|----------------|
-| **Goal** | "Quit sugar for 30 days" | "I'm someone who doesn't eat sugar" |
-| **Temptation** | "I want it but I can't" (deprivation) | "I don't eat that" (identity statement) |
-| **Social Pressure** | "I'm on a diet" | "I don't eat sugar" (non-negotiable) |
-| **Day 31** | "Challenge over! Dessert time?" | "Still don't eat sugar (I'm that person)" |
-| **Long-term** | Likely to relapse | Sustainable |
+| Aspect              | Outcome-Based                         | Identity-Based                            |
+| ------------------- | ------------------------------------- | ----------------------------------------- |
+| **Goal**            | "Quit sugar for 30 days"              | "I'm someone who doesn't eat sugar"       |
+| **Temptation**      | "I want it but I can't" (deprivation) | "I don't eat that" (identity statement)   |
+| **Social Pressure** | "I'm on a diet"                       | "I don't eat sugar" (non-negotiable)      |
+| **Day 31**          | "Challenge over! Dessert time?"       | "Still don't eat sugar (I'm that person)" |
+| **Long-term**       | Likely to relapse                     | Sustainable                               |
 
 **Scenario: Becoming a Morning Person**
 
-| Aspect | Outcome-Based | Identity-Based |
-|--------|---------------|----------------|
-| **Goal** | "Wake up at 5 AM for 21 days" | "I'm a morning person" |
-| **Alarm Goes Off** | "Ugh, I have to..." | "This is who I am" |
-| **Sleeping In Once** | "I failed the challenge" | "Even morning people sleep in occasionally" |
-| **Motivation** | "Discipline" (forced) | "Natural" (authentic) |
-| **After 21 Days** | "Can I stop now?" | "Still waking early (it's my identity)" |
+| Aspect               | Outcome-Based                 | Identity-Based                              |
+| -------------------- | ----------------------------- | ------------------------------------------- |
+| **Goal**             | "Wake up at 5 AM for 21 days" | "I'm a morning person"                      |
+| **Alarm Goes Off**   | "Ugh, I have to..."           | "This is who I am"                          |
+| **Sleeping In Once** | "I failed the challenge"      | "Even morning people sleep in occasionally" |
+| **Motivation**       | "Discipline" (forced)         | "Natural" (authentic)                       |
+| **After 21 Days**    | "Can I stop now?"             | "Still waking early (it's my identity)"     |
 
 ### The Shift in Language
 
@@ -452,6 +483,7 @@ Changing from outcome-based to identity-based is often just a shift in how you f
 10. "I need to network more" → "I'm a connector"
 
 **Notice the shift**:
+
 - From aspiration to assertion
 - From trying to being
 - From external to internal
@@ -487,6 +519,7 @@ Changing from outcome-based to identity-based is often just a shift in how you f
 **Step 1: Identify the Behavior You Want**
 
 Examples:
+
 - Exercise regularly
 - Write every day
 - Eat healthy
@@ -496,6 +529,7 @@ Examples:
 **Step 2: Ask "What Type of Person Would Do This?"**
 
 Examples:
+
 - Exercise regularly → An athlete, healthy person, fitness enthusiast
 - Write every day → A writer, creative, author
 - Eat healthy → A healthy person, someone who values their body
@@ -505,6 +539,7 @@ Examples:
 **Step 3: Claim the Identity**
 
 Convert to "I am the type of person who..." statements:
+
 - "I am the type of person who prioritizes health"
 - "I am the type of person who shows up and creates"
 - "I am the type of person who fuels their body well"
@@ -516,6 +551,7 @@ Convert to "I am the type of person who..." statements:
 When decision point arrives, ask: "What would someone like me do?"
 
 Example:
+
 - Alarm goes off for workout
 - "What would a person who prioritizes health do?"
 - "They'd get up and work out"
@@ -524,6 +560,7 @@ Example:
 ### Examples Across Life Domains
 
 **Health & Fitness**:
+
 - "I am the type of person who moves their body daily"
 - "I am the type of person who chooses nourishing foods"
 - "I am the type of person who prioritizes rest"
@@ -531,6 +568,7 @@ Example:
 - "I am the type of person who takes care of their physical well-being"
 
 **Professional**:
+
 - "I am the type of person who delivers on commitments"
 - "I am the type of person who continuously learns"
 - "I am the type of person who shows up early and prepared"
@@ -538,6 +576,7 @@ Example:
 - "I am the type of person who adds value"
 
 **Creative**:
+
 - "I am the type of person who creates daily"
 - "I am the type of person who ships work"
 - "I am the type of person who thinks originally"
@@ -545,6 +584,7 @@ Example:
 - "I am the type of person who finishes projects"
 
 **Financial**:
+
 - "I am the type of person who lives below their means"
 - "I am the type of person who invests in their future"
 - "I am the type of person who makes wise financial decisions"
@@ -552,6 +592,7 @@ Example:
 - "I am the type of person who builds wealth slowly"
 
 **Relationships**:
+
 - "I am the type of person who is present with loved ones"
 - "I am the type of person who listens actively"
 - "I am the type of person who follows through"
@@ -559,6 +600,7 @@ Example:
 - "I am the type of person who communicates clearly"
 
 **Personal Growth**:
+
 - "I am the type of person who faces challenges"
 - "I am the type of person who reflects and learns"
 - "I am the type of person who pushes through discomfort"
@@ -570,6 +612,7 @@ Example:
 **1. Multiple Identities**
 
 You can hold multiple identities simultaneously:
+
 - "I'm an athlete and a scholar"
 - "I'm creative and disciplined"
 - "I'm a parent and an entrepreneur"
@@ -579,11 +622,13 @@ Each identity reinforces behaviors in its domain without conflicting.
 **2. Aspirational Identities**
 
 Start with slightly aspirational identity:
+
 - Not yet true, but believable
 - "I'm becoming the type of person who..."
 - Bridge from current to desired identity
 
 **Example**:
+
 - Current: Sedentary
 - Too far: "I'm an elite athlete" (brain rejects as false)
 - Right fit: "I'm becoming someone who values fitness"
@@ -592,6 +637,7 @@ Start with slightly aspirational identity:
 **3. Identity Hierarchies**
 
 Broader identities encompass multiple behaviors:
+
 - "I'm a professional" → punctual, prepared, skilled, ethical
 - "I'm a healthy person" → exercise, nutrition, sleep, stress management
 - "I'm disciplined" → consistency across all areas
@@ -601,6 +647,7 @@ Broader identities encompass multiple behaviors:
 **4. Negative Identity Statements**
 
 Sometimes defining what you're NOT is powerful:
+
 - "I'm not someone who quits"
 - "I'm not someone who lies"
 - "I'm not someone who eats junk food"
@@ -610,6 +657,7 @@ Sometimes defining what you're NOT is powerful:
 **5. Conditional Statements**
 
 Add conditions to make identity more specific:
+
 - "I'm the type of person who, when they commit to something, follows through"
 - "I'm the type of person who, even when tired, shows up"
 
@@ -620,6 +668,7 @@ This adds nuance and handles edge cases.
 **Mistake 1: Identity Without Action**
 
 Claiming identity but not acting on it:
+
 - "I'm a writer" but never writing
 - Brain detects inconsistency
 - Identity claim loses power
@@ -629,6 +678,7 @@ Claiming identity but not acting on it:
 **Mistake 2: Too Broad**
 
 Identity too vague to guide behavior:
+
 - "I'm a good person" (what does that mean behaviorally?)
 
 **Fix**: Define specific behaviors that express the identity.
@@ -636,6 +686,7 @@ Identity too vague to guide behavior:
 **Mistake 3: Conflicting Identities**
 
 Holding contradictory identities:
+
 - "I'm spontaneous" and "I'm highly organized"
 - Brain can't compute
 - Leads to identity confusion
@@ -645,6 +696,7 @@ Holding contradictory identities:
 **Mistake 4: Attachment to Outcome**
 
 Sneaking outcome into identity:
+
 - "I'm the type of person who makes six figures" (outcome)
 - vs "I'm the type of person who delivers value" (identity)
 
@@ -700,17 +752,20 @@ Day 7: Write for 45 min (+1 Writer)
 **Principle**: You don't need to be perfect to establish an identity. You just need to win the majority of votes.
 
 **Application**:
+
 - Work out 4 days/week → You're an athlete (57% of week)
 - Write 5 days/week → You're a writer (71% of week)
 - Eat healthy 80% of meals → You're healthy (80% vote)
 
 **Why This Matters**:
+
 - Removes all-or-nothing pressure
 - Perfection not required
 - One bad vote doesn't change election
 - Focus shifts to consistency, not perfection
 
 **Example**: "I'm a healthy person"
+
 - 3 healthy meals + 1 junk food meal = Still healthy (75% vote)
 - The identity can tolerate exceptions
 - Exceptions don't define you; patterns do
@@ -718,16 +773,19 @@ Day 7: Write for 45 min (+1 Writer)
 ### Types of Votes
 
 **Major Votes** (high impact):
+
 - Actions that strongly reinforce or contradict identity
 - Example for "I'm responsible": Paying bills on time (major vote FOR)
 - Example against: Racking up debt (major vote AGAINST)
 
 **Minor Votes** (small impact):
+
 - Everyday micro-behaviors
 - Example for "I'm organized": Making bed (minor vote FOR)
 - Example against: Leaving dishes in sink (minor vote AGAINST)
 
 **Casting Votes**:
+
 - Major votes count more but are less frequent
 - Minor votes count less but are more frequent
 - Both matter for identity formation
@@ -737,11 +795,13 @@ Day 7: Write for 45 min (+1 Writer)
 ### Winning the Election
 
 **Strategy 1: Increase Vote Frequency**
+
 - More opportunities to vote for desired identity
 - Daily habits beat weekly habits for identity formation
 - Example: Reading 10 pages daily (365 votes/year) beats reading 2 hours weekly (52 votes/year)
 
 **Strategy 2: Make Voting Easy**
+
 - Reduce friction for identity-aligned votes
 - Increase friction for identity-opposing votes
 - Example: "I'm organized"
@@ -749,11 +809,13 @@ Day 7: Write for 45 min (+1 Writer)
   - AGAINST: Hide snooze button (hard to vote against)
 
 **Strategy 3: Never Miss Twice**
+
 - One missed vote is recoverable
 - Two missed votes starts a negative pattern
 - Missing twice is the beginning of a new (bad) habit
 
 **The Rule**: "Never miss twice"
+
 - Skip gym Monday? Must go Tuesday
 - Break diet at lunch? Eat healthy at dinner
 - Sleep in once? Wake up early next day
@@ -761,6 +823,7 @@ Day 7: Write for 45 min (+1 Writer)
 **Why It Works**: Prevents negative voting streak from starting.
 
 **Strategy 4: Stack Votes**
+
 - Design days where multiple votes occur
 - Morning routine: multiple identity-reinforcing votes in sequence
   - Wake up early → Vote for "disciplined person"
@@ -771,6 +834,7 @@ Day 7: Write for 45 min (+1 Writer)
 - 5 votes before 8 AM
 
 **Strategy 5: Celebrate Votes**
+
 - Acknowledge when you vote for your identity
 - "I'm a writer, and I wrote today" (reinforcement)
 - Pride amplifies the vote's impact on identity formation
@@ -778,18 +842,21 @@ Day 7: Write for 45 min (+1 Writer)
 ### The Compound Effect of Votes
 
 **Early Votes** (Weeks 1-4):
+
 - Each vote feels insignificant
 - Identity not yet established
 - Requires conscious effort
 - Easy to miss votes
 
 **Middle Votes** (Months 2-6):
+
 - Pattern emerging
 - Identity starting to form
 - Some actions feel more natural
 - Momentum building
 
 **Late Votes** (6+ months):
+
 - Identity established
 - Votes feel automatic
 - Not voting feels wrong (violates identity)
@@ -800,11 +867,13 @@ Day 7: Write for 45 min (+1 Writer)
 ### Negative Votes and Identity Erosion
 
 **How Identities Degrade**:
+
 - Just as positive votes build identity
 - Negative votes erode it
 - If you stop voting for an identity, it fades
 
 **Example**: "I'm a runner"
+
 - Run daily for 2 years → Strong runner identity
 - Injury forces 2-month break
 - Every day of not running is a vote against runner identity
@@ -812,6 +881,7 @@ Day 7: Write for 45 min (+1 Writer)
 - Returning to running feels harder (identity partially eroded)
 
 **Prevention**:
+
 - Find alternative votes during setbacks
 - Injured runner: "I'm researching running techniques" (still votes for runner identity)
 - Maintain identity through related actions when primary action unavailable
@@ -820,12 +890,14 @@ Day 7: Write for 45 min (+1 Writer)
 
 **Morning Identity Vote**:
 Start each day with identity-reinforcing action:
+
 - First action of day is a vote
 - Sets tone for subsequent votes
 - Example: "I'm a writer" → Write for 10 minutes immediately upon waking
 
 **Daily Scoreboard**:
 Track votes for key identities:
+
 ```
 Identity: Healthy Person
 Today's Votes:
@@ -840,12 +912,14 @@ Total: 4 FOR, 2 AGAINST (67% - Winning)
 ```
 
 **Weekly Review**:
+
 - Count votes for each identity
 - Identify where you're winning/losing
 - Adjust systems to increase positive votes
 
 **Identity Alignment Check**:
 Before action, ask:
+
 - "Does this vote for who I want to be?"
 - If yes → Do it
 - If no → Don't do it
@@ -863,31 +937,37 @@ Not "What do I want to achieve?" but "Who do I want to be?"
 **Approach**:
 
 **Option A: Start With Values**
+
 1. What do I value most? (health, knowledge, family, creativity, etc.)
 2. What type of person embodies these values?
 3. That's the identity to build
 
 **Example**:
+
 - Value: Health and longevity
 - Identity: "I'm someone who takes care of their body"
 - Behaviors: Exercise, nutrition, sleep, stress management
 
 **Option B: Start With Desired Outcome, Work Backward**
+
 1. What outcome do I want? (e.g., run a marathon)
 2. What type of person achieves that? (e.g., a runner, an athlete)
 3. Adopt that identity now
 
 **Example**:
+
 - Outcome: Write a novel
 - Identity: "I'm a writer"
 - Behaviors: Write daily, read widely, study craft
 
 **Option C: Start With Current Frustration**
+
 1. What am I frustrated about? (e.g., I'm always late)
 2. What's the opposite identity? (e.g., punctual person)
 3. Adopt that identity
 
 **Example**:
+
 - Frustration: Disorganized, always losing things
 - Identity: "I'm an organized person"
 - Behaviors: Everything has a place, plan ahead, maintain systems
@@ -914,6 +994,7 @@ Not "What do I want to achieve?" but "Who do I want to be?"
 **Exercise: Define Your Target Identity**
 
 Template:
+
 ```
 I want to be the type of person who:
 1. [Primary identity statement]
@@ -932,6 +1013,7 @@ This identity will manifest through:
 ```
 
 Example:
+
 ```
 I want to be the type of person who:
 1. Creates valuable things
@@ -981,6 +1063,7 @@ Once identity is defined, every action becomes an opportunity to prove it to you
 **Technique 1: Scale Down the Behavior**
 
 Take the ideal behavior and make it tiny:
+
 - "I'm a writer" → Write one sentence
 - "I'm an athlete" → Do one push-up
 - "I'm organized" → Organize one drawer
@@ -991,6 +1074,7 @@ Take the ideal behavior and make it tiny:
 **Technique 2: Identify Keystone Actions**
 
 Find single actions that prove the identity:
+
 - "I'm healthy" → Drink water first thing in morning
 - "I'm disciplined" → Make bed every day
 - "I'm a learner" → Read 10 pages before bed
@@ -1000,6 +1084,7 @@ Find single actions that prove the identity:
 **Technique 3: Create Daily Proof Points**
 
 Design day to include multiple identity-proving moments:
+
 - Morning: "I'm disciplined" → Wake at set time
 - Midday: "I'm a creator" → Work on project
 - Evening: "I'm a good parent" → Present with kids
@@ -1009,6 +1094,7 @@ Design day to include multiple identity-proving moments:
 **Technique 4: Use the 2-Minute Rule**
 
 Any habit should take less than 2 minutes to start:
+
 - "I'm a yogi" → Roll out mat (2 min)
 - "I'm a writer" → Open writing document (2 min)
 - "I'm a meditator" → Sit in meditation spot (2 min)
@@ -1018,6 +1104,7 @@ Any habit should take less than 2 minutes to start:
 **Technique 5: Stack Identity Proofs**
 
 Chain identity-reinforcing behaviors:
+
 - After coffee (trigger) → I write for 5 min (I'm a writer)
 - After writing → I do 10 push-ups (I'm healthy)
 - After push-ups → I meditate 2 min (I'm mindful)
@@ -1027,6 +1114,7 @@ Chain identity-reinforcing behaviors:
 ### The Feedback Loop
 
 **The Cycle**:
+
 ```
 1. Decide Identity →
 2. Small Action (proof) →
@@ -1040,6 +1128,7 @@ Chain identity-reinforcing behaviors:
 ```
 
 **Timeline**:
+
 - **Week 1-2**: Conscious effort, voting for identity
 - **Week 3-4**: Starting to feel identity forming
 - **Month 2-3**: Identity feels more real, actions easier
@@ -1049,24 +1138,28 @@ Chain identity-reinforcing behaviors:
 **Example: Becoming "Someone Who Exercises"**
 
 **Month 1**:
+
 - Decision: "I'm becoming someone who exercises"
 - Small wins: Put on workout clothes daily (even if don't work out)
 - Proof: "I showed up" (identity vote)
 - Result: Habit of showing up forming
 
 **Month 2**:
+
 - Identity strengthening: "I'm someone who works out"
 - Small wins: Actually work out 3x/week (even if just 10 min)
 - Proof: Consistency building
 - Result: Exercise feels more natural
 
 **Month 3**:
+
 - Identity solid: "I'm an active person"
 - Small wins: Work out 4-5x/week, enjoy it
 - Proof: Identity no longer aspirational, it's true
 - Result: Not working out feels wrong
 
 **Month 6**:
+
 - Identity ingrained: "Exercise is just what I do"
 - Behavior: Work out 5-6x/week without thinking
 - Proof: Others comment "You're so fit/disciplined"
@@ -1108,10 +1201,12 @@ Chain identity-reinforcing behaviors:
 **Definition**: Motivation that comes from within—doing something because it's inherently satisfying, not for external rewards.
 
 **Contrast With Extrinsic Motivation**:
+
 - **Extrinsic**: Motivated by external rewards (money, praise, trophies)
 - **Intrinsic**: Motivated by internal satisfaction (enjoyment, growth, alignment)
 
 **Why Intrinsic Motivation Matters for Habits**:
+
 1. **Sustainability**: Doesn't depend on external factors
 2. **Resilience**: Persists when rewards are absent
 3. **Enjoyment**: Activity itself is rewarding
@@ -1122,12 +1217,14 @@ Chain identity-reinforcing behaviors:
 **The Alignment Mechanism**:
 
 When behavior aligns with identity:
+
 1. **Behavior feels authentic** (this is who I am)
 2. **No internal conflict** (not forcing yourself)
 3. **Action is self-expression** (not obligation)
 4. **Satisfaction from being true to self** (integrity)
 
 **Example**:
+
 - Extrinsic: "I exercise to lose weight" (reward = weight loss)
   - Motivation depends on scale movement
   - If scale doesn't move, motivation drops
@@ -1141,31 +1238,37 @@ When behavior aligns with identity:
 **Research Foundation**: Deci & Ryan's Self-Determination Theory identifies three psychological needs for intrinsic motivation:
 
 **1. Autonomy** (self-direction)
+
 - Feeling of choice and control
 - Not being forced
 - Acting from personal values
 
 **How Identity Provides It**:
+
 - You chose the identity
 - Behaviors are self-selected expressions
 - No external authority making you act
 
 **2. Competence** (mastery and growth)
+
 - Feeling effective and capable
 - Making progress
 - Developing skills
 
 **How Identity Provides It**:
+
 - Each action is proof of competence
 - "I'm a writer" → Each word written = competence proof
 - Small wins accumulate into mastery
 
 **3. Relatedness** (connection and belonging)
+
 - Feeling connected to something larger
 - Sense of belonging
 - Shared identity with others
 
 **How Identity Provides It**:
+
 - "I'm a runner" → Part of running community
 - "I'm a creator" → Part of creative class
 - Identity connects you to tribe
@@ -1175,26 +1278,31 @@ When behavior aligns with identity:
 ### The Intrinsic Motivation Ladder
 
 **Level 1: External Regulation** (Lowest)
+
 - "I have to work out or I'll get fat"
 - Controlled by external consequences
 - Zero intrinsic motivation
 
 **Level 2: Introjected Regulation**
+
 - "I should work out or I'll feel guilty"
 - Controlled by internal pressure (guilt, shame)
 - Slightly intrinsic but still ego-driven
 
 **Level 3: Identified Regulation**
+
 - "I work out because health is important to me"
 - Aligned with personal values
 - Moderately intrinsic
 
 **Level 4: Integrated Regulation**
+
 - "I work out because I'm a healthy person"
 - Fully integrated into identity
 - Highly intrinsic
 
 **Level 5: Intrinsic Motivation** (Highest)
+
 - "I work out because I love how it feels"
 - Purely for enjoyment and satisfaction
 - Completely intrinsic
@@ -1204,21 +1312,25 @@ When behavior aligns with identity:
 ### From Extrinsic to Intrinsic: The Transition
 
 **Phase 1: Purely Extrinsic**
+
 - "I'm writing to make money"
 - Motivation = paycheck
 - If no payment, no writing
 
 **Phase 2: Extrinsic + Identity Aspiration**
+
 - "I'm writing to make money, but I also want to be a writer"
 - Motivation = mixed (payment + becoming)
 - Starting to internalize
 
 **Phase 3: Identity-Driven (Integrated)**
+
 - "I'm a writer, so I write"
 - Motivation = being true to self
 - Payment is bonus, not driver
 
 **Phase 4: Purely Intrinsic**
+
 - "I write because I love the craft"
 - Motivation = enjoyment of process
 - Payment irrelevant to behavior
@@ -1286,24 +1398,29 @@ When behavior aligns with identity:
 ### Building Intrinsic Motivation Through Identity
 
 **Step 1: Clarify the Identity**
+
 - Define who you are (or are becoming)
 - Make it specific and meaningful
 
 **Step 2: Connect Behavior to Identity**
+
 - "I do [X] because I'm [identity]"
 - Make the link explicit
 
 **Step 3: Celebrate Alignment**
+
 - Notice when behavior matches identity
 - Feel pride in the consistency
 - Reinforce the internal reward
 
 **Step 4: Remove External Rewards (Gradually)**
+
 - Don't rely on external motivation
 - Let identity be the reward
 - Behavior sustains itself
 
 **Step 5: Enjoy the Process**
+
 - Identity-aligned actions feel good
 - Lean into that feeling
 - Process becomes its own reward
@@ -1315,6 +1432,7 @@ When behavior aligns with identity:
 ### Scenario 1: Writing Daily
 
 **Goal-Based ("I want to write a book")**:
+
 - **Morning thought**: "I need to write to finish my book"
 - **Motivation**: Obligation, outcome-dependent
 - **When motivation low**: "Maybe I'll skip today"
@@ -1323,6 +1441,7 @@ When behavior aligns with identity:
 - **Long-term**: Behavior stops after book done
 
 **Identity-Based ("I'm a writer")**:
+
 - **Morning thought**: "Time to write, it's what I do"
 - **Motivation**: Self-expression, identity-driven
 - **When motivation low**: "Writers write, even on hard days"
@@ -1333,12 +1452,14 @@ When behavior aligns with identity:
 ### Scenario 2: Facing Rejection
 
 **Goal-Based ("I want to write a book")**:
+
 - **Rejection received**: "This goal is hopeless"
 - **Response**: Quit writing
 - **Reason**: Goal seems unattainable
 - **Outcome**: Never publishes
 
 **Identity-Based ("I'm a writer")**:
+
 - **Rejection received**: "Writers get rejected. Part of the journey."
 - **Response**: Keep writing, submit elsewhere
 - **Reason**: Identity isn't threatened by rejection
@@ -1347,12 +1468,14 @@ When behavior aligns with identity:
 ### Scenario 3: Writer's Block
 
 **Goal-Based ("I want to write a book")**:
+
 - **Can't think of what to write**: "I can't work on my book today"
 - **Response**: Skip writing
 - **Reason**: Goal-specific; if can't advance goal, no point
 - **Result**: Momentum lost
 
 **Identity-Based ("I'm a writer")**:
+
 - **Can't think of what to write**: "I'll write something else—journal, blog, freewrite"
 - **Response**: Write anyway (different format)
 - **Reason**: Writers write (not just on book)
@@ -1361,12 +1484,14 @@ When behavior aligns with identity:
 ### Scenario 4: Life Gets Busy
 
 **Goal-Based ("I want to write a book")**:
+
 - **Busy week ahead**: "I can't work on the book this week"
 - **Response**: Take the week off
 - **Reason**: Goal requires time; no time = no progress
 - **Result**: Week off becomes two, then three
 
 **Identity-Based ("I'm a writer")**:
+
 - **Busy week ahead**: "I'll write for 10 minutes daily"
 - **Response**: Maintains writing habit (scaled down)
 - **Reason**: Identity maintained through any action
@@ -1375,12 +1500,14 @@ When behavior aligns with identity:
 ### Scenario 5: Comparison to Other Writers
 
 **Goal-Based ("I want to write a book")**:
+
 - **Sees someone publish bestseller**: "I'll never achieve my goal"
 - **Response**: Demotivation, possibly quits
 - **Reason**: Goal is binary (achieve or fail); others' success highlights gap
 - **Result**: Comparison kills motivation
 
 **Identity-Based ("I'm a writer")**:
+
 - **Sees someone publish bestseller**: "That's inspiring. We're both writers."
 - **Response**: Motivated to keep writing
 - **Reason**: Identity is personal (their success doesn't negate yours)
@@ -1388,16 +1515,16 @@ When behavior aligns with identity:
 
 ### Key Differences Summary
 
-| Aspect | "I want to write a book" (Goal) | "I'm a writer" (Identity) |
-|--------|----------------------------------|----------------------------|
-| **Focus** | Outcome (book) | Process (writing) |
-| **Motivation** | Achievement | Self-expression |
-| **Resilience** | Fragile to setbacks | Resilient to setbacks |
-| **Flexibility** | Rigid (must work on book) | Flexible (any writing counts) |
-| **Sustainability** | Ends with book | Continues indefinitely |
-| **Self-Concept** | Separate from goal | Integrated with identity |
-| **Response to failure** | Quit | Persist |
-| **Enjoyment** | Means to end | End in itself |
+| Aspect                  | "I want to write a book" (Goal) | "I'm a writer" (Identity)     |
+| ----------------------- | ------------------------------- | ----------------------------- |
+| **Focus**               | Outcome (book)                  | Process (writing)             |
+| **Motivation**          | Achievement                     | Self-expression               |
+| **Resilience**          | Fragile to setbacks             | Resilient to setbacks         |
+| **Flexibility**         | Rigid (must work on book)       | Flexible (any writing counts) |
+| **Sustainability**      | Ends with book                  | Continues indefinitely        |
+| **Self-Concept**        | Separate from goal              | Integrated with identity      |
+| **Response to failure** | Quit                            | Persist                       |
+| **Enjoyment**           | Means to end                    | End in itself                 |
 
 ---
 
@@ -1406,12 +1533,15 @@ When behavior aligns with identity:
 ### The Bidirectional Relationship
 
 **Traditional View**: Identity → Habits
+
 - "I'm disciplined" → Therefore I wake up early
 
 **Reality**: Identity ⇄ Habits
+
 - "I wake up early" → "I'm disciplined" → "I wake up early" → ...
 
 **The Loop**:
+
 ```
 Identity → Behavior → Results → Identity (Reinforced or Updated)
    ↑                                          ↓
@@ -1423,6 +1553,7 @@ Identity → Behavior → Results → Identity (Reinforced or Updated)
 **Mechanism**: Your brain infers your identity from your behavior.
 
 **Process**:
+
 1. **You act** (behavior)
 2. **Brain observes** (pattern recognition)
 3. **Brain updates self-concept** (identity formation)
@@ -1430,6 +1561,7 @@ Identity → Behavior → Results → Identity (Reinforced or Updated)
 5. **Cycle continues**
 
 **Example**:
+
 1. You run for 20 minutes → Action
 2. Brain notes: "I ran today"
 3. Run again tomorrow → Brain notes: "I ran two days in a row"
@@ -1446,6 +1578,7 @@ Identity → Behavior → Results → Identity (Reinforced or Updated)
 **Mechanism**: Your behavior automatically aligns with your self-concept.
 
 **Process**:
+
 1. **Identity exists** ("I'm organized")
 2. **Decision point arises** (messy desk)
 3. **Identity guides behavior** ("Organized people clean up")
@@ -1453,6 +1586,7 @@ Identity → Behavior → Results → Identity (Reinforced or Updated)
 5. **Identity reinforced** ("I am organized" confirmed)
 
 **Example**:
+
 1. Identity: "I'm a non-smoker"
 2. Offered cigarette at party
 3. Identity activates: "I don't smoke"
@@ -1464,6 +1598,7 @@ Identity → Behavior → Results → Identity (Reinforced or Updated)
 ### The Positive Feedback Loop (Virtuous Cycle)
 
 **Cycle**:
+
 ```
 Good Habit → Positive Identity Update → More Good Habits → Stronger Positive Identity → Even More Good Habits → ...
 ```
@@ -1471,22 +1606,28 @@ Good Habit → Positive Identity Update → More Good Habits → Stronger Positi
 **Example: Becoming a "Reader"**
 
 Day 1: Read for 10 minutes
+
 - Brain: "I read today"
 
 Day 7: Read daily for a week
+
 - Brain: "I'm reading regularly"
 
 Day 30: Read daily for a month
+
 - Brain: "I might be a reader"
 
 Day 90: Read daily for three months
+
 - Brain: "I'm a reader"
 
 Day 180: Identity solid
+
 - Behavior: Reading feels automatic
 - Not reading feels wrong
 
 Day 365+:
+
 - Identity: "I'm absolutely a reader"
 - Behavior: Reading is non-negotiable
 - Result: Read 50+ books/year without effort
@@ -1496,6 +1637,7 @@ Day 365+:
 ### The Negative Feedback Loop (Vicious Cycle)
 
 **Cycle**:
+
 ```
 Bad Habit → Negative Identity Update → More Bad Habits → Weaker Positive Identity → Even More Bad Habits → ...
 ```
@@ -1503,18 +1645,23 @@ Bad Habit → Negative Identity Update → More Bad Habits → Weaker Positive I
 **Example: Becoming "Lazy"**
 
 Day 1: Skip workout
+
 - Brain: "I didn't work out today"
 
 Week 1: Skip workouts all week
+
 - Brain: "I'm not working out"
 
 Month 1: Skip workouts all month
+
 - Brain: "Maybe I'm lazy"
 
 Month 3: Continue skipping
+
 - Brain: "I am lazy"
 
 Month 6+:
+
 - Identity: "I'm a lazy person"
 - Behavior: Skipping feels natural
 - Working out feels unnatural (violates identity)
@@ -1527,6 +1674,7 @@ Month 6+:
 **Strategy**: Introduce small behavior change to update identity.
 
 **Process**:
+
 1. **Recognize the negative loop** ("I'm lazy" identity)
 2. **Introduce tiny positive action** (5 push-ups daily)
 3. **Let brain update identity** ("I did push-ups" → "I'm not completely lazy")
@@ -1537,6 +1685,7 @@ Month 6+:
 8. **Positive loop established**
 
 **Example**: Breaking "I'm disorganized" identity
+
 - Old loop: Messy room → "I'm disorganized" → Don't clean → Messier room → "I'm very disorganized"
 - Intervention: Make bed daily (tiny habit)
 - New loop: Made bed → "I did something organized" → Make bed again → "I'm organizing" → Clean desk too → "I'm becoming organized" → More organization → "I'm organized"
@@ -1544,36 +1693,43 @@ Month 6+:
 ### Accelerating the Positive Loop
 
 **Technique 1: Stack Behaviors**
+
 - One positive habit → Identity update
 - Multiple positive habits → Faster identity update
 
 **Example**:
+
 - Morning routine: Wake early + Workout + Healthy breakfast
 - Brain receives 3 positive signals
 - Identity updates faster: "I'm disciplined AND healthy AND intentional"
 
 **Technique 2: Increase Frequency**
+
 - Daily habits update identity faster than weekly
 - More votes = faster election result
 
 **Example**:
+
 - Writing 1x/week: 52 votes/year for "writer" identity
 - Writing daily: 365 votes/year for "writer" identity
 - 7x faster identity formation
 
 **Technique 3: Raise the Stakes**
+
 - Public commitment
 - Social accountability
 - Identity becomes external (others see you as X)
 - External reinforcement accelerates internal identity shift
 
 **Example**:
+
 - Tell friends "I'm a runner"
 - Now they expect runner behavior
 - You act like runner to maintain social consistency
 - Actions reinforce identity faster
 
 **Technique 4: Celebrate Wins**
+
 - Acknowledge identity-confirming actions
 - "I'm a writer and I wrote today" (explicit recognition)
 - Brain prioritizes consciously recognized patterns
@@ -1584,23 +1740,27 @@ Month 6+:
 **Concept**: Eventually, identity and habits reach equilibrium.
 
 **Equilibrium State**:
+
 - Identity fully formed
 - Behaviors automatic
 - No internal conflict
 - Sustainable indefinitely
 
 **Example**: "I'm a healthy person" (equilibrium)
+
 - Healthy eating is automatic (identity-aligned)
 - Exercise is natural (identity-aligned)
 - Junk food feels wrong (identity-opposing)
 - No willpower needed (behavior = identity)
 
 **How Long to Equilibrium**:
+
 - Simple habits: 2-3 months
 - Complex identities: 6-12 months
 - Depends on consistency and number of behaviors
 
 **Signs You've Reached Equilibrium**:
+
 1. Behavior feels effortless
 2. Not doing behavior feels wrong
 3. Others describe you with that identity
@@ -1645,6 +1805,7 @@ Month 6+:
 ### Prompt Patterns for Identity-Based Habits
 
 **Pattern 1: Identify Your Target Identity**
+
 ```
 I want to build the habit of [behavior].
 Help me:
@@ -1654,6 +1815,7 @@ Help me:
 ```
 
 **Pattern 2: Transition from Outcome to Identity**
+
 ```
 My goal is [outcome-based goal].
 Help me reframe this as an identity-based approach:
@@ -1663,6 +1825,7 @@ Help me reframe this as an identity-based approach:
 ```
 
 **Pattern 3: Audit Current Identity**
+
 ```
 Based on my current daily behaviors [list behaviors],
 what identity is being formed?
@@ -1672,6 +1835,7 @@ what identity is being formed?
 ```
 
 **Pattern 4: Design Identity-Reinforcing Habits**
+
 ```
 My target identity is [identity statement].
 Design a daily routine that reinforces this identity through:
@@ -1681,6 +1845,7 @@ Design a daily routine that reinforces this identity through:
 ```
 
 **Pattern 5: Break Negative Identity Loop**
+
 ```
 I've developed a negative identity: [negative identity].
 Help me:
@@ -1694,42 +1859,51 @@ Help me:
 **Phase 1: Identity Definition (Week 1)**
 
 Step 1: Clarify values
+
 - What matters most to me?
 - What do I want my life to be about?
 
 Step 2: Define target identities
+
 - Based on values, who do I want to be?
 - Create 2-3 identity statements
 
 Step 3: Identify proof behaviors
+
 - What small actions prove these identities?
 - List 1-3 behaviors per identity
 
 **Phase 2: Small Wins (Weeks 2-8)**
 
 Step 1: Start smallest possible action
+
 - Make it 2 minutes or less
 - Focus on showing up, not outcome
 
 Step 2: Track votes
+
 - Daily scoreboard: actions that vote for identity
 - Aim for 51%+ votes in favor
 
 Step 3: Celebrate alignment
+
 - Notice when behavior matches identity
 - Feel pride in consistency
 
 **Phase 3: Identity Integration (Months 3-6)**
 
 Step 1: Increase behavior complexity
+
 - Scale up from 2-min to full habit
 - As identity strengthens, behavior comes easier
 
 Step 2: Add related behaviors
+
 - Stack identity-reinforcing habits
 - Create comprehensive lifestyle
 
 Step 3: Social reinforcement
+
 - Share identity with others
 - "I'm a [identity]"
 - External validation accelerates integration
@@ -1737,15 +1911,18 @@ Step 3: Social reinforcement
 **Phase 4: Equilibrium (Month 6+)**
 
 Step 1: Maintain consistency
+
 - Habits are now automatic
 - Identity is solid
 - Never miss twice rule
 
 Step 2: Evolve identity
+
 - Beginner → Intermediate → Advanced
 - Update identity statements as you grow
 
 Step 3: Build new identities
+
 - Once one identity solid, add another
 - Become multi-dimensional
 
@@ -1789,16 +1966,19 @@ Step 3: Build new identities
 ### Success Metrics
 
 **Process Metrics** (Track daily):
+
 - Daily identity votes (actions)
 - Voting percentage (% of days you vote for identity)
 - Streaks (consecutive days of identity-aligned action)
 
 **Identity Metrics** (Track monthly):
+
 - How strong does identity feel? (1-10 scale)
 - How automatic is behavior? (1-10 scale)
 - How much willpower required? (1-10 = less is better)
 
 **Confirmation Indicators**:
+
 - "I am [identity]" feels true when you say it
 - Others describe you with that identity
 - Not doing behavior feels wrong

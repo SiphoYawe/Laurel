@@ -51,6 +51,7 @@ Heavier course load × Same inefficient methods = Burnout + Poor performance
 ### The Escalation Trap
 
 When grades don't improve despite hours invested, students typically:
+
 1. Assume they're not working hard ENOUGH
 2. Add MORE hours using the SAME ineffective methods
 3. Experience diminishing returns and increased exhaustion
@@ -61,30 +62,35 @@ They never question the METHODS—only their effort level.
 ## Signs You're in the Numbers Game Trap
 
 ### Grade-Effort Mismatch
+
 - You study 30+ hours/week but grades are B-/C+ range or lower
 - Friends who study "less" than you get better grades
 - You can describe how long you studied for an exam but struggle to describe WHAT you did
 - You feel you "should have done better" given the time invested
 
 ### Exhaustion Without Confidence
+
 - You're mentally drained after study sessions
 - Despite hours of study, you feel uncertain about material before exams
 - You can't confidently explain concepts without notes
 - During exams, questions feel unfamiliar despite "covering" the material
 
 ### Repetitive Passive Methods
+
 - You re-read the same textbook chapters or notes 3+ times
 - Your study sessions consist primarily of reviewing (not testing yourself)
 - You highlight or annotate extensively but rarely practice retrieval
 - You make comprehensive study guides that you then... read passively
 
 ### Time Tracking Without Quality Assessment
+
 - You count study hours meticulously but don't assess retention
 - You feel accomplished based on hours logged, not concepts mastered
 - Your study plans specify "3 hours of Biology" but not specific learning objectives
 - You equate "sitting with material" with "learning material"
 
 ### Diminishing Returns Pattern
+
 - First 2 hours feel productive, next 4 hours feel like going through motions
 - You "zone out" during study sessions but keep going
 - You can't recall what you studied 3 hours into a session
@@ -131,12 +137,14 @@ Once you identify effective methods, THEN determine appropriate time investment.
 ### Efficiency Comparison: Real Example
 
 **Student A (Numbers Game Trap)**
+
 - Method: Re-reading textbook + highlighting + rewriting notes
 - Time: 8 hours for Exam 1
 - Exam performance: 72%
 - Retention 1 month later: ~20%
 
 **Student B (Evidence-Based Methods)**
+
 - Method: 1 hour initial reading + 2 hours practice testing with feedback
 - Time: 3 hours for Exam 1
 - Exam performance: 88%
@@ -149,6 +157,7 @@ Student B spent 62% less time and performed 16 percentage points better. More cr
 ### Step 1: Audit Your Current Methods
 
 Ask yourself:
+
 - What specific activities fill my study time?
 - Am I primarily consuming (reading, watching) or producing (testing, explaining)?
 - Could I pass a practice test right now without notes?
@@ -159,9 +168,11 @@ Ask yourself:
 ### Step 2: Replace, Don't Just Add
 
 **Common mistake**: Adding effective methods ON TOP OF inefficient ones
+
 - Result: Even more hours, still inefficient foundation
 
 **Correct approach**: REPLACE passive methods with active ones
+
 - Instead of re-reading Chapter 3, do practice problems on Chapter 3 material
 - Instead of highlighting lecture notes, close notes and write what you remember
 - Instead of making study guide, create practice test questions
@@ -169,6 +180,7 @@ Ask yourself:
 ### Step 3: Adopt a Method-Based Study Plan
 
 **Old plan (trap)**:
+
 ```
 Monday: 3 hours Biology
 Tuesday: 2 hours Chemistry, 3 hours Math
@@ -176,6 +188,7 @@ Wednesday: 4 hours Biology
 ```
 
 **New plan (method-focused)**:
+
 ```
 Monday: Biology
   - 30 min: Skim Chapter 7 (first exposure)
@@ -193,6 +206,7 @@ Math:
 ```
 
 Notice the new plan:
+
 - Specifies WHAT you'll do, not just duration
 - Emphasizes retrieval and application
 - Includes self-assessment
@@ -212,6 +226,7 @@ Next Action: [What gaps remain?]
 ```
 
 After exam, review your log:
+
 - Which methods correlated with topics you answered correctly?
 - Which methods left you underprepared?
 - Adjust your approach based on evidence
@@ -228,11 +243,13 @@ After exam, review your log:
 ### Step 6: Set Learning Objectives, Not Time Quotas
 
 **Trap approach**: "I'll study for 4 hours today"
+
 - Encourages sitting with material passively
 - No accountability for actual learning
 - Easy to waste time
 
 **Effective approach**: "Today I'll master these 5 concepts as demonstrated by explaining them without notes"
+
 - Clear completion criteria
 - Forces active engagement
 - May take 2 hours or 4 hours—focus is on outcome
@@ -243,6 +260,7 @@ After exam, review your log:
 ### The First Two Weeks Are Hardest
 
 Switching to effective methods feels:
+
 - **Harder**: Retrieval practice reveals what you don't know
 - **Slower**: You can't "get through" material as quickly
 - **Discouraging**: You fail retrievals frequently at first
@@ -253,6 +271,7 @@ Switching to effective methods feels:
 ### Start Small
 
 Don't overhaul everything at once:
+
 1. Choose ONE course
 2. Implement ONE effective method (e.g., practice testing)
 3. Do this for TWO weeks
@@ -275,6 +294,7 @@ Don't overhaul everything at once:
 ### "Active methods take longer initially"
 
 **Response**: True for first exposure, but they dramatically reduce total time because:
+
 - You don't need to review material 4-5 times
 - Retention is stronger, so less relearning before exams
 - Knowledge builds cumulatively across semesters
@@ -286,6 +306,7 @@ Don't overhaul everything at once:
 ### "I'm too far behind to change methods now"
 
 **Response**: Continuing ineffective methods when behind makes it WORSE. You'll invest massive hours with poor ROI. Better to:
+
 1. Triage: what's most important?
 2. Use effective methods on priority material
 3. Accept strategic incompleteness over exhaustive inefficiency
@@ -304,6 +325,7 @@ If you can't do the above, more HOURS won't help—you need different METHODS.
 ### Monthly Performance Review
 
 After each exam:
+
 ```
 Exam: [Name]
 Grade: [X]
@@ -344,6 +366,7 @@ An LLM can help identify if you're in the Numbers Game Trap by analyzing respons
 ```
 
 **LLM Analysis Pattern**:
+
 - Flags high passive:active ratio
 - Identifies lack of retrieval practice
 - Detects time-based vs mastery-based completion criteria
@@ -381,6 +404,7 @@ LLM OUTPUT:
 ### Personalization Variables for LLM
 
 To customize advice:
+
 - Current GPA and target GPA
 - Courses and their credit hours
 - Time available per week
@@ -436,18 +460,21 @@ LLM Response:
 ## Final Reality Check
 
 The Numbers Game Trap is seductive because:
+
 - It's simple (just add hours)
 - It feels virtuous (hard work)
 - It's measurable (hours tracked)
 - It requires no self-examination (methods are invisible)
 
 Breaking free requires:
+
 - Admitting your methods may be wrong (ego hit)
 - Tolerating initial discomfort of effective techniques
 - Trusting research over intuition
 - Measuring learning, not effort
 
 **The promise**: Students who make this shift report:
+
 - Better grades with fewer hours
 - Less stress and burnout
 - Stronger retention for future courses

@@ -1,6 +1,7 @@
 # Ecosystem Components - App Ideas for Learning Ecosystem
 
 ## Purpose
+
 This document describes application components that implement the learning framework. Each component serves a specific function while integrating with others to form a comprehensive learning system.
 
 ---
@@ -8,11 +9,13 @@ This document describes application components that implement the learning frame
 ## Component 1: Study Session Planner
 
 ### Overview
+
 Designs optimal study sessions based on available time, energy levels, material type, and learning science principles.
 
 ### Core Functionality
 
 **Inputs:**
+
 - Subject/topic to study
 - Time available
 - Current energy level
@@ -21,6 +24,7 @@ Designs optimal study sessions based on available time, energy levels, material 
 - Assessment deadlines
 
 **Outputs:**
+
 - Time-blocked study session plan
 - Specific activities with durations
 - Technique recommendations
@@ -30,6 +34,7 @@ Designs optimal study sessions based on available time, energy levels, material 
 ### Features
 
 #### 1. Smart Session Design
+
 - Matches cognitive load to energy levels
 - Selects evidence-based techniques
 - Balances passive input with active practice
@@ -37,6 +42,7 @@ Designs optimal study sessions based on available time, energy levels, material 
 - Adapts to session length (15 min to 3+ hours)
 
 #### 2. Technique Library
+
 - Active recall protocols
 - Spaced repetition sessions
 - Practice problem sets
@@ -45,6 +51,7 @@ Designs optimal study sessions based on available time, energy levels, material 
 - Each with step-by-step instructions
 
 #### 3. Session Templates
+
 - Pre-built templates for common scenarios:
   - Quick Review (15-30 min)
   - Deep Learning Session (2-3 hours)
@@ -53,6 +60,7 @@ Designs optimal study sessions based on available time, energy levels, material 
   - Problem Practice (1-2 hours)
 
 #### 4. Real-Time Guidance
+
 - Timer with activity prompts
 - "What you should be doing now" indicator
 - Progress through session plan
@@ -104,6 +112,7 @@ Designs optimal study sessions based on available time, energy levels, material 
 ```
 
 ### Integration Points
+
 - **With Progress Dashboard**: Updates mastery levels after session
 - **With Spaced Repetition Scheduler**: Schedules reviews for material studied
 - **With Question Bank**: Pulls practice questions
@@ -112,12 +121,14 @@ Designs optimal study sessions based on available time, energy levels, material 
 ### Technical Implementation
 
 **Key Algorithms:**
+
 1. Session design algorithm (see implementation-patterns.md, Pattern 1)
 2. Technique selection based on context
 3. Time block optimization
 4. Adaptive pacing based on user feedback
 
 **Data Required:**
+
 - Student profile (energy patterns, preferences)
 - Topic metadata (difficulty, mastery level)
 - Historical session effectiveness
@@ -128,11 +139,13 @@ Designs optimal study sessions based on available time, energy levels, material 
 ## Component 2: Spaced Repetition Scheduler
 
 ### Overview
+
 Manages review schedules for all studied material using spaced repetition principles. Ensures material is reviewed at optimal intervals for long-term retention.
 
 ### Core Functionality
 
 **Inputs:**
+
 - Topics/concepts studied
 - Initial mastery assessment
 - Exam dates (if applicable)
@@ -140,6 +153,7 @@ Manages review schedules for all studied material using spaced repetition princi
 - Available review time per day
 
 **Outputs:**
+
 - Daily review schedule
 - Notifications for due reviews
 - Adaptive interval adjustments
@@ -149,6 +163,7 @@ Manages review schedules for all studied material using spaced repetition princi
 ### Features
 
 #### 1. Intelligent Scheduling
+
 - Standard intervals: 1, 3, 7, 14, 30 days
 - Adaptive intervals based on performance
 - Priority ranking for reviews
@@ -156,6 +171,7 @@ Manages review schedules for all studied material using spaced repetition princi
 - Automatic rescheduling on missed reviews
 
 #### 2. Review Interface
+
 - Shows topic to review
 - Active recall prompt
 - Performance self-assessment
@@ -163,6 +179,7 @@ Manages review schedules for all studied material using spaced repetition princi
 - Next review calculation
 
 #### 3. Calendar Integration
+
 - Visual calendar of upcoming reviews
 - Daily review load preview
 - Overload warnings
@@ -170,6 +187,7 @@ Manages review schedules for all studied material using spaced repetition princi
 - Sync with external calendars (Google, Apple)
 
 #### 4. Performance Tracking
+
 - Review completion rate
 - Recall accuracy trends
 - Interval adjustments made
@@ -246,6 +264,7 @@ Manages review schedules for all studied material using spaced repetition princi
 ```
 
 ### Integration Points
+
 - **With Topic Database**: Tracks which topics need review
 - **With Progress Dashboard**: Reports retention metrics
 - **With Study Session Planner**: Integrates reviews into study plans
@@ -254,12 +273,14 @@ Manages review schedules for all studied material using spaced repetition princi
 ### Technical Implementation
 
 **Key Algorithms:**
+
 1. Spaced repetition scheduling (see decision-trees.md)
 2. Adaptive interval calculation based on performance
 3. Priority scoring for review ordering
 4. Load balancing across days
 
 **Data Structures:**
+
 - Review schedule per topic (see data-models.md, ReviewSchedule)
 - Review history with performance metrics
 - Predicted forgetting curves
@@ -270,17 +291,20 @@ Manages review schedules for all studied material using spaced repetition princi
 ## Component 3: Active Recall Question Bank
 
 ### Overview
+
 Stores, generates, and presents practice questions for active recall. Tracks performance and adapts difficulty.
 
 ### Core Functionality
 
 **Inputs:**
+
 - Study material (text, notes, lectures)
 - Topic/concept identifiers
 - Difficulty preferences
 - Question type preferences
 
 **Outputs:**
+
 - Generated practice questions
 - Flashcards
 - Practice tests
@@ -290,6 +314,7 @@ Stores, generates, and presents practice questions for active recall. Tracks per
 ### Features
 
 #### 1. Question Generation
+
 - AI-powered question creation from source material
 - Manual question creation
 - Import from textbooks/exams
@@ -300,6 +325,7 @@ Stores, generates, and presents practice questions for active recall. Tracks per
   - Analysis/comparison
 
 #### 2. Question Bank Management
+
 - Organize by topic/course
 - Tag and categorize
 - Difficulty ratings
@@ -307,6 +333,7 @@ Stores, generates, and presents practice questions for active recall. Tracks per
 - Related question suggestions
 
 #### 3. Practice Modes
+
 - **Flashcard Mode**: One-by-one recall practice
 - **Quiz Mode**: Timed set of questions
 - **Exam Simulation**: Full practice exam
@@ -314,6 +341,7 @@ Stores, generates, and presents practice questions for active recall. Tracks per
 - **Random Mix**: Interleaved practice
 
 #### 4. Performance Analytics
+
 - Accuracy by question type
 - Speed trends
 - Difficult questions identified
@@ -394,6 +422,7 @@ Stores, generates, and presents practice questions for active recall. Tracks per
 ```
 
 ### Integration Points
+
 - **With Study Session Planner**: Provides questions for practice blocks
 - **With Spaced Repetition Scheduler**: Questions become review items
 - **With Progress Dashboard**: Reports mastery metrics
@@ -402,12 +431,14 @@ Stores, generates, and presents practice questions for active recall. Tracks per
 ### Technical Implementation
 
 **Key Algorithms:**
+
 1. Question generation from text (NLP)
 2. Difficulty estimation
 3. Leitner box system for flashcard scheduling
 4. Mastery calculation based on performance
 
 **Data Structures:**
+
 - Question model (see data-models.md)
 - Performance history per question
 - Topic-question mappings
@@ -418,11 +449,13 @@ Stores, generates, and presents practice questions for active recall. Tracks per
 ## Component 4: Progress Dashboard
 
 ### Overview
+
 Visualizes learning progress, mastery levels, study patterns, and trends over time. Provides insights and recommendations.
 
 ### Core Functionality
 
 **Inputs:**
+
 - Study session data
 - Review completion data
 - Question performance data
@@ -430,6 +463,7 @@ Visualizes learning progress, mastery levels, study patterns, and trends over ti
 - Self-assessments
 
 **Outputs:**
+
 - Visual progress charts
 - Mastery heatmaps
 - Study time analytics
@@ -439,6 +473,7 @@ Visualizes learning progress, mastery levels, study patterns, and trends over ti
 ### Features
 
 #### 1. Mastery Visualization
+
 - Per-topic mastery levels (1-5 scale)
 - Mastery progression over time
 - Course-level aggregation
@@ -446,6 +481,7 @@ Visualizes learning progress, mastery levels, study patterns, and trends over ti
 - Strength recognition
 
 #### 2. Study Analytics
+
 - Time spent per subject/topic
 - Study method effectiveness
 - Best study times/locations
@@ -453,6 +489,7 @@ Visualizes learning progress, mastery levels, study patterns, and trends over ti
 - Efficiency calculations
 
 #### 3. Performance Tracking
+
 - Test score trends
 - Question accuracy by topic
 - Improvement rate
@@ -460,6 +497,7 @@ Visualizes learning progress, mastery levels, study patterns, and trends over ti
 - Goal progress
 
 #### 4. Insights & Recommendations
+
 - What's working well
 - What needs attention
 - Technique recommendations
@@ -541,6 +579,7 @@ Visualizes learning progress, mastery levels, study patterns, and trends over ti
 ```
 
 ### Integration Points
+
 - **With All Components**: Aggregates data from entire ecosystem
 - **With Student Profile**: Personalizes insights
 - **With AI Coach**: Provides context for recommendations
@@ -548,12 +587,14 @@ Visualizes learning progress, mastery levels, study patterns, and trends over ti
 ### Technical Implementation
 
 **Key Algorithms:**
+
 1. Progress snapshot calculation (see data-models.md, ProgressSnapshot)
 2. Trend analysis and predictions
 3. Insight generation
 4. Visualization data preparation
 
 **Data Sources:**
+
 - Study sessions
 - Review completions
 - Question performance
@@ -565,17 +606,20 @@ Visualizes learning progress, mastery levels, study patterns, and trends over ti
 ## Component 5: Pomodoro Timer (with Interleaving Support)
 
 ### Overview
+
 Focused work timer implementing Pomodoro Technique with support for interleaving multiple topics.
 
 ### Core Functionality
 
 **Inputs:**
+
 - Session duration preferences
 - Break duration preferences
 - Topics/subjects to study
 - Interleaving pattern
 
 **Outputs:**
+
 - Timed work/break intervals
 - Activity prompts
 - Session completion tracking
@@ -584,24 +628,28 @@ Focused work timer implementing Pomodoro Technique with support for interleaving
 ### Features
 
 #### 1. Flexible Timing
+
 - Classic: 25/5 (work/break)
 - Extended: 50/10
 - Custom: User-defined
 - Auto-adjust based on focus patterns
 
 #### 2. Interleaving Support
+
 - Rotate topics every N pomodoros
 - Mix study methods within session
 - Balance difficulty across pomodoros
 - Track context-switching effectiveness
 
 #### 3. Focus Tracking
+
 - Distraction logging
 - Focus quality self-assessment
 - Best time-of-day analysis
 - Improvement trends
 
 #### 4. Smart Notifications
+
 - Gentle work start reminders
 - Break enforcement
 - Long-session warnings
@@ -673,6 +721,7 @@ Focused work timer implementing Pomodoro Technique with support for interleaving
 ```
 
 ### Integration Points
+
 - **With Study Session Planner**: Executes planned sessions
 - **With Progress Dashboard**: Reports focus quality and time data
 - **With Study Environment Checker**: Ensures setup before starting
@@ -680,6 +729,7 @@ Focused work timer implementing Pomodoro Technique with support for interleaving
 ### Technical Implementation
 
 **Key Features:**
+
 - Precise timing engine
 - Background notifications
 - Audio/visual alerts
@@ -691,17 +741,20 @@ Focused work timer implementing Pomodoro Technique with support for interleaving
 ## Component 6: Study Environment Checker
 
 ### Overview
+
 Audits and optimizes physical and digital study environment for focused learning.
 
 ### Core Functionality
 
 **Inputs:**
+
 - Student's typical study location
 - Device setup
 - Potential distractors
 - Environmental preferences
 
 **Outputs:**
+
 - Environment quality score
 - Specific improvement recommendations
 - Checklist for optimal setup
@@ -710,6 +763,7 @@ Audits and optimizes physical and digital study environment for focused learning
 ### Features
 
 #### 1. Physical Environment Audit
+
 - Lighting quality
 - Noise level
 - Seating/ergonomics
@@ -717,6 +771,7 @@ Audits and optimizes physical and digital study environment for focused learning
 - Clutter level
 
 #### 2. Digital Environment Audit
+
 - Website blockers active?
 - Phone location/mode
 - Necessary apps open
@@ -724,12 +779,14 @@ Audits and optimizes physical and digital study environment for focused learning
 - Notifications silenced
 
 #### 3. Mental Environment
+
 - Brain dump completed?
 - Clear goals for session?
 - Materials ready?
 - Timer set?
 
 #### 4. Pre-Session Checklist
+
 - Quick verification before starting
 - Track which factors correlate with good sessions
 - Personalized recommendations
@@ -770,6 +827,7 @@ Audits and optimizes physical and digital study environment for focused learning
 ```
 
 ### Integration Points
+
 - **With Pomodoro Timer**: Pre-session check before starting
 - **With Study Session Planner**: Ensures readiness
 - **With Progress Dashboard**: Correlates environment with session quality
@@ -779,11 +837,13 @@ Audits and optimizes physical and digital study environment for focused learning
 ## Component 7: Exam Countdown Planner
 
 ### Overview
+
 Generates comprehensive exam preparation schedule with spaced reviews, practice tests, and strategic priorities.
 
 ### Core Functionality
 
 **Inputs:**
+
 - Exam date
 - Topics covered on exam
 - Current mastery levels
@@ -791,6 +851,7 @@ Generates comprehensive exam preparation schedule with spaced reviews, practice 
 - Other commitments
 
 **Outputs:**
+
 - Day-by-day study schedule
 - Review timeline
 - Practice test schedule
@@ -800,6 +861,7 @@ Generates comprehensive exam preparation schedule with spaced reviews, practice 
 ### Features
 
 #### 1. Smart Scheduling
+
 - Works backward from exam date
 - Prioritizes high-value topics
 - Builds in spaced reviews
@@ -807,12 +869,14 @@ Generates comprehensive exam preparation schedule with spaced reviews, practice 
 - Accounts for other commitments
 
 #### 2. Adaptive Planning
+
 - Adjusts based on progress
 - Reallocates time if behind
 - Suggests triaging if needed
 - Provides buffer time
 
 #### 3. Countdown Dashboard
+
 - Days until exam
 - Topics remaining
 - Readiness score
@@ -820,6 +884,7 @@ Generates comprehensive exam preparation schedule with spaced reviews, practice 
 - Motivational milestones
 
 #### 4. Practice Exam Schedule
+
 - When to take practice exams
 - How to use results
 - Gap analysis
@@ -872,6 +937,7 @@ Generates comprehensive exam preparation schedule with spaced reviews, practice 
 ```
 
 ### Integration Points
+
 - **With Spaced Repetition Scheduler**: Coordinates reviews
 - **With Study Session Planner**: Designs each day's sessions
 - **With Progress Dashboard**: Tracks readiness
@@ -882,11 +948,13 @@ Generates comprehensive exam preparation schedule with spaced reviews, practice 
 ## Component 8: Daily Planning Assistant
 
 ### Overview
+
 Creates daily time-blocked schedules that integrate study sessions with other commitments and optimize for energy patterns.
 
 ### Core Functionality
 
 **Inputs:**
+
 - Fixed commitments (classes, work, etc.)
 - Study goals for the day
 - Energy pattern
@@ -894,6 +962,7 @@ Creates daily time-blocked schedules that integrate study sessions with other co
 - Deadlines
 
 **Outputs:**
+
 - Time-blocked daily schedule
 - Specific study sessions planned
 - Break times
@@ -903,6 +972,7 @@ Creates daily time-blocked schedules that integrate study sessions with other co
 ### Features
 
 #### 1. Smart Time Blocking
+
 - Matches task difficulty to energy levels
 - Protects deep work time
 - Includes realistic break time
@@ -910,6 +980,7 @@ Creates daily time-blocked schedules that integrate study sessions with other co
 - Leaves buffer for unexpected
 
 #### 2. Integration of Study and Life
+
 - Classes
 - Study blocks
 - Meals
@@ -918,12 +989,14 @@ Creates daily time-blocked schedules that integrate study sessions with other co
 - Sleep schedule
 
 #### 3. Daily Review Routine
+
 - Morning planning (5 min)
 - Midday check-in (2 min)
 - Evening reflection (10 min)
 - Tomorrow's prep
 
 #### 4. Flexibility
+
 - Easy rescheduling
 - Swap blocks
 - Extend/shorten
@@ -970,6 +1043,7 @@ Creates daily time-blocked schedules that integrate study sessions with other co
 ```
 
 ### Integration Points
+
 - **With All Components**: Schedules outputs from other components
 - **With Student Profile**: Uses energy patterns
 - **With Calendar**: Syncs with external calendars
@@ -1022,16 +1096,19 @@ Creates daily time-blocked schedules that integrate study sessions with other co
 ### Component Communication
 
 **Synchronous APIs:**
+
 - Request/response for data queries
 - Real-time operations (start timer, load questions)
 - User-initiated actions
 
 **Asynchronous Events:**
+
 - Session completion → Update progress, schedule reviews
 - Review completion → Update mastery, reschedule
 - Mastery change → Adjust study plan, update recommendations
 
 **Shared Data Store:**
+
 - Central database (see data-models.md)
 - Real-time sync across components
 - Offline capability with sync queue
@@ -1041,22 +1118,26 @@ Creates daily time-blocked schedules that integrate study sessions with other co
 ## Implementation Priorities
 
 ### Phase 1: MVP (Minimum Viable Product)
+
 1. Study Session Planner (basic)
 2. Pomodoro Timer (simple)
 3. Progress Dashboard (essential metrics)
 
 ### Phase 2: Core Learning Features
+
 4. Spaced Repetition Scheduler
 5. Question Bank (with manual entry)
 6. Topic Mastery Tracking
 
 ### Phase 3: Intelligence & Automation
+
 7. Daily Planning Assistant
 8. Exam Countdown Planner
 9. Question Generation (AI)
 10. Environment Checker
 
 ### Phase 4: Optimization & Scaling
+
 - Advanced analytics
 - Social features (study groups)
 - Gamification
@@ -1068,22 +1149,26 @@ Creates daily time-blocked schedules that integrate study sessions with other co
 ## Technology Stack Recommendations
 
 ### Frontend
+
 - **Web**: React + TypeScript
 - **Mobile**: React Native or Flutter
 - **Desktop**: Electron (for offline support)
 
 ### Backend
+
 - **API**: Node.js + Express or Python + FastAPI
 - **Database**: PostgreSQL (with JSONB for flexibility)
 - **Cache**: Redis
 - **Queue**: Bull or Celery
 
 ### AI/ML
+
 - **LLM Integration**: OpenAI API or local models
 - **Analytics**: Python (pandas, scikit-learn)
 - **Recommendations**: Custom algorithms + ML
 
 ### Infrastructure
+
 - **Hosting**: Cloud (AWS, GCP, or Azure)
 - **CDN**: CloudFlare
 - **Monitoring**: DataDog or New Relic
@@ -1094,26 +1179,31 @@ Creates daily time-blocked schedules that integrate study sessions with other co
 ## User Experience Principles
 
 ### 1. Simplicity
+
 - Each component has ONE primary function
 - Minimal clicks to core actions
 - Clear, jargon-free language
 
 ### 2. Intelligence
+
 - Smart defaults based on data
 - Proactive recommendations
 - Adaptive to user behavior
 
 ### 3. Visibility
+
 - Progress should be immediately visible
 - Data is transparent and accessible
 - Achievements celebrated
 
 ### 4. Flexibility
+
 - Customize to individual needs
 - Override automated recommendations
 - Mix manual and automated approaches
 
 ### 5. Evidence-Based
+
 - All features grounded in learning science
 - Explain WHY recommendations are made
 - Link to research when relevant

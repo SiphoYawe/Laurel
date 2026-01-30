@@ -35,6 +35,7 @@ The problem? Your brain doesn't know that "mitochondria are the powerhouse of th
 **Discovery:** Distributed practice (spreading learning over time) is FAR more effective than massed practice (cramming it all at once).
 
 **Example:**
+
 - **Massed practice:** Study 6 hours the night before the exam
 - **Spaced practice:** Study 1 hour per day for 6 days before the exam
 
@@ -45,16 +46,19 @@ Studies show spaced practice can result in **2-3x better long-term retention** c
 ### How Spaced Repetition Reverses the Forgetting Curve
 
 Each time you review (retrieve) information:
+
 1. You strengthen the memory
 2. The memory lasts longer before you forget
 3. The next review can be spaced further out
 
 **Without review:**
+
 ```
 Learn → 24hrs → 70% forgotten
 ```
 
 **With spaced review:**
+
 ```
 Learn → Review at 1 day → 90% retained
 Review → Wait 3 days → Review → 90% retained
@@ -70,14 +74,17 @@ Eventually, the memory becomes so strong it moves into long-term storage and req
 Students learned Swahili-English word pairs using different study strategies:
 
 **Group 1: Study once**
+
 - Studied the word pairs once
 - Result after 1 week: **1% retention**
 
 **Group 2: Study four times (massed)**
+
 - Studied the same pairs 4 times in one session
 - Result after 1 week: **15% retention**
 
 **Group 3: Spaced retrieval (3 sessions)**
+
 - Retrieved the information 3 times at spaced intervals
 - Result after 1 week: **75% retention**
 
@@ -90,6 +97,7 @@ The difference wasn't HOW LONG they studied. It was WHEN they studied (spaced ou
 Students in the spaced retrieval group actually spent LESS total time studying and performed dramatically better.
 
 Why? Because:
+
 1. Retrieval is more efficient than re-reading
 2. Spacing prevents wasted effort re-studying what you already know
 3. Reviewing at the point of near-forgetting maximizes learning
@@ -101,6 +109,7 @@ Why? Because:
 **Counter-intuitive principle: Making learning harder (within reason) makes it more effective.**
 
 When you review material:
+
 - **Too early:** It's still fresh in your mind → easy retrieval → minimal learning
 - **Too late:** You've completely forgotten → impossible retrieval → frustration
 - **Just right:** You're about to forget → difficult retrieval → maximum learning
@@ -108,6 +117,7 @@ When you review material:
 This sweet spot is called **"desirable difficulty."**
 
 Think of memory like a muscle:
+
 - Lifting a weight that's too light (reviewing too early) = no strength gain
 - Lifting a weight that's too heavy (reviewing too late) = can't lift it, no gain
 - Lifting a weight that's challenging but doable (reviewing at the right time) = maximum growth
@@ -123,15 +133,18 @@ This feels harder than reviewing frequently. That's the point. The difficulty du
 **What:** A physical flashcard system using boxes to automate spaced repetition.
 
 **Materials:**
+
 - Flashcards
 - 5 boxes labeled: Box 1, Box 2, Box 3, Box 4, Box 5
 
 **How it works:**
 
 **Initial setup:**
+
 - All new cards start in Box 1
 
 **Review schedule:**
+
 - **Box 1:** Review every day
 - **Box 2:** Review every 3 days
 - **Box 3:** Review every week
@@ -139,33 +152,39 @@ This feels harder than reviewing frequently. That's the point. The difficulty du
 - **Box 5:** Review every month
 
 **The rules:**
+
 1. When you answer a card CORRECTLY → Move it to the next box (longer interval)
 2. When you answer a card INCORRECTLY → Move it back to Box 1 (daily review)
 3. Review all cards in a box when that box's interval arrives
 
 **Example workflow:**
 
-*Day 1:*
+_Day 1:_
+
 - Review all cards in Box 1 (let's say 20 cards)
 - Got 15 right → move to Box 2
 - Got 5 wrong → stay in Box 1
 
-*Day 2:*
+_Day 2:_
+
 - Review Box 1 (those 5 that stayed + any new cards)
 - Got 3 right → move to Box 2
 - Got 2 wrong → stay in Box 1
 
-*Day 3:*
+_Day 3:_
+
 - Review Box 1 (those 2 + any new cards)
 - Review Box 2 (the 15 from day 1)
 
 **Why it works:**
+
 - Cards you know well get reviewed less often (efficient)
 - Cards you struggle with get reviewed more often (targeted)
 - The system is self-adjusting based on your performance
 - Physical movement of cards is satisfying and motivating
 
 **Limitations:**
+
 - Takes physical space
 - Must carry boxes with you
 - Hard to synchronize across multiple topics
@@ -177,23 +196,27 @@ This feels harder than reviewing frequently. That's the point. The difficulty du
 **What:** A daily 20-minute review session right before sleep.
 
 **Why before bed:**
+
 1. **Sleep consolidation:** Your brain consolidates memories during sleep. Reviewing before bed gives your brain fresh material to work with.
 2. **No interference:** Nothing new will interfere with the memories between review and sleep.
 3. **Consistent timing:** Bedtime is a natural anchor for daily habits.
 
 **What to review:**
+
 - Today's lecture material (first review - within 24 hours)
 - Yesterday's material (second review - 1 day spacing)
 - Material from 3 days ago (third review - 3 day spacing)
 - Material from 1 week ago (fourth review - 1 week spacing)
 
 **20-minute allocation:**
+
 - 10 minutes: Today's material (most time because it's first review)
 - 5 minutes: Yesterday's material
 - 3 minutes: 3 days ago
 - 2 minutes: 1 week ago
 
 **How to review:**
+
 1. Close all materials
 2. For each topic, ask: "What were the key concepts?"
 3. Try to recall/explain from memory
@@ -202,6 +225,7 @@ This feels harder than reviewing frequently. That's the point. The difficulty du
 
 **Progressive reduction:**
 Notice how older material takes LESS time? That's because:
+
 - You're more familiar (retrieval is faster)
 - You're only reviewing key concepts (not re-learning everything)
 - If you can't recall something, it gets recycled back to tomorrow's review
@@ -239,6 +263,7 @@ Last Tuesday: Intro to biology (2 min)
 **Step 1: Mark your exam date**
 
 **Step 2: Work backwards using optimal intervals**
+
 - Exam date: Final review
 - 1 week before: Review session 5
 - 2 weeks before: Review session 4
@@ -247,6 +272,7 @@ Last Tuesday: Intro to biology (2 min)
 - ~4+ weeks before: Review session 1 (1 day after learning)
 
 **Step 3: Block time on your calendar**
+
 - Make review sessions non-negotiable appointments
 - Set reminders
 - Prepare materials the night before
@@ -288,6 +314,7 @@ November 15: EXAM DAY
 ```
 
 **Benefits:**
+
 - Removes decision fatigue ("when should I study?")
 - Ensures you hit optimal spacing intervals
 - Spreads work evenly (no cramming)
@@ -303,14 +330,15 @@ November 15: EXAM DAY
 
 **Create a simple spreadsheet/table:**
 
-| Date | Topic | Method | Duration | Performance | Next Review |
-|------|-------|--------|----------|-------------|-------------|
-| Oct 15 | Cell respiration | Blurting | 30 min | 60% recall | Oct 16 |
-| Oct 16 | Cell respiration | Flashcards | 20 min | 75% recall | Oct 19 |
-| Oct 15 | Photosynthesis | Cornell notes | 25 min | 85% recall | Oct 18 |
-| Oct 17 | Mitosis | Practice Qs | 35 min | 45% recall | Oct 18 |
+| Date   | Topic            | Method        | Duration | Performance | Next Review |
+| ------ | ---------------- | ------------- | -------- | ----------- | ----------- |
+| Oct 15 | Cell respiration | Blurting      | 30 min   | 60% recall  | Oct 16      |
+| Oct 16 | Cell respiration | Flashcards    | 20 min   | 75% recall  | Oct 19      |
+| Oct 15 | Photosynthesis   | Cornell notes | 25 min   | 85% recall  | Oct 18      |
+| Oct 17 | Mitosis          | Practice Qs   | 35 min   | 45% recall  | Oct 18      |
 
 **What to track:**
+
 1. **Date:** When you studied
 2. **Topic:** What you studied
 3. **Method:** How you studied (blurting, flashcards, practice test, etc.)
@@ -321,6 +349,7 @@ November 15: EXAM DAY
 **How to use it:**
 
 **After each study session:**
+
 - Log the session
 - Rate your performance honestly
 - Schedule next review:
@@ -329,11 +358,13 @@ November 15: EXAM DAY
   - Weak performance (<60%): Next review tomorrow
 
 **Before each study session:**
+
 - Check what's due for review today
 - Prioritize weak areas (performance <60%)
 - Spend more time on struggling topics
 
 **Weekly review of the timetable:**
+
 - Which topics consistently show weak performance? (Need different study method)
 - Which topics are strong? (Can extend intervals further)
 - Which study methods work best for you? (Do more of that)
@@ -353,6 +384,7 @@ interconnected topics. Use flashcards for facts, Feynman for processes.
 ```
 
 **Benefits:**
+
 - Evidence-based prioritization (not just "studying what you feel like")
 - Identifies ineffective study methods quickly
 - Creates accountability (hard to lie when you track it)
@@ -367,6 +399,7 @@ interconnected topics. Use flashcards for facts, Feynman for processes.
 **Most Popular Apps:**
 
 **Anki (Recommended)**
+
 - Free and open-source
 - Most powerful algorithm (SuperMemo SM-2)
 - Highly customizable
@@ -374,18 +407,21 @@ interconnected topics. Use flashcards for facts, Feynman for processes.
 - Steep learning curve but worth it
 
 **SuperMemo**
+
 - Original spaced repetition software (since 1987)
 - Most advanced algorithm
 - Windows only
 - Outdated interface but purists love it
 
 **Quizlet**
+
 - Most user-friendly
 - Good for sharing/finding pre-made decks
 - Weaker algorithm (less sophisticated spacing)
 - Best for beginners or simple fact memorization
 
 **Notion, Obsidian, RemNote**
+
 - Note-taking apps with built-in spaced repetition
 - Great for integrating notes + flashcards
 - More holistic than standalone flashcard apps
@@ -430,6 +466,7 @@ You rate: EASY
 **Creating effective Anki cards:**
 
 **POOR card (too broad):**
+
 ```
 Q: Tell me about mitosis
 A: Mitosis is cell division that produces two identical daughter cells.
@@ -439,6 +476,7 @@ prophase, chromosomes condense and nuclear envelope breaks down...
 ```
 
 **GOOD cards (atomic, specific):**
+
 ```
 Card 1:
 Q: What is mitosis?
@@ -458,11 +496,13 @@ A: Chromosomes line up at cell's equator (middle)
 ```
 
 **One concept per card.** This allows:
+
 - Precise identification of what you don't know
 - Faster reviews (answer in <10 seconds)
 - Better spaced repetition (one weak area doesn't force you to review everything)
 
 **Benefits of SRS software:**
+
 - Zero mental overhead (algorithm decides when to review)
 - Study anywhere (phone app for commute/waiting)
 - Tracks statistics (which cards are hard, how many reviews, retention rate)
@@ -470,6 +510,7 @@ A: Chromosomes line up at cell's equator (middle)
 - Pre-made decks available (though creating your own is better for learning)
 
 **Limitations (IMPORTANT):**
+
 - **Flashcards are best for factual recall, NOT synthesis/application**
 - Can feel like isolated facts rather than connected knowledge
 - Takes time to create good cards
@@ -477,6 +518,7 @@ A: Chromosomes line up at cell's equator (middle)
 - Can become mechanical (going through motions without deep thinking)
 
 **Warning:** Anki is a tool for RETENTION, not initial learning. You still need to:
+
 - Attend lectures
 - Read materials
 - Understand concepts FIRST
@@ -555,10 +597,12 @@ Review 6: 32 days later
 ```
 
 **Pros:**
+
 - Easy to calculate
 - Naturally adapts to mastery (intervals expand quickly)
 
 **Cons:**
+
 - First interval (1 day) is good
 - Second interval (2 days) might be too early
 - Later intervals get very long very fast
@@ -570,19 +614,23 @@ Review 6: 32 days later
 Not all material is equally difficult. Adjust intervals based on how well you're retaining:
 
 **Easy material (>90% recall):**
+
 - Skip intervals or extend them
 - Example: 1 day → 1 week → 1 month
 
 **Medium material (70-90% recall):**
+
 - Use standard intervals
 - Example: 1 day → 3 days → 1 week → 2 weeks
 
 **Hard material (<70% recall):**
+
 - Shorten intervals
 - Example: 1 day → 2 days → 4 days → 1 week → 2 weeks
 - Consider: Do you need a different study method? (See retrospective timetable)
 
 **Failed retrieval (can't recall at all):**
+
 - Reset to daily review until consistent recall
 - This material needs re-learning, not just review
 
@@ -593,6 +641,7 @@ Not all material is equally difficult. Adjust intervals based on how well you're
 **Mistake:** "I'll review every day to really lock it in."
 
 **Problem:**
+
 - Wastes time (you already remember it)
 - No desirable difficulty (too easy = minimal learning)
 - Creates false confidence (feels easy now, but won't stick long-term)
@@ -604,6 +653,7 @@ Not all material is equally difficult. Adjust intervals based on how well you're
 **Mistake:** "I'll wait until right before the exam to review."
 
 **Problem:**
+
 - You've completely forgotten → starting from scratch
 - No spacing effect (you're re-learning, not reviewing)
 - Cramming is stressful and inefficient
@@ -615,6 +665,7 @@ Not all material is equally difficult. Adjust intervals based on how well you're
 **Mistake:** Re-reading notes at spaced intervals.
 
 **Problem:**
+
 - Reading ≠ retrieval
 - Spacing amplifies whatever you do
 - Spaced re-reading is better than massed re-reading, but still weak
@@ -627,6 +678,7 @@ Not all material is equally difficult. Adjust intervals based on how well you're
 **Mistake:** "I'll review the topics I understood well."
 
 **Problem:**
+
 - Wastes time on strong areas
 - Neglects weak areas (which need the most review)
 - False confidence (you're good at what you're already good at)
@@ -638,10 +690,12 @@ Not all material is equally difficult. Adjust intervals based on how well you're
 **Mistake:** "I missed my 3-day review, now the system is broken."
 
 **Problem:**
+
 - All-or-nothing thinking
 - One missed review doesn't erase previous learning
 
 **Fix:**
+
 - Just review it now (better late than never)
 - Get back on schedule starting from today
 - The intervals aren't magical - they're guidelines
@@ -651,11 +705,13 @@ Not all material is equally difficult. Adjust intervals based on how well you're
 **Mistake:** "Anki will teach me everything I need to know."
 
 **Problem:**
+
 - Flashcards are great for facts, weak for understanding
 - No synthesis or application
 - Can become mindless clicking
 
 **Fix:**
+
 - Use flashcards for retention of facts
 - Use other methods (practice tests, Feynman, problem sets) for understanding
 - Flashcards are the supplement, not the main course
@@ -665,12 +721,14 @@ Not all material is equally difficult. Adjust intervals based on how well you're
 Spaced repetition isn't a standalone technique - it's a SCHEDULE for other techniques.
 
 **What to space out:**
+
 - Active recall sessions (blurting, self-quizzing)
 - Practice tests (space out full mock exams)
 - Feynman technique (explain the topic again at intervals)
 - Problem sets (redo challenging problems at intervals)
 
 **The formula:**
+
 ```
 Spaced Repetition + Active Recall = Optimal Learning
 
@@ -758,24 +816,28 @@ need to move any topics to tomorrow's review.
 **When a student asks about studying or exam prep:**
 
 1. **Always ask about the exam date first**
+
    ```
    "When is your exam? I'll help you create a spaced repetition schedule
    working backward from that date."
    ```
 
 2. **Recommend prospective timetable creation**
+
    ```
    "Let's build a study schedule using optimal spacing intervals. This
    will spread your work evenly and maximize retention."
    ```
 
 3. **Track and remind**
+
    ```
    "Based on our last session, you should be reviewing [TOPIC] today
    (it's been 3 days since your first review). Want to quiz yourself?"
    ```
 
 4. **Emphasize active recall during reviews**
+
    ```
    "Don't just read your notes from last week. Let me quiz you instead.
    That's how spaced repetition actually works."
@@ -824,6 +886,7 @@ Want me to break down what specific activities to do for each review session?
 ### Prompts for Building Spaced Repetition Schedules
 
 **For comprehensive exam prep:**
+
 ```
 Subject: [X]
 Exam date: [DATE]
@@ -842,6 +905,7 @@ Output as a week-by-week schedule.
 ```
 
 **For ongoing course (no immediate exam):**
+
 ```
 I'm taking [COURSE] this semester (starts [DATE], ends [DATE]).
 
@@ -855,6 +919,7 @@ Assume I learn new material each week in lectures.
 ```
 
 **For self-paced learning:**
+
 ```
 I'm self-studying [TOPIC] with no deadline.
 
@@ -874,6 +939,7 @@ I want to truly master this, not cram it.
 **The science:** Spacing those 8 hours across multiple sessions (spaced out over weeks) produces 2-3x better retention with the same time investment.
 
 **The spacing effect is one of the most robust findings in cognitive psychology.** It works for:
+
 - All age groups
 - All subjects
 - All types of material
@@ -884,6 +950,7 @@ I want to truly master this, not cram it.
 **The solution:** Start using spaced repetition NOW. Even if your exam is months away. Especially if your exam is months away.
 
 **Simple implementation checklist:**
+
 - [ ] Create a prospective revision timetable (plan reviews)
 - [ ] Start a retrospective revision log (track performance)
 - [ ] Do a 20-minute end-of-day review tonight

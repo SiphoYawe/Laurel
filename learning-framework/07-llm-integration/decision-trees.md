@@ -1,6 +1,7 @@
 # Decision Trees - Systematic Coaching Logic for LLM Agents
 
 ## Purpose
+
 This document provides algorithmic decision-making flows for common student scenarios. Use these to systematically diagnose problems and prescribe evidence-based solutions.
 
 ---

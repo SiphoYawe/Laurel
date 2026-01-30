@@ -15,12 +15,14 @@
 ### The Principle of Energy Conservation
 
 **Evolutionary Foundation**:
+
 - Our brains evolved to conserve energy
 - Energy was scarce for most of human history
 - Laziness is a feature, not a bug
 - We naturally seek the path of least resistance
 
 **Modern Implication**:
+
 - Given two options of equal value, we choose the easier one
 - Small differences in friction dramatically affect behavior
 - Convenience often trumps quality
@@ -31,6 +33,7 @@
 **The Choice Mechanism**:
 
 When faced with multiple options, brain calculates:
+
 ```
 Value of Outcome ÷ Energy Required = Likelihood of Action
 ```
@@ -38,10 +41,12 @@ Value of Outcome ÷ Energy Required = Likelihood of Action
 **Examples**:
 
 **Equal Value, Different Effort**:
+
 - Healthy meal (requires cooking 30 min) vs. Fast food (requires driving 5 min)
 - Often choose fast food, not because it's better, but because it's easier
 
 **High Value Can Overcome High Effort**:
+
 - Marathon training (high effort) pursued if value is high enough
 - But only sustainable if effort is gradually reduced through adaptation
 
@@ -52,12 +57,14 @@ Value of Outcome ÷ Energy Required = Likelihood of Action
 **Principle**: The best way to increase behavior is to reduce friction
 
 **Not About**:
+
 - Doing more
 - Trying harder
 - Being more disciplined
 - Relying on motivation
 
 **About**:
+
 - Removing obstacles
 - Reducing steps
 - Eliminating friction
@@ -70,12 +77,14 @@ Value of Outcome ÷ Energy Required = Likelihood of Action
 ### The Critical Distinction
 
 **Motion**:
+
 - Planning, strategizing, learning
 - Feels like progress
 - No risk of failure
 - No results produced
 
 **Action**:
+
 - Actual behavior that produces results
 - Requires risk and effort
 - Can fail
@@ -83,30 +92,33 @@ Value of Outcome ÷ Energy Required = Likelihood of Action
 
 ### Examples of Motion vs. Action
 
-| Domain | Motion (Feels Productive) | Action (Actually Productive) |
-|--------|--------------------------|------------------------------|
-| **Fitness** | Researching workout plans | Actually exercising |
-| **Writing** | Reading about writing | Writing words |
-| **Business** | Planning business strategy | Making sales calls |
-| **Learning** | Outlining study plan | Practicing problems |
-| **Health** | Researching diets | Eating healthy meal |
-| **Creativity** | Gathering inspiration | Creating work |
+| Domain         | Motion (Feels Productive)  | Action (Actually Productive) |
+| -------------- | -------------------------- | ---------------------------- |
+| **Fitness**    | Researching workout plans  | Actually exercising          |
+| **Writing**    | Reading about writing      | Writing words                |
+| **Business**   | Planning business strategy | Making sales calls           |
+| **Learning**   | Outlining study plan       | Practicing problems          |
+| **Health**     | Researching diets          | Eating healthy meal          |
+| **Creativity** | Gathering inspiration      | Creating work                |
 
 ### Why We Default to Motion
 
 **Motion Feels Safe**:
+
 - Can't fail if you're just planning
 - Ego is protected
 - Feel productive without risk
 - Delay the hard part
 
 **Motion Feels Productive**:
+
 - Checking boxes
 - Creating plans
 - Gathering information
 - Brain rewards these activities
 
 **But**:
+
 - Motion doesn't produce results
 - Can stay in motion forever
 - Preparation becomes procrastination
@@ -115,17 +127,20 @@ Value of Outcome ÷ Energy Required = Likelihood of Action
 ### The Shift to Action
 
 **Recognition**:
+
 - Notice when you're in motion vs. action
 - Ask: "Is this producing a result or just preparation?"
 - Planning is valuable, but limited returns after a point
 
 **The Rule**:
+
 - Some motion is necessary
 - But quickly shift to action
 - Let action inform planning, not vice versa
 - Learn by doing, not just studying
 
 **Implementation**:
+
 - Set motion limits: "I'll research for 2 hours, then start"
 - Schedule action first: "Write first, research gaps later"
 - Use just-in-time learning: "Learn what I need when I need it"
@@ -145,6 +160,7 @@ Value of Outcome ÷ Energy Required = Likelihood of Action
 **Insight**: The beginning of a habit is most important
 
 **Why**:
+
 - Showing up is 80% of success
 - Starting is the hardest part
 - Once started, continuing is easier
@@ -158,28 +174,30 @@ Value of Outcome ÷ Energy Required = Likelihood of Action
 
 **Original Goal → Two-Minute Version**:
 
-| Original Habit | Two-Minute Version |
-|----------------|-------------------|
-| "Run 5 miles" | "Put on running shoes" |
-| "Do 100 pushups" | "Do 1 pushup" |
-| "Study for exam" | "Open textbook" |
-| "Write 1000 words" | "Write one sentence" |
-| "Read before bed" | "Read one page" |
-| "Eat healthy dinner" | "Eat one vegetable" |
-| "Meditate for 20 minutes" | "Take out meditation cushion" |
-| "Clean entire house" | "Clean one counter" |
-| "Practice guitar for an hour" | "Pick up guitar" |
-| "Do yoga" | "Roll out yoga mat" |
+| Original Habit                | Two-Minute Version            |
+| ----------------------------- | ----------------------------- |
+| "Run 5 miles"                 | "Put on running shoes"        |
+| "Do 100 pushups"              | "Do 1 pushup"                 |
+| "Study for exam"              | "Open textbook"               |
+| "Write 1000 words"            | "Write one sentence"          |
+| "Read before bed"             | "Read one page"               |
+| "Eat healthy dinner"          | "Eat one vegetable"           |
+| "Meditate for 20 minutes"     | "Take out meditation cushion" |
+| "Clean entire house"          | "Clean one counter"           |
+| "Practice guitar for an hour" | "Pick up guitar"              |
+| "Do yoga"                     | "Roll out yoga mat"           |
 
 ### Why Two Minutes?
 
 **The Science of Starting**:
+
 - Newton's First Law applies to habits: objects in motion stay in motion
 - Once you start, it's easier to continue
 - The activation energy is in starting, not continuing
 - Two minutes is short enough to seem trivial
 
 **Psychological Bypass**:
+
 - Can't rationalize skipping something that takes two minutes
 - Removes excuse of "no time"
 - Eliminates decision fatigue
@@ -190,35 +208,41 @@ Value of Outcome ÷ Energy Required = Likelihood of Action
 **Phase 1: Master the Entry Point** (First 2 weeks)
 
 Goal: Show up consistently
+
 - Only do the two-minute version
 - Don't go beyond it (even if you want to)
 - Build the ritual of starting
 - Make showing up automatic
 
 **Example - Running**:
+
 - Week 1-2: Only put on running shoes, then done
 - Build perfect consistency with just this
 
 **Phase 2: Normalize the Habit** (Weeks 3-4)
 
 Goal: Make it feel normal to show up
+
 - Continue with two-minute version
 - Occasionally go slightly beyond (5 minutes)
 - Still prioritize consistency over duration
 
 **Example - Running**:
+
 - Weeks 3-4: Put on shoes, walk outside, maybe walk around block
 - Some days just shoes, some days short walk
 
 **Phase 3: Gradually Expand** (Week 5+)
 
 Goal: Natural progression
+
 - Let habit grow organically
 - Some days two minutes, some days more
 - Never feel obligated to do more
 - Expansion happens naturally
 
 **Example - Running**:
+
 - Week 5+: Some days just shoes, some days walk, some days short jog
 - Eventually running becomes natural extension of shoe-putting-on
 
@@ -227,18 +251,21 @@ Goal: Natural progression
 **Why Restraint Matters**:
 
 **Problem with Doing More Too Soon**:
+
 - Sets expectation of big effort
 - Creates dread for next time
 - Unsustainable intensity
 - Habit fails to automate
 
 **Example - The Overeager Mistake**:
+
 - Day 1: Do 1 pushup (feels easy, so do 50)
 - Day 2: Sore, exhausted, skip
 - Day 3: Remember how hard Day 1 was, skip
 - Habit never forms
 
 **Better Approach**:
+
 - Day 1: Do 1 pushup, stop (feels easy, want more—good)
 - Day 2: Do 1 pushup, stop (building consistency)
 - Day 3-14: Do 1 pushup each day
@@ -253,18 +280,21 @@ Goal: Natural progression
 **Two-Minute Rule for Complex Habits**:
 
 **Writing a Book**:
+
 - Two-minute version: Open laptop and writing software
 - Next level: Write one sentence
 - Advanced: Write for 5 minutes
 - Eventually: Regular writing sessions emerge naturally
 
 **Meditation Practice**:
+
 - Two-minute version: Sit on cushion
 - Next level: Sit for 1 minute
 - Advanced: Full meditation session
 - Eventually: Daily practice established
 
 **Healthy Eating**:
+
 - Two-minute version: Eat one bite of vegetable
 - Next level: Eat full serving of vegetables
 - Advanced: Prepare healthy meal
@@ -305,6 +335,7 @@ Goal: Natural progression
 **Definition**: Small, easy habits that naturally lead to larger behaviors
 
 **Why They Work**:
+
 - Lower activation energy
 - Create momentum
 - Trigger related behaviors
@@ -337,18 +368,22 @@ Goal: Natural progression
 **Growth Pattern**:
 
 **Week 1: Single Gateway**
+
 - Put on workout clothes
 
 **Week 4: Gateway + Natural Extension**
+
 - Put on workout clothes
 - Walk outside
 
 **Week 8: Small Routine**
+
 - Put on workout clothes
 - Walk outside
 - Do 5-minute walk
 
 **Week 12: Established Routine**
+
 - Put on workout clothes
 - Warm up
 - Run or workout
@@ -365,21 +400,25 @@ Goal: Natural progression
 **Examples of Decisive Moments**:
 
 **Morning**:
+
 - Alarm goes off → Hit snooze or get up?
   - Get up → Productive morning
   - Snooze → Rushed, stressed morning
 
 **After Work**:
+
 - Walk in door → Change into workout clothes or sit on couch?
   - Workout clothes → Exercise, healthy evening
   - Couch → TV, snacking, passive evening
 
 **Meal Time**:
+
 - Feeling hungry → Cook healthy meal or order takeout?
   - Cook → Healthy eating, feel good
   - Takeout → Unhealthy eating, feel sluggish
 
 **Before Bed**:
+
 - Getting ready for bed → Phone or book?
   - Book → Better sleep, learning
   - Phone → Poor sleep, wasted time
@@ -391,16 +430,19 @@ Goal: Natural progression
 **Process**:
 
 **Step 1: Identify Decisive Moments**
+
 - Map your day
 - Find choice points that cascade into multiple behaviors
 - Usually transitions: waking, arriving home, breaks, before bed
 
 **Step 2: Design Easy Choice**
+
 - Make good option easiest
 - Make bad option harder
 - Pre-decide what you'll do
 
 **Step 3: Create Automatic Response**
+
 - Use implementation intention: "When X happens, I will do Y"
 - Remove decision-making in the moment
 - Let environment and preparation guide you
@@ -410,11 +452,13 @@ Goal: Natural progression
 **Identify**: Walking in door after work (cascade into 4-hour evening)
 
 **Design**:
+
 - Lay out workout clothes in morning (visible when you enter)
 - Keep TV remote in drawer (not on coffee table)
 - Have healthy snack ready (removes hunger excuse)
 
 **Automatic Response**:
+
 - "When I walk in door, I will immediately change into workout clothes"
 - Once in workout clothes, working out is natural next step
 - Entire evening shifts toward health and productivity
@@ -432,6 +476,7 @@ Goal: Natural progression
 ### Identifying Friction Points
 
 **Common Sources of Friction**:
+
 - Physical distance
 - Number of steps required
 - Time required
@@ -443,12 +488,14 @@ Goal: Natural progression
 **Exercise - Map Friction**:
 
 For any habit, count:
+
 1. How many steps are required?
 2. How much time before you can start?
 3. How many decisions must be made?
 4. What obstacles exist?
 
 **Example - Going to Gym**:
+
 1. Decide to go ✓
 2. Find workout clothes ✓
 3. Get dressed ✓
@@ -472,6 +519,7 @@ For any habit, count:
 
 **Before**: 12 steps to gym workout
 **After - Create Home Gym**:
+
 1. Walk to home gym
 2. Start workout
 
@@ -481,6 +529,7 @@ For any habit, count:
 
 **Before**: 30 minutes to start gym workout
 **After - Home Gym**:
+
 - 30 seconds to start workout
 
 **Result**: 30 minutes → 30 seconds
@@ -489,6 +538,7 @@ For any habit, count:
 
 **Before**: Decide what to wear, what to bring, what to do at gym
 **After - Standardize**:
+
 - Same workout clothes (always laid out)
 - Same workout routine (no decisions)
 - Same time (no scheduling decision)
@@ -509,21 +559,25 @@ For any habit, count:
 **Examples**:
 
 **Healthy Eating**:
+
 - Before: Decide what to eat, shop, prep, cook (60+ minutes, high friction)
 - After: Meal prep on Sunday
   - Monday-Friday: Grab pre-made meal from fridge (2 minutes, low friction)
 
 **Reading**:
+
 - Before: Find book, find quiet space, settle in
 - After: Book on pillow, reading light on nightstand, phone in other room
   - Get in bed → Book is there → Start reading (10 seconds)
 
 **Exercise**:
+
 - Before: Find workout clothes in morning
 - After: Lay out clothes night before
   - Wake up → Clothes right there → Put them on (30 seconds)
 
 **Meditation**:
+
 - Before: Find cushion, find quiet space, set timer
 - After: Cushion permanently in meditation spot, timer preset, space always clear
   - Sit down → Meditate (5 seconds to start)
@@ -533,6 +587,7 @@ For any habit, count:
 **Concept**: Reset environment after each use to reduce friction for next time
 
 **Why It Works**:
+
 - Future You doesn't have to do setup
 - Present You pays the small cost of resetting
 - Next time, habit is ready to go
@@ -540,18 +595,22 @@ For any habit, count:
 **Examples**:
 
 **Kitchen**:
+
 - After cooking: Clean all dishes, wipe counters, reset kitchen
 - Next meal: Kitchen is ready, no friction to start cooking
 
 **Workspace**:
+
 - After work session: Close all unnecessary tabs, clear desk, prepare for next session
 - Next work session: Sit down and immediately start, no setup
 
 **Gym Bag**:
+
 - After gym: Immediately repack with clean clothes, refill water bottle
 - Next gym day: Bag is ready, just grab and go
 
 **Guitar Practice**:
+
 - After practice: Guitar back on stand, tuned, music book open to next lesson
 - Next practice: Sit down and immediately start playing
 
@@ -564,6 +623,7 @@ For any habit, count:
 **Goal**: Make bad habits hard to do, even slightly
 
 **Why Small Friction Works**:
+
 - Humans are lazy (remember Law of Least Effort)
 - A few seconds can be enough to break autopilot
 - Gives conscious mind time to intervene
@@ -576,17 +636,20 @@ For any habit, count:
 **Examples**:
 
 **Watching Too Much TV**:
+
 - Before: TV always on, remote on coffee table (1 step)
 - After: Unplug TV after each use, remote in drawer (4 steps)
 - Result: Have to plug in TV, walk to drawer, get remote, turn on TV
 - Even 20 seconds can be enough to reconsider
 
 **Social Media**:
+
 - Before: Apps on phone home screen (1 tap)
 - After: Delete apps, only access via browser (type URL, login)
 - Result: 10 seconds vs. 1 second—significant reduction in usage
 
 **Junk Food**:
+
 - Before: Cookies in jar on counter (visible, easy)
 - After: Cookies in opaque container, in basement
 - Result: Have to walk to basement, open container—often not worth it
@@ -596,11 +659,13 @@ For any habit, count:
 **Examples**:
 
 **Phone Use**:
+
 - Before: Phone next to bed (instant access)
 - After: Phone charging in different room
 - Result: Have to get up, walk to other room—creates pause
 
 **Online Shopping**:
+
 - Before: Credit card info saved on sites (1-click purchase)
 - After: Remove saved cards, have to manually enter each time
 - Result: Extra 2 minutes gives time to reconsider impulse purchase
@@ -610,11 +675,13 @@ For any habit, count:
 **Examples**:
 
 **TV**:
+
 - Before: TV in bedroom (watch instead of sleep)
 - After: TV in living room only
 - Result: Can't watch in bed, improves sleep
 
 **Snacking**:
+
 - Before: Snacks on desk while working
 - After: Snacks in kitchen only
 - Result: Have to leave desk, walk to kitchen—creates friction
@@ -626,21 +693,25 @@ For any habit, count:
 **Examples**:
 
 **Phone Addiction**:
+
 - Use app that locks phone during work hours
 - Can't access even if you want to
 - Future You is bound by Present You's decision
 
 **Diet**:
+
 - Don't buy junk food at store
 - When hungry at home, can't eat what you don't have
 - Shopping decision controls future eating decisions
 
 **Social Media**:
+
 - Use website blocker during work hours
 - Password-protect blocker (give password to friend)
 - Can't unblock without accountability
 
 **Savings**:
+
 - Automatic transfer to savings account on payday
 - Money moves before you can spend it
 - Future spending controlled by present setup
@@ -652,17 +723,20 @@ For any habit, count:
 **Research**: Shawn Achor's experiment
 
 **Setup**:
+
 - Wanted to watch less TV, play more guitar
 - Put TV remote in drawer 20 seconds away
 - Took batteries out (required finding batteries to use)
 - Left guitar on stand in middle of room (always visible, instant access)
 
 **Result**:
+
 - TV watching dropped dramatically
 - Guitar playing increased significantly
 - 20 seconds was enough to tip the balance
 
 **Application**:
+
 - Don't need hours of friction
 - Just a few seconds can break autopilot
 - Combine with reducing friction for alternative behavior
@@ -672,6 +746,7 @@ For any habit, count:
 **Concept**: Certain decisions you make once that continue to benefit you
 
 **Why Powerful**:
+
 - Pay friction cost once
 - Reap benefits repeatedly
 - Future behavior automated
@@ -680,26 +755,31 @@ For any habit, count:
 **Examples**:
 
 **Financial**:
+
 - Set up automatic savings transfer → Save every month without thinking
 - Enroll in 401(k) with auto-escalation → Retirement savings grow automatically
 - Set up automatic bill pay → Never late, never have to remember
 
 **Health**:
+
 - Buy good mattress → Better sleep every night for years
 - Buy smaller plates → Eat less at every meal
 - Buy standing desk → Better posture during all work hours
 
 **Productivity**:
+
 - Unsubscribe from email lists → Less inbox distraction forever
 - Turn off all phone notifications → Fewer interruptions forever
 - Set up website blocker → Can't access distracting sites during work
 
 **Environment**:
+
 - Remove TV from bedroom → Better sleep every night
 - Design home gym → Easier to work out every day
 - Keep junk food out of house → Healthier eating every day
 
 **Technology**:
+
 - Delete social media apps → Can't mindlessly scroll
 - Use smaller phone → Less appealing to use
 - Buy alarm clock → Don't need phone in bedroom
@@ -717,6 +797,7 @@ For any habit, count:
 ### Why Standardization Comes First
 
 **Problem with Premature Optimization**:
+
 - Spend time perfecting routine before it's habitual
 - Optimization adds complexity and friction
 - Habit never becomes automatic
@@ -725,6 +806,7 @@ For any habit, count:
 **Example - Exercise**:
 
 **Wrong Order (Optimize First)**:
+
 - Research perfect workout routine
 - Buy optimal supplements
 - Design ideal nutrition plan
@@ -732,6 +814,7 @@ For any habit, count:
 - Result: Overwhelmed, never start
 
 **Right Order (Standardize First)**:
+
 - Week 1: Just show up at gym
 - Week 4: Consistent showing up
 - Week 8: Basic workout routine established
@@ -741,21 +824,25 @@ For any habit, count:
 ### The Standardization Process
 
 **Phase 1: Establish Showing Up**
+
 - Goal: Make attendance automatic
 - Method: Two-minute rule, same time, same place
 - Duration: Until it feels weird NOT to do it
 
 **Phase 2: Establish Basic Routine**
+
 - Goal: Have a consistent pattern
 - Method: Simple, repeatable routine every time
 - Duration: Until routine is automatic
 
 **Phase 3: Maintain Consistency**
+
 - Goal: Never miss (or very rarely)
 - Method: Lower bar on hard days rather than skip
 - Duration: Months, until deeply ingrained
 
 **Phase 4: Optimize**
+
 - Goal: Improve results while maintaining consistency
 - Method: Gradually refine technique, intensity, approach
 - Duration: Ongoing
@@ -763,21 +850,25 @@ For any habit, count:
 ### Examples of Standardize Before Optimize
 
 **Writing**:
+
 - **Standardize**: Write something every day, doesn't matter what or how good
 - **After 30 days**: Daily writing is automatic
 - **Then Optimize**: Focus on quality, technique, specific projects
 
 **Running**:
+
 - **Standardize**: Run same route, same time, every day (even if slow/short)
 - **After 30 days**: Running is part of identity
 - **Then Optimize**: Add speed work, distance, proper form
 
 **Meditation**:
+
 - **Standardize**: Sit for 5 minutes daily, same time, same spot
 - **After 30 days**: Meditation is automatic
 - **Then Optimize**: Increase duration, refine technique, explore different methods
 
 **Healthy Eating**:
+
 - **Standardize**: Eat one healthy meal per day, same meal is fine
 - **After 30 days**: Healthy eating feels normal
 - **Then Optimize**: Variety, meal prep, nutritional balance
@@ -819,6 +910,7 @@ Stage 4: Mastery (Years)
 **Modern Application**: Bind your future self to better behavior
 
 **How It Works**:
+
 - Make commitment when rational and motivated
 - When temptation arrives, commitment prevents bad choice
 - Removes decision-making in moment of weakness
@@ -826,21 +918,25 @@ Stage 4: Mastery (Years)
 **Examples**:
 
 **Victor Hugo**:
+
 - Gave all clothes to assistant, kept only shawl
 - Couldn't leave house until writing was done
 - Finished The Hunchback of Notre-Dame this way
 
 **Phone Lockbox**:
+
 - Put phone in timed lockbox
 - Can't access for set period (2 hours, all day, etc.)
 - Removes option to check
 
 **Website Blockers**:
+
 - Block distracting sites during work hours
 - Password-protect with friend holding password
 - Can't unblock even if you want to
 
 **No Credit Card Rule**:
+
 - Only carry cash when going out
 - Can't overspend beyond cash amount
 - Limits impulse purchases
@@ -850,6 +946,7 @@ Stage 4: Mastery (Years)
 **Principle**: Use technology to make good habits automatic
 
 **Why It Works**:
+
 - Remove human decision entirely
 - Perfect consistency
 - No willpower required
@@ -858,23 +955,27 @@ Stage 4: Mastery (Years)
 **Examples**:
 
 **Financial**:
+
 - Auto-transfer to savings on payday
 - Auto-invest in index funds
 - Auto-pay all bills
 - Result: Wealth builds automatically
 
 **Health**:
+
 - Meal delivery service (removes cooking friction)
 - Automatic prescription refills
 - Scheduled workout classes (commitment + social pressure)
 
 **Productivity**:
+
 - Email filters and auto-archive
 - Scheduled social media posts
 - Automated backups
 - Time-blocked calendar
 
 **Learning**:
+
 - Daily email with word/fact to learn
 - Auto-delivered audiobooks
 - Scheduled online course modules
@@ -886,22 +987,27 @@ Stage 4: Mastery (Years)
 **Multi-Layer Environment Design**:
 
 **Layer 1: Physical Objects**
+
 - Place cues for good habits everywhere
 - Remove cues for bad habits
 
 **Layer 2: Physical Space**
+
 - Dedicated spaces for specific behaviors
 - Incompatible uses separated
 
 **Layer 3: Social Environment**
+
 - Surround with people who have desired habits
 - Limit exposure to people with undesired habits
 
 **Layer 4: Digital Environment**
+
 - Design phone/computer for focus
 - Remove/block distracting apps and sites
 
 **Layer 5: Macro Environment**
+
 - Choose where you live based on habit support
 - Choose job/career based on identity alignment
 - Choose community based on values
@@ -909,27 +1015,32 @@ Stage 4: Mastery (Years)
 **Example - Complete Environment Design for Health**:
 
 **Physical Objects**:
+
 - Gym equipment visible in home
 - Healthy food at eye level in fridge
 - No junk food in house
 - Water bottles everywhere
 
 **Physical Space**:
+
 - Home gym set up
 - Kitchen designed for cooking
 - TV removed from bedroom
 
 **Social**:
+
 - Join running club
 - Eat meals with health-conscious friends
 - Workout partner for accountability
 
 **Digital**:
+
 - Fitness app on phone home screen
 - Food delivery apps deleted
 - Health content in social media feed
 
 **Macro**:
+
 - Live near parks/trails
 - Work at company with gym
 - Live in walkable neighborhood
@@ -949,26 +1060,31 @@ Stage 4: Mastery (Years)
 ### The Layers of Difficulty
 
 **Layer 1: Remove Instant Gratification**
+
 - Delete apps that enable bad habit
 - Unsubscribe from tempting emails
 - Log out of accounts (requires re-login each time)
 
 **Layer 2: Add Physical Barriers**
+
 - Put bad habit items far away
 - Create distance between you and temptation
 - Store items in inconvenient locations
 
 **Layer 3: Add Time Barriers**
+
 - Install timers or waiting periods
 - Require "cooling off" period before indulging
 - Schedule bad habit for specific future time (often desire fades)
 
 **Layer 4: Add Social Barriers**
+
 - Public commitment not to do behavior
 - Accountability partner who monitors
 - Social cost of being seen doing bad habit
 
 **Layer 5: Add Financial Barriers**
+
 - Commit money that you lose if you do bad habit
 - Bet against yourself with real stakes
 - Donation to cause you hate if you fail
@@ -983,11 +1099,13 @@ Stage 4: Mastery (Years)
 **Examples**:
 
 **Video Games**:
+
 - Before: Console plugged in, controller ready (1 second to start)
 - After: Unplug console, put controller in other room (2 minutes to start)
 - Result: Friction often enough to choose alternative
 
 **Snacking**:
+
 - Before: Snacks in easy-open bags, on counter
 - After: Individual snacks in hard-to-open packages, in basement
 - Result: Effort not worth it for mindless snack
@@ -997,16 +1115,19 @@ Stage 4: Mastery (Years)
 **Manual Commitment Devices**:
 
 **Social Media**:
+
 - Use app blocker that requires complex password
 - Give password to friend
 - Can only unblock by asking friend (adds shame)
 
 **Shopping**:
+
 - Freeze credit card in block of ice
 - To use, must thaw (takes hours)
 - Prevents impulse purchases
 
 **TV**:
+
 - Unplug TV after each use
 - Put plug behind heavy furniture
 - Remove batteries from remote
@@ -1014,16 +1135,19 @@ Stage 4: Mastery (Years)
 **Automatic Commitment Devices**:
 
 **Finance**:
+
 - Apps that block purchases over certain amount
 - Require waiting period (24 hours) before purchase
 - Automatically save instead of spend
 
 **Phone**:
+
 - Apps that lock phone during set hours
 - Cannot override without external code
 - Forces focus during work time
 
 **Internet**:
+
 - Router on timer (internet off during sleep hours)
 - Website blockers with complex override
 - Parental controls on own devices
@@ -1031,21 +1155,25 @@ Stage 4: Mastery (Years)
 **Strategy 3: Increase Social Friction**
 
 **Public Commitment**:
+
 - Announce bad habit you're quitting
 - Creates shame if you backslide
 - Pride becomes motivator to abstain
 
 **Accountability Partner**:
+
 - Daily check-ins with partner
 - Must report if you engaged in bad habit
 - Social pressure to avoid disappointing them
 
 **Habit Contract**:
+
 - Written agreement with consequences
 - Signed by you and accountability partners
 - Financial or social penalties if broken
 
 **Example - Smoking Habit Contract**:
+
 ```
 I, [Name], commit to being smoke-free.
 If I smoke even one cigarette, I will:
@@ -1063,19 +1191,23 @@ Date: __________
 **Examples**:
 
 **TV Addiction**:
+
 - Cancel cable subscription
 - Sell TV entirely
 - One decision prevents months of bad habit
 
 **Social Media**:
+
 - Delete accounts permanently
 - One decision removes ongoing temptation
 
 **Junk Food**:
+
 - Don't buy it at grocery store
 - One weekly decision (shopping) controls daily behavior
 
 **Phone Distraction**:
+
 - Switch to basic phone (no smartphone)
 - One purchase decision eliminates app addiction
 
@@ -1086,6 +1218,7 @@ Date: __________
 **Just Right**: Enough to break autopilot, not so much you rebel
 
 **Finding the Right Amount**:
+
 - Start with small friction
 - Add more if still doing bad habit
 - Reduce if you're finding workarounds
@@ -1102,6 +1235,7 @@ Date: __________
 ### Diagnostic Questions for Law 3
 
 **When user wants to BUILD a habit, ask**:
+
 1. "How many steps are currently required to do this habit?"
 2. "How much time passes between deciding to do it and actually doing it?"
 3. "What is the two-minute version of this habit?"
@@ -1109,6 +1243,7 @@ Date: __________
 5. "What friction points make this habit feel hard?"
 
 **When user wants to BREAK a habit, ask**:
+
 1. "How easy is it to start this bad habit right now?"
 2. "What would make this habit require more effort?"
 3. "What could you remove from your environment to increase friction?"
@@ -1195,30 +1330,35 @@ Date: __________
 ### Strategy Selection Guide
 
 **Choose Two-Minute Rule when**:
+
 - User is starting completely new habit
 - User has failed before due to unsustainable intensity
 - Habit feels overwhelming or intimidating
 - Building foundation for larger routine
 
 **Choose Friction Reduction when**:
+
 - Habit has too many steps
 - Time to start is too long
 - User procrastinates due to setup requirements
 - Environment creates obstacles
 
 **Choose Preparation/Priming when**:
+
 - Habit happens at consistent time
 - Environment can be set up in advance
 - Small preparation prevents large friction later
 - Resetting for next time is feasible
 
 **Choose Commitment Device when**:
+
 - Breaking bad habit
 - User has weak self-control in moment
 - Need to bind future behavior
 - Voluntary restrictions would help
 
 **Choose Automation when**:
+
 - Technology can handle the behavior
 - One-time setup creates ongoing benefit
 - Human memory/willpower unreliable
@@ -1227,6 +1367,7 @@ Date: __________
 ### Quality Checks for Recommendations
 
 **Good "Make It Easy" recommendation includes**:
+
 - [ ] Specific two-minute version identified
 - [ ] Current friction points analyzed
 - [ ] Concrete preparation steps defined
@@ -1235,6 +1376,7 @@ Date: __________
 - [ ] Standardization before optimization emphasized
 
 **Good "Make It Difficult" recommendation includes**:
+
 - [ ] Specific friction points to add
 - [ ] Multiple layers of difficulty
 - [ ] Commitment device if appropriate
@@ -1264,6 +1406,7 @@ Date: __________
 **Concept**: Layer multiple "Make It Easy" strategies
 
 **Maximum Impact Formula**:
+
 1. **Two-Minute Rule**: Scale down to trivial version
 2. **Reduce Friction**: Remove all obstacles
 3. **Prepare Environment**: Set up in advance
@@ -1271,6 +1414,7 @@ Date: __________
 5. **Automation**: Use technology where possible
 
 **Example - Building Writing Habit**:
+
 1. **Two-Minute**: Write just one sentence
 2. **Reduce Friction**: Laptop always open to writing app, no startup required
 3. **Prepare**: Previous day, leave document open with prompt for tomorrow

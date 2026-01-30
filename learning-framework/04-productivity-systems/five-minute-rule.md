@@ -17,10 +17,12 @@ After 5 minutes, you're free to stop if you want to.
 ### 1. Reduces Perceived Task Size
 
 **The procrastination trap:**
+
 - Your brain sees: "Write entire 10-page essay" or "Study for exam (4 hours needed)"
 - Brain's response: "That's overwhelming. Let's avoid it by scrolling TikTok."
 
 **The five-minute reframe:**
+
 - Your brain sees: "Work on essay for 5 minutes"
 - Brain's response: "5 minutes? That's nothing. I can do that."
 
@@ -31,21 +33,25 @@ After 5 minutes, you're free to stop if you want to.
 ### 2. Getting Started Is the Hardest Part
 
 **Newton's First Law (applied to productivity):**
+
 - An object at rest stays at rest
 - An object in motion stays in motion
 
 **Translation:**
+
 - When you're procrastinating (at rest), staying in procrastination is easy
 - Once you start working (in motion), continuing to work is easier than you think
 
 **The data:** 8 out of 10 times, once you start the "5-minute" task, you'll continue past 5 minutes.
 
 **Why?**
+
 - **Activation energy is highest at the start.** Once you overcome that initial resistance, momentum takes over.
 - **The task is rarely as bad as you feared.** Often the anticipation is worse than the reality.
 - **You enter a "completion mindset."** Once you start, your brain wants to finish.
 
 **Example:**
+
 - Before: "I don't want to study chemistry. It's going to be awful."
 - 5-minute rule: "Fine, I'll do 5 minutes."
 - After 5 minutes: "Actually, this isn't that bad. I'll keep going."
@@ -60,6 +66,7 @@ After 5 minutes, you're free to stop if you want to.
 If you constantly tell yourself "I'll study for 3 hours" and then quit after 20 minutes, you stop believing your own commitments.
 
 **The five-minute rule rebuilds trust:**
+
 - You commit to 5 minutes
 - You CAN definitely do 5 minutes
 - You keep the commitment
@@ -72,14 +79,17 @@ If you constantly tell yourself "I'll study for 3 hours" and then quit after 20 
 ### 4. Removes the "All or Nothing" Pressure
 
 **The perfectionist trap:**
+
 - "If I can't do this perfectly/completely right now, I won't start."
 - "I don't have 3 hours, so there's no point starting."
 
 **The five-minute rule says:**
+
 - "Any progress is good progress."
 - "5 minutes is infinitely more than 0 minutes."
 
 **Reality check:**
+
 - 5 minutes of studying > 0 minutes of studying
 - 5 minutes of writing > 0 minutes of writing
 - 5 minutes of cleaning > 0 minutes of cleaning
@@ -95,16 +105,19 @@ Even if you stop after 5 minutes, you've made progress. That matters.
 **The truth:** Motivation comes AFTER starting, not before.
 
 **The cycle most people expect:**
+
 1. Feel motivated
 2. Start working
 3. Make progress
 
 **The actual cycle:**
+
 1. Start working (even without motivation)
 2. Make progress
 3. Feel motivated
 
 **The five-minute rule leverages this:**
+
 - You don't wait for motivation
 - You commit to 5 minutes without requiring motivation
 - After starting, motivation appears
@@ -120,6 +133,7 @@ The five-minute rule works best with a **physical, analog timer**—specifically
 ### Why Sand Timer Over Phone Timer?
 
 **Phone timer problems:**
+
 1. You pick up your phone to set the timer
 2. You see a notification
 3. You "just quickly check" something
@@ -127,6 +141,7 @@ The five-minute rule works best with a **physical, analog timer**—specifically
 5. You've made the procrastination worse
 
 **Sand timer advantages:**
+
 1. **Single-purpose:** It does one thing—count time
 2. **No digital distraction:** Can't check social media on a sand timer
 3. **Visual:** You see the sand falling—tangible progress
@@ -179,6 +194,7 @@ The five-minute rule works best with a **physical, analog timer**—specifically
 ### The Wandering Mind Problem
 
 **What happens during focused work:**
+
 - You're working on the task
 - Your mind wanders: "I wonder if anyone texted me"
 - You feel the urge to check your phone
@@ -199,6 +215,7 @@ The five-minute rule works best with a **physical, analog timer**—specifically
    - "I can check my phone in [X minutes when the sand runs out]. Right now, I'm working."
 
 **Why this works:**
+
 - The timer gives you a **concrete endpoint**
 - You're not saying "never check your phone"
 - You're saying "not for the next 3 minutes"
@@ -223,6 +240,7 @@ The five-minute rule works best with a **physical, analog timer**—specifically
 **The data:** Even if you stop after 5 minutes, you've often done more than you think.
 
 **Example:**
+
 - 5 minutes of reading = 2-3 pages (more than 0)
 - 5 minutes of writing = 100-150 words (more than 0)
 - 5 minutes of flashcards = 10-15 cards reviewed (more than 0)
@@ -239,6 +257,7 @@ Over a semester (15 weeks): 26.25 hours
 ### When You Stop, Try Again Later
 
 **If you stop after 5 minutes in the morning:**
+
 - That's okay
 - Try another 5-minute session in the afternoon
 - And maybe another in the evening
@@ -256,12 +275,14 @@ Over a semester (15 weeks): 26.25 hours
 ### Before You Start Your 5 Minutes: Design Your Environment
 
 **Remove distractions:**
+
 1. **Phone:** In another room, or at minimum face-down across the room
 2. **Computer:** Close all tabs except what you need for the task
 3. **People:** If possible, go somewhere you won't be interrupted (library, empty classroom, study room)
 4. **Noise:** Headphones with focus music, white noise, or silence
 
 **Set up what you need:**
+
 1. **Materials ready:** Textbook open to the right page, notebook out, pen in hand
 2. **Water nearby:** Don't give yourself an excuse to get up
 3. **Comfortable but alert:** Good posture, good lighting
@@ -277,6 +298,7 @@ If you commit to 5 minutes but then spend 3 of those minutes finding your textbo
 ### Environment Design Checklist
 
 **Before flipping the sand timer, check:**
+
 - [ ] Phone is out of reach
 - [ ] Computer has only necessary tabs open (or is closed if not needed)
 - [ ] All materials for the task are within arm's reach
@@ -303,6 +325,7 @@ It's not meant to be your permanent system. It's meant to **lower the barrier** 
 - Celebrate: Every time you start, even if you stop at 5
 
 **Metrics to track:**
+
 - Number of 5-minute sessions started per day
 - Percentage of sessions where you continued past 5 minutes
 - Total time worked (from all sessions combined)
@@ -319,6 +342,7 @@ It's not meant to be your permanent system. It's meant to **lower the barrier** 
 - Build chains: "I did three 5-minute timers in a row = 15 minutes of focused work"
 
 **What you'll notice:**
+
 - After 2-3 timer flips (10-15 min), you're often in flow
 - At that point, you might not need the timer anymore
 - Let the work carry you
@@ -334,6 +358,7 @@ It's not meant to be your permanent system. It's meant to **lower the barrier** 
 - The 5-minute rule becomes just the "ignition," not the whole engine
 
 **Example:**
+
 ```
 2pm: Procrastinating on essay
 2:05pm: "Okay, just 5 minutes" (flip sand timer)
@@ -352,6 +377,7 @@ It's not meant to be your permanent system. It's meant to **lower the barrier** 
 **Eventually:** The habit of starting becomes automatic.
 
 **What changes:**
+
 - You see a task → You start it (minimal resistance)
 - You don't need the 5-minute rule as often
 - When you DO procrastinate, you have a reliable tool to overcome it
@@ -367,6 +393,7 @@ It's not meant to be your permanent system. It's meant to **lower the barrier** 
 **Situation:** You have an essay due in 3 days. You haven't started. Every time you think about it, you feel dread and open Instagram instead.
 
 **Applying the rule:**
+
 1. "I will work on the essay for just 5 minutes."
 2. Set up: Open a blank document, close other tabs, phone away
 3. Flip sand timer
@@ -385,6 +412,7 @@ It's not meant to be your permanent system. It's meant to **lower the barrier** 
 **Situation:** You need to read 30 pages of dense biology textbook. It's boring and hard. You've been putting it off for days.
 
 **Applying the rule:**
+
 1. "I will read for just 5 minutes."
 2. Set up: Open textbook to correct page, highlighter ready, phone away
 3. Flip sand timer
@@ -403,6 +431,7 @@ It's not meant to be your permanent system. It's meant to **lower the barrier** 
 **Situation:** Problem set with 20 questions. They're hard. You don't even know where to start. Anxiety spiraling.
 
 **Applying the rule:**
+
 1. "I will work on this for just 5 minutes. Just attempt problem #1."
 2. Set up: Problem set out, scratch paper ready, calculator nearby, phone away
 3. Flip sand timer
@@ -421,6 +450,7 @@ It's not meant to be your permanent system. It's meant to **lower the barrier** 
 **Situation:** Your room is a disaster. Clean clothes mixed with dirty, papers everywhere. The thought of cleaning is overwhelming.
 
 **Applying the rule:**
+
 1. "I will clean for just 5 minutes."
 2. Set up: Put on music (optional), grab a trash bag
 3. Flip sand timer
@@ -440,23 +470,28 @@ It's not meant to be your permanent system. It's meant to **lower the barrier** 
 ### Don't Use For:
 
 **1. Tasks that genuinely require deep preparation**
+
 - Example: Can't "just start" a lab experiment without reading the procedure
 - Use instead: 5-minute rule to start the PREP work (reading the procedure)
 
 **2. Creative work that requires specific inspiration**
+
 - Example: Writing poetry, composing music, painting
 - These may need space and spontaneity, not forced starting
 - Use instead: 5-minute rule for generative practices (free-writing, sketching) that might lead to inspiration
 
 **3. Rest and recovery time**
+
 - Example: "I'll relax for just 5 minutes"
 - This defeats the purpose of rest (you need more than 5 minutes to recover)
 
 **4. Tasks you genuinely shouldn't be doing**
+
 - Example: Procrastinating on assignment A by using 5-minute rule to start assignment B
 - Addresses the wrong problem
 
 **5. Complex decisions**
+
 - Example: "I'll just decide on my major in 5 minutes"
 - Some things need time and thought, not quick action
 
@@ -469,6 +504,7 @@ It's not meant to be your permanent system. It's meant to **lower the barrier** 
 **The resistance is THAT strong.**
 
 **Solution: Go smaller.**
+
 - "I'll just open the document" (no timer, just that one action)
 - "I'll just read the assignment prompt" (that's it)
 - "I'll just organize my materials" (prep only)
@@ -484,12 +520,14 @@ Once you do the tiny action, the 5-minute rule becomes easier.
 **Can't even maintain focus for 5 minutes.**
 
 **Solution: Environmental control.**
+
 - Phone must be in another room (not just face-down)
 - Work in library or coffee shop (harder to access distractions)
 - Use website blocker (Freedom, Cold Turkey, etc.)
 - Have someone hold you accountable (study with a friend who will call you out)
 
 **If that still doesn't work:**
+
 - Shorten to 3 minutes
 - Or try 1 minute just to practice the skill of focusing
 
@@ -500,12 +538,14 @@ Once you do the tiny action, the 5-minute rule becomes easier.
 **Never continuing past the initial 5 minutes.**
 
 **Possible reasons:**
+
 1. **The task is genuinely not ready to be worked on:** Need more prep, clarification, resources
 2. **Timing is wrong:** Maybe you're trying during low-energy time of day
 3. **The task is too big and undefined:** "Work on essay" is too vague; try "Write one sentence of the intro"
 4. **Underlying anxiety or avoidance:** Might need to address deeper issue (talk to counselor, break down fears)
 
 **Solution:**
+
 - Assess if the task is actually ready to work on
 - Try the 5-minute rule during your peak energy time
 - Make the task MORE specific for the 5 minutes
@@ -518,6 +558,7 @@ Once you do the tiny action, the 5-minute rule becomes easier.
 **Internal voice says 5 minutes isn't enough.**
 
 **Solution: Reframe.**
+
 - 5 minutes is infinitely more than 0 minutes
 - Consistency beats intensity: 5 minutes daily for 30 days = 2.5 hours total
 - You're building the skill of starting, which is valuable long-term
@@ -529,13 +570,14 @@ Once you do the tiny action, the 5-minute rule becomes easier.
 
 ## LLM-ACTIONABLE-INSIGHTS: Five-Minute Rule Deployment
 
-*This section provides structured prompts for AI assistants to help implement the five-minute rule effectively.*
+_This section provides structured prompts for AI assistants to help implement the five-minute rule effectively._
 
 ---
 
 ### PROMPT 1: Identify My Procrastination Triggers
 
 **LLM prompt**:
+
 ```
 I'm procrastinating on: [specific task]
 
@@ -557,6 +599,7 @@ Then design:
 ### PROMPT 2: Design a 5-Minute Start Ritual
 
 **LLM prompt**:
+
 ```
 I want to use the 5-minute rule consistently. Help me create a starting ritual.
 
@@ -582,6 +625,7 @@ Make it so specific I can't fail to follow it.
 ### PROMPT 3: Break Down an Overwhelming Task
 
 **LLM prompt**:
+
 ```
 This task feels way too big to start:
 [Describe the overwhelming task]
@@ -604,6 +648,7 @@ Make each chunk feel stupidly easy.
 ### PROMPT 4: Troubleshoot My Failed Attempts
 
 **LLM prompt**:
+
 ```
 I tried the 5-minute rule and it didn't work. Here's what happened:
 
@@ -630,6 +675,7 @@ Provide a revised protocol to try next time.
 ### PROMPT 5: Create a Progression Plan
 
 **LLM prompt**:
+
 ```
 I want to build the habit of starting tasks easily (not procrastinating).
 
@@ -656,6 +702,7 @@ Include:
 ### PROMPT 6: Design Environment Controls
 
 **LLM prompt**:
+
 ```
 My biggest problem: I get distracted before/during my 5-minute sessions.
 
@@ -681,6 +728,7 @@ Be extremely specific about physical actions to take.
 ### PROMPT 7: Pair 5-Minute Rule with Other Techniques
 
 **LLM prompt**:
+
 ```
 I want to combine the 5-minute rule with [Pomodoro / Time-blocking / other technique].
 
@@ -703,6 +751,7 @@ Example format:
 ### PROMPT 8: Emergency Procrastination Rescue
 
 **LLM prompt**:
+
 ```
 I have [task] due in [X hours/days] and I've been procrastinating badly.
 
@@ -772,6 +821,7 @@ AFTER 5 MINUTES:
 **LLM can suggest combinations**:
 
 **5-Minute Rule + Time-Blocking**:
+
 ```
 Use 5-minute rule when a time-blocked session arrives and you don't want to start:
 - 3pm time block: "Study chemistry"
@@ -781,6 +831,7 @@ Use 5-minute rule when a time-blocked session arrives and you don't want to star
 ```
 
 **5-Minute Rule + Pomodoro**:
+
 ```
 Use 5-minute rule as the ignition for Pomodoro:
 - Start: 5-minute rule (just get started)
@@ -789,6 +840,7 @@ Use 5-minute rule as the ignition for Pomodoro:
 ```
 
 **5-Minute Rule + 3-2-1 Method**:
+
 ```
 Use 3-2-1 countdown to commit to the 5-minute rule:
 - Count: 3... 2... 1...
@@ -812,4 +864,3 @@ When helping students apply the 5-minute rule:
 8. **Progression is the goal** - 5-min rule should eventually become unnecessary
 9. **Be specific about what to do in the 5 minutes** - vague tasks don't work
 10. **Address underlying issues** - if it never works, there might be deeper anxiety/avoidance to address
-

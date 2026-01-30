@@ -15,6 +15,7 @@ This is the complete 6-step integrated study system that combines all evidence-b
 **When**: First week of semester, then weekly updates
 
 **What to do**:
+
 1. Download all course syllabi
 2. Extract key information:
    - Exam dates and weights
@@ -39,11 +40,13 @@ This is the complete 6-step integrated study system that combines all evidence-b
 **When**: Week 1 of semester, updated weekly
 
 **What to do**:
+
 1. Create a calendar/spreadsheet covering the entire semester
 2. Block out fixed commitments (classes, work, obligations)
 3. Schedule study blocks using two key principles:
 
 **Spaced Repetition Schedule**:
+
 - First review: Day of class
 - Second review: 1-2 days later
 - Third review: 1 week later
@@ -52,6 +55,7 @@ This is the complete 6-step integrated study system that combines all evidence-b
 - Exam review: Day before exam
 
 **Interleaving Schedule**:
+
 - DO NOT block 4 hours for one subject
 - INSTEAD: Alternate subjects every 50-60 minutes
 - Example block:
@@ -63,6 +67,7 @@ This is the complete 6-step integrated study system that combines all evidence-b
   - 12:30-1:00 PM: Calculus (Topic D - different from Topic A)
 
 **Why it works**:
+
 - Spaced repetition exploits the forgetting curve
 - Interleaving forces discrimination between similar concepts
 - Pre-planning prevents decision fatigue
@@ -78,6 +83,7 @@ This is the core of the system. Three distinct phases:
 #### 3A. BEFORE CLASS: Pretests (20 minutes before class)
 
 **What to do**:
+
 1. Check syllabus: what topic is today's lecture?
 2. Look at textbook chapter headings (don't read yet)
 3. Find 3-5 practice problems related to today's topic
@@ -86,6 +92,7 @@ This is the core of the system. Three distinct phases:
 6. Note what you couldn't do
 
 **Why it works**:
+
 - Hypercorrection effect: wrong answers you're confident about create stronger memory when corrected
 - Primes your brain to identify gaps during lecture
 - Creates curiosity and engagement
@@ -95,6 +102,7 @@ This is the core of the system. Three distinct phases:
 #### 3B. DURING CLASS: Question-Based Notes
 
 **What to do**:
+
 1. STOP transcribing what professor says
 2. INSTEAD: write questions continuously
 3. Convert slide titles to questions:
@@ -112,6 +120,7 @@ This is the core of the system. Three distinct phases:
 7. DO NOT write answers during class (just questions)
 
 **Why it works**:
+
 - Forces active processing instead of passive transcription
 - Creates retrieval cues for later study
 - Identifies knowledge gaps in real-time
@@ -122,6 +131,7 @@ This is the core of the system. Three distinct phases:
 #### 3C. AFTER CLASS: Immediate Review (20 minutes)
 
 **What to do**:
+
 1. Within 1-2 hours of class (same day at latest)
 2. Go through ALL questions from class
 3. Attempt to answer each question from memory
@@ -134,12 +144,14 @@ This is the core of the system. Three distinct phases:
 7. Do NOT look up answers yet (retrieval struggle is the goal)
 
 **Second review (end of day, 20 minutes)**:
+
 1. Before bed, review same questions
 2. Attempt to answer purple/blue questions again
 3. NOW consult textbook/materials for questions you still can't answer
 4. Update color coding
 
 **Why it works**:
+
 - Immediate review captures information before major forgetting
 - Color coding provides visual progress tracking
 - Struggling with retrieval (even failing) strengthens future memory
@@ -152,6 +164,7 @@ This is the core of the system. Three distinct phases:
 ### Step 4: Prioritize Breaks with Gap Effects
 
 **What to do**:
+
 1. Study in 50-60 minute blocks (NOT longer)
 2. Take 10-15 minute breaks between blocks
 3. During breaks:
@@ -165,6 +178,7 @@ This is the core of the system. Three distinct phases:
    - Between different topics: always break
 
 **Why it works**:
+
 - Gap effect: breaks enhance problem-solving and consolidation
 - Prevents mental fatigue
 - Allows subconscious processing
@@ -179,6 +193,7 @@ This is the core of the system. Three distinct phases:
 **What to do**:
 
 **Option A: Non-Sleep Deep Rest (NSDR) - 10-20 minutes**
+
 1. Lie down in quiet space
 2. Use NSDR/Yoga Nidra audio guide
 3. Follow body scan instructions
@@ -186,18 +201,21 @@ This is the core of the system. Three distinct phases:
 5. Resources: Huberman Lab NSDR protocols (YouTube)
 
 **Option B: Nap - 20 minutes maximum**
+
 1. Set alarm for 20 minutes
 2. Lie down in dark, quiet space
 3. Don't worry if you don't fall asleep (rest helps)
 4. Wake when alarm sounds
 
 **When to use**:
+
 - After intense study session (2-3 hours)
 - After morning classes before afternoon study
 - Mid-afternoon (2-3 PM) energy dip
 - After learning particularly difficult material
 
 **Why it works**:
+
 - Accelerates memory consolidation
 - Restores cognitive resources
 - Enhances subsequent learning capacity
@@ -210,6 +228,7 @@ This is the core of the system. Three distinct phases:
 ### Step 6: Track Progress with Retrospective Timetable
 
 **What to do**:
+
 1. Create a tracking spreadsheet with:
    - Date
    - Topic studied
@@ -228,6 +247,7 @@ This is the core of the system. Three distinct phases:
    - Are you spending time proportional to difficulty?
 
 **Why it works**:
+
 - Makes progress visible (motivating)
 - Identifies topics needing more attention
 - Prevents illusion of competence
@@ -251,6 +271,7 @@ Each step enhances the others:
 6. **Retrospective timetable** → provides FEEDBACK for adjustment
 
 **The Cycle**:
+
 ```
 Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) → Adjust Plan → Repeat
 ```
@@ -258,12 +279,14 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 ### Critical Integration Points
 
 **Integration 1: Pretests + Question Notes**
+
 - Pretests create questions you can't answer
 - During lecture, you actively listen for answers to those questions
 - After lecture, you attempt to answer both pretest questions AND lecture questions
 - Result: Deeper encoding through multiple retrieval attempts
 
 **Integration 2: Color Coding + Prospective Timetable**
+
 - After-class review produces color-coded questions
 - Use color codes to prioritize future study sessions
 - Purple/blue questions get more time in timetable
@@ -271,12 +294,14 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 - Result: Efficient allocation of study time
 
 **Integration 3: Breaks + NSDR**
+
 - Regular breaks prevent burnout during study
 - NSDR after study accelerates consolidation
 - Both create space for subconscious processing
 - Result: Better retention with less total study time
 
 **Integration 4: Retrospective Timetable + Prospective Timetable**
+
 - Retrospective data shows what's working
 - Use this data to adjust prospective timetable
 - Iterate weekly for continuous improvement
@@ -377,11 +402,13 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 ### Weekend Example (No classes)
 
 **Saturday**:
+
 - Morning: Spaced review (week-old material, all subjects)
 - Afternoon: Practice exams (timed, simulated conditions)
 - Evening: Light review of green-coded topics (maintaining mastery)
 
 **Sunday**:
+
 - Morning: Weekly planning session (prospective timetable for next week)
 - Afternoon: Focus on red/orange topics from retrospective timetable
 - Evening: Prepare pretests for Monday's classes
@@ -394,6 +421,7 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 ### Light Load (2-3 courses, 9-12 credits)
 
 **Adaptations**:
+
 - More time for deep practice on each topic
 - Longer spacing intervals (review at 3 days, 1 week, 2 weeks, 1 month)
 - Additional NSDR sessions (morning + afternoon)
@@ -401,11 +429,13 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 - More extensive practice problems per topic
 
 **Benefits**:
+
 - Deeper mastery possible
 - Lower stress levels
 - Time to develop strong study habits
 
 **Risks to avoid**:
+
 - Over-studying same material (diminishing returns)
 - Neglecting spacing (studying too frequently)
 - False confidence from extra time
@@ -413,16 +443,19 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 ### Moderate Load (4-5 courses, 12-15 credits)
 
 **Adaptations**:
+
 - This is the "standard" load the system is designed for
 - Follow the system as outlined above
 - Strict adherence to color-coding priority system
 - Ensure full implementation of all 6 steps
 
 **Benefits**:
+
 - System is optimized for this load
 - Balanced difficulty and manageability
 
 **Key success factors**:
+
 - Consistency in before/during/after class protocol
 - No skipping immediate reviews
 - Weekly timetable adjustments
@@ -430,6 +463,7 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 ### Heavy Load (6+ courses, 18+ credits)
 
 **Adaptations**:
+
 - **Ruthless prioritization**: Focus 80% effort on 20% highest-value topics
 - Shorter review sessions (10 minutes instead of 20)
 - Combine subjects in interleaved practice (study 3 subjects per 2-hour block)
@@ -438,12 +472,14 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 - Consider dropping to moderate load if possible
 
 **Critical modifications**:
+
 - Immediate after-class review: 10 minutes verbal recall (not written)
 - Focus written practice on purple/blue questions only
 - Use weekends for catch-up and spaced review
 - Monthly review becomes weekly review
 
 **Warning signs you're overloaded**:
+
 - Consistently getting <7 hours sleep
 - Skipping immediate reviews frequently
 - Everything coded purple/blue with no progress
@@ -453,6 +489,7 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 ### Variable Load (Different difficulty courses)
 
 **Adaptations**:
+
 - Assign "difficulty weights" to each course:
   - Easy course (A expected): 1x time
   - Medium course (B expected): 1.5x time
@@ -462,6 +499,7 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 - Use retrospective timetable to adjust weights weekly
 
 **Example allocation** (15 credits, 5 courses):
+
 - Calculus (hard): 30% of study time
 - Physics (hard): 30% of study time
 - Chemistry (medium): 20% of study time
@@ -477,6 +515,7 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 **Why this happens**: Feels like extra work before you've learned anything
 
 **Solution**:
+
 - Start with 10 minutes (not 20)
 - Just look at practice problems (don't attempt all of them)
 - Even 5 minutes of pretesting > 0 minutes
@@ -489,6 +528,7 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 **Why this happens**: Immediate review feels optional when you have notes
 
 **Solution**:
+
 - This is THE most important step (non-negotiable)
 - Even 5 minutes of color-coding > nothing
 - Missing immediate review = wasting the entire lecture
@@ -501,6 +541,7 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 **Why this happens**: Material is genuinely difficult OR study method is ineffective
 
 **Solution**:
+
 - If week 1-2: Normal, keep going (building foundation)
 - If week 3+: Adjust approach
   - Simplify questions (break into smaller pieces)
@@ -515,6 +556,7 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 **Why this happens**: Too ambitious, too rigid, or life happens
 
 **Solution**:
+
 - Schedule 80% of available time (leave 20% buffer)
 - Use "minimum viable" version on hard days:
   - Must do: Immediate reviews
@@ -529,6 +571,7 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 **Why this happens**: Reviewing what you know feels productive and comfortable
 
 **Solution**:
+
 - Set rule: Green topics get spaced review only (no extra practice)
 - Force yourself: 70% of study time on purple/blue, 20% on orange/yellow, 10% on green
 - Use retrospective timetable to track time allocation
@@ -543,12 +586,14 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 ### Optimization 1: Linking Topics Across Courses
 
 **What to do**:
+
 - During immediate review, add question: "How does this relate to [other course]?"
 - Create "meta-questions" connecting different subjects
 - Example: "How does this physics concept explain this chemistry observation?"
 - Build a "concept map" linking topics across syllabi
 
 **Why it works**:
+
 - Elaborative encoding (connecting to existing knowledge)
 - Develops systems thinking
 - Prepares for interdisciplinary exams
@@ -556,11 +601,13 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 ### Optimization 2: Teaching Sessions
 
 **What to do**:
+
 - Once per week: "teach" green topics to someone (or record yourself teaching)
 - Explain using only memory (no notes)
 - If you can't teach it, it's not green (downgrade to yellow)
 
 **Why it works**:
+
 - Ultimate retrieval practice
 - Exposes gaps in understanding
 - Consolidates mastery
@@ -568,11 +615,13 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 ### Optimization 3: Predictive Practice
 
 **What to do**:
+
 - After each lecture, predict 3-5 exam questions on this topic
 - Write questions in "exam style" (based on past exams if available)
 - Practice these predictive questions during spaced review
 
 **Why it works**:
+
 - Transfer-appropriate processing (practicing in exam format)
 - Develops metacognition (understanding what's important)
 - Reduces exam anxiety (familiar question types)
@@ -580,6 +629,7 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 ### Optimization 4: Error Analysis Sessions
 
 **What to do**:
+
 - Weekly session: review all purple/blue questions that stayed purple/blue
 - For each: "Why did I get this wrong?"
   - Conceptual misunderstanding?
@@ -589,6 +639,7 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 - Create targeted practice based on error patterns
 
 **Why it works**:
+
 - Addresses root causes (not just symptoms)
 - Prevents repeated mistakes
 - Builds self-awareness
@@ -600,26 +651,31 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 ### Week-by-week metrics
 
 **Week 1-2**: Foundation
+
 - Metric: Are you completing immediate reviews consistently? (Target: 90%+)
 - Metric: Are you generating 20+ questions per lecture? (Target: Yes)
 - Don't expect mastery yet (lots of purple is normal)
 
 **Week 3-4**: Progress
+
 - Metric: Are purple questions becoming blue/black? (Target: 30%+ conversion)
 - Metric: Are you maintaining schedule? (Target: 80%+ adherence)
 - Metric: Do you feel less stressed before exams? (Qualitative)
 
 **Week 5-8**: Consolidation
+
 - Metric: Are blue questions becoming black? (Target: 50%+ conversion)
 - Metric: Are old purple questions now blue/black? (Spaced repetition working)
 - Metric: First exam results (Target: B+ or higher if system followed)
 
 **Week 9-12**: Mastery
+
 - Metric: Ratio of green:yellow:orange:red topics (Target: 40:30:20:10)
 - Metric: Time spent studying decreasing while grades maintain/improve
 - Metric: Ability to make connections across topics
 
 **Week 13-15**: Exam prep
+
 - Metric: Practice exam scores (Target: 85%+ under timed conditions)
 - Metric: Confidence levels (Target: Feel prepared, not anxious)
 - Metric: Final exam results (Target: Match or exceed practice scores)
@@ -627,11 +683,13 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 ### Adjustment triggers
 
 **If after 3 weeks**:
+
 - Still 80%+ purple questions → Simplify questions, add reading step, seek help
 - Missing 50%+ immediate reviews → Reduce course load or schedule adjustment
 - Not seeing grade improvement → Review color-coding honesty (are you being too generous?)
 
 **If after 6 weeks**:
+
 - No green topics → Questions may be too hard, break into smaller pieces
 - All green topics → Questions may be too easy, increase difficulty
 - Feeling burnt out → Add more breaks, NSDR, check sleep
@@ -645,6 +703,7 @@ Plan (Steps 1-2) → Execute (Step 3) → Rest (Steps 4-5) → Reflect (Step 6) 
 Use this checklist to implement the perfect study system:
 
 #### Week 0 (Before Semester)
+
 - [ ] Download all syllabi
 - [ ] Create master topic list with priorities
 - [ ] Set up prospective timetable (spreadsheet/calendar)
@@ -654,6 +713,7 @@ Use this checklist to implement the perfect study system:
 - [ ] Set up study environment (phone lockbox, website blockers)
 
 #### Week 1 (System Launch)
+
 - [ ] Day 1: Pretest before first class (even if awkward)
 - [ ] Day 1: Question-based notes during first class
 - [ ] Day 1: Immediate review after first class (20 min)
@@ -664,6 +724,7 @@ Use this checklist to implement the perfect study system:
 - [ ] Sunday: Adjust prospective timetable based on week 1 data
 
 #### Week 2-3 (Habit Formation)
+
 - [ ] Maintain before/during/after protocol for ALL classes
 - [ ] Start spacing reviews (day 1 + day 3 + day 7 pattern)
 - [ ] Add interleaving (don't study same subject for >1 hour)
@@ -671,6 +732,7 @@ Use this checklist to implement the perfect study system:
 - [ ] Weekly retrospective review: What's working? What's not?
 
 #### Week 4+ (Optimization)
+
 - [ ] Purple→blue conversion happening? (If not, adjust)
 - [ ] Using color codes to prioritize study time?
 - [ ] Prospective timetable matching reality? (If not, adjust)
@@ -680,6 +742,7 @@ Use this checklist to implement the perfect study system:
 ### LLM Prompts for System Support
 
 #### Prompt 1: Syllabus Analysis
+
 ```
 I'm using a comprehensive study system. Analyze this syllabus and:
 1. Identify the 5 most important topics (highest exam weight + foundational concepts)
@@ -691,6 +754,7 @@ I'm using a comprehensive study system. Analyze this syllabus and:
 ```
 
 #### Prompt 2: Prospective Timetable Generation
+
 ```
 Create a study timetable using these principles:
 - Spaced repetition: Review at day 0, day 2, day 7, day 14, day 30
@@ -703,6 +767,7 @@ Generate a week-by-week schedule from now until [exam date].
 ```
 
 #### Prompt 3: Question Generation from Lecture
+
 ```
 I'm using question-based note-taking. Convert these lecture slide titles into good study questions:
 
@@ -718,6 +783,7 @@ Use these question stems:
 ```
 
 #### Prompt 4: Practice Problem Selection
+
 ```
 I need to pretest before class on [topic]. Suggest 3-5 practice problems that:
 1. Are slightly harder than I should be able to do (I should get them wrong)
@@ -730,6 +796,7 @@ Context: [What you already know]
 ```
 
 #### Prompt 5: Color-Coding Calibration
+
 ```
 Help me calibrate my color-coding system. For this question I attempted:
 
@@ -742,6 +809,7 @@ Am I being too harsh or too generous with myself?
 ```
 
 #### Prompt 6: Weekly Review Analysis
+
 ```
 Analyze my week's retrospective timetable data:
 
@@ -756,6 +824,7 @@ Identify:
 ```
 
 #### Prompt 7: Exam Preparation Protocol
+
 ```
 I have an exam in [X] weeks on these topics:
 [List topics with current color codes]
@@ -770,6 +839,7 @@ Create a study plan that:
 ```
 
 #### Prompt 8: Study Block Optimization
+
 ```
 I have a [X]-hour study block available. Optimize it using:
 - 50-60 min study periods
@@ -834,6 +904,7 @@ START: How many weeks into semester?
 ### Success Indicators (Track These)
 
 **Daily indicators** (quick check):
+
 - [ ] Completed all pretests for today's classes (Y/N)
 - [ ] Wrote questions during all classes (Y/N)
 - [ ] Completed all immediate reviews within 2 hours (Y/N)
@@ -841,6 +912,7 @@ START: How many weeks into semester?
 - [ ] Updated retrospective timetable (Y/N)
 
 **Weekly indicators** (Sunday review):
+
 - [ ] What % of purple questions became blue or black this week? (Target: 30%+)
 - [ ] What % of scheduled study blocks did I complete? (Target: 80%+)
 - [ ] Did I maintain spacing schedule for last week's material? (Y/N)
@@ -848,11 +920,12 @@ START: How many weeks into semester?
 - [ ] How many hours of sleep average? (Target: 7-9 hours)
 
 **Monthly indicators** (big picture):
-- [ ] Current topic distribution: ___% green, ___% yellow, ___% orange, ___% purple
+
+- [ ] Current topic distribution: **_% green, _**% yellow, **_% orange, _**% purple
 - [ ] Exam grades vs. expected: Better / Same / Worse
 - [ ] Time spent studying vs. last month: Less / Same / More (Target: Less or same with better results)
 - [ ] Stress/confidence levels: Improving / Stable / Declining (Target: Improving)
-- [ ] System adherence: ___% (Target: 80%+)
+- [ ] System adherence: \_\_\_% (Target: 80%+)
 
 ---
 
@@ -880,12 +953,14 @@ Week 12: Studying feels efficient, grades are strong
 ### Non-Negotiables vs. Optimizations
 
 **Non-negotiables** (system breaks without these):
+
 1. Immediate review within 2 hours of class
 2. Question-based notes (not transcription)
 3. Honest color coding
 4. Some form of spacing (even if not perfect)
 
 **Optimizations** (nice to have, but flexible):
+
 1. Perfect pretest timing (do it when you can)
 2. Exact break durations (close enough is fine)
 3. NSDR vs. naps (either works, or neither if no time)
@@ -916,11 +991,13 @@ Week 12: Studying feels efficient, grades are strong
 If you're reading this mid-semester, start NOW:
 
 **Today**:
+
 1. Download syllabi, create basic topic list (30 min)
 2. Buy colored pens (or use digital colors)
 3. Set up simple retrospective timetable (spreadsheet)
 
 **Tomorrow's first class**:
+
 1. Attempt 3 practice problems before class (10 min)
 2. Write only questions during class
 3. Attempt to answer those questions after class (20 min)
@@ -928,6 +1005,7 @@ If you're reading this mid-semester, start NOW:
 5. Review again before bed (10 min)
 
 **This weekend**:
+
 1. Create prospective timetable for next 2 weeks
 2. Review this week's purple questions (spaced repetition begins)
 3. Assess: What worked? What needs adjustment?

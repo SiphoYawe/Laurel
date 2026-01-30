@@ -11,6 +11,7 @@
 ### Blocked Practice (Traditional Approach)
 
 **Structure:**
+
 ```
 Math Session:
 - Topic A: 20 practice problems on quadratic equations
@@ -19,6 +20,7 @@ Math Session:
 ```
 
 **Characteristics:**
+
 - Complete mastery of one topic before moving on
 - Each problem follows the same pattern
 - Feels smooth and efficient
@@ -27,6 +29,7 @@ Math Session:
 ### Interleaved Practice (Evidence-Based Approach)
 
 **Structure:**
+
 ```
 Math Session:
 - 1 quadratic equation problem
@@ -38,6 +41,7 @@ Math Session:
 ```
 
 **Characteristics:**
+
 - Switch between topics/problem types
 - Each problem requires identifying which strategy to use
 - Feels harder and more frustrating
@@ -57,12 +61,14 @@ The second skill - **identifying which strategy to use** - is exactly what exams
 ### 1. Forces Spaced Repetition Naturally
 
 When you interleave topics:
+
 - You don't repeat the same topic immediately
 - Each topic gets spaced out naturally
 - Time passes between practicing Topic A the first time and second time
 - You get the benefits of spaced repetition automatically
 
 **Example:**
+
 ```
 Blocked:
 - Solve 10 quadratic equations → Topic A done
@@ -93,6 +99,7 @@ Even within a single study session, interleaving creates spacing.
 **Interleaving trains you to discriminate between problem types.** This is a separate skill from solving each type, and it's what exams actually test.
 
 **Real-world parallel:**
+
 - **Doctor:** Patients don't arrive labeled "this is pneumonia." Doctors must diagnose (discriminate), then treat.
 - **Mechanic:** Cars don't arrive labeled "transmission problem." Must identify the issue first.
 - **Your exam:** Problems don't arrive labeled. Must recognize the type, then apply the solution.
@@ -102,6 +109,7 @@ Blocked practice teaches treatment. Interleaved practice teaches diagnosis AND t
 ### 3. Mimics Real Exam Conditions
 
 Exams are naturally interleaved:
+
 - Question 1: Statistics
 - Question 2: Calculus
 - Question 3: Algebra
@@ -109,11 +117,13 @@ Exams are naturally interleaved:
 - Question 5: Geometry
 
 **If you only study using blocked practice:**
+
 - Practice conditions ≠ exam conditions
 - You're unprepared for the cognitive switching required
 - Test anxiety increases (exam feels harder than practice)
 
 **If you study using interleaved practice:**
+
 - Practice conditions = exam conditions
 - You've trained for exactly this scenario
 - Exam feels familiar, less stressful
@@ -125,30 +135,35 @@ Exams are naturally interleaved:
 ### Blunt & Clements (2012): 30%+ Grade Improvement in Math
 
 **Study design:**
+
 - College students learning math (prealgebra)
 - Group 1: Blocked practice (traditional textbook order)
 - Group 2: Interleaved practice (mixed problem types)
 
 **During practice:**
+
 - Blocked group: 89% correct
 - Interleaved group: 60% correct
-→ Blocked practice FEELS better (higher success rate)
+  → Blocked practice FEELS better (higher success rate)
 
 **On the exam (1 week later):**
+
 - Blocked group: 20% correct
 - Interleaved group: 63% correct
-→ Interleaved practice PERFORMS 3x better
+  → Interleaved practice PERFORMS 3x better
 
 **On the exam (1 month later):**
+
 - Blocked group: 20% correct
 - Interleaved group: 74% correct
-→ Interleaved practice retention actually IMPROVED
+  → Interleaved practice retention actually IMPROVED
 
 ### Why Blocked Practice Feels Better But Performs Worse
 
 **The illusion of mastery:**
 
 When you do 20 quadratic equation problems in a row:
+
 - Problem 1: Hard (figuring it out)
 - Problem 2-5: Getting easier (building momentum)
 - Problem 6-20: Easy (just repeating the pattern)
@@ -156,11 +171,13 @@ When you do 20 quadratic equation problems in a row:
 By problem 20, you feel like an expert. **You're not.**
 
 What you've mastered is:
+
 - Repeating a pattern you just established
 - Short-term procedural memory
 - Performance in this specific context (textbook section 5.2)
 
 What you HAVEN'T mastered:
+
 - Identifying when to use this strategy vs others
 - Retrieving the strategy after time has passed
 - Applying it in mixed contexts (exams)
@@ -174,11 +191,13 @@ What you HAVEN'T mastered:
 Like spaced repetition, interleaving works because it introduces **desirable difficulty**.
 
 **Blocked practice:**
+
 - Easy during learning
 - Hard during testing
 - Net result: Poor performance
 
 **Interleaved practice:**
+
 - Hard during learning
 - Easier during testing (you've practiced this difficulty)
 - Net result: Strong performance
@@ -194,18 +213,21 @@ Students consistently prefer blocked practice because it feels better. They're w
 **The Range: 25-90 Minutes**
 
 **25 minutes (Pomodoro):**
+
 - One focused burst on a single topic
 - Good for: Dense material, difficult concepts, when you're tired
 - Pros: Maintains focus, prevents burnout, frequent switches
 - Cons: Doesn't allow deep immersion
 
 **50-90 minutes (Ultradian rhythm):**
+
 - One complete focus cycle (ultradian rhythm)
 - Good for: Complex topics needing deeper engagement, problem sets
 - Pros: Enough time to get into flow state, substantial progress
 - Cons: Requires more discipline to start, risk of fatigue
 
 **Recommendation:** Start with 50-minute blocks (one Pomodoro + break + one Pomodoro). Adjust based on:
+
 - Material difficulty (harder = shorter blocks)
 - Your energy level (tired = shorter blocks)
 - Task type (creative work = longer blocks, memorization = shorter blocks)
@@ -213,6 +235,7 @@ Students consistently prefer blocked practice because it feels better. They're w
 **Example: 4-Hour Study Session (Interleaved)**
 
 **BAD (Blocked):**
+
 ```
 7:00-11:00 AM: Biology (all 4 hours)
   - Read chapters 5, 6, 7
@@ -224,6 +247,7 @@ Students consistently prefer blocked practice because it feels better. They're w
 ```
 
 **GOOD (Interleaved):**
+
 ```
 7:00-8:00 AM: Biology Chapter 5
   - Read + active recall questions
@@ -249,6 +273,7 @@ Benefits:
 Even within one subject, interleave topics:
 
 **BAD (Blocked):**
+
 ```
 Biology Study Session:
 7:00-8:00: Cell structure (read + review)
@@ -258,6 +283,7 @@ Biology Study Session:
 ```
 
 **GOOD (Interleaved):**
+
 ```
 Biology Study Session:
 7:00-7:45: Cell structure (read + initial questions)
@@ -275,6 +301,7 @@ Notice: Each topic appears twice, spaced out within the session.
 **What:** Don't just interleave TOPICS - interleave ACTIVITIES.
 
 **Different learning modes:**
+
 1. **Pretest** (quiz yourself before learning)
 2. **Input** (lecture, reading, video)
 3. **Active recall** (self-quizzing, blurting)
@@ -283,6 +310,7 @@ Notice: Each topic appears twice, spaced out within the session.
 6. **Synthesis** (teach it, make connections)
 
 **BAD (Blocked):**
+
 ```
 Monday: Attend all lectures (4 hours of input)
 Tuesday: Do all readings (4 hours of input)
@@ -293,6 +321,7 @@ Thursday: Review all answers (4 hours of review)
 Problem: By Thursday, you've forgotten Monday's lecture. You're reviewing material you need to re-learn.
 
 **GOOD (Interleaved):**
+
 ```
 Monday:
   - Lecture 1 (input)
@@ -314,6 +343,7 @@ Wednesday:
 ```
 
 Benefits:
+
 - Input → immediate practice (strengthens encoding)
 - Spaced repetition built in
 - Multiple modes prevent boredom
@@ -337,12 +367,14 @@ Your brain needs variety. Different modes use different neural circuits. Switchi
 **The science behind the range:**
 
 **Lower bound (25 min):** Pomodoro Technique
+
 - Based on: Sustained attention research
 - Minimum time to achieve focus
 - Prevents burnout
 - Good for: Beginners, difficult material, late night studying
 
 **Upper bound (90 min):** Ultradian rhythms
+
 - Based on: Natural alertness cycles (90-120 min)
 - Brain's natural peak focus period
 - After 90 min: focus, retention, and motivation decline sharply
@@ -351,6 +383,7 @@ Your brain needs variety. Different modes use different neural circuits. Switchi
 **The practical recommendation: 50-60 minutes**
 
 Why?
+
 - Long enough for meaningful progress
 - Short enough to maintain focus
 - Aligns with standard class period (most lectures are 50-75 min)
@@ -385,6 +418,7 @@ Why?
 ```
 
 **Notice:**
+
 - Each block is ~50 min
 - Subjects are interleaved (bio → math → bio → history → math)
 - Topics within subjects are interleaved (cell division → respiration)
@@ -402,6 +436,7 @@ You don't need multiple subjects to interleave. You can interleave within one su
 ### Math Example: Interleaving Problem Types
 
 **Blocked (Standard Textbook):**
+
 ```
 Section 5.1: Quadratic Equations
 Problems 1-20: All quadratic equations using the quadratic formula
@@ -414,6 +449,7 @@ Problems 41-60: All logarithm problems
 ```
 
 **Interleaved (Optimal Learning):**
+
 ```
 Mixed Problem Set:
 1. Quadratic equation
@@ -463,6 +499,7 @@ Use random number generator or just pick problems that look different from each 
 ### Language Learning Example
 
 **Blocked (Traditional):**
+
 ```
 Day 1: Learn 20 food vocabulary words
 Day 2: Learn 20 family vocabulary words
@@ -471,6 +508,7 @@ Day 4: Learn past tense verbs
 ```
 
 **Interleaved (Optimal):**
+
 ```
 Day 1: Learn 5 food + 5 family + 5 job words + 5 verbs
 Day 2: Review Day 1 words + Learn 5 new food + 5 new family + 5 new job + 5 new verbs
@@ -481,6 +519,7 @@ Day 4: Mixed practice with all words from all days
 ### Biology Example
 
 **Blocked:**
+
 ```
 Week 1: Cell structure (entire week)
 Week 2: Mitosis (entire week)
@@ -489,6 +528,7 @@ Week 4: Cellular respiration (entire week)
 ```
 
 **Interleaved:**
+
 ```
 Week 1:
   Monday: Cell structure intro
@@ -516,6 +556,7 @@ Week 2:
 **Example:** You've never seen calculus before. You need to understand what a derivative IS before you can practice identifying derivative problems among other problem types.
 
 **Recommendation:**
+
 - Use blocked practice for initial learning (1-2 sessions)
 - Switch to interleaved practice as soon as you have basic understanding
 
@@ -526,6 +567,7 @@ Week 2:
 **Reasoning:** You need to develop automaticity with the steps before adding the complexity of switching between procedures.
 
 **Recommendation:**
+
 - Block initial practice until the procedure becomes automatic
 - Then interleave with other procedures
 
@@ -536,6 +578,7 @@ Week 2:
 **Reasoning:** Some skills need to be automatic before they can be applied in mixed contexts.
 
 **Recommendation:**
+
 - Block practice until fluency is achieved
 - Then immediately interleave to build flexibility
 
@@ -603,6 +646,7 @@ If any of these are true, switch to interleaving:
 ### Template 1: Multi-Subject Day
 
 **Morning (Peak Focus - 3 hours):**
+
 ```
 8:00-9:00: Subject A (new material)
 9:00-10:00: Subject B (new material)
@@ -610,6 +654,7 @@ If any of these are true, switch to interleaving:
 ```
 
 **Afternoon (Moderate Focus - 3 hours):**
+
 ```
 1:00-2:00: Subject A (practice + review) ← SPACED from morning
 2:00-3:00: Subject B (practice + review) ← SPACED from morning
@@ -617,6 +662,7 @@ If any of these are true, switch to interleaving:
 ```
 
 **Evening (Lower Focus - 1 hour):**
+
 ```
 7:00-8:00: Mixed practice (all three subjects, random problem order)
 ```
@@ -630,6 +676,7 @@ If any of these are true, switch to interleaving:
 **Scenario:** Exam in Biology next week, need intensive review
 
 **Morning:**
+
 ```
 8:00-9:00: Cell structure (active recall + practice)
 9:00-10:00: Mitosis (active recall + practice)
@@ -637,6 +684,7 @@ If any of these are true, switch to interleaving:
 ```
 
 **Afternoon:**
+
 ```
 1:00-2:00: Mixed problems (cell structure + mitosis)
 2:00-3:00: Cellular respiration (active recall + practice)
@@ -644,6 +692,7 @@ If any of these are true, switch to interleaving:
 ```
 
 **Evening:**
+
 ```
 7:00-8:00: Comprehensive mixed practice (all 5 topics, random order)
 8:00-8:30: Review mistakes and weak areas
@@ -675,6 +724,7 @@ If any of these are true, switch to interleaving:
 **Afternoon:** Repeat pattern with second new concept
 
 **Evening:**
+
 ```
 7:00-8:00: Full interleaved problem set (no topic labels)
   - Mix everything learned this week
@@ -695,12 +745,14 @@ If any of these are true, switch to interleaving:
 ```
 
 **Benefits:**
+
 - Covers multiple subjects in 1 hour
 - Each topic gets spaced exposure (Biology at 0:00 and 0:36)
 - High variety maintains attention
 - Short blocks prevent fatigue
 
 **When to use:**
+
 - Limited time before exam
 - Maintaining multiple subjects simultaneously
 - When you're tired (variety helps)
@@ -714,6 +766,7 @@ If any of these are true, switch to interleaving:
 **Problem:** That's multitasking (doing two things simultaneously), not interleaving (switching between focused sessions).
 
 **Fix:**
+
 - Interleaving: 100% focus on Task A → switch → 100% focus on Task B
 - One task at a time, but multiple tasks in sequence
 
@@ -722,6 +775,7 @@ If any of these are true, switch to interleaving:
 **Mistake:** Switching every 5 minutes between topics.
 
 **Problem:**
+
 - Never reach flow state
 - Spending more time switching than learning
 - Increased cognitive load with no benefit
@@ -757,6 +811,7 @@ If any of these are true, switch to interleaving:
 Interleaving pairs naturally with other evidence-based techniques:
 
 ### Interleaving + Spaced Repetition
+
 ```
 Week 1: Learn Topics A, B, C (interleaved within week)
 Week 2: Learn Topics D, E, F (interleaved) + Review A, B, C (spaced)
@@ -766,6 +821,7 @@ Week 3: Learn Topics G, H, I (interleaved) + Review D, E, F + Review A, B, C
 Result: Double benefit - interleaving AND spacing
 
 ### Interleaving + Active Recall
+
 ```
 Study session:
 - Topic A: Active recall (blurting)
@@ -777,6 +833,7 @@ Study session:
 Result: You're interleaving topics while using active recall for each
 
 ### Interleaving + Practice Testing
+
 ```
 Practice exam:
 - Don't organize questions by topic (that's blocking)
@@ -872,6 +929,7 @@ Break down each 10-15 minute block with specific activities.
 **When a student asks for practice problems:**
 
 1. **Default to interleaved format**
+
    ```
    "I'll create a mixed problem set covering all the topics you've learned.
    This will be more effective than blocked practice. The problems won't be
@@ -879,6 +937,7 @@ Break down each 10-15 minute block with specific activities.
    ```
 
 2. **Explain the difficulty**
+
    ```
    "This will feel harder than practicing one type at a time. That's normal
    and actually means it's working better. Don't get discouraged if you
@@ -886,12 +945,14 @@ Break down each 10-15 minute block with specific activities.
    ```
 
 3. **Teach discrimination as a separate skill**
+
    ```
    "Before solving each problem, tell me: What type of problem is this?
    What clues tell you that? What strategy will you use?"
    ```
 
 4. **Create variety in study plans**
+
    ```
    When designing study schedules, automatically interleave:
    - Multiple subjects in a day
@@ -900,6 +961,7 @@ Break down each 10-15 minute block with specific activities.
    ```
 
 5. **Point out when they're blocking**
+
    ```
    Student: "I want to spend all Saturday on biology."
 
@@ -949,6 +1011,7 @@ few days ago?
 ### Prompts for Designing Interleaved Schedules
 
 **For comprehensive exam prep:**
+
 ```
 Exam date: [DATE]
 Subject: [SUBJECT]
@@ -966,6 +1029,7 @@ Make it realistic for a full-time student (max 6 hours study/day).
 ```
 
 **For daily study sessions:**
+
 ```
 I have [X] hours today and need to study:
 - [Subject A: specific topics]
@@ -982,6 +1046,7 @@ Specify what to do in each block (read, practice, review, etc.)
 ```
 
 **For problem-based subjects:**
+
 ```
 I'm studying [MATH/PHYSICS/CHEMISTRY] and have learned these topics:
 [List topics]
@@ -999,12 +1064,14 @@ Each set should have 20 problems, no topic labels, random order.
 **The counterintuitive truth:** Studying one topic at a time feels efficient but produces weak learning. Mixing topics feels chaotic but produces strong learning.
 
 **Why most students don't interleave:**
+
 - Textbooks are organized in blocks (chapters)
 - Teachers often teach in blocks (one unit at a time)
 - Blocked practice feels smooth and confident
 - Interleaved practice feels frustrating and difficult
 
 **Why you should interleave anyway:**
+
 - 30%+ better exam performance
 - Builds discrimination skills (the hidden skill exams test)
 - Natural spacing within sessions
@@ -1012,12 +1079,14 @@ Each set should have 20 problems, no topic labels, random order.
 - Better long-term retention
 
 **The simple implementation:**
+
 - Switch topics every 50 minutes
 - Create mixed problem sets (don't label topics)
 - Review old material while learning new material
 - Make your practice look like your exam
 
 **The mental model shift:**
+
 ```
 Stop thinking: "I need to master Topic A, then move to Topic B"
 Start thinking: "I need to practice choosing between Topic A and Topic B"

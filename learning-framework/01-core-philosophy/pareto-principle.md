@@ -22,13 +22,15 @@ The key to efficient learning is identifying which 20% to focus on, not ignoring
 **Method**: Read through the entire syllabus and identify topics that appear multiple times or span multiple weeks.
 
 **Questions to Ask**:
+
 - What concepts are introduced early and built upon later?
 - Which topics have the most lecture time allocated?
 - What themes connect different modules/units?
 
 **Example - Introduction to Psychology**:
-- *Vital 20%*: Research methods (appears in every topic), learning theories (classical/operant conditioning), memory systems, social influence
-- *Trivial 80%*: Specific historical experiments, biographical details of psychologists, rare disorders
+
+- _Vital 20%_: Research methods (appears in every topic), learning theories (classical/operant conditioning), memory systems, social influence
+- _Trivial 80%_: Specific historical experiments, biographical details of psychologists, rare disorders
 
 **Action**: Create a "concept frequency map" - literally count how many times major topics appear across weeks.
 
@@ -39,14 +41,16 @@ The key to efficient learning is identifying which 20% to focus on, not ignoring
 **Method**: Look at past exams, assessment breakdowns, and stated learning objectives.
 
 **High-Leverage Indicators**:
+
 - Topics explicitly stated as "worth X% of final grade"
 - Question types that appear on every exam
 - Cumulative concepts (tested repeatedly)
 - Instructor's stated "essential outcomes"
 
 **Example - Calculus I**:
-- *High Weight*: Derivatives (30%), integrals (30%), limits (15%), applications (20%)
-- *Lower Weight*: Historical context (5%), proof techniques (covered but rarely tested)
+
+- _High Weight_: Derivatives (30%), integrals (30%), limits (15%), applications (20%)
+- _Lower Weight_: Historical context (5%), proof techniques (covered but rarely tested)
 
 **Action**: Create a weighted study plan where your time investment mirrors the exam weighting (or slightly overweights your weakest areas).
 
@@ -57,17 +61,19 @@ The key to efficient learning is identifying which 20% to focus on, not ignoring
 **Method**: Map out the dependency tree of concepts - which ideas must be understood before others make sense?
 
 **Recognition Patterns**:
+
 - Concepts introduced in Week 1-3 that are used throughout the course
 - Topics that, when misunderstood, cause cascading confusion
 - Foundational definitions that other concepts build upon
 
 **Example - Organic Chemistry**:
-- *Vital Prerequisites*:
+
+- _Vital Prerequisites_:
   - Electronegativity and bonding (unlocks reaction mechanisms)
   - Resonance structures (unlocks stability predictions)
   - Acid-base chemistry (unlocks reactivity patterns)
   - Functional groups (unlocks nomenclature and reactions)
-- *Dependent Concepts*: Specific reaction types, synthesis pathways, stereochemistry applications
+- _Dependent Concepts_: Specific reaction types, synthesis pathways, stereochemistry applications
 
 **Visual Mapping**: Draw a tree where root concepts are at the bottom, derivative concepts branch upward. Study from roots up.
 
@@ -78,13 +84,15 @@ The key to efficient learning is identifying which 20% to focus on, not ignoring
 **Method**: Track cross-references in lectures, textbooks, and assignments.
 
 **Signals of Importance**:
+
 - Professor says "this is foundational" or "you'll see this again"
 - Textbook chapters reference the concept in multiple sections
 - Practice problems require the concept repeatedly
 - Concept appears in both lectures AND labs/tutorials
 
 **Example - Data Structures & Algorithms**:
-- *Repeatedly Referenced*:
+
+- _Repeatedly Referenced_:
   - Big O notation (appears in every algorithm analysis)
   - Recursion (appears in trees, graphs, divide-and-conquer)
   - Hash tables (appears in optimization problems)
@@ -101,10 +109,12 @@ The key to efficient learning is identifying which 20% to focus on, not ignoring
 **Total Study Time Available**: 10 hours/week for a course
 
 **Traditional Approach** (inefficient):
+
 - Spread evenly across all material
 - 10 chapters × 1 hour each = 10 hours
 
 **Pareto Approach** (efficient):
+
 1. **Identify Core 20%** (30 minutes): Analyze syllabus, exams, prerequisites
 2. **Deep Work on Core** (6 hours): Active learning on vital concepts
 3. **Strategic Coverage of Remaining 80%** (2.5 hours): Survey, skim, understand connections
@@ -119,6 +129,7 @@ The key to efficient learning is identifying which 20% to focus on, not ignoring
 ### Mathematics - Calculus
 
 **Core 20%**:
+
 - Limit definition and evaluation
 - Derivative rules (power, product, quotient, chain)
 - Fundamental Theorem of Calculus
@@ -126,12 +137,14 @@ The key to efficient learning is identifying which 20% to focus on, not ignoring
 - Application setup (optimization, related rates)
 
 **Why This 20%**:
+
 - These unlock 80% of problems
 - Build prerequisite knowledge for advanced topics
 - Appear on every exam
 - Required for physics, engineering, economics applications
 
 **Study Strategy**:
+
 - Master these through extensive problem-solving (active)
 - Only after fluency, add L'Hôpital's rule, trig substitution, etc.
 
@@ -140,6 +153,7 @@ The key to efficient learning is identifying which 20% to focus on, not ignoring
 ### Programming - Introduction to Python
 
 **Core 20%**:
+
 - Variables, data types, and operators
 - Control flow (if/else, loops)
 - Functions (definition, parameters, return)
@@ -147,12 +161,14 @@ The key to efficient learning is identifying which 20% to focus on, not ignoring
 - Reading documentation and error messages
 
 **Why This 20%**:
+
 - 80% of code uses these constructs
 - Every program requires these fundamentals
 - Advanced topics (classes, file I/O, libraries) build on these
 - Job interviews test these heavily
 
 **Study Strategy**:
+
 - Write 50+ small programs using ONLY these concepts
 - Only after fluency, add classes, decorators, list comprehensions
 
@@ -161,6 +177,7 @@ The key to efficient learning is identifying which 20% to focus on, not ignoring
 ### Biology - Cell Biology
 
 **Core 20%**:
+
 - Cell membrane structure and transport
 - ATP and cellular respiration overview
 - DNA → RNA → Protein (Central Dogma)
@@ -168,11 +185,13 @@ The key to efficient learning is identifying which 20% to focus on, not ignoring
 - Cell cycle and mitosis
 
 **Why This 20%**:
+
 - Foundation for molecular biology, genetics, physiology
 - Explains mechanisms in most exam questions
 - Connects to disease, medicine, biotechnology
 
 **Study Strategy**:
+
 - Create detailed diagrams of these processes
 - Teach them aloud without notes
 - Connect every new topic back to these fundamentals
@@ -182,6 +201,7 @@ The key to efficient learning is identifying which 20% to focus on, not ignoring
 ### Business - Financial Accounting
 
 **Core 20%**:
+
 - Accounting equation (Assets = Liabilities + Equity)
 - Double-entry bookkeeping
 - Income statement vs Balance sheet vs Cash flow
@@ -189,11 +209,13 @@ The key to efficient learning is identifying which 20% to focus on, not ignoring
 - Journal entries for common transactions
 
 **Why This 20%**:
+
 - Every financial statement derives from these
 - Exams test application of these principles
 - Professional accounting uses these daily
 
 **Study Strategy**:
+
 - Practice 100+ journal entries
 - Create financial statements from scratch
 - Explain the logic behind accrual accounting
@@ -207,12 +229,14 @@ The key to efficient learning is identifying which 20% to focus on, not ignoring
 **Method**: Analyze past exams (minimum 3, ideally 5+) and categorize questions.
 
 **Analysis Process**:
+
 1. Group questions by topic
 2. Count frequency of each topic
 3. Note difficulty level and point values
 4. Identify recurring question formats
 
 **Example - Statistics Exam Analysis**:
+
 ```
 Topic                    | Frequency | Avg Points | Total Weight
 -------------------------|-----------|------------|-------------
@@ -226,6 +250,7 @@ Descriptive statistics   | 2/5 exams | 8 points   | 8%
 **Pareto Insight**: Hypothesis testing + confidence intervals = 63% of exam. Mastering these guarantees passing, even if weak on other topics.
 
 **Study Allocation**:
+
 - 50% of prep time: Hypothesis testing (all types, assumptions, interpretations)
 - 30% of prep time: Confidence intervals (calculation, interpretation, conditions)
 - 20% of prep time: Other topics (enough to pick up partial credit)
@@ -237,16 +262,19 @@ Descriptive statistics   | 2/5 exams | 8 points   | 8%
 **Traditional Approach**: Work through problems sequentially, spending equal time on each.
 
 **Pareto Approach**:
+
 1. **Identify Problem Archetypes** (20% of problem types that appear 80% of the time)
 2. **Master Core Problems** (practice each archetype 10+ times)
 3. **Timed Simulation** (practice core types under exam conditions)
 4. **Strategic Coverage** (attempt non-core types once or twice for familiarity)
 
 **Example - Physics Problem Types**:
-- *Core Archetypes*: Force diagrams, energy conservation, projectile motion, circuits (Ohm's law)
-- *Less Frequent*: Rotational dynamics, fluid mechanics, thermodynamics applications
+
+- _Core Archetypes_: Force diagrams, energy conservation, projectile motion, circuits (Ohm's law)
+- _Less Frequent_: Rotational dynamics, fluid mechanics, thermodynamics applications
 
 **Practice Plan** (10 hours available):
+
 - 7 hours: Core archetypes (until automatic)
 - 2 hours: Mixed practice (build flexibility)
 - 1 hour: Less frequent types (awareness only)
@@ -258,6 +286,7 @@ Descriptive statistics   | 2/5 exams | 8 points   | 8%
 ### Capture Key Concepts, Not Everything
 
 **The Problem with Transcription**: Trying to write everything the professor says results in:
+
 - Cognitive overload during lecture
 - Unfocused, cluttered notes
 - Inability to distinguish important from trivial
@@ -268,6 +297,7 @@ Descriptive statistics   | 2/5 exams | 8 points   | 8%
 ### What to Capture (The Vital 20%)
 
 **High-Value Note Content**:
+
 1. **Core definitions** (stated as "this is important" or written on board)
 2. **Frameworks and models** (diagrams, theories, step-by-step processes)
 3. **Examples that illustrate principles** (especially unusual or clarifying ones)
@@ -276,6 +306,7 @@ Descriptive statistics   | 2/5 exams | 8 points   | 8%
 6. **Your own confusion points** (flag for later review)
 
 **Low-Value Note Content** (skim or skip):
+
 - Anecdotes and stories (unless they illustrate a concept)
 - Extended examples you can find in the textbook
 - Verbatim readings from slides
@@ -286,6 +317,7 @@ Descriptive statistics   | 2/5 exams | 8 points   | 8%
 ### The Cornell Method for Pareto Note-Taking
 
 **Structure**:
+
 ```
 +-----------------------+
 | Cues/Questions        | Notes (Main Ideas Only)
@@ -303,6 +335,7 @@ Descriptive statistics   | 2/5 exams | 8 points   | 8%
 **During Lecture**: Fill notes section with ONLY core ideas (use abbreviations, bullet points).
 
 **After Lecture** (within 24 hours):
+
 1. Fill "Cues" column with questions that core notes answer
 2. Write summary: "If I could only remember 3 things from today, what would they be?"
 
@@ -317,6 +350,7 @@ Descriptive statistics   | 2/5 exams | 8 points   | 8%
 **Traditional Notes**: 6 pages of dense text, diagrams copied from slides, every step of glycolysis transcribed.
 
 **Pareto Notes** (1.5 pages):
+
 ```
 CUES                    | NOTES
 ------------------------|----------------------------------
@@ -352,6 +386,7 @@ all biological work.
 ### The Completeness Paradox
 
 **The Trap**: Pareto misapplied can mean ignoring vast swaths of material, leading to:
+
 - Gaps in understanding when the "trivial" is actually necessary context
 - Poor performance on exams that test breadth, not just depth
 - Inability to integrate advanced topics that build on the 80%
@@ -361,18 +396,22 @@ all biological work.
 ### The 80/20/20 Strategy
 
 **Reframe**:
+
 - **80% of your EFFORT** goes to the vital 20% of material (deep mastery)
 - **20% of your EFFORT** goes to the remaining 80% of material (strategic coverage)
 
 **Practical Application**:
+
 - **Core 20%**: Multiple passes, active recall, teach others, practice problems until automatic
 - **Remaining 80%**: Single pass, understand main ideas, recognize when concepts appear, know where to find details
 
 **Example - Marketing Course**:
-- *Core 20% (80% of effort)*: 4 Ps, STP (segmentation/targeting/positioning), consumer behavior models, marketing metrics (ROI, CAC, LTV)
-- *Remaining 80% (20% of effort)*: History of marketing, specific ad campaign case studies, industry trends, international considerations
+
+- _Core 20% (80% of effort)_: 4 Ps, STP (segmentation/targeting/positioning), consumer behavior models, marketing metrics (ROI, CAC, LTV)
+- _Remaining 80% (20% of effort)_: History of marketing, specific ad campaign case studies, industry trends, international considerations
 
 **Study Plan**:
+
 - Week 1-8: Deep work on core 20%, skim readings on remaining 80%
 - Week 9-10: Quick review pass on remaining 80%, integration practice
 - Week 11-12: Mixed practice, identify gaps, polish weaknesses
@@ -382,6 +421,7 @@ all biological work.
 ### When the 80% Matters More Than You Think
 
 **Indicators That You Need More Breadth**:
+
 1. **Essay exams**: Require examples and applications from across the course
 2. **Cumulative finals**: Test recognition of all topics, even if lightly
 3. **Professional applications**: Real-world scenarios draw from full knowledge base
@@ -390,6 +430,7 @@ all biological work.
 **Adjustment**: Shift to 70/30 or 60/40 effort allocation, ensuring you're not blindsided.
 
 **Example - History Course**:
+
 - Cannot rely on 20% of events/periods if exam requires comparative essays across different eras
 - **Better strategy**: Deep dive on 20% (thesis development, primary source analysis, historiography), but survey ALL periods for examples and context
 
@@ -400,6 +441,7 @@ all biological work.
 ### Pattern Recognition for High-Leverage Material
 
 **Coaching Prompt for LLM**:
+
 ```
 I'm studying [COURSE NAME]. Help me identify the core 20% of concepts
 that will yield 80% of understanding and exam performance.
@@ -417,6 +459,7 @@ Please analyze and provide:
 ```
 
 **LLM Analysis Output Example**:
+
 ```
 VITAL 20% FOR MICROECONOMICS:
 1. Supply & Demand (foundation for all market analysis)
@@ -450,6 +493,7 @@ WARNING SIGNS OF TRIVIAL FOCUS:
 ### Implementation Patterns for Students
 
 **Pattern 1: Syllabus Mining**
+
 ```
 Action: Upload syllabus to LLM
 Prompt: "Identify recurring themes and concepts that appear in multiple weeks"
@@ -458,6 +502,7 @@ Application: Prioritize high-frequency concepts in study schedule
 ```
 
 **Pattern 2: Exam Reverse-Engineering**
+
 ```
 Action: Compile 3-5 past exams
 Prompt: "Categorize questions by topic, calculate percentage coverage, identify archetypes"
@@ -466,6 +511,7 @@ Application: Practice time mirrors exam weightings
 ```
 
 **Pattern 3: Prerequisite Mapping**
+
 ```
 Action: List all course topics
 Prompt: "Create a dependency tree showing which concepts are prerequisites for others"
@@ -474,6 +520,7 @@ Application: Study from foundation up, ensuring no gaps in prerequisite knowledg
 ```
 
 **Pattern 4: Professor Signal Detection**
+
 ```
 Action: Review lecture notes/transcripts
 Prompt: "Identify phrases indicating high-importance content (e.g., 'this is crucial', 'you'll see this again')"
@@ -488,6 +535,7 @@ Application: Cross-reference with other Pareto indicators to confirm core 20%
 **When Students Ask: "What should I focus on?"**
 
 **LLM Response Framework**:
+
 1. **Gather Data**: "Share your syllabus, assignment types, and any past exams you have access to."
 2. **Analyze**: Identify recurring themes, weighted assessments, prerequisite concepts.
 3. **Prioritize**: Present vital 20% with clear justification (not arbitrary).
@@ -497,18 +545,21 @@ Application: Cross-reference with other Pareto indicators to confirm core 20%
 **When Students Ask: "Am I studying the right things?"**
 
 **LLM Diagnostic Questions**:
+
 - "What topics are you spending the most time on?"
 - "Have you checked if these appear frequently on exams?"
 - "Are you studying what's difficult for you vs what's important for the course?"
 - "Can you explain how this topic connects to others, or is it isolated?"
 
 **Red Flags** (students focusing on trivial 80%):
+
 - Spending equal time on all topics without regard to weighting
 - Deep-diving into interesting but tangential content
 - Memorizing details without understanding core principles
 - Avoiding challenging core concepts in favor of easier peripheral ones
 
 **Corrective Coaching**:
+
 - Redirect to exam analysis: "Let's look at what actually gets tested."
 - Emphasize dependency: "Master this prerequisite first, then the rest gets easier."
 - Reframe difficulty: "This feels hard because it's important. Let's break it down."
@@ -518,6 +569,7 @@ Application: Cross-reference with other Pareto indicators to confirm core 20%
 ### Meta-Insight: The Pareto Principle Applied to the Pareto Principle
 
 **The Core 20% of This Document**:
+
 1. **20% of concepts yield 80% of results** (the principle itself)
 2. **Analyze exams and syllabi to find the 20%** (identification method)
 3. **Allocate 80% of effort to core 20%, 20% of effort to remaining 80%** (strategic allocation)

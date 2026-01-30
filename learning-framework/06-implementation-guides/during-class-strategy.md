@@ -17,6 +17,7 @@ Traditional note-taking is passive transcription. You write what the professor s
 ### The Transcription Trap
 
 **What most students do**:
+
 1. Professor talks
 2. Student writes down what professor says
 3. Student's brain is focused on writing, not understanding
@@ -27,12 +28,14 @@ Traditional note-taking is passive transcription. You write what the professor s
 ### The Research
 
 **Studies show**:
+
 - Students who take verbatim notes perform WORSE on tests than students who take minimal notes
 - Laptops encourage transcription → worse retention than handwriting
 - More notes ≠ more learning (often inverse correlation)
 - Retrieval practice during lectures > comprehensive notes after
 
 **Why it fails**:
+
 - Your brain is busy transcribing, not encoding
 - No processing = no deep memory formation
 - You feel productive but you're not learning
@@ -41,6 +44,7 @@ Traditional note-taking is passive transcription. You write what the professor s
 ### The Question-Based Alternative
 
 **Instead**:
+
 1. Professor talks
 2. Student generates questions about the content
 3. Student's brain processes to formulate questions
@@ -55,12 +59,14 @@ Traditional note-taking is passive transcription. You write what the professor s
 ### Core Rule: ONLY Write Questions
 
 **What this means**:
+
 - Every line you write must end with a question mark
 - NO copying professor's words
 - NO writing answers during lecture
 - ONLY questions
 
 **Why this works**:
+
 - Forces active processing (can't generate question without understanding topic)
 - Creates retrieval cues for later study
 - Identifies knowledge gaps in real-time
@@ -69,6 +75,7 @@ Traditional note-taking is passive transcription. You write what the professor s
 **Example comparison**:
 
 **Traditional notes** (transcription):
+
 ```
 Photosynthesis
 - Process by which plants convert light to chemical energy
@@ -80,6 +87,7 @@ Photosynthesis
 ```
 
 **Question-based notes** (active):
+
 ```
 Photosynthesis
 - What is photosynthesis?
@@ -103,6 +111,7 @@ Photosynthesis
 ### Step 1: Convert Slide Titles to Questions (Easiest)
 
 **What to do**:
+
 1. Professor shows slide with title
 2. Convert title to question format
 3. Write it down
@@ -110,13 +119,13 @@ Photosynthesis
 
 **Examples**:
 
-| Slide Title | Question |
-|------------|----------|
-| "Use of Operational Amplifiers" | What is an operational amplifier? |
-| "The French Revolution" | What was the French Revolution? |
-| "Krebs Cycle" | What is the Krebs cycle? |
-| "Supply and Demand Equilibrium" | What is supply and demand equilibrium? |
-| "Mitosis vs. Meiosis" | What is the difference between mitosis and meiosis? |
+| Slide Title                     | Question                                            |
+| ------------------------------- | --------------------------------------------------- |
+| "Use of Operational Amplifiers" | What is an operational amplifier?                   |
+| "The French Revolution"         | What was the French Revolution?                     |
+| "Krebs Cycle"                   | What is the Krebs cycle?                            |
+| "Supply and Demand Equilibrium" | What is supply and demand equilibrium?              |
+| "Mitosis vs. Meiosis"           | What is the difference between mitosis and meiosis? |
 
 **This is your baseline**: Every slide title = at least one question.
 
@@ -129,6 +138,7 @@ Go beyond simple "what is" questions using these prompts:
 #### Prompt Type 1: Relationship Questions
 
 **Stems**:
+
 - "How does X relate to Y?"
 - "What's the connection between X and Y?"
 - "How does X affect Y?"
@@ -136,6 +146,7 @@ Go beyond simple "what is" questions using these prompts:
 **When to use**: Professor mentions two concepts together
 
 **Examples**:
+
 - "How does temperature relate to enzyme activity?"
 - "What's the connection between supply and demand?"
 - "How does mitochondria relate to ATP production?"
@@ -143,6 +154,7 @@ Go beyond simple "what is" questions using these prompts:
 #### Prompt Type 2: Example Questions
 
 **Stems**:
+
 - "What is an example of X?"
 - "Can you provide a real-world application of X?"
 - "What's a specific case of X?"
@@ -150,6 +162,7 @@ Go beyond simple "what is" questions using these prompts:
 **When to use**: Professor explains abstract concept
 
 **Examples**:
+
 - "What is an example of natural selection?"
 - "What's a real-world application of derivatives?"
 - "What's a specific case of market failure?"
@@ -157,6 +170,7 @@ Go beyond simple "what is" questions using these prompts:
 #### Prompt Type 3: Process Questions
 
 **Stems**:
+
 - "What are the steps in process X?"
 - "How does X happen?"
 - "What is the sequence of X?"
@@ -164,6 +178,7 @@ Go beyond simple "what is" questions using these prompts:
 **When to use**: Professor describes any multi-step process
 
 **Examples**:
+
 - "What are the steps in the scientific method?"
 - "How does protein synthesis happen?"
 - "What is the sequence of events in an action potential?"
@@ -171,6 +186,7 @@ Go beyond simple "what is" questions using these prompts:
 #### Prompt Type 4: Reason Questions
 
 **Stems**:
+
 - "Why does X happen?"
 - "What causes X?"
 - "What's the reason for X?"
@@ -178,6 +194,7 @@ Go beyond simple "what is" questions using these prompts:
 **When to use**: Professor explains causation or mechanism
 
 **Examples**:
+
 - "Why does ice float on water?"
 - "What causes inflation?"
 - "What's the reason for cell differentiation?"
@@ -185,6 +202,7 @@ Go beyond simple "what is" questions using these prompts:
 #### Prompt Type 5: Comparison Questions
 
 **Stems**:
+
 - "How is X different from Y?"
 - "What do X and Y have in common?"
 - "Compare and contrast X and Y"
@@ -192,6 +210,7 @@ Go beyond simple "what is" questions using these prompts:
 **When to use**: Professor mentions two related concepts
 
 **Examples**:
+
 - "How is DNA different from RNA?"
 - "What do classical and operant conditioning have in common?"
 - "Compare and contrast socialism and capitalism"
@@ -199,6 +218,7 @@ Go beyond simple "what is" questions using these prompts:
 #### Prompt Type 6: Application Questions
 
 **Stems**:
+
 - "How would you use X in scenario Y?"
 - "What would happen if X?"
 - "How can X solve problem Y?"
@@ -206,6 +226,7 @@ Go beyond simple "what is" questions using these prompts:
 **When to use**: Professor discusses practical applications
 
 **Examples**:
+
 - "How would you use integration to find area under a curve?"
 - "What would happen if there were no ozone layer?"
 - "How can game theory solve negotiation problems?"
@@ -215,6 +236,7 @@ Go beyond simple "what is" questions using these prompts:
 ### Step 3: Mine Lecture Objectives (Free Questions)
 
 **What to do**:
+
 1. If professor lists lecture objectives at start, write them as questions
 2. These are guaranteed exam-relevant questions
 3. One objective = one or more questions
@@ -224,6 +246,7 @@ Go beyond simple "what is" questions using these prompts:
 **Professor says**: "Today's objectives are to understand the structure of DNA, explain base pairing, and describe DNA replication"
 
 **Your questions**:
+
 ```
 - What is the structure of DNA?
 - What is base pairing?
@@ -240,6 +263,7 @@ Go beyond simple "what is" questions using these prompts:
 ### Step 4: Convert Diagrams to Questions
 
 **What to do**:
+
 1. Professor shows diagram/graph/figure
 2. Don't copy the diagram (waste of time)
 3. Instead, write questions about it
@@ -250,6 +274,7 @@ Go beyond simple "what is" questions using these prompts:
 **Professor shows Figure 5.3: Cell Membrane Structure**
 
 **Your questions**:
+
 ```
 - What are the main components of the cell membrane? (Fig 5.3)
 - How are phospholipids arranged in the membrane? (Fig 5.3)
@@ -266,19 +291,23 @@ Go beyond simple "what is" questions using these prompts:
 ### Step 5: Flag Emphasis and Confusion
 
 **What to do**:
+
 1. Add markers to your questions for later prioritization
 
 **Emphasis markers** (professor says "this is important"):
+
 - ⭐ = Professor emphasized
 - EXAM = Professor said "this will be on the exam"
 - ⚠️ = Repeated multiple times
 
 **Confusion markers** (you don't understand):
+
 - ??? = Very confused
 - ? = Somewhat confused
 - ❗ = Contradicts what you thought
 
 **Example**:
+
 ```
 - What is entropy? ???
 - How does entropy relate to the second law of thermodynamics? ?
@@ -293,6 +322,7 @@ Go beyond simple "what is" questions using these prompts:
 ### Step 6: Include Prior Knowledge Questions
 
 **What to do**:
+
 1. When professor mentions previous topic, create connection question
 2. This builds integrated knowledge
 
@@ -301,6 +331,7 @@ Go beyond simple "what is" questions using these prompts:
 **Professor says**: "This is similar to what we learned about ionic bonding last week"
 
 **Your question**:
+
 ```
 - How is covalent bonding similar to ionic bonding?
 - How is covalent bonding different from ionic bonding?
@@ -315,12 +346,14 @@ Go beyond simple "what is" questions using these prompts:
 **Key principle**: MOVE QUICKLY, don't get stuck
 
 **What this means**:
+
 - Imperfect question > no question
 - Don't spend time making questions "perfect"
 - Don't worry about grammar or complete sentences
 - If you miss something, move on
 
 **Example of "good enough" questions**:
+
 ```
 ✓ "What's mitosis?"
 ✓ "Mitosis steps?"
@@ -332,6 +365,7 @@ Go beyond simple "what is" questions using these prompts:
 **Speed benchmark**: 1 question every 60-90 seconds = 20-30 questions per lecture
 
 **Why speed matters**:
+
 - Professor keeps talking (you'll miss content if you're perfecting questions)
 - You can refine questions during immediate review
 - Quantity of retrieval cues > quality of question wording
@@ -343,11 +377,13 @@ Go beyond simple "what is" questions using these prompts:
 ### First 5 Minutes of Lecture
 
 **What typically happens**:
+
 1. Professor outlines today's topic
 2. Lists learning objectives
 3. Connects to previous lecture
 
 **What you do**:
+
 1. Write down topic as a question: "What is [topic]?"
 2. Convert each objective to a question
 3. Write connection question: "How does this relate to [previous topic]?"
@@ -357,12 +393,14 @@ Go beyond simple "what is" questions using these prompts:
 ### Middle of Lecture (Main Content)
 
 **What typically happens**:
+
 1. Professor presents slides
 2. Explains concepts
 3. Shows diagrams/examples
 4. Emphasizes key points
 
 **What you do**:
+
 1. Convert each slide title to question
 2. Add depth questions using prompts (how, why, example, etc.)
 3. Flag emphasized points (⭐)
@@ -376,11 +414,13 @@ Go beyond simple "what is" questions using these prompts:
 ### Last 5 Minutes of Lecture
 
 **What typically happens**:
+
 1. Professor summarizes
 2. Answers student questions
 3. Previews next lecture
 
 **What you do**:
+
 1. Write summary question: "What are the main points of today's lecture?"
 2. If other students ask questions, write those questions down
 3. Write preview question: "What will we learn about [next topic]?"
@@ -396,6 +436,7 @@ Go beyond simple "what is" questions using these prompts:
 **Challenge**: Hard to keep up with rapid information delivery
 
 **Solutions**:
+
 1. Use abbreviations for common terms
 2. Write shorter questions (fragments OK)
 3. Focus on slide titles only (skip depth questions if necessary)
@@ -409,6 +450,7 @@ Go beyond simple "what is" questions using these prompts:
 **Challenge**: Lots of examples/stories, unclear what's important
 
 **Solutions**:
+
 1. For each story: "What concept does this story illustrate?"
 2. For each example: "What is this an example of?"
 3. Don't write the story details, write questions about the underlying principle
@@ -419,6 +461,7 @@ Go beyond simple "what is" questions using these prompts:
 
 **Don't write**: [5 minutes of story details]
 **Do write**:
+
 ```
 - What did Watson and Crick discover?
 - How did Watson and Crick discover DNA structure?
@@ -431,6 +474,7 @@ Go beyond simple "what is" questions using these prompts:
 **Challenge**: Professor works through problem on board
 
 **Solutions**:
+
 1. Don't copy the problem-solving steps
 2. Instead, write questions about the process
 3. Note problem number for reference
@@ -441,6 +485,7 @@ Go beyond simple "what is" questions using these prompts:
 
 **Don't write**: [All the algebraic steps]
 **Do write**:
+
 ```
 Problem 3.4:
 - What method is used to solve this integral?
@@ -457,6 +502,7 @@ Problem 3.4:
 **Challenge**: No structured content delivery, student-led discussion
 
 **Solutions**:
+
 1. Write questions about each point raised
 2. For debates: "What are arguments for X?" "What are arguments against X?"
 3. For interpretations: "How does [Student A] interpret this?" "How is that different from [Student B]?"
@@ -469,12 +515,14 @@ Problem 3.4:
 **Challenge**: Watching demonstrations or doing experiments
 
 **Solutions**:
+
 1. Before demo: "What do I predict will happen?"
 2. During demo: "What's happening and why?"
 3. After demo: "How does this demonstrate principle X?"
 4. For procedures: "What are the steps?" "Why do we do step X?"
 
 **Example** (Chemistry lab: Titration):
+
 ```
 - What is titration?
 - What is the purpose of this titration?
@@ -492,6 +540,7 @@ Problem 3.4:
 ### Challenge 1: "The professor doesn't use slides"
 
 **Solutions**:
+
 1. Listen for topic transitions ("Now let's talk about X")
 2. Each transition = new question: "What is X?"
 3. Listen for signal phrases:
@@ -503,6 +552,7 @@ Problem 3.4:
 ### Challenge 2: "I can't think of questions fast enough"
 
 **Solutions**:
+
 1. Start with easiest: Convert every heading/topic to "What is X?"
 2. Template questions (memorize these):
    - "What is X?"
@@ -515,11 +565,13 @@ Problem 3.4:
 ### Challenge 3: "I'm worried I'm missing information"
 
 **Reframe**:
+
 - You're not here to record ALL information
 - You're here to identify KEY information
 - Questions capture concepts; details can be looked up
 
 **Safety nets**:
+
 1. Lecture slides usually posted (you can review later)
 2. Textbook has the details
 3. Your questions guide what to look up
@@ -534,6 +586,7 @@ Problem 3.4:
 **But professor was actually explaining**: Light-dependent reactions
 
 **This is FINE because**:
+
 1. During immediate review, you'll realize and adjust
 2. You were engaged enough to generate a question
 3. "Wrong" questions still create processing
@@ -544,11 +597,13 @@ Problem 3.4:
 ### Challenge 5: "I zone out and miss parts of lecture"
 
 **This actually happens LESS with question-based notes because**:
+
 - Active questioning keeps you engaged
 - You can't write questions if you're not paying attention
 - Each question is a mini-attention check
 
 **If you do zone out**:
+
 1. Draw a line: "— missed section —"
 2. Ask classmate later what was covered
 3. Generate questions about that section from textbook
@@ -556,11 +611,13 @@ Problem 3.4:
 ### Challenge 6: "Some slides have no clear question"
 
 **Examples**:
+
 - Agenda slides
 - Image-only slides
 - Quote slides
 
 **Solutions**:
+
 1. Agenda slide: "What are we covering today?" (one question, move on)
 2. Image slide: "What does this image illustrate?" or "Why did professor show this?"
 3. Quote slide: "What does this quote mean?" or "How does this quote relate to the topic?"
@@ -576,6 +633,7 @@ Problem 3.4:
 **What**: Organize questions by main topic and sub-topics
 
 **How**:
+
 ```
 Main Topic: Cellular Respiration
   - What is cellular respiration?
@@ -597,6 +655,7 @@ Main Topic: Cellular Respiration
 **What**: Write questions at different cognitive levels
 
 **How**:
+
 - **Remember**: "What is X?"
 - **Understand**: "How does X work?"
 - **Apply**: "How would you use X in situation Y?"
@@ -607,6 +666,7 @@ Main Topic: Cellular Respiration
 **Why**: Higher-level questions = deeper encoding
 
 **Example** (Photosynthesis):
+
 ```
 Remember: What is photosynthesis?
 Understand: How does photosynthesis produce glucose?
@@ -621,6 +681,7 @@ Create: How would you design an artificial photosynthesis system?
 **What**: Predict professor's next point as a question
 
 **How**:
+
 1. After professor explains X, predict they'll explain Y next
 2. Write: "What is Y?" before they get to it
 3. If correct: You're tracking well
@@ -640,6 +701,7 @@ Create: How would you design an artificial photosynthesis system?
 **What**: Questions about the learning itself
 
 **How**:
+
 - "Why is this important?"
 - "How does this connect to course objectives?"
 - "What should I focus on for the exam?"
@@ -648,6 +710,7 @@ Create: How would you design an artificial photosynthesis system?
 **When**: When professor doesn't make relevance clear
 
 **Example**:
+
 ```
 Professor explains eigenvalues for 20 minutes
 You write:
@@ -664,6 +727,7 @@ You write:
 **What**: Questions you'd ask a study partner
 
 **How**:
+
 - "How would you explain X to someone who hasn't taken this course?"
 - "What's a good analogy for X?"
 - "What's the simplest way to think about X?"
@@ -677,11 +741,13 @@ You write:
 ### How Pretesting Connects to Question-Based Notes
 
 **Before class** (pretest):
+
 - You attempted problems and got many wrong
 - You identified gaps
 - You created priority questions
 
 **During class** (question-based notes):
+
 - Use your priority questions from pretest
 - Write additional questions as lecture progresses
 - Flag when professor answers your pretest questions
@@ -691,6 +757,7 @@ You write:
 **Pretest question**: "How does NADH create ATP?"
 **During lecture**: Professor explains electron transport chain
 **You write**:
+
 ```
 ⭐ How does NADH create ATP? [from pretest]
 - What is the electron transport chain?
@@ -703,11 +770,13 @@ You write:
 ### How Question-Based Notes Connect to Immediate Review
 
 **During class**:
+
 - You write 20-40 questions
 - You don't write answers
 - Some questions are incomplete or unclear
 
 **Immediately after class** (review):
+
 - Attempt to answer each question from memory
 - Reformulate unclear questions
 - Color code based on how well you can answer
@@ -715,11 +784,13 @@ You write:
 **Example**:
 
 **During class** (rushed question):
+
 ```
 - mitosis phases??
 ```
 
 **Immediately after class** (reformulated and answered):
+
 ```
 - What are the phases of mitosis?
   [Attempt to answer from memory]
@@ -739,6 +810,7 @@ You write:
 ### Quantity Metrics
 
 After each lecture, count:
+
 - [ ] How many questions did I write? (Target: 20-40)
 - [ ] How many slides/topics covered? (Ratio should be 2-3 questions per topic)
 - [ ] Did I have gaps where I wrote no questions? (Red flag)
@@ -746,6 +818,7 @@ After each lecture, count:
 ### Quality Metrics
 
 After each lecture, assess:
+
 - [ ] Do my questions go beyond "what is"? (Target: 50%+ deeper questions)
 - [ ] Did I include emphasis markers (⭐, EXAM)? (Shows I tracked importance)
 - [ ] Did I flag confusion (???)? (Shows honest engagement)
@@ -754,6 +827,7 @@ After each lecture, assess:
 ### Engagement Metrics
 
 Self-reflection:
+
 - [ ] Did I feel more engaged than with traditional notes?
 - [ ] Did I zone out less?
 - [ ] Can I remember more from this lecture than usual?
@@ -764,6 +838,7 @@ Self-reflection:
 ### Learning Metrics (longer term)
 
 After first exam:
+
 - [ ] Did lectures with question-based notes yield better retention?
 - [ ] Did question-based notes make studying easier?
 - [ ] Did exam questions feel familiar (because you'd already created similar questions)?
@@ -778,6 +853,7 @@ After first exam:
 ### Implementation Checklist
 
 #### First Lecture (Trial Run)
+
 - [ ] Bring notebook labeled "Questions Only"
 - [ ] Write "NO ANSWERS, ONLY QUESTIONS" at top of page
 - [ ] Start with simple "What is X?" for every topic
@@ -786,6 +862,7 @@ After first exam:
 - [ ] Do immediate review after class (critical for first time)
 
 #### First Week (Building Habit)
+
 - [ ] Question-based notes for all lectures
 - [ ] Track quantity (count questions per lecture)
 - [ ] Compare engagement level to previous semester
@@ -793,6 +870,7 @@ After first exam:
 - [ ] Practice speed (faster question generation)
 
 #### First Month (Mastery)
+
 - [ ] Consistently 20-40 questions per lecture
 - [ ] Using variety of question prompts (how, why, example, etc.)
 - [ ] Hierarchical organization developing
@@ -888,26 +966,32 @@ Use this structure for every lecture:
 
 ```markdown
 # [Course Name] - [Date]
+
 ## Topic: [Today's Topic]
 
 ### Pre-Lecture (from pretest):
+
 Priority questions identified:
+
 - [Question from pretest]
 - [Question from pretest]
 
 ### Lecture Questions:
 
 [Time: Start] **Introduction**
+
 - [Question 1]
 - [Question 2]
 
 [Time: 9:15 AM] **Topic A: [Name]**
+
 - [Question 3] ⭐
 - [Question 4]
 - [Question 5] ???
 - [Question 6] EXAM
 
 [Time: 9:30 AM] **Topic B: [Name]**
+
 - [Question 7]
 - [Question 8]
 - [Question 9] ?
@@ -915,13 +999,17 @@ Priority questions identified:
 [Continue for all topics...]
 
 ### Summary:
+
 - What were the main points of today's lecture?
 
 ### For Next Lecture:
+
 - What will we learn about next?
 
 ---
+
 **Lecture Stats:**
+
 - Total questions: [Count]
 - Emphasis markers (⭐, EXAM): [Count]
 - Confusion markers (???): [Count]
@@ -973,18 +1061,20 @@ Every Sunday, review the week:
 ## Question-Based Notes Review: Week of [Date]
 
 ### Quantity Analysis:
-| Lecture | Questions Written | Target (20-40) | On Track? |
-|---------|------------------|----------------|-----------|
-| Monday Bio | 28 | ✓ | Yes |
-| Monday Chem | 15 | ✗ | No - improve |
-| Tuesday Physics | 35 | ✓ | Yes |
-| Wednesday Bio | 32 | ✓ | Yes |
-| Thursday Chem | 22 | ✓ | Yes |
+
+| Lecture         | Questions Written | Target (20-40) | On Track?    |
+| --------------- | ----------------- | -------------- | ------------ |
+| Monday Bio      | 28                | ✓              | Yes          |
+| Monday Chem     | 15                | ✗              | No - improve |
+| Tuesday Physics | 35                | ✓              | Yes          |
+| Wednesday Bio   | 32                | ✓              | Yes          |
+| Thursday Chem   | 22                | ✓              | Yes          |
 
 **Average**: [X questions per lecture]
 **Goal for next week**: [Target]
 
 ### Quality Analysis:
+
 - **Depth**: What % of questions go beyond "what is"?
   - This week: [%]
   - Goal: 50%+
@@ -1000,17 +1090,20 @@ Every Sunday, review the week:
   - EXAM markers used: [Count]
 
 ### Effectiveness Analysis:
+
 - Did question-based notes make immediate review easier? [Y/N]
 - Did I feel more engaged during lectures? [Y/N]
 - Am I retaining material better? [Y/N]
 - Are my questions showing up on exams/quizzes? [Y/N]
 
 ### Challenges This Week:
+
 - [What was difficult]
 - [What didn't work]
 - [Where I struggled]
 
 ### Improvements for Next Week:
+
 - [ ] [Specific improvement 1]
 - [ ] [Specific improvement 2]
 - [ ] [Specific improvement 3]
@@ -1023,6 +1116,7 @@ Every Sunday, review the week:
 ### The First Lecture Will Feel Strange
 
 **What to expect**:
+
 - Awkward: "I'm not writing any notes!"
 - Anxiety: "I'm missing information!"
 - Uncertainty: "Am I doing this right?"
@@ -1033,26 +1127,32 @@ Every Sunday, review the week:
 ### Start Simple, Add Complexity
 
 **Week 1**: Just convert slide titles to "What is X?" questions
+
 - This alone will generate 15-20 questions per lecture
 - Build the habit of writing questions, not answers
 
 **Week 2**: Add one layer of depth per slide
+
 - Slide title: "What is X?"
 - Plus one: "How does X work?" or "Why does X matter?"
 
 **Week 3**: Add variety of question types
+
 - Use different prompts (examples, comparisons, processes)
 
 **Week 4**: Add markers and hierarchy
+
 - Flag emphasis (⭐), confusion (???), structure (sub-topics)
 
 ### Trust That Answers Come Later
 
 **The hardest mental shift**:
+
 - Traditional notes: Capture answers now
 - Question-based notes: Capture questions now, answers later
 
 **Reminder**:
+
 - Lecture is for generating questions (engagement)
 - Immediate review is for answering questions (retrieval)
 - Answers can be found in textbook, slides, classmates
@@ -1062,6 +1162,7 @@ Every Sunday, review the week:
 ### Compare After First Exam
 
 **The proof**:
+
 1. Take question-based notes for half your classes
 2. Take traditional notes for other half
 3. After first exam, compare:
@@ -1077,11 +1178,13 @@ Every Sunday, review the week:
 ### This Works Because
 
 **During lecture**:
+
 - You're processing (not transcribing) → deeper encoding
 - You're identifying gaps (not copying) → metacognitive awareness
 - You're engaged (not passive) → sustained attention
 
 **After lecture**:
+
 - You have retrieval cues (questions) not summaries (answers)
 - You practice retrieval (answering) not recognition (reading)
 - You have clear feedback (can/can't answer) not illusion of knowledge

@@ -9,6 +9,7 @@ The Pretty Notes Trap is the investment of significant time and effort into crea
 ### Time Allocation Analysis
 
 **Student in the Trap**:
+
 - Attends 1-hour lecture
 - Spends 2-3 hours rewriting notes with:
   - Color-coded highlighting system
@@ -21,6 +22,7 @@ The Pretty Notes Trap is the investment of significant time and effort into crea
 - Retention after 1 week: ~30%
 
 **Student Using Evidence-Based Methods**:
+
 - Attends 1-hour lecture with minimal notes (key concepts only)
 - Spends 30-45 minutes:
   - Attempting to recall lecture content without notes
@@ -48,6 +50,7 @@ Pretty notes optimize for #1 at the expense of #2. But #1 doesn't matter if you 
 Social media platforms have created a visual culture around studying:
 
 **What gets likes on "Studytok" and "StudyGram"**:
+
 - Aesthetic desk setups with perfect lighting
 - Color-coordinated note spreads with calligraphy
 - Highlighter collections and stationery hauls
@@ -55,6 +58,7 @@ Social media platforms have created a visual culture around studying:
 - Before/after organization transformations
 
 **What doesn't get likes**:
+
 - Struggling through practice problems
 - Messy scratch paper with work shown
 - Flashcard reviews (boring to watch)
@@ -64,10 +68,12 @@ Social media platforms have created a visual culture around studying:
 ### The Performative Study Culture
 
 Social media incentivizes VISIBLE study activities:
+
 - You can photograph pretty notes
 - You can't photograph "I closed my book and tried to remember"
 
 This creates a feedback loop:
+
 1. Students see aspirational study content online
 2. Emulate aesthetic practices believing they drive success
 3. Experience positive social reinforcement (likes, comments)
@@ -81,6 +87,7 @@ This creates a feedback loop:
 Pretty notes are the ultimate productivity theater—they create the appearance of diligence while avoiding the discomfort of actual learning.
 
 **Why it's appealing**:
+
 - Concrete, measurable progress (pages of notes completed)
 - Immediate visual satisfaction (it looks beautiful)
 - Socially shareable (external validation)
@@ -88,6 +95,7 @@ Pretty notes are the ultimate productivity theater—they create the appearance 
 - Doesn't expose gaps in understanding
 
 **What it avoids**:
+
 - The failure inherent in retrieval practice
 - The uncertainty of "do I actually know this?"
 - The cognitive strain of active learning
@@ -98,23 +106,27 @@ Pretty notes are the ultimate productivity theater—they create the appearance 
 ### Low Utility Techniques (Source: Dunlosky et al., 2013)
 
 **Highlighting and Underlining**: LOW UTILITY
+
 - Benefits limited to tasks requiring rote memory
 - Does not improve comprehension or application
 - Students who highlight extensively perform NO BETTER than those who don't
 - Creates illusion of engagement without deep processing
 
 **Rereading**: LOW UTILITY
+
 - Produces minimal improvements in retention
 - Benefits decline rapidly after first re-reading
 - Time spent rereading would be better spent on retrieval practice
 - Creates familiarity that students mistake for knowledge
 
 **Summarizing**: MODERATE UTILITY
+
 - Only effective if students are taught HOW to summarize (most aren't)
 - Writing summaries in own words helps, but less than testing
 - Extensive, detailed summarization has low time-efficiency
 
 **Keyword Mnemonics**: LOW UTILITY (context-dependent)
+
 - Useful for learning vocabulary or paired associates
 - Does NOT help with comprehension or conceptual understanding
 - Limited application for most university coursework
@@ -122,11 +134,13 @@ Pretty notes are the ultimate productivity theater—they create the appearance 
 ### The Illusion of Comprehension
 
 Multiple studies demonstrate:
+
 - Students rate their understanding higher after re-reading/reviewing notes
 - These same students perform WORSE on tests than students who engaged in retrieval practice
 - The feeling of fluency (this seems familiar) is mistaken for actual learning
 
 **Critical finding**: Pretty, organized notes INCREASE the illusion of knowledge because they:
+
 - Are easy to scan (fluency)
 - Look comprehensive (coverage illusion)
 - Feel familiar after creation (recognition, not recall)
@@ -158,12 +172,14 @@ Notice: NONE of these require aesthetic notes.
 ### The Psychological Rewards
 
 **Immediate gratification**:
+
 - Visible progress (pages filled)
 - Sensory pleasure (colors, organization)
 - Sense of control and order
 - Completion of defined task
 
 **Versus active learning**:
+
 - No visible product
 - Reveals what you DON'T know (aversive)
 - Feels uncertain and messy
@@ -174,6 +190,7 @@ Notice: NONE of these require aesthetic notes.
 ### The Effort Justification
 
 Once you've invested 3 hours making beautiful notes:
+
 - You WANT to believe it was worthwhile
 - Admitting it didn't help learning = wasted time
 - Cognitive dissonance leads to doubling down
@@ -182,11 +199,13 @@ Once you've invested 3 hours making beautiful notes:
 ### The False Equivalence
 
 Students equate:
+
 - Time spent on material = Learning
 - Engagement with content = Understanding
 - Having comprehensive notes = Being prepared
 
 **Reality**:
+
 - Time spent ≠ Learning (method matters)
 - Passive engagement ≠ Understanding (retrieval tests understanding)
 - Comprehensive external storage ≠ Internal knowledge (your brain isn't your notebook)
@@ -196,32 +215,38 @@ Students equate:
 ### Characteristics of Learning-Optimized Notes
 
 **1. Question-Based, Not Transcription**
+
 - Focus on capturing questions, not complete information
 - Write: "What are the 3 types of memory?" not "3 types of memory are sensory, short-term, and long-term"
 - Your notes become built-in practice tests
 
 **2. Incomplete and Gap-Ridden**
+
 - Deliberately leave blanks for you to fill during review
-- Example: "Krebs cycle produces ___ ATP, ___ NADH, ___ FADH2"
+- Example: "Krebs cycle produces **_ ATP, _** NADH, \_\_\_ FADH2"
 - Forces active retrieval instead of passive reading
 
 **3. Messy but Functional**
+
 - Focus is on capturing key concepts, not appearance
 - Abbreviations, sketchy diagrams, personal shorthand
 - Readable by you, doesn't need to be showable
 
 **4. Minimal Coverage, Maximum Leverage**
+
 - Don't transcribe lectures/textbooks
 - Note only: key terms, confusing concepts, structural relationships, gaps to explore
 - 2-3 pages of strategic notes > 10 pages of comprehensive transcription
 
 **5. Action-Oriented**
+
 - Include reminders: "Practice problems on this", "Explain without notes", "Connect to Week 2 material"
 - Notes serve as guide for active study, not substitute for it
 
 ### Example Comparison
 
 **Pretty Notes Trap**:
+
 ```
 [Decorative header with date and topic in calligraphy]
 
@@ -255,6 +280,7 @@ Study Schedule: Review these notes tomorrow!
 ```
 
 **Learning-Optimized Notes**:
+
 ```
 Cell Respiration — 10/15
 
@@ -288,6 +314,7 @@ Can I explain why it's ~38 ATP not exactly 38?
 ```
 
 Notice the second version:
+
 - Takes 1/3 the time to create
 - Includes questions that drive active learning
 - Identifies gaps requiring attention
@@ -297,17 +324,20 @@ Notice the second version:
 ## When Aesthetic Notes ARE Okay
 
 ### Low-Stakes Contexts
+
 - Early in semester with manageable workload
 - Personal enjoyment/stress relief (hobby, not primary study method)
 - Subject you already understand well (enrichment, not learning)
 - Creative courses where aesthetics themselves are the content
 
 ### As Secondary Activity
+
 - AFTER you've done active learning (reward, not primary method)
 - For reference materials you'll access repeatedly
 - When creating study resources for a GROUP (teaching others)
 
 ### The 80/20 Rule
+
 - 80% of study time: Active retrieval, practice testing, spaced repetition
 - 20% of study time: Notes organization IF time permits
 
@@ -318,6 +348,7 @@ Notice the second version:
 ### Scenario: Preparing for Midterm (20 hours available)
 
 **Approach A: Pretty Notes Heavy**
+
 - 10 hours: Rewriting lecture notes aesthetically
 - 4 hours: Creating comprehensive study guide
 - 3 hours: Highlighting and color-coding textbook
@@ -326,6 +357,7 @@ Notice the second version:
 - **Active retrieval time**: ~1 hour (5%)
 
 **Approach B: Evidence-Based**
+
 - 2 hours: Initial review of lecture notes/textbook (strategic reading)
 - 10 hours: Practice problems without notes (testing)
 - 4 hours: Flashcard review of weak areas (spaced retrieval)
@@ -334,15 +366,18 @@ Notice the second version:
 - **Active retrieval time**: ~16 hours (80%)
 
 **Predicted outcome**:
+
 - Approach A: Will feel prepared (comprehensive notes), likely to underperform (illusion of knowledge)
 - Approach B: May feel less certain (exposed gaps), likely to excel (actual knowledge)
 
 ### Return on Investment
 
 If pretty note-taking takes 3 hours to produce 30% retention:
+
 - **ROI**: 10% retention per hour
 
 If active retrieval takes 1 hour to produce 70% retention:
+
 - **ROI**: 70% retention per hour
 
 **Efficiency difference**: 7x multiplier in favor of active methods
@@ -352,6 +387,7 @@ If active retrieval takes 1 hour to produce 70% retention:
 ### Step 1: Honest Self-Assessment
 
 Ask yourself:
+
 1. What percentage of study time do I spend making/organizing notes?
 2. When I review my notes, do I test myself or just re-read?
 3. Could someone learn the material from my notes, or would they just have pretty pages?
@@ -363,6 +399,7 @@ Ask yourself:
 ### Step 2: Decouple Note-Taking From Learning
 
 **Shift mindset**:
+
 - Notes are NOT the goal; learning is the goal
 - Notes are a TOOL to enable active practice, not an end product
 - Minimal functional notes > Extensive beautiful notes
@@ -372,12 +409,14 @@ Ask yourself:
 ### Step 3: Adopt Minimal Note-Taking
 
 **During lecture/reading**:
+
 - Capture key concepts and questions only
 - Use shorthand, abbreviations, sentence fragments
 - Leave gaps to fill later via active recall
 - Focus on understanding > transcription
 
 **After lecture/reading**:
+
 - Immediately (within 24 hours): Close notes and write everything you remember
 - Compare to original notes—what did you forget?
 - Create targeted practice questions for weak areas
@@ -388,6 +427,7 @@ Ask yourself:
 **Old habit**: After class, spend 2 hours rewriting notes prettily
 
 **New habit**: After class, spend 30 minutes:
+
 1. Reviewing notes for 10 min (identify key concepts)
 2. Closing notes and writing what you remember for 15 min
 3. Checking accuracy and noting gaps for 5 min
@@ -397,6 +437,7 @@ Ask yourself:
 ### Step 5: Social Media Boundary
 
 **Suggestions**:
+
 - Unfollow studytok/studygram accounts that emphasize aesthetics
 - Follow accounts focused on evidence-based learning techniques
 - Stop posting study notes for validation
@@ -407,6 +448,7 @@ Ask yourself:
 ### Step 6: The One-Week Test
 
 **Experiment**:
+
 - Week 1: Use your usual pretty note methods for Course A
 - Week 1: Use minimal notes + active retrieval for Course B
 - End of week: Take practice tests on both
@@ -421,6 +463,7 @@ Ask yourself:
 Traditional Cornell method, but with active learning focus:
 
 **Format**:
+
 ```
 ┌─────────────────────────────────┬──────────────────┐
 │ NOTES (right column)            │ CUES (left)      │
@@ -435,6 +478,7 @@ Traditional Cornell method, but with active learning focus:
 ```
 
 **How to use**:
+
 1. During class: Take minimal notes in right column
 2. After class: Cover right column, write questions in left that your notes answer
 3. Later: Use left column questions to test yourself (right column covered)
@@ -447,6 +491,7 @@ Traditional Cornell method, but with active learning focus:
 **Instead of**: Rewriting notes with pretty organization
 
 **Do this**:
+
 1. Pick one concept from lecture
 2. Close all materials
 3. Explain it OUT LOUD as if teaching a 10-year-old
@@ -454,6 +499,7 @@ Traditional Cornell method, but with active learning focus:
 5. Repeat for each major concept
 
 **Time comparison**:
+
 - Pretty notes for lecture: 2-3 hours
 - Feynman technique for lecture: 45-60 minutes
 - Learning outcome: Feynman wins
@@ -461,11 +507,13 @@ Traditional Cornell method, but with active learning focus:
 ### Strategy 3: Flashcard Prioritization
 
 **When to make flashcards**:
+
 - After identifying gaps through self-testing
 - For information requiring memorization (terms, dates, formulas)
 - Not for entire lectures (too time-intensive)
 
 **How to make efficient flashcards**:
+
 - Front: Question/prompt
 - Back: Answer + one-sentence explanation
 - No decoration needed
@@ -478,12 +526,14 @@ Traditional Cornell method, but with active learning focus:
 **Permission**: Your first-pass notes can and SHOULD be messy
 
 **Process**:
+
 1. During learning: Capture information functionally (messy okay)
 2. After learning: Use active recall to test yourself
 3. After active recall: Identify gaps
 4. After identifying gaps: Add targeted information to notes
 
 **Do NOT**:
+
 1. Capture information
 2. Spend hours making it pretty
 3. Never test whether you actually learned it
@@ -493,6 +543,7 @@ Traditional Cornell method, but with active learning focus:
 **Old approach**: Meet with friends to compare beautiful notes
 
 **New approach**: Meet with friends to:
+
 - Quiz each other without notes
 - Teach concepts to each other
 - Work through practice problems together
@@ -525,6 +576,7 @@ Traditional Cornell method, but with active learning focus:
 ### "It helps me focus during lectures"
 
 **Response**: True note-taking can aid attention. But there's a difference between:
+
 - Engaged note-taking (key concepts, questions, connections)
 - Aesthetic production (perfecting handwriting, color systems, decoration)
 
@@ -569,6 +621,7 @@ An LLM can identify if you're in the Pretty Notes Trap by analyzing:
 ```
 
 **LLM Analysis Pattern**:
+
 - Flags high time investment in note production
 - Identifies absence of retrieval practice
 - Detects aesthetic focus over functional focus
@@ -614,6 +667,7 @@ LLM OUTPUT:
 ### Personalization Variables for LLM
 
 To customize advice:
+
 - Current note-taking methods (detailed description or sample)
 - Time spent on notes per week
 - Courses enrolled in (science vs humanities may have different optimal strategies)
@@ -698,6 +752,7 @@ Provide:
 ### The Hard Truth
 
 Pretty notes are expensive:
+
 - **Cost**: Hours per week that could be spent on effective methods
 - **Opportunity cost**: Each hour on aesthetics is an hour NOT spent on retrieval practice
 - **Psychological cost**: False confidence leading to exam underperformance
@@ -709,14 +764,17 @@ Pretty notes are expensive:
 Breaking free from pretty notes may require identity shift:
 
 **Old identity**: "I'm someone who takes beautiful notes"
+
 - Source of pride and social validation
 - Public-facing performance
 
 **New identity**: "I'm someone who learns effectively"
+
 - Source of pride from competence and grades
 - Private mastery
 
 **Question**: Would you rather have:
+
 - Instagram-worthy notes and B grades?
 - Messy notes and A grades?
 
@@ -725,6 +783,7 @@ If you answered the second, your actions need to align with that priority.
 ### The Permission
 
 You have permission to:
+
 - Take minimal, messy notes
 - Not rewrite notes after lectures
 - Skip the color-coding system
@@ -738,6 +797,7 @@ You have permission to:
 ### The Challenge
 
 Try this for TWO weeks:
+
 1. Take minimal notes (questions and key concepts only)
 2. Spend zero time on aesthetic organization
 3. Invest saved time in active retrieval practice

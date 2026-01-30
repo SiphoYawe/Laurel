@@ -17,6 +17,7 @@ Effective time-blocking operates on three interconnected planning horizons:
 **Purpose**: Establish recurring commitments and non-negotiable schedules.
 
 **What to include**:
+
 - Class schedules and lecture times
 - Recurring meetings (study groups, office hours, club meetings)
 - Assignment deadlines and exam dates
@@ -24,6 +25,7 @@ Effective time-blocking operates on three interconnected planning horizons:
 - Planned breaks and vacation periods
 
 **Process**:
+
 1. At the start of each month, open your calendar
 2. Block out all recurring commitments first
 3. Add major deadlines as all-day events
@@ -31,6 +33,7 @@ Effective time-blocking operates on three interconnected planning horizons:
 5. Mark days where you have unusual schedules (field trips, conferences)
 
 **Example Monthly View** (September for a university student):
+
 ```
 WEEK 1:
 - Classes: MWF 9am-12pm, T/Th 2pm-5pm
@@ -61,6 +64,7 @@ WEEK 4:
 **Purpose**: Allocate specific commitments that span multiple days and establish weekly rhythms.
 
 **What to include**:
+
 - Study blocks for each course (distributed throughout the week)
 - Assignment work sessions (chunked appropriately)
 - Review sessions before exams
@@ -69,6 +73,7 @@ WEEK 4:
 - Exercise and self-care routines
 
 **Process** (Sunday evening or Monday morning):
+
 1. Review what's due this week and what's coming next week
 2. For each major task, estimate total time needed
 3. Break time into focused sessions (no more than 2-3 hours per block)
@@ -114,6 +119,7 @@ WEDNESDAY:
 **Purpose**: Make final adjustments and specify exactly what you'll do in each block.
 
 **What to include**:
+
 - Specific tasks within each time block
 - Adjustments for unexpected events
 - Energy-level matching (hardest tasks when you're sharpest)
@@ -121,6 +127,7 @@ WEDNESDAY:
 - Quick wins to start the day with momentum
 
 **Process** (the night before or first thing in the morning):
+
 1. Review your weekly plan for today
 2. Check for any new urgent items
 3. Make specific each time block (not just "study biology" but "review flashcards 1-50, solve practice problems 12-18")
@@ -169,11 +176,13 @@ By assigning specific time boundaries to tasks, you create artificial urgency:
 ### Practical Application
 
 **Bad approach**: "Study for biology exam this week"
+
 - Vague timeline creates no urgency
 - Likely to be postponed repeatedly
 - Cramming session the night before
 
 **Good approach**:
+
 ```
 Monday 7pm-9pm: Biology Ch 5 flashcards + quiz yourself
 Tuesday 3pm-5pm: Biology Ch 6-7 review + practice problems
@@ -230,11 +239,13 @@ Each block has a clear deadline. When you sit down Monday at 7pm, you know you o
 This is the most underrated benefit.
 
 **Without time-blocking**:
+
 - During work: "I should be relaxing, I'm so tired"
 - During rest: "I should be working, I have so much to do"
 - Result: Never fully present in either. Work feels like stolen rest. Rest feels like guilty procrastination.
 
 **With time-blocking**:
+
 - During work block: "This is work time. I am exactly where I'm supposed to be."
 - During rest block: "This is rest time. I have EARNED this, and I am exactly where I'm supposed to be."
 - Result: Full engagement in both. Deep work AND deep rest.
@@ -252,6 +263,7 @@ Because you know your studying is scheduled for 7pm-9pm tonight, you can fully e
 Many students only schedule work. Rest happens "if there's time" (spoiler: there never is).
 
 **Time-blocking flips this**:
+
 - Schedule rest FIRST
 - Schedule play FIRST
 - Schedule social connection FIRST
@@ -290,6 +302,7 @@ Rest is not a reward for productivity. **Rest IS productivity.**
 Your brain consolidates learning during rest. Your creativity emerges during play. Your motivation renews during social connection.
 
 Students who schedule only work experience:
+
 - Diminishing returns (8th hour of study less effective than 1st)
 - Burnout and resentment
 - Ironically, LESS learning (because consolidation doesn't occur)
@@ -297,6 +310,7 @@ Students who schedule only work experience:
 ### How to Schedule Rest
 
 **1. Daily rest blocks**:
+
 ```
 12pm-1pm: Lunch + walk (no screens)
 6pm-7pm: Dinner + social (no academic content)
@@ -304,6 +318,7 @@ Students who schedule only work experience:
 ```
 
 **2. Weekly rest periods**:
+
 ```
 Friday night: No academic work after 6pm
 Saturday morning: Sleep in, leisurely breakfast
@@ -311,6 +326,7 @@ Sunday afternoon: One 3-hour "do whatever" block
 ```
 
 **3. Strategic recovery**:
+
 ```
 After major exam: Block 2-4 hours of complete recovery
 After intense week: Plan lighter following week
@@ -322,6 +338,7 @@ After finishing huge project: Full evening off
 **Play = activities with no productive goal, done purely for enjoyment**
 
 Examples:
+
 - Playing music (not practicing for a performance)
 - Pickup basketball
 - Video games
@@ -330,6 +347,7 @@ Examples:
 - Building something with your hands
 
 **Schedule it like a class**:
+
 ```
 Tuesday 7pm-9pm: Game night with roommates
 Saturday 2pm-5pm: Hiking / outdoor time
@@ -347,14 +365,17 @@ Most people are terrible at estimating how long tasks take. Time-blocking reveal
 ### The Process
 
 **Week 1: Estimate and Block**
+
 - Plan your week with time estimates
 - Example: "Biology reading will take 2 hours"
 
 **Week 1: Track Actual Time**
+
 - When you do the task, note actual time taken
 - Example: "Biology reading actually took 3.5 hours"
 
 **Week 2: Adjust and Improve**
+
 - Use actual data to inform next week's planning
 - Example: "For similar reading, block 3 hours"
 
@@ -377,6 +398,7 @@ Energy level at end: 4/10
 ### What You'll Learn
 
 After 2-3 weeks of tracking:
+
 - Which tasks you consistently underestimate
 - Which times of day you're most efficient
 - How distractions impact your time
@@ -386,6 +408,7 @@ After 2-3 weeks of tracking:
 ### Adjusting Your Blocks
 
 **Common discoveries**:
+
 - "I thought reading took 1 hour per chapter, but it's really 1.5 hours"
 - "Math problem sets take me 2x longer in the evening than morning"
 - "After 90 minutes of any task, my efficiency drops dramatically"
@@ -400,6 +423,7 @@ After 2-3 weeks of tracking:
 ### Google Calendar (Recommended for Beginners)
 
 **Pros**:
+
 - Free, ubiquitous, syncs across devices
 - Color-coding for different categories
 - Recurring events easy to set up
@@ -407,6 +431,7 @@ After 2-3 weeks of tracking:
 - Shareable (for study groups, etc.)
 
 **How to use for time-blocking**:
+
 1. Create calendars for different areas (Classes, Study, Personal, Rest)
 2. Assign each a distinct color
 3. Set up recurring events for weekly patterns
@@ -420,6 +445,7 @@ After 2-3 weeks of tracking:
 ### Notion (Best for Comprehensive Systems)
 
 **Pros**:
+
 - Combines calendar with task management
 - Database views (calendar, list, kanban)
 - Templates for repeated planning
@@ -427,6 +453,7 @@ After 2-3 weeks of tracking:
 - All-in-one workspace
 
 **How to use for time-blocking**:
+
 1. Create a "Time Blocks" database
 2. Properties: Time, Type, Energy Required, Course/Project
 3. Calendar view for visual planning
@@ -440,6 +467,7 @@ After 2-3 weeks of tracking:
 ### Sunsama (Premium, Task-First Approach)
 
 **Pros**:
+
 - Daily planning ritual built in
 - Integrates with other tools (Asana, Todoist, email)
 - Time-boxing with actual time tracking
@@ -447,6 +475,7 @@ After 2-3 weeks of tracking:
 - Beautiful, calm interface
 
 **Cons**:
+
 - Paid ($20/month)
 - May be overkill for simple needs
 
@@ -457,6 +486,7 @@ After 2-3 weeks of tracking:
 ### Physical Paper Planner
 
 **Pros**:
+
 - No digital distractions
 - Tactile satisfaction
 - Flexibility in format
@@ -464,6 +494,7 @@ After 2-3 weeks of tracking:
 - Cannot be hacked/doesn't require updates
 
 **Cons**:
+
 - Doesn't sync
 - Hard to adjust once written
 - Takes physical space
@@ -472,6 +503,7 @@ After 2-3 weeks of tracking:
 **Recommended**: Passion Planner, Full Focus Planner, or simple bullet journal
 
 **How to use**:
+
 - Monthly spread: one-page overview
 - Weekly spread: two-page detailed blocks
 - Daily: hour-by-hour breakdown
@@ -496,6 +528,7 @@ After 2-3 weeks of tracking:
 ## Sample Time-Blocked Day for a University Student
 
 ### Context
+
 - Student: Sophomore, STEM major
 - Schedule: 3 classes on Mondays (9am, 11am, 2pm)
 - Chronotype: Morning person (peak energy 7am-11am)
@@ -506,17 +539,20 @@ After 2-3 weeks of tracking:
 ### MONDAY, MARCH 18TH
 
 **6:00am - 6:30am** | MORNING ROUTINE
+
 - Wake up (no snooze, using 3-2-1 method)
 - Shower, get dressed
 - Make coffee and light breakfast
 
 **6:30am - 7:00am** | DAILY PLANNING & JOURNALING
+
 - Review today's time blocks
 - Adjust for any overnight emergencies
 - Quick journal: What's one thing that would make today great?
 - Check weather, prepare accordingly
 
 **7:00am - 8:45am** | DEEP WORK BLOCK 1 (PEAK ENERGY)
+
 - **Task**: Chemistry problem set (problems 15-22)
 - **Why now**: Hardest task, freshest brain
 - **Environment**: Library quiet floor, phone in bag
@@ -524,34 +560,41 @@ After 2-3 weeks of tracking:
 - **Energy level**: 9/10
 
 **8:45am - 9:00am** | TRANSITION & COMMUTE
+
 - Pack bag for classes
 - Walk to campus (15 min = gentle movement)
 
 **9:00am - 9:50am** | CLASS: Biology Lecture
+
 - **Active participation**: Ask 1 question, take Cornell notes
 - **Post-class**: 5-min review of notes while walking to next class
 
 **10:00am - 10:50am** | CLASS: English Seminar
+
 - **Discussion-based**: Bring annotated readings
 - **Energy level**: Still high, engage actively
 
 **11:00am - 11:50am** | CLASS: Chemistry Lab
+
 - **Hands-on**: Full presence required
 - **Note**: Tiring, will need lunch recovery
 
 **12:00pm - 1:00pm** | LUNCH + RECOVERY
+
 - **Not at desk**: Campus center, eat with friend
 - **No academic content**: Social connection, mental break
 - **Light movement**: Walk after eating
 - **Energy recharge**: 5/10 → 7/10
 
 **1:00pm - 1:30pm** | ADMINISTRATIVE BLOCK
+
 - Process emails (not during peak hours!)
 - Check course announcements
 - Schedule rest of week based on new info
 - Organize notes from morning classes
 
 **1:30pm - 3:00pm** | STUDY BLOCK: Biology
+
 - **Task**: Create flashcards for midterm (Ch 7-8)
 - **Method**: Active recall, Anki digital flashcards
 - **Why now**: Energy decent (7/10), task is medium difficulty
@@ -559,11 +602,13 @@ After 2-3 weeks of tracking:
 - **Break**: 5 min at 2:15pm (walk outside, water)
 
 **3:00pm - 3:15pm** | BREAK
+
 - **Movement**: Walk around block
 - **Snack**: Fruit + nuts
 - **Mindfulness**: 5-minute breathing (reset for afternoon)
 
 **3:15pm - 5:00pm** | DEEP WORK BLOCK 2: Essay
+
 - **Task**: Essay outline + introduction paragraph
 - **Why now**: Creative task, afternoon energy (6/10) still sufficient
 - **Environment**: Library study room, classical music
@@ -571,21 +616,25 @@ After 2-3 weeks of tracking:
 - **Success metric**: Complete outline, 200 words written
 
 **5:00pm - 6:00pm** | EXERCISE
+
 - **Activity**: Gym (strength training)
 - **Purpose**: Energy boost, stress relief, long-term health
 - **Note**: Non-negotiable unless sick
 
 **6:00pm - 7:00pm** | DINNER + SHOWER
+
 - **Meal prep**: Dinner made Sunday, just heat up
 - **Shower + change**: Reset for evening
 - **No screens**: Just eat, relax, maybe music
 
 **7:00pm - 7:30pm** | REST BLOCK
+
 - **Completely free**: YouTube, scroll phone, text friends, whatever
 - **Why scheduled**: Guilt-free break, knowing evening study is planned
 - **Energy level**: 4/10 → 6/10 after rest
 
 **7:30pm - 9:00pm** | STUDY BLOCK: Biology Midterm Prep
+
 - **Task**: Review all flashcards from last week + today
 - **Method**: Spaced repetition (Anki algorithm)
 - **Quiz yourself**: Practice problems from textbook
@@ -593,6 +642,7 @@ After 2-3 weeks of tracking:
 - **Partner accountability**: Video call study session with friend
 
 **9:00pm - 9:30pm** | PREPARE FOR TOMORROW
+
 - **Review Tuesday's time blocks**: Know what's coming
 - **Pack bag**: Books, laptop, gym clothes
 - **Lay out clothes**: One less decision tomorrow morning
@@ -600,11 +650,13 @@ After 2-3 weeks of tracking:
 - **Check calendar**: Any changes or new events?
 
 **9:30pm - 10:30pm** | WIND DOWN
+
 - **No blue light**: Phone on night mode, no laptop
 - **Activities**: Read fiction, light journaling, chat with roommate
 - **Prepare mind for sleep**: Relaxing, low-stimulation
 
 **10:30pm** | SLEEP
+
 - **8 hours until 6:30am**: Non-negotiable
 - **Sleep hygiene**: Dark room, cool temp, white noise
 
@@ -625,13 +677,14 @@ After 2-3 weeks of tracking:
 
 ## LLM-ACTIONABLE-INSIGHTS: Time Block Design
 
-*This section provides structured prompts and frameworks for AI assistants to help design personalized time-blocking systems.*
+_This section provides structured prompts and frameworks for AI assistants to help design personalized time-blocking systems._
 
 ---
 
 ### PROMPT 1: Generate My Weekly Template
 
 **Input variables needed**:
+
 ```
 - Class schedule (days, times, locations)
 - Work commitments (if applicable)
@@ -644,6 +697,7 @@ After 2-3 weeks of tracking:
 ```
 
 **LLM prompt**:
+
 ```
 Create a weekly time-blocking template for a university student with the following schedule:
 
@@ -684,6 +738,7 @@ Output format: Hour-by-hour for each day, Monday-Sunday.
 ### PROMPT 2: Optimize a Specific Day
 
 **LLM prompt**:
+
 ```
 I have the following commitments tomorrow:
 [List fixed items]
@@ -713,6 +768,7 @@ Identify which task should be my "one thing" (top priority).
 **Input**: Paste your current weekly schedule
 
 **LLM prompt**:
+
 ```
 Analyze this weekly time-blocked schedule:
 
@@ -738,6 +794,7 @@ Provide:
 ### PROMPT 4: Create Study Blocks for Upcoming Exam
 
 **LLM prompt**:
+
 ```
 I have an exam in [X days] for [course name].
 
@@ -766,6 +823,7 @@ Format: Time-blocked schedule with specific tasks per block.
 ### PROMPT 5: Design a Balanced Exam Week
 
 **LLM prompt**:
+
 ```
 I have exams on the following dates:
 - [Exam 1]: [Date, course]
@@ -799,6 +857,7 @@ Also include:
 ### PROMPT 6: Adjust for Low Energy Day
 
 **LLM prompt**:
+
 ```
 I planned the following time blocks for today:
 [Paste schedule]
@@ -826,6 +885,7 @@ Provide:
 ### PROMPT 7: Weekly Review and Next Week Planning
 
 **LLM prompt**:
+
 ```
 LAST WEEK'S TIME TRACKING DATA:
 [Input actual vs. estimated time for major blocks]
@@ -857,6 +917,7 @@ Be specific about what to change and why.
 ### PROMPT 8: Emergency Schedule Compression
 
 **LLM prompt**:
+
 ```
 I have [X days] until [deadline/exam].
 
@@ -925,6 +986,7 @@ PRIORITY FIXES: [Top 3 issues to address]
 **LLM can generate hybrid schedules**:
 
 **Time-Blocking + Pomodoro**:
+
 ```
 3:00pm - 5:00pm: Deep Work Block (Essay Writing)
   → 3:00-3:25: Pomodoro 1 (Outline)
@@ -938,6 +1000,7 @@ PRIORITY FIXES: [Top 3 issues to address]
 ```
 
 **Time-Blocking + Peak Productivity Windows**:
+
 ```
 Identify in schedule which blocks are:
 [PEAK] - Hardest, most important work
@@ -946,6 +1009,7 @@ Identify in schedule which blocks are:
 ```
 
 **Time-Blocking + Interleaved Practice**:
+
 ```
 7:00pm - 9:00pm: Study Block
   → 7:00-7:40: Biology (flashcards)
@@ -971,4 +1035,3 @@ When helping a student design time blocks:
 8. **Review and iterate** - no schedule is perfect first try
 9. **Validate against student's actual capacity** - don't over-schedule
 10. **Celebrate small wins** - reinforce successful adherence to blocks
-

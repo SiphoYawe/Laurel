@@ -15,6 +15,7 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **The rule**: "When you start a new habit, it should take less than two minutes to do."
 
 **Why two minutes?**:
+
 - Short enough to be undeniably doable
 - Long enough to begin meaningful action
 - Creates minimal friction and resistance
@@ -27,21 +28,21 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 
 **Examples of scaling**:
 
-| Desired Habit | Two-Minute Version |
-|--------------|-------------------|
-| "Run a marathon" | "Put on running shoes" |
-| "Read 30 pages every night" | "Read one page" |
-| "Study for class" | "Open my notes" |
-| "Do yoga for 30 minutes" | "Get out my yoga mat" |
-| "Write 1000 words" | "Write one sentence" |
-| "Eat healthier" | "Eat one piece of fruit" |
+| Desired Habit                 | Two-Minute Version                       |
+| ----------------------------- | ---------------------------------------- |
+| "Run a marathon"              | "Put on running shoes"                   |
+| "Read 30 pages every night"   | "Read one page"                          |
+| "Study for class"             | "Open my notes"                          |
+| "Do yoga for 30 minutes"      | "Get out my yoga mat"                    |
+| "Write 1000 words"            | "Write one sentence"                     |
+| "Eat healthier"               | "Eat one piece of fruit"                 |
 | "Build a meditation practice" | "Sit on meditation cushion for 1 minute" |
-| "Get in shape" | "Do one push-up" |
-| "Learn Spanish" | "Practice one flashcard" |
-| "Declutter my house" | "Put one item in its place" |
-| "Network more" | "Send one networking email" |
-| "Be more creative" | "Draw one line" |
-| "Practice guitar" | "Pick up the guitar" |
+| "Get in shape"                | "Do one push-up"                         |
+| "Learn Spanish"               | "Practice one flashcard"                 |
+| "Declutter my house"          | "Put one item in its place"              |
+| "Network more"                | "Send one networking email"              |
+| "Be more creative"            | "Draw one line"                          |
+| "Practice guitar"             | "Pick up the guitar"                     |
 
 **Pattern**: The two-minute version is always the beginning of the larger routine, not a miniaturized complete version.
 
@@ -52,6 +53,7 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Response**: You're right—and that's exactly the point.
 
 **The real goal**:
+
 - Not to achieve the outcome in two minutes
 - To master the habit of showing up
 - To establish the identity of someone who does this behavior
@@ -66,12 +68,14 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Newton's First Law applied to habits**: An object at rest stays at rest. An object in motion stays in motion.
 
 **Application**:
+
 - Starting is the highest-friction point
 - Once started, continuing is significantly easier
 - The two-minute version eliminates the friction of starting
 - Momentum takes over after initiation
 
 **Experience**:
+
 - Sitting down to write one sentence often becomes 500 words
 - Putting on running shoes often becomes a 20-minute run
 - Opening your notes often becomes an hour of studying
@@ -87,12 +91,14 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Definition**: Small, easy behaviors that naturally lead to bigger behaviors.
 
 **Characteristics**:
+
 - Very low friction (can be done in ~2 minutes)
 - Serve as the entry point to longer routine
 - Put you in position to succeed
 - Create momentum and context for extended behavior
 
 **Metaphor**: The gateway habit is like:
+
 - The on-ramp to the highway (easy entry, then you're flowing)
 - The first domino (once tipped, others follow naturally)
 - Opening a door (small action that gives access to entire room)
@@ -100,6 +106,7 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 ### How Gateway Habits Work
 
 **The sequence**:
+
 1. Perform two-minute gateway habit
 2. This action changes your state:
    - Physical location shifts
@@ -110,6 +117,7 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 4. Often continue beyond two minutes without conscious decision
 
 **The choice point**:
+
 - After gateway habit, you can stop (and you still succeeded)
 - Or you can continue (and often you naturally do)
 - Either way, the habit is being reinforced
@@ -119,16 +127,19 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Exercise gateway habits**:
 
 **"Put on running shoes"**
+
 - Two-minute action: Literally just put shoes on feet
 - Often leads to: Going for actual run
 - Why it works: Once shoes are on, you're 90% of the way there. Seems silly not to at least walk outside.
 
 **"Unroll my yoga mat"**
+
 - Two-minute action: Take mat from closet and unroll it
 - Often leads to: Doing full yoga practice
 - Why it works: Mat is ready, you're standing right there, body starts moving naturally
 
 **"Change into workout clothes"**
+
 - Two-minute action: Put on gym outfit
 - Often leads to: Actual workout
 - Why it works: Dressed for the part, identity activated
@@ -136,16 +147,19 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Learning gateway habits**:
 
 **"Open my notes/textbook"**
+
 - Two-minute action: Get materials out and open to relevant page
 - Often leads to: Studying for extended period
 - Why it works: Hardest part is getting materials out; once open, you start reading
 
 **"Turn on language learning app"**
+
 - Two-minute action: Open app, see first lesson
 - Often leads to: Completing multiple lessons
 - Why it works: Engagement starts immediately, apps designed to continue
 
 **"Pick up my guitar"**
+
 - Two-minute action: Get guitar from stand, sit with it
 - Often leads to: Playing for 20+ minutes
 - Why it works: Guitar in hands, fingers start moving naturally
@@ -153,11 +167,13 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Writing gateway habits**:
 
 **"Write one sentence"**
+
 - Two-minute action: Open document, write single sentence
 - Often leads to: Writing for an hour
 - Why it works: One sentence breaks the blank page barrier; ideas start flowing
 
 **"Open laptop and create new document"**
+
 - Two-minute action: Boot up, open writing software
 - Often leads to: Extended writing session
 - Why it works: Software open, cursor blinking, ready to go
@@ -165,16 +181,19 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Productivity gateway habits**:
 
 **"Write tomorrow's top 3 priorities"**
+
 - Two-minute action: List three most important tasks
 - Often leads to: Starting on task #1 immediately
 - Why it works: Clarity created, obvious next action
 
 **"Clear my desk"**
+
 - Two-minute action: Remove clutter from workspace
 - Often leads to: Focused work session
 - Why it works: Clean space, clean mind; ready to work
 
 **"Close all browser tabs"**
+
 - Two-minute action: Click through and close distractions
 - Often leads to: Deep work
 - Why it works: Distractions removed, focus enabled
@@ -182,16 +201,19 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Health gateway habits**:
 
 **"Eat one piece of fruit"**
+
 - Two-minute action: Literally eat one apple, orange, etc.
 - Often leads to: Making healthier choices rest of day
 - Why it works: Sets healthy tone, activates health-conscious identity
 
 **"Drink one glass of water"**
+
 - Two-minute action: Pour and drink 8oz of water
 - Often leads to: Better hydration throughout day
 - Why it works: Body feels the benefit, want to continue
 
 **"Brush teeth with non-dominant hand"**
+
 - Two-minute action: Use opposite hand to brush
 - Often leads to: More mindful health routine
 - Why it works: Attention required, mindfulness increases
@@ -199,20 +221,24 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 ### The Critical Feature: It's the Beginning, Not a Miniature
 
 **Wrong approach**: Miniaturized version of complete habit
+
 - "Do one push-up" (stopping after one)
 - "Read one page" (forcing yourself to stop)
 - "Study for 2 minutes" (setting timer and quitting)
 
 **Right approach**: The natural beginning of the full routine
+
 - "Put on workout clothes" (the first step of exercise routine)
 - "Open book" (the first step of reading session)
 - "Get out study materials" (the first step of study session)
 
 **Distinction**:
+
 - Miniature version: Complete habit compressed to 2 minutes
 - Gateway habit: Natural first step of habit that takes 2 minutes
 
 **Why this matters**:
+
 - Gateway habits naturally flow into continuation
 - Miniaturized habits feel artificially constrained
 - Gateway approach builds toward expansion
@@ -227,6 +253,7 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Aspiration**: "I want to read more. I'll read for 30 minutes before bed every night."
 
 **Reality**:
+
 - Some nights too tired
 - 30 minutes feels like commitment
 - Easy to skip when overwhelmed
@@ -234,18 +261,21 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Two-minute version**: "I will read one page before bed"
 
 **Why it works**:
+
 - One page is undeniably doable, even exhausted
 - Opening the book and reading one page takes ~90 seconds
 - Often naturally read more once started
 - Even on hardest days, one page is achievable
 
 **What typically happens**:
+
 - Day 1-7: Sometimes just one page, sometimes more. That's fine.
 - Day 8-14: More often reading beyond one page naturally
 - Day 15-30: One page becomes automatic entry point, usually read 10-20 pages
 - Day 30+: Reading before bed is established identity, amount varies but presence is consistent
 
 **The win**:
+
 - Even on nights you only read one page, habit is reinforced
 - Identity of "reader" is strengthened
 - Eventually expand naturally without forcing
@@ -255,6 +285,7 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Aspiration**: "I want to get in shape. I'll run 3 miles every morning."
 
 **Reality**:
+
 - 3 miles feels daunting, especially when starting
 - Weather, mood, energy vary
 - Easy to talk yourself out of it before starting
@@ -262,23 +293,27 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Two-minute version**: "I will put on my running shoes at 7 AM"
 
 **Why it works**:
+
 - Putting on shoes takes 30 seconds, zero excuse not to do it
 - Shoes on, you're dressed for running
 - Natural next step is to walk outside
 - Even if you just walk around the block, you showed up
 
 **What typically happens**:
+
 - Day 1-7: Some days just walk, some days short jog. Building showing-up habit.
 - Day 8-14: More often jogging once shoes are on
 - Day 15-30: Shoes on leads naturally to run, distance varies
 - Day 30+: Running is part of identity, shoes are the ritual trigger
 
 **The win**:
+
 - Every time you put on shoes, you're a runner (even if you walk)
 - No pressure to run far, removes performance anxiety
 - Natural progression to longer runs without force
 
 **Variation strategy**:
+
 - Week 1-2: Just put on shoes (period)
 - Week 3-4: Shoes on + step outside
 - Week 5-6: Shoes on + outside + walk/jog to end of street
@@ -289,6 +324,7 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Aspiration**: "I need to study more. I'll study for 2 hours every night."
 
 **Reality**:
+
 - 2 hours feels overwhelming
 - Hard to start when you know it'll be long session
 - Procrastination sets in
@@ -296,18 +332,21 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Two-minute version**: "I will open my notes at 7 PM at my desk"
 
 **Why it works**:
+
 - Opening notes takes 15 seconds
 - Once open, you're looking at material
 - Natural to start reading/reviewing when it's in front of you
 - Removes "how long will this take" barrier
 
 **What typically happens**:
+
 - Day 1-7: Open notes, review for 10-15 minutes. Small win.
 - Day 8-14: Open notes, often study for 30-45 minutes
 - Day 15-30: Opening notes is automatic trigger for study session
 - Day 30+: Study habit established, duration based on needs not force
 
 **The win**:
+
 - Overcome "starting to study" resistance
 - 15 minutes of actual studying beats 0 minutes of procrastination
 - Study identity forms through consistency of showing up
@@ -317,6 +356,7 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Aspiration**: "I want to be more mindful. I'll meditate for 20 minutes every morning."
 
 **Reality**:
+
 - 20 minutes feels long when starting meditation practice
 - Mind is restless, sitting still is hard
 - Skip days because it feels difficult
@@ -324,18 +364,21 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Two-minute version**: "I will sit on my meditation cushion at 7 AM for 1 minute"
 
 **Why it works**:
+
 - Sitting on cushion for 60 seconds is incredibly easy
 - Once sitting, you're in meditation position
 - Often sit longer naturally once present
 - Removes intimidation factor
 
 **What typically happens**:
+
 - Day 1-7: Sit for 1-2 minutes, that's perfect
 - Day 8-14: Often sitting for 5 minutes naturally
 - Day 15-30: 1 minute becomes entry point, often 10-15 minutes
 - Day 30+: Meditation practice established, cushion is the cue
 
 **The win**:
+
 - Showing up daily is what builds meditation practice
 - 1 minute of presence beats 0 minutes of avoidance
 - Gradually build capacity without overwhelming yourself
@@ -345,6 +388,7 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Aspiration**: "I'll do intense hour-long workouts every day."
 
 **Reality**:
+
 - Hour feels like massive commitment
 - Intimidating when out of shape
 - All-or-nothing thinking leads to nothing
@@ -352,18 +396,21 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Two-minute version**: "I will do one push-up at 6 AM"
 
 **Why it works**:
+
 - One push-up takes 5 seconds
 - Impossible to fail at doing one
 - Usually do more once you've done one
 - Builds "I work out" identity immediately
 
 **What typically happens**:
+
 - Day 1-7: Do one, often do 5-10 more. Sometimes literally just one. Both victories.
 - Day 8-14: One becomes warm-up, usually do set of 10-20
 - Day 15-30: One push-up triggers full bodyweight routine
 - Day 30+: Exercise identity established, one push-up is ritual starter
 
 **The win**:
+
 - Never skip because it's so easy
 - Consistency over intensity builds habit
 - Foundation for scaling up when ready
@@ -373,6 +420,7 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Aspiration**: "I'll deep clean the entire house every weekend."
 
 **Reality**:
+
 - Entire house feels overwhelming
 - Easier to avoid than face huge task
 - Procrastinate until house is disaster
@@ -380,18 +428,21 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Two-minute version**: "I will put one item back in its proper place at 9 PM"
 
 **Why it works**:
+
 - One item takes 30 seconds
 - Often leads to putting away several items once started
 - Incremental improvement vs. overwhelming overhaul
 - Builds tidiness identity
 
 **What typically happens**:
+
 - Day 1-7: Put away one thing, sometimes more
 - Day 8-14: One item becomes 5-10 items naturally
 - Day 15-30: Brief tidy sessions become automatic
 - Day 30+: Home stays cleaner because habit prevents buildup
 
 **The win**:
+
 - Progress over perfection
 - Consistency creates cleaner environment over time
 - No overwhelm, just steady improvement
@@ -405,16 +456,19 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **The progression of skill development**:
 
 **Phase 1: Showing Up**
+
 - Focus: Presence, not performance
 - Goal: Establish consistency
 - Timeframe: First 2-4 weeks
 
 **Phase 2: Going Through the Motions**
+
 - Focus: Completing the routine, not excellence
 - Goal: Make behavior automatic
 - Timeframe: Weeks 4-12
 
 **Phase 3: Doing It Well**
+
 - Focus: Quality, refinement, optimization
 - Goal: Mastery and improvement
 - Timeframe: Month 3 onward
@@ -426,6 +480,7 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Primary objective**: Establish the habit of presence.
 
 **What success looks like**:
+
 - You show up at the designated time/place
 - You perform the two-minute version (minimum)
 - You do this consistently (ideally daily)
@@ -434,33 +489,39 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Examples**:
 
 **Running**:
+
 - Success: Put on shoes every day at 7 AM
 - Not required: Actually running, running far, running fast
 - Win: "I showed up" seven days in a row
 
 **Writing**:
+
 - Success: Open laptop and write one sentence daily
 - Not required: Good sentence, complete draft, specific word count
 - Win: "I wrote something" every day this week
 
 **Meditation**:
+
 - Success: Sit on cushion for 1 minute each morning
 - Not required: Perfect focus, mind emptiness, deep insight
 - Win: "I sat down" consistently
 
 **What to avoid in Phase 1**:
+
 - Judging quality of performance
 - Comparing to experts or ideal version
 - Skipping because "if I can't do it well, why bother"
 - Adding complexity or difficulty
 
 **Mantras for Phase 1**:
+
 - "Showing up is success"
 - "Presence over performance"
 - "Consistency over intensity"
 - "I'm building the habit of being someone who does this"
 
 **The identity shift**:
+
 - Not "I went for a run today" (activity focus)
 - But "I am a runner" (identity focus)
 - Showing up repeatedly builds identity regardless of performance
@@ -470,6 +531,7 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Primary objective**: Make the full routine automatic and consistent.
 
 **What success looks like**:
+
 - Behavior is becoming automatic
 - Less mental resistance to starting
 - Complete reasonable version of routine most times
@@ -478,39 +540,46 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Examples**:
 
 **Running**:
+
 - Success: Put on shoes, go outside, run/walk for 15-20 minutes consistently
 - Not required yet: Speed work, form perfection, training plan
 - Win: "I completed my run" without much thought
 
 **Writing**:
+
 - Success: Write 200-500 words most days on autopilot
 - Not required yet: Publication-quality prose, complete drafts
 - Win: "I wrote my daily amount" easily
 
 **Meditation**:
+
 - Success: Sit for 5-10 minutes, simple breath focus, regular practice
 - Not required yet: Advanced techniques, perfect concentration
 - Win: "I meditated" is normal part of my day
 
 **Natural progression in Phase 2**:
+
 - Two-minute version naturally expands
 - Doesn't feel forced to continue beyond minimum
 - Habit slot is carved out in your schedule
 - Identity is solidifying
 
 **What to avoid in Phase 2**:
+
 - Trying to be perfect at technique
 - Adding advanced variations
 - Comparing yourself to experts
 - Skipping the basics to jump to advanced
 
 **Mantras for Phase 2**:
+
 - "Completion is success"
 - "Automatic over optimal"
 - "Good enough is perfect for now"
 - "I'm building the routine, not breaking records"
 
 **The automaticity shift**:
+
 - From "I need to remember to do this" (conscious effort)
 - To "This is just what I do at this time" (automatic routine)
 
@@ -519,6 +588,7 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Primary objective**: Refine technique, increase quality, pursue excellence.
 
 **What success looks like**:
+
 - Habit is firmly established and automatic
 - Can now focus on quality without disrupting consistency
 - Natural desire to improve emerges
@@ -527,21 +597,25 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Examples**:
 
 **Running**:
+
 - Success: Habit is automatic, now can work on pace, distance, form
 - Focus: Training plans, speed work, proper technique
 - Win: "I'm getting faster/stronger" while maintaining consistency
 
 **Writing**:
+
 - Success: Writing daily is automatic, now can work on craft
 - Focus: Better word choice, structure, editing, style
 - Win: "My writing is improving" while maintaining daily practice
 
 **Meditation**:
+
 - Success: Daily practice automatic, now can explore depth
 - Focus: Advanced techniques, longer sits, deeper concentration
 - Win: "My practice is deepening" while maintaining routine
 
 **When you know you're ready for Phase 3**:
+
 - The habit feels easy and automatic
 - You rarely miss days
 - You're no longer using willpower to start
@@ -549,6 +623,7 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 - You're genuinely curious about improvement
 
 **What to explore in Phase 3**:
+
 - Advanced techniques and variations
 - Measurement and tracking of quality metrics
 - Learning from experts and courses
@@ -556,12 +631,14 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 - Setting performance goals
 
 **What to maintain from earlier phases**:
+
 - The two-minute entry point (still useful on hard days)
 - The identity of someone who shows up
 - Consistency over perfection
 - The joy of presence
 
 **Mantras for Phase 3**:
+
 - "Mastery emerges from consistent practice"
 - "I can pursue excellence because the habit is secure"
 - "Optimization is exciting because the foundation is solid"
@@ -572,17 +649,20 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **Common mistake**: Trying to do Phase 3 work in Phase 1.
 
 **What this looks like**:
+
 - Day 1 of running, trying to run perfect 5K with proper form
 - First day of meditation, attempting 60-minute advanced technique
 - First writing session, demanding publication-quality prose
 
 **Why this fails**:
+
 - Overwhelm leads to quitting
 - Perfectionism prevents starting
 - Can't maintain intensity required
 - Identity never forms because consistency never happens
 
 **The patient path**:
+
 - Weeks 1-4: Just show up (two-minute version)
 - Weeks 4-12: Complete basic routine automatically
 - Month 3+: Refine and optimize now that foundation is solid
@@ -604,24 +684,28 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 ### Why Standardization Must Come First
 
 **Reason 1: Cognitive load**
+
 - Building a new habit requires mental energy
 - Adding optimization adds even more cognitive load
 - Brain can't handle both at once effectively
 - Result: Neither habit formation nor optimization succeeds
 
 **Reason 2: You don't know what to optimize yet**
+
 - Need consistent data to identify what needs improvement
 - Can't tell what's working without repetition
 - Optimization targets emerge from practice, not theory
 - Premature optimization wastes effort on wrong things
 
 **Reason 3: Perfect is the enemy of good**
+
 - Waiting for perfect form prevents starting
 - Obsessing over optimization creates procrastination
 - "I'll start when I have the perfect plan" = never starting
 - Good enough, done consistently, beats perfect, never done
 
 **Reason 4: Identity formation needs repetition**
+
 - Identity comes from repeated behavior
 - Optimized but inconsistent behavior doesn't build identity
 - Consistent but imperfect behavior does build identity
@@ -630,26 +714,31 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 ### Examples of Standardize vs. Optimize
 
 **Running**:
+
 - **Standardize**: Put on shoes, go outside, run/walk 15 minutes, same time daily
 - **Optimize** (later): Perfect running form, interval training, heart rate zones, race training
 - **Sequence**: Months of consistent basic running, THEN add optimization
 
 **Writing**:
+
 - **Standardize**: Write 200 words daily, same time, same place
 - **Optimize** (later): Perfect prose, editing techniques, structure optimization, style development
 - **Sequence**: Months of consistent daily writing, THEN focus on quality
 
 **Meditation**:
+
 - **Standardize**: Sit on cushion, 5 minutes, breath awareness, daily
 - **Optimize** (later): Advanced techniques, body scanning, loving-kindness, retreats
 - **Sequence**: Months of simple daily practice, THEN explore advanced methods
 
 **Diet**:
+
 - **Standardize**: Eat vegetables with dinner, drink water in morning, consistent meal times
 - **Optimize** (later): Macro tracking, nutrient timing, supplementation, meal planning
 - **Sequence**: Months of basic healthy habits, THEN refine nutrition details
 
 **Productivity**:
+
 - **Standardize**: Write 3 priorities each morning, work on #1 first, consistent daily
 - **Optimize** (later): Time blocking, Pomodoro technique, productivity systems, tools
 - **Sequence**: Months of basic prioritization routine, THEN add sophisticated systems
@@ -657,6 +746,7 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 ### The Standardization Checklist
 
 **A habit is standardized when**:
+
 - [ ] You do it at consistent time/place
 - [ ] You rarely skip days (>80% completion rate)
 - [ ] It feels automatic, not forced
@@ -670,26 +760,31 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 ### How to Optimize After Standardization
 
 **Step 1: Assess current state**
+
 - What's working well?
 - What feels difficult or suboptimal?
 - Where are natural improvement opportunities?
 
 **Step 2: Choose ONE thing to optimize**
+
 - Not everything at once
 - Single variable to improve
 - Small adjustment to existing routine
 
 **Step 3: Test optimization for 2 weeks**
+
 - Make change, maintain consistency
 - Observe impact
 - Keep or discard based on results
 
 **Step 4: Repeat**
+
 - Once first optimization is integrated, choose next
 - Gradual improvement over time
 - Never sacrifice consistency for optimization
 
 **Example - Running optimization sequence**:
+
 - Months 1-3: Standardize basic routine (run 3x/week consistently)
 - Month 4: Optimize #1: Add 5 minutes to each run
 - Month 5: Optimize #2: Focus on maintaining steady breathing
@@ -702,6 +797,7 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **What happens when you optimize too early**:
 
 **Scenario**: Want to start running, immediately buy:
+
 - $200 running shoes
 - GPS watch
 - Heart rate monitor
@@ -710,6 +806,7 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 - Books on running form
 
 **Result**:
+
 - Overwhelmed by complexity
 - Pressure to "use all this stuff"
 - Expensive commitment creates performance anxiety
@@ -717,6 +814,7 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 - Quit, now have expensive gear collecting dust
 
 **Better approach**:
+
 - Weeks 1-4: Just put on any athletic shoes, go outside, move
 - Weeks 5-8: If still consistent, invest in decent running shoes
 - Months 3-6: If still running, add watch for data
@@ -740,6 +838,7 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **The psychological phenomenon**: The hardest part of any task is the first 30 seconds.
 
 **Why starting is difficult**:
+
 - Inertia: Objects at rest tend to stay at rest
 - Activation energy: All behaviors require initial energy input
 - Overthinking: Mind generates obstacles and excuses
@@ -750,11 +849,13 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 ### How Two-Minute Rule Removes the Barrier
 
 **Traditional approach to building habits**:
+
 - "I need to exercise for an hour"
 - Brain: "An hour? I'm tired. I don't have time. Maybe tomorrow."
 - Result: Don't start
 
 **Two-Minute approach**:
+
 - "I'm going to put on my running shoes"
 - Brain: "Um, okay, that's just putting on shoes. I can do that."
 - Result: Shoes on → Often leads to actual exercise
@@ -766,11 +867,13 @@ The Two-Minute Rule is one of the most effective strategies for building new hab
 **From chemistry**: Activation energy is the minimum energy needed to start a chemical reaction.
 
 **Applied to habits**:
+
 - Every behavior has an activation energy
 - Two-minute version radically lowers the activation energy
 - Once activated, behavior tends to continue
 
 **Visualization**:
+
 ```
 High Activation Energy: "Run 5 miles"
 Energy required: ████████░░ (very high, often not reached)
@@ -785,11 +888,13 @@ Often naturally continues to: "Walk outside" → "Start jogging" → "Run 2-3 mi
 ### Breaking the Overthinking Cycle
 
 **The paralysis of analysis**:
+
 - Want to exercise → Brain generates 20 questions
 - "What workout should I do? How long? What about form? Do I have the right gear? Is this the optimal time? What if I don't do it well?"
 - Overwhelmed → Don't start
 
 **The two-minute bypass**:
+
 - "Put on shoes" → No questions needed
 - Action happens before overthinking starts
 - Analysis can happen after momentum is established
@@ -799,11 +904,13 @@ Often naturally continues to: "Walk outside" → "Start jogging" → "Run 2-3 mi
 ### The Identity-Activation Effect
 
 **How identity works**:
+
 - Identity is formed through repeated evidence
 - Each action is a vote for the type of person you are
 - Small actions count just as much as large ones
 
 **Two-minute rule and identity**:
+
 - Every time you put on running shoes: "I am a runner"
 - Every time you open your book: "I am a reader"
 - Every time you sit to meditate: "I am someone who meditates"
@@ -811,6 +918,7 @@ Often naturally continues to: "Walk outside" → "Start jogging" → "Run 2-3 mi
 **Crucial point**: The vote counts even if you only do the two-minute version.
 
 **Example**:
+
 - Day 1: Put on shoes, walk to end of block, come back (5 minutes total)
 - Identity vote: "I am a runner" ✓
 - Day 2: Put on shoes, jog for 15 minutes
@@ -825,16 +933,19 @@ Often naturally continues to: "Walk outside" → "Start jogging" → "Run 2-3 mi
 **The beautiful thing about starting**: Once you've started, you have options.
 
 **Scenario 1**: Don't start
+
 - Options: Zero
 - Outcome: No progress
 
 **Scenario 2**: Start with two-minute version
+
 - Option A: Just do the two-minute version (still a win)
 - Option B: Continue to moderate version
 - Option C: Get into flow, do extended version
 - All three are successes
 
 **Example - Writing**:
+
 - Sit down, write one sentence
 - Option A: That's it for today (still counts, habit maintained)
 - Option B: Write for 10 minutes
@@ -847,12 +958,14 @@ Often naturally continues to: "Walk outside" → "Start jogging" → "Run 2-3 mi
 **Zeigarnik Effect**: Uncompleted tasks stay in mind more than completed ones.
 
 **Applied to two-minute rule**:
+
 - Start writing one sentence
 - Task is "open" in your mind
 - Brain wants to complete it
 - Naturally continue beyond one sentence
 
 **The psychological pull**:
+
 - Hard to stop once you've started
 - Momentum carries you forward
 - Completion desire drives continuation
@@ -864,12 +977,14 @@ Often naturally continues to: "Walk outside" → "Start jogging" → "Run 2-3 mi
 **The surprising finding**: Often, just starting is sufficient for the full behavior to occur.
 
 **Research insight** (Behavioral activation in depression treatment):
+
 - Getting depressed patients to just "start" activities
 - No pressure to enjoy or complete
 - Just initiate the first step
 - Result: Often completed activity and mood improved
 
 **Application to habits**:
+
 - Put on running shoes → 75% of time, actually run
 - Write one sentence → 60% of time, write for 20+ minutes
 - Open textbook → 70% of time, study for extended period
@@ -885,12 +1000,14 @@ Often naturally continues to: "Walk outside" → "Start jogging" → "Run 2-3 mi
 **Definition**: A specific, consistent action that marks the start of a behavior.
 
 **Characteristics**:
+
 - Same every time
 - Simple and quick (ideally ~2 minutes)
 - Signals to brain "this behavior is starting now"
 - Creates mental transition into behavior mode
 
 **Examples**:
+
 - Runner: Put on specific shoes, step outside, stretch for 30 seconds
 - Writer: Make tea, sit at desk, open laptop, create new document
 - Meditator: Light candle, sit on cushion, set timer
@@ -899,21 +1016,25 @@ Often naturally continues to: "Walk outside" → "Start jogging" → "Run 2-3 mi
 ### Why Rituals Build Momentum
 
 **Psychological priming**:
+
 - Ritual signals brain to shift into appropriate mode
 - Repeated ritual + behavior creates strong association
 - Eventually ritual itself triggers readiness state
 
 **Reduced decision fatigue**:
+
 - Ritual is pre-decided sequence
 - No choices to make
 - Brain conserves energy for actual task
 
 **State transition**:
+
 - Moves you from "regular life" to "behavior mode"
 - Creates clear boundary
 - Helps focus attention
 
 **Pavlovian conditioning**:
+
 - Ritual becomes conditioned stimulus
 - Behavior becomes conditioned response
 - Over time, ritual automatically triggers behavior
@@ -921,6 +1042,7 @@ Often naturally continues to: "Walk outside" → "Start jogging" → "Run 2-3 mi
 ### Examples of Effective Ritualized Beginnings
 
 **Writing ritual**:
+
 ```
 1. Set phone to Do Not Disturb (15 seconds)
 2. Make cup of coffee/tea (2 minutes)
@@ -932,6 +1054,7 @@ Total: ~3.5 minutes, highly consistent, signals "writing time"
 ```
 
 **Exercise ritual**:
+
 ```
 1. Change into workout clothes (1 minute)
 2. Fill water bottle (30 seconds)
@@ -942,6 +1065,7 @@ Total: ~3 minutes, same every time, body knows what's next
 ```
 
 **Deep work ritual**:
+
 ```
 1. Close all browser tabs (30 seconds)
 2. Put phone in drawer (15 seconds)
@@ -952,6 +1076,7 @@ Total: ~3 minutes, mind shifts to focus mode
 ```
 
 **Meditation ritual**:
+
 ```
 1. Light candle or incense (30 seconds)
 2. Sit on designated cushion (15 seconds)
@@ -966,21 +1091,25 @@ Total: ~2 minutes, mind settles into meditation
 **How ritualized beginnings create cascading momentum**:
 
 **Stage 1: Ritual initiation**
+
 - Begin first step of ritual
 - This is the two-minute version
 - Extremely low friction
 
 **Stage 2: Ritual completion**
+
 - Complete the pre-set sequence
 - No decisions, just follow ritual
 - Momentum is building
 
 **Stage 3: Transition to main behavior**
+
 - Ritual ends, main behavior begins
 - Transition is seamless
 - Already in motion, continuing is natural
 
 **Stage 4: Full engagement**
+
 - Main behavior in progress
 - Focus deepens
 - Time passes without conscious awareness
@@ -990,12 +1119,14 @@ Total: ~2 minutes, mind settles into meditation
 ### Personalizing Your Ritual
 
 **Questions to ask**:
+
 1. What simple actions help you mentally prepare for this behavior?
 2. What environment changes signal "this is happening now"?
 3. What can you do in under 3 minutes that's consistent every time?
 4. What helps you transition from regular state to ready state?
 
 **Elements to consider**:
+
 - Location change (moving to specific room/spot)
 - Physical preparation (changing clothes, gathering materials)
 - Environmental adjustment (lighting, temperature, noise)
@@ -1003,6 +1134,7 @@ Total: ~2 minutes, mind settles into meditation
 - Mental preparation (breathing, intention-setting, goal-stating)
 
 **Keep it simple**:
+
 - 3-5 steps maximum
 - Total time under 5 minutes
 - Same sequence every time
@@ -1011,12 +1143,14 @@ Total: ~2 minutes, mind settles into meditation
 ### The Power of Consistency in Rituals
 
 **Why sameness matters**:
+
 - Brain recognizes pattern immediately
 - Association strengthens with each repetition
 - Eventually ritual alone triggers readiness
 - Removes any remaining decision points
 
 **Example - Stephen King's writing ritual**:
+
 - Same time every morning
 - Same desk, same chair
 - Specific music on at specific volume
@@ -1032,12 +1166,14 @@ Total: ~2 minutes, mind settles into meditation
 **Special use case**: When habit is challenging or unenjoyable.
 
 **The ritual provides**:
+
 - Positive/neutral entry point to negative task
 - Momentum that carries through difficult start
 - Mental preparation for challenge
 - Sense of control and agency
 
 **Example - Difficult study session**:
+
 ```
 Ritual:
 1. Make favorite tea
@@ -1056,6 +1192,7 @@ Result: The ritual creates pleasant approach to unpleasant task, momentum to pus
 ### When to Scale Up
 
 **Signs the habit is established and ready for scaling**:
+
 - Performing it >80% of days consistently
 - Feels automatic, not forced
 - Using minimal willpower to initiate
@@ -1064,6 +1201,7 @@ Result: The ritual creates pleasant approach to unpleasant task, momentum to pus
 - You're genuinely ready for more, not forcing it
 
 **Signs it's NOT ready for scaling yet**:
+
 - Still skipping frequently
 - Requires significant effort to start
 - Have only been doing it a few weeks
@@ -1077,12 +1215,14 @@ Result: The ritual creates pleasant approach to unpleasant task, momentum to pus
 **Principle**: Increase in small increments, maintaining consistency.
 
 **The strategy**:
+
 1. Master current level completely
 2. Increase by smallest meaningful amount
 3. Maintain new level for 2-4 weeks
 4. Repeat
 
 **Example - Running progression**:
+
 - Weeks 1-4: Put on shoes, walk/jog 10 minutes, 3x/week
 - Weeks 5-8: Increase to 15 minutes, 3x/week (maintain)
 - Weeks 9-12: Increase to 20 minutes, 3x/week (maintain)
@@ -1097,20 +1237,24 @@ Result: The ritual creates pleasant approach to unpleasant task, momentum to pus
 **You can scale different aspects of the habit**:
 
 **Duration**:
+
 - Read 1 page → 5 pages → 1 chapter → 20 minutes
 - Meditate 1 minute → 5 minutes → 10 minutes → 20 minutes
 - Write 1 sentence → 100 words → 500 words → 30 minutes
 
 **Frequency**:
+
 - Exercise 2x/week → 3x/week → 4x/week → 5x/week
 - Call family 1x/month → 2x/month → 1x/week
 
 **Intensity**:
+
 - Walk → Walk/jog → Jog → Run
 - Bodyweight exercises → Resistance bands → Dumbbells → Barbell
 - Practice scales → Practice simple songs → Practice complex pieces
 
 **Scope**:
+
 - Clean one room → Clean two rooms → Clean whole house
 - Declutter 1 item/day → 5 items/day → 10 items/day
 - Learn 1 word/day → 5 words/day → 10 words/day
@@ -1120,22 +1264,27 @@ Result: The ritual creates pleasant approach to unpleasant task, momentum to pus
 ### The Scaling Decision Tree
 
 **Question 1**: Has current level been consistent for 2+ weeks?
+
 - If NO: Maintain current level longer
 - If YES: Proceed to Question 2
 
 **Question 2**: Does current level feel easy/automatic?
+
 - If NO: Maintain current level until it does
 - If YES: Proceed to Question 3
 
 **Question 3**: Am I genuinely wanting to do more?
+
 - If NO: Stay at current level (this is fine!)
 - If YES: Proceed to scaling
 
 **Question 4**: Which dimension makes most sense to scale?
+
 - Choose ONE: duration, frequency, intensity, or scope
 - Make smallest meaningful increase
 
 **Question 5**: After increasing, am I maintaining consistency?
+
 - If NO: Scale back to previous level
 - If YES: Maintain new level for 2-4 weeks, then repeat process
 
@@ -1144,16 +1293,19 @@ Result: The ritual creates pleasant approach to unpleasant task, momentum to pus
 **Principle**: When scaling up, you're more vulnerable to breaking the habit. Use the "never miss twice" rule.
 
 **The rule**:
+
 - Missing once is normal (life happens)
 - Missing twice is the start of a pattern
 - Never allow two consecutive misses
 
 **Application during scaling**:
+
 - Scaled up too much and missed a day? Fine.
 - Next day: Get back on track, even if just the two-minute version
 - This prevents scaling attempt from derailing entire habit
 
 **Example**:
+
 - Increased meditation to 15 minutes
 - Too long, missed yesterday
 - Today: Do 5 minutes (original level) to maintain streak
@@ -1165,6 +1317,7 @@ Result: The ritual creates pleasant approach to unpleasant task, momentum to pus
 **Critical insight**: Even after scaling up, always allow yourself the two-minute version.
 
 **Why this matters**:
+
 - Some days are harder than others
 - Life happens, stress varies
 - Having the minimum option prevents all-or-nothing thinking
@@ -1184,18 +1337,21 @@ Result: The ritual creates pleasant approach to unpleasant task, momentum to pus
 ### Natural vs. Forced Scaling
 
 **Natural scaling** (ideal):
+
 - Happens organically
 - Two minutes naturally expands
 - You want to do more
 - Feels easy and exciting
 
 **Forced scaling** (avoid):
+
 - "Should" language ("I should be doing more by now")
 - Comparing to others
 - External pressure
 - Feels like obligation
 
 **How to tell the difference**:
+
 - Natural: "I found myself doing more without planning to"
 - Forced: "I'm making myself do more because I think I should"
 
@@ -1224,11 +1380,13 @@ Result: The ritual creates pleasant approach to unpleasant task, momentum to pus
 ### For LLM Coaching Applications
 
 **When user presents a habit goal, always ask**:
+
 1. "What's the two-minute version of this habit?"
 2. If they give something that takes longer than 2 minutes: "Can we make this even smaller?"
 3. Keep asking until you reach genuinely 2-minute (or less) version
 
 **Conversation flow example**:
+
 ```
 User: "I want to exercise every day"
 LLM: "Great goal! What's the two-minute version of exercising?"
@@ -1241,6 +1399,7 @@ LLM: "Perfect! So your habit is: 'Put on workout clothes at [TIME] every day.' T
 ### Pattern Recognition
 
 **Identify when user needs two-minute rule**:
+
 - Mentions feeling overwhelmed by habit goal
 - Has tried and failed before
 - Setting unrealistically large initial goal
@@ -1266,16 +1425,19 @@ LLM: "Perfect! So your habit is: 'Put on workout clothes at [TIME] every day.' T
 ### Guiding Users Through the Three Phases
 
 **Phase 1 coaching (Weeks 1-4)**:
+
 - "Your only job right now is to show up. Did you do the two-minute version today? Yes? Perfect. That's success."
 - "Don't worry about how long you meditated or how well. Did you sit on the cushion? That's what counts right now."
 - "Seven days in a row of putting on your running shoes. This is exactly the foundation we need."
 
 **Phase 2 coaching (Weeks 4-12)**:
+
 - "I notice you're naturally doing more than two minutes now. That's great! But don't feel pressure to do more every time. The two-minute version is always available."
 - "The habit is becoming automatic, which is exactly what we want. Quality can come later."
 - "You've shown up for 45 days straight. Your identity is shifting. You're becoming someone who does this."
 
 **Phase 3 coaching (Month 3+)**:
+
 - "The habit is solid now. You rarely skip days. Ready to think about optimization?"
 - "What one aspect of this habit would you like to improve? Remember, just one thing at a time."
 - "Let's scale up slowly. Instead of 10 minutes, try 12 minutes for the next two weeks. See how that feels."
@@ -1283,6 +1445,7 @@ LLM: "Perfect! So your habit is: 'Put on workout clothes at [TIME] every day.' T
 ### Generating Personalized Two-Minute Versions
 
 **Template questions**:
+
 1. "What's the very first physical step of [habit]?"
 2. "What's the absolute minimum that would count as showing up?"
 3. "What could you do in 90 seconds that would start this behavior?"
@@ -1308,11 +1471,13 @@ LLM: "Perfect! So your habit is: 'Put on workout clothes at [TIME] every day.' T
 ### Tracking and Celebrating Two-Minute Wins
 
 **Help user track differently in Phase 1**:
+
 - Don't track duration, quality, or performance
 - Only track: "Did you show up? Yes/No"
 - Celebrate every yes equally
 
 **Reframe success metrics**:
+
 ```
 User: "I only wrote one sentence today, I didn't accomplish anything"
 LLM: "Actually, you accomplished exactly what you set out to do: you showed up and wrote. That's the habit you're building. The sentence count will grow naturally, but right now, showing up IS the accomplishment."
@@ -1323,33 +1488,39 @@ LLM: "Actually, you accomplished exactly what you set out to do: you showed up a
 **User has been doing two-minute version for months but not naturally expanding**:
 
 **Diagnosis questions**:
+
 1. "Are you truly showing up consistently (>80% of days)?"
 2. "Does the two-minute version feel automatic and easy?"
 3. "Do you feel genuine desire to do more, or do you think you should?"
 
 **If genuinely ready but not expanding**:
+
 - "Let's intentionally scale up slightly. Try the 5-minute version for two weeks."
 - "Give yourself explicit permission to do more. Maybe you're subconsciously capping yourself at the minimum."
 
 **If not actually ready**:
+
 - "It's okay to stay at the two-minute version longer. There's no timeline you need to follow."
 - "Maybe this level is right for your life right now. That's perfectly valid."
 
 ### Integrating with Other Strategies
 
 **Two-minute rule + Implementation intentions**:
+
 ```
 "I will [TWO-MINUTE VERSION] at [TIME] in [LOCATION]"
 Example: "I will read one page at 9 PM in bed"
 ```
 
 **Two-minute rule + Habit stacking**:
+
 ```
 "After [EXISTING HABIT], I will [TWO-MINUTE VERSION]"
 Example: "After I brush my teeth, I will floss one tooth"
 ```
 
 **Two-minute rule + Environment design**:
+
 ```
 "I will make the two-minute version as easy as possible by [ENVIRONMENTAL CHANGE]"
 Example: "I will put my running shoes right next to my bed so putting them on is effortless"
@@ -1358,6 +1529,7 @@ Example: "I will put my running shoes right next to my bed so putting them on is
 ### Meta-Learning: Teaching the Principle
 
 **Help users internalize the strategy**:
+
 ```
 LLM: "You've now successfully built three habits using the two-minute rule. Notice the pattern?
 
@@ -1372,6 +1544,7 @@ This is a strategy you can use for any habit going forward. You're learning how 
 ### Advanced Application: Breaking Existing Habits
 
 **Two-minute rule for stopping bad habits**:
+
 ```
 User: "I want to stop scrolling social media for hours"
 LLM: "Let's use a modified two-minute rule. When you feel the urge to scroll, commit to doing something else for just two minutes first.
@@ -1380,4 +1553,3 @@ Example: 'When I want to check Instagram, I will read for 2 minutes first.'
 
 Often, the two minutes will satisfy the urge, or redirect you entirely. And if you still want to scroll after two minutes, you can—but you've at least added a two-minute pause and alternative behavior."
 ```
-

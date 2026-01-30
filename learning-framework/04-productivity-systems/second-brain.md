@@ -4,11 +4,12 @@
 
 A **Second Brain** is an external, digital repository where you capture, organize, and retrieve everything you learn, think, and discover.
 
-**Coined by:** Tiago Forte in his book *Building a Second Brain*
+**Coined by:** Tiago Forte in his book _Building a Second Brain_
 
 **Core concept:** Your biological brain is for THINKING and CREATING, not for STORING. Move storage to an external system.
 
 **Analogy:**
+
 - **First brain (biological):** The processor, RAM (working memory)
 - **Second brain (digital):** The hard drive (long-term storage)
 
@@ -19,15 +20,18 @@ A **Second Brain** is an external, digital repository where you capture, organiz
 ## The Information Overload Problem
 
 **The data:**
+
 - We consume approximately **174 newspapers worth of information** every single day
 - This includes: social media, news, emails, lectures, textbooks, videos, conversations, articles
 
 **The reality:**
+
 - You cannot remember it all
 - You shouldn't TRY to remember it all
 - Without a system, 99% of what you consume is lost within days
 
 **What happens without a Second Brain:**
+
 1. **Brain overload:** Constant anxiety about forgetting something important
 2. **Lost insights:** "I read something about this last month, but where was it?"
 3. **Repeated effort:** Re-learning the same things because you didn't capture them
@@ -43,11 +47,13 @@ A **Second Brain** is an external, digital repository where you capture, organiz
 ### The Myth: "I'll Just Remember It"
 
 **The trap:**
+
 - "This lecture is interesting, I'll remember the key points"
 - "I don't need to write that down, it's obvious"
 - "I'll just look it up again if I need it"
 
 **The reality:**
+
 - **You will forget** (the forgetting curve is brutal—70% forgotten within 24 hours without active review)
 - **It wasn't obvious** (you thought it was obvious because you understood it IN THE MOMENT, but that understanding fades)
 - **You won't find it again** (you'll remember something existed but not where)
@@ -57,10 +63,12 @@ A **Second Brain** is an external, digital repository where you capture, organiz
 ### The Limits of Human Memory
 
 **Your biological brain is:**
+
 - **Excellent at:** Pattern recognition, creativity, making connections, thinking
 - **Terrible at:** Verbatim storage, precise recall, organizing information, retrieval on demand
 
 **Examples of what your brain is bad at:**
+
 - Remembering exactly what page that quote was on
 - Recalling the specific date of a historical event
 - Listing all 14 steps of glycolysis in order (without recent practice)
@@ -75,6 +83,7 @@ A **Second Brain** is an external, digital repository where you capture, organiz
 ### 1. Multi-Format Capture: Save Anything, Anywhere
 
 **Your Second Brain can store:**
+
 - **Text:** Notes from lectures, highlights from reading, ideas you have
 - **Audio:** Voice memos, lecture recordings, podcast clips
 - **Images:** Diagrams, screenshots, infographics, photos of whiteboards
@@ -86,11 +95,13 @@ A **Second Brain** is an external, digital repository where you capture, organiz
 You're in a biology lecture. The professor explains the Krebs cycle and draws a complex diagram.
 
 **Without a Second Brain:**
+
 - Take frantic notes, miss parts of the explanation
 - Try to redraw the diagram (poorly) in your notebook
 - Forget the context by the time you review
 
 **With a Second Brain:**
+
 1. Take a photo of the diagram (image captured)
 2. Type key points professor says (text captured)
 3. Record a 2-minute voice memo of the explanation (audio captured)
@@ -104,11 +115,13 @@ You're in a biology lecture. The professor explains the Krebs cycle and draws a 
 ### 2. Robust Organization and Retrieval: Find Anything Instantly
 
 **The problem with physical notebooks:**
+
 - Information is linear (trapped in chronological order)
 - Searching is slow (flip through pages hoping to find it)
 - Related information is scattered across multiple notebooks
 
 **The problem with folders on your computer:**
+
 - Rigid hierarchy (a note can only be in ONE folder)
 - If you organize by course, you can't find notes by topic across courses
 - If you organize by topic, you can't find notes by date
@@ -116,16 +129,19 @@ You're in a biology lecture. The professor explains the Krebs cycle and draws a 
 **The Second Brain solution: Tags, links, and search**
 
 **Tags (multiple categories):**
+
 - A single note can have many tags: `#biology`, `#krebs-cycle`, `#metabolism`, `#exam-prep`
 - Search by tag to find all related notes instantly
 - No forced choice between organizational systems
 
 **Links (connected knowledge):**
+
 - Link notes to each other: "Krebs cycle note" links to "Cellular respiration overview note"
 - Create a web of knowledge instead of isolated silos
 - Discover connections you didn't consciously make
 
 **Search (full-text instant retrieval):**
+
 - Type "Krebs cycle" → find every note mentioning it
 - Search is near-instant across thousands of notes
 - Includes text INSIDE images (OCR) in advanced tools
@@ -134,12 +150,14 @@ You're in a biology lecture. The professor explains the Krebs cycle and draws a 
 You're writing an essay on metabolism. You vaguely remember reading something relevant months ago.
 
 **Without a Second Brain:**
+
 - Spend 30 minutes flipping through notebooks
 - Check your computer's Downloads folder (nothing)
 - Google it again (find different article, not the one you remembered)
 - Give up, waste time re-researching
 
 **With a Second Brain:**
+
 - Search "metabolism" in your Second Brain
 - Instantly see all notes, highlights, and links related to metabolism
 - Find the original source in 15 seconds
@@ -155,6 +173,7 @@ You're writing an essay on metabolism. You vaguely remember reading something re
 
 **How it works:**
 As you add more information to your Second Brain, patterns emerge:
+
 - You notice two different courses covering related concepts
 - An idea from a psychology class connects to something in your history class
 - A personal experience suddenly makes a textbook concept click
@@ -164,16 +183,19 @@ As you add more information to your Second Brain, patterns emerge:
 You're a psychology major, also taking a philosophy elective.
 
 **Notes in your Second Brain:**
+
 - **Psych note (3 months ago):** "Cognitive biases affect decision-making—confirmation bias makes us seek info that confirms existing beliefs"
 - **Philosophy note (yesterday):** "Epistemology—how do we know what we know? Are our beliefs justified?"
 
 **While reviewing for philosophy exam:**
+
 - Your Second Brain shows both notes when you search "beliefs"
 - You realize: confirmation bias is a practical example of an epistemological problem
 - You write a better essay connecting psychological research to philosophical questions
 - Your professor is impressed by the interdisciplinary connection
 
 **Without a Second Brain:**
+
 - The two notes would have stayed in separate notebooks
 - You'd never have made the connection
 - Your understanding would be shallower
@@ -191,6 +213,7 @@ You're a psychology major, also taking a philosophy elective.
 **What it is:** All-in-one workspace with databases, notes, calendars, and more
 
 **Pros:**
+
 - **Free for students** (generous free plan)
 - **Flexible:** Can be simple or complex as you need
 - **Beautiful interface:** Visually appealing, pleasant to use
@@ -200,6 +223,7 @@ You're a psychology major, also taking a philosophy elective.
 - **Collaboration:** Share notes with study groups
 
 **Cons:**
+
 - Can be overwhelming at first (lots of features)
 - Requires internet for full functionality (has offline mode but limited)
 - Search is good but not as fast as some specialized tools
@@ -207,6 +231,7 @@ You're a psychology major, also taking a philosophy elective.
 **Best for:** Students who want an all-in-one system for notes, tasks, calendars, and knowledge management
 
 **How to use as Second Brain:**
+
 1. Create a "Knowledge Base" database
 2. Each note is an entry with tags (course, topic, type)
 3. Link related notes together
@@ -220,6 +245,7 @@ You're a psychology major, also taking a philosophy elective.
 **What it is:** Note-taking app designed for capturing and organizing everything
 
 **Pros:**
+
 - **Powerful capture:** Web clipper, email to Evernote, mobile app quick capture
 - **Excellent search:** Finds text INSIDE images and PDFs (OCR)
 - **Notebooks and tags:** Flexible organization
@@ -227,6 +253,7 @@ You're a psychology major, also taking a philosophy elective.
 - **Simple interface:** Easier learning curve than Notion
 
 **Cons:**
+
 - Free plan is limited (2 devices only)
 - Less flexible than Notion (can't create databases)
 - Interface feels dated compared to newer tools
@@ -240,6 +267,7 @@ You're a psychology major, also taking a philosophy elective.
 **What it is:** Markdown-based note-taking app with powerful linking and graph view
 
 **Pros:**
+
 - **Free** (for personal use)
 - **Offline-first:** Notes are stored locally as plain text files (you own your data)
 - **Bidirectional linking:** Create a web of connected notes
@@ -249,6 +277,7 @@ You're a psychology major, also taking a philosophy elective.
 - **Future-proof:** Plain text files will never become obsolete
 
 **Cons:**
+
 - Steeper learning curve (Markdown syntax, file-based system)
 - Less visual than Notion (no images embedded inline by default)
 - Mobile app is less polished
@@ -263,6 +292,7 @@ You're a psychology major, also taking a philosophy elective.
 **What it is:** Note-taking tool designed for bidirectional linking and emergent connections
 
 **Pros:**
+
 - **Daily notes:** Encourages daily capture
 - **Automatic backlinks:** Every time you link to a note, it links back
 - **Block-level references:** Link to specific paragraphs, not just whole notes
@@ -270,6 +300,7 @@ You're a psychology major, also taking a philosophy elective.
 - **Network effects:** Connections emerge naturally as you write
 
 **Cons:**
+
 - **Expensive:** $15/month (no free plan)
 - **Less intuitive:** Different mental model than traditional notes
 - **Performance issues:** Can slow down with very large databases
@@ -283,12 +314,14 @@ You're a psychology major, also taking a philosophy elective.
 **What they are:** Simple, built-in note apps
 
 **Pros:**
+
 - **Free**
 - **Already on your device** (no new app to learn)
 - **Fast and simple**
 - **Good for quick capture**
 
 **Cons:**
+
 - **Limited organization:** Folders only, no tags (or very basic tags)
 - **Weak search** (compared to dedicated tools)
 - **No linking between notes**
@@ -324,6 +357,7 @@ You're a psychology major, also taking a philosophy elective.
 ### What to Capture
 
 **In lectures:**
+
 - Key concepts explained by the professor
 - Examples and analogies used
 - Questions asked by other students (often reveal important points)
@@ -331,6 +365,7 @@ You're a psychology major, also taking a philosophy elective.
 - Connections the professor makes between topics
 
 **From reading (textbooks, articles, papers):**
+
 - Definitions of important terms
 - Surprising facts or statistics
 - Arguments and evidence
@@ -338,17 +373,20 @@ You're a psychology major, also taking a philosophy elective.
 - Quotes you might use later (with page number for citation)
 
 **From videos (YouTube, documentaries, online courses):**
+
 - Timestamp of important moments
 - Key takeaways (summarize in your own words)
 - Links to related resources mentioned
 
 **From conversations (professors, study groups, peers):**
+
 - Insights that clarify your understanding
 - Different perspectives on material
 - Study tips and exam advice
 - Recommended resources
 
 **From your own thinking:**
+
 - Connections you notice between topics
 - Questions you want to explore
 - Ideas for essays or projects
@@ -363,20 +401,24 @@ You're a psychology major, also taking a philosophy elective.
 **The faster you can capture, the more you will capture.**
 
 **Mobile quick capture:**
+
 - Use your phone's note app, send to Second Brain later
 - Voice memos for ideas while walking/driving
 - Camera for diagrams, whiteboards, book pages
 
 **Browser extensions:**
+
 - Notion Web Clipper: Save articles directly to Notion
 - Evernote Web Clipper: Save with highlights and tags
 - Obsidian bookmark: Quick save to read later
 
 **Keyboard shortcuts:**
+
 - Set up global shortcut to open your Second Brain instantly
 - Quick capture templates (one-click to create a note with pre-filled structure)
 
 **Email to your Second Brain:**
+
 - Notion, Evernote, and others have email addresses you can send to
 - Forward interesting emails, voice memos, quick thoughts
 
@@ -389,6 +431,7 @@ You're a psychology major, also taking a philosophy elective.
 **The PARA method (by Tiago Forte) is the most popular system for organizing a Second Brain.**
 
 **PARA stands for:**
+
 1. **Projects** (short-term efforts with a deadline)
 2. **Areas** (ongoing responsibilities)
 3. **Resources** (topics of interest)
@@ -401,12 +444,14 @@ You're a psychology major, also taking a philosophy elective.
 **Definition:** A series of tasks with a specific goal and deadline.
 
 **Examples for students:**
+
 - "Essay for English 101 (due Oct 15)"
 - "Chemistry midterm prep (exam Oct 20)"
 - "Group presentation on climate change (due Nov 3)"
 - "Job application materials (applying by Dec 1)"
 
 **What goes here:**
+
 - All notes related to this specific project
 - Research, outlines, drafts
 - To-dos and next actions
@@ -421,6 +466,7 @@ You're a psychology major, also taking a philosophy elective.
 **Definition:** Spheres of activity with no end date, but standards to maintain.
 
 **Examples for students:**
+
 - "Health & Fitness" (ongoing responsibility)
 - "Finances" (always need to manage)
 - "Career development" (continuous throughout life)
@@ -428,6 +474,7 @@ You're a psychology major, also taking a philosophy elective.
 - "Each of your courses" (ongoing throughout semester, even though individual projects within them end)
 
 **What goes here:**
+
 - General notes not tied to a specific project
 - Reference material you'll use repeatedly
 - Standards and goals for this area
@@ -442,6 +489,7 @@ You're a psychology major, also taking a philosophy elective.
 **Definition:** Topics you're interested in or might use someday, but not active projects or responsibilities.
 
 **Examples for students:**
+
 - "Neuroscience" (you're curious, not studying it this semester)
 - "Productivity systems" (you read about them, collect tips)
 - "Historical events" (interesting but not for a specific class right now)
@@ -449,6 +497,7 @@ You're a psychology major, also taking a philosophy elective.
 - "Travel ideas" (someday plans)
 
 **What goes here:**
+
 - Articles you've saved
 - Book highlights
 - Ideas and inspirations
@@ -463,11 +512,13 @@ You're a psychology major, also taking a philosophy elective.
 **Definition:** Projects that are complete, areas you're no longer responsible for, or resources no longer relevant.
 
 **Examples:**
+
 - "Essay for English 101" (DONE, submitted, graded → move to Archive)
 - "Spring 2024 courses" (semester ended → move to Archive)
 - "Old job applications" (no longer relevant)
 
 **Why archive instead of delete:**
+
 - You might need to reference it later
 - It's part of your knowledge history
 - Future you might find connections
@@ -508,6 +559,7 @@ ARCHIVE
 ```
 
 **How it works:**
+
 - **Today:** You're working on your essay (Project). You go to that project folder, all notes are there.
 - **Next week:** You need to reference something from Biology class. It's in Areas > Biology 201.
 - **Someday:** You're reading an interesting article about neuroscience. Save it in Resources > Cognitive Science.
@@ -524,6 +576,7 @@ ARCHIVE
 **Scenario (from Tiago Forte):**
 
 You're a junior in college. Throughout your years, you've captured notes on:
+
 - How to choose classes
 - How to study effectively
 - How to balance work and social life
@@ -534,12 +587,14 @@ You're a junior in college. Throughout your years, you've captured notes on:
 Your younger cousin is starting college and asks for advice.
 
 **Without a Second Brain:**
+
 - You try to remember what you did
 - Give vague advice: "Study hard, manage your time"
 - Miss important details
 - Can't point them to specific resources
 
 **With a Second Brain:**
+
 - Search your Second Brain for "college advice," "study tips," "freshman year"
 - Find all your notes, reflections, and resources
 - Create a comprehensive guide for your cousin in 30 minutes
@@ -577,6 +632,7 @@ Your younger cousin is starting college and asks for advice.
 **Goal:** Build the capture habit.
 
 **Actions:**
+
 1. Choose ONE tool (recommend Notion for most students)
 2. Set it up on your phone and computer
 3. For one week, capture ANYTHING that seems interesting:
@@ -596,6 +652,7 @@ Your younger cousin is starting college and asks for advice.
 **Goal:** Create structure.
 
 **Actions:**
+
 1. Create four main categories: Projects, Areas, Resources, Archive
 2. Move your Week 1 captures into appropriate categories
 3. Continue capturing new information
@@ -610,6 +667,7 @@ Your younger cousin is starting college and asks for advice.
 **Goal:** Build connections.
 
 **Actions:**
+
 1. When you create a new note, ask: "What does this relate to?"
 2. Link to related notes
 3. Add tags that connect across categories
@@ -624,6 +682,7 @@ Your younger cousin is starting college and asks for advice.
 **Goal:** Integrate into your daily workflow.
 
 **Actions:**
+
 1. **Daily:** Quick capture throughout the day (5 min per capture)
 2. **Weekly:** Organize and link new captures (30 min on Sunday)
 3. **Monthly:** Review and refine your system (1 hour)
@@ -637,11 +696,13 @@ Your younger cousin is starting college and asks for advice.
 ### Mistake 1: Capturing Everything Without Filtering
 
 **The trap:**
+
 - "I'll save EVERYTHING just in case"
 - Overwhelm yourself with low-value information
 - Can't find the signal in the noise
 
 **The fix:**
+
 - **Capture selectively:** Only what's interesting, useful, or surprising
 - **Ask:** "Will future me actually use this?"
 - **Better to under-capture early** and expand later than drown in clutter
@@ -651,11 +712,13 @@ Your younger cousin is starting college and asks for advice.
 ### Mistake 2: Over-Organizing Before Capturing
 
 **The trap:**
+
 - "I need to create the perfect folder structure before I start"
 - Spend hours designing the system
 - Never actually capture anything
 
 **The fix:**
+
 - **Capture first, organize later**
 - Start messy, refine over time
 - The system emerges from use, it's not designed in advance
@@ -665,11 +728,13 @@ Your younger cousin is starting college and asks for advice.
 ### Mistake 3: Never Reviewing or Using the Second Brain
 
 **The trap:**
+
 - Capture lots of information
 - Never look at it again
 - Second Brain becomes a graveyard
 
 **The fix:**
+
 - **Schedule weekly reviews:** Spend 20-30 min reviewing recent captures
 - **Use it actively:** When writing essays, search your Second Brain FIRST
 - **Link new to old:** Every new note should connect to at least one existing note
@@ -679,11 +744,13 @@ Your younger cousin is starting college and asks for advice.
 ### Mistake 4: Switching Tools Constantly
 
 **The trap:**
+
 - "Notion isn't perfect, let me try Obsidian"
 - "Actually Roam looks better"
 - Spend more time migrating than capturing
 
 **The fix:**
+
 - **Choose one tool, commit for at least 3 months**
 - No tool is perfect; what matters is USING it
 - Switching tools is costly (time and lost context)
@@ -693,11 +760,13 @@ Your younger cousin is starting college and asks for advice.
 ### Mistake 5: Treating It Like a Digital Hoarder's Paradise
 
 **The trap:**
+
 - Save every article you come across (but never read them)
 - Capture quotes without context
 - Accumulate without synthesizing
 
 **The fix:**
+
 - **Capture with purpose:** Add a sentence about WHY you saved this
 - **Summarize in your own words:** Don't just copy-paste
 - **Delete ruthlessly:** If you realize something isn't useful, remove it
@@ -706,13 +775,14 @@ Your younger cousin is starting college and asks for advice.
 
 ## LLM-ACTIONABLE-INSIGHTS: Second Brain Setup
 
-*This section provides structured prompts for AI assistants to help students build and optimize their Second Brain.*
+_This section provides structured prompts for AI assistants to help students build and optimize their Second Brain._
 
 ---
 
 ### PROMPT 1: Choose the Right Tool for My Needs
 
 **LLM prompt**:
+
 ```
 Help me choose a Second Brain tool.
 
@@ -744,6 +814,7 @@ Recommend:
 ### PROMPT 2: Set Up My PARA System
 
 **LLM prompt**:
+
 ```
 I'm using [tool name: Notion, Obsidian, etc.] and want to set up PARA.
 
@@ -772,6 +843,7 @@ Provide copy-paste-ready folder/database structure.
 ### PROMPT 3: Design My Capture Workflow
 
 **LLM prompt**:
+
 ```
 I want to build a consistent capture habit.
 
@@ -804,6 +876,7 @@ Make it as frictionless as possible so I actually do it.
 ### PROMPT 4: Organize My Existing Notes
 
 **LLM prompt**:
+
 ```
 I have a mess of existing notes I want to migrate to a Second Brain.
 
@@ -832,6 +905,7 @@ I don't want to spend weeks on this—prioritize what matters most.
 ### PROMPT 5: Build Effective Note Templates
 
 **LLM prompt**:
+
 ```
 I want templates for different types of notes to speed up capture.
 
@@ -858,6 +932,7 @@ Make templates detailed enough to be useful but quick to fill out.
 ### PROMPT 6: Design My Review and Maintenance System
 
 **LLM prompt**:
+
 ```
 I'm capturing lots of information but never reviewing it. Help me design a review system.
 
@@ -888,6 +963,7 @@ Make it sustainable—I don't have hours per day for this.
 ### PROMPT 7: Find Connections in My Existing Notes
 
 **LLM prompt**:
+
 ```
 I have a Second Brain with [X number] of notes. Help me discover connections.
 
@@ -912,6 +988,7 @@ I want to move beyond just storing notes to actually THINKING with my Second Bra
 ### PROMPT 8: Optimize for My Specific Learning Goal
 
 **LLM prompt**:
+
 ```
 I'm using my Second Brain primarily for: [specific goal: exam prep, research paper writing, building expertise in X, etc.]
 
@@ -975,6 +1052,7 @@ WHEN IN DOUBT: Capture it. Better to over-capture early and refine later than mi
 **LLM can suggest combinations**:
 
 **Second Brain + Active Recall**:
+
 ```
 Use Second Brain to store questions for active recall:
 - After reading/lecture: Create "Questions" note in Second Brain
@@ -983,6 +1061,7 @@ Use Second Brain to store questions for active recall:
 ```
 
 **Second Brain + Spaced Repetition**:
+
 ```
 Tag notes with review dates:
 - Capture new info → Tag with "Review in 1 week"
@@ -991,6 +1070,7 @@ Tag notes with review dates:
 ```
 
 **Second Brain + Feynman Technique**:
+
 ```
 Write simple explanations in Second Brain:
 - After learning concept: Create note explaining it simply
@@ -999,6 +1079,7 @@ Write simple explanations in Second Brain:
 ```
 
 **Second Brain + Interleaving**:
+
 ```
 Use tags to interleave subjects:
 - Weekly review: Pull notes from multiple courses (same tag: "exam-prep")
@@ -1007,6 +1088,7 @@ Use tags to interleave subjects:
 ```
 
 **Second Brain + Time-Blocking**:
+
 ```
 Schedule capture and review sessions:
 - Daily 5pm: Capture today's learnings
@@ -1030,4 +1112,3 @@ When helping students build a Second Brain:
 8. **Use it actively** - search Second Brain FIRST when writing/researching
 9. **Be patient** - value compounds over time (months/years)
 10. **Make it personal** - add your own thoughts, don't just copy-paste
-
